@@ -1,0 +1,96 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cards</title>
+</head>
+
+<body>
+
+
+
+    <div class="container">
+        <div class="heading">
+            Course List
+        </div>
+
+        <!--
+    <div>
+        <ol>
+
+            <li>
+              <button mat-raised-button (click)="openDialog()">Pick one</button>
+            </li>
+
+          </ol>
+
+    </div>-->
+  <div class="centering">
+    <mat-form-field class="example-form-field" appearance="fill">
+        <mat-label>Clearable input</mat-label>
+        <input matInput type="text" [(ngModel)]="courseFilter">
+      </mat-form-field>
+
+      <button id="basic" type="button" mat-button (click)="clicked()">
+        Click me!
+      </button>
+  </div>
+
+
+        <div class="cLevel" *ngFor="let cL of splitCourseList">
+
+            <div class="row">
+                <div class="card" *ngFor="let course of cL" [style.min-width]="course.infoVisible ? '40%' : '20%'">
+                    <div *ngIf="course.show">
+
+                        <div (click)="onCourseClicked(course)">
+
+                            <div class="card-header" [style.background-color]="course.levelColor">
+                                {{course.code}}
+                            </div>
+                            <div class="card-body">
+                                <p class="course-name">{{course.courseTitle}}
+                                </p>
+
+                                <div class="courseDescription" *ngIf="course.infoVisible">
+                                    <div [innerHTML]="course.courseDescription"></div>
+
+                                    <div *ngIf="course.prerequisite.length != 0">
+                                        <div class="prq">Prerequisite</div>
+                                        <div [innerHTML]="course.prerequisite"></div>
+                                    </div>
+
+                                    <div *ngIf="course.corequisite.length != 0">
+                                        <div class="prq">Corequisite</div>
+                                        <div [innerHTML]="course.corequisite"></div>
+                                    </div>
+
+                                    <div *ngIf="course.recommendedPreparation.length != 0">
+                                        <div class="prq">Recommended preparation</div>
+                                        <div [innerHTML]="course.recommendedPreparation"></div>
+                                    </div>
+
+                                    <div *ngIf="course.exclusion.length != 0">
+                                        <div class="prq">Exclusion</div>
+                                        <div [innerHTML]="course.exclusion"></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+<p>⠀</p>
+
+</body>

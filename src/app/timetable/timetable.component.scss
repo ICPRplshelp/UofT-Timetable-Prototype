@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background: #fefefe;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 80px;
+
+  }
+
+  .primary {
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .prq {
+    margin-top: 15px;
+
+    font-weight: bold;
+  }
+
+  .example-container {
+    width: 500px;
+    height: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  }
+
+  .example-sidenav-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .example-sidenav {
+    padding: 20px;
+  }
+
+  // .testy {
+  //   font-family: 'Times New Roman', Times, serif;
+  // }
+  .courseDescription{
+    text-align: left;
+    margin-top: 20px;
+    }
+
+  // .course-name{
+  //   font-size: 20px;
+  // }
+
+  .cLevel{
+    margin: 100px auto;
+  }
+
+
+
+  .container {
+    width: 90%;
+    margin: 50px auto;
+  }
+  .heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 30px;
+  }
+
+  .centering {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  .row {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow: wrap;
+    gap: 20px;
+
+
+  }
+
+  .card {
+    cursor: pointer;
+    background: #fff;
+    border: 1px solid #ccc;
+    // margin-bottom: 50px;
+    transition: 0.3s;
+    // padding: 1.5rem;
+    border-radius: 16px;
+    width: 20%;
+  }
+  // .break {
+  //   flex-basis: 100%;
+  //   height: 0;
+  // }
+
+  .card-header {
+    padding: 33px 15px;
+    font-weight: bold;
+    font-size: 30px;
+    // font-family: Helvetica, sans-serif;
+    text-align: center;
+
+   // background: linear-gradient(to right, #ff4b2b, #ff4b2b);
+
+    color: #fff;
+    border-radius: 16px 16px 0px 0px;
+  }
+
+  .card-body {
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+  .card-body .btn {
+    display: block;
+    color: #fff;
+    text-align: center;
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    margin-top: 30px;
+    text-decoration: none;
+    padding: 10px 5px;
+  }
+
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 40px -10px rgba(0, 0, 0, 0.25);
+  }
+
+  @media screen and (max-width: 1000px) {
+    .card {
+      width: 40%;
+    }
+  }
+
+  @media screen and (max-width: 620px) {
+    .container {
+      width: 100%;
+    }
+
+    .heading {
+      padding: 20px;
+      font-size: 20px;
+    }
+
+    .card {
+      width: 80%;
+    }
+  }

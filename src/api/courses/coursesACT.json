@@ -1,0 +1,2680 @@
+{
+    "ACT199H1-S-20209": {
+        "courseId": "45655",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Decipher Financial Puzzles in the Media and Pop Culture",
+        "code": "ACT199H1",
+        "courseDescription": "<p>Have you ever watched a pundit’s passionate rant over <span>financial</span> crisis on TV and wondered whether he was right or wrong? Did you get <span>the</span> full story after watching movies like <em>Margin Call</em> or <em><span>The</span> Big Short</em>? What was <span>the</span> efficiency market versus behavioral finance debate all about? Did you wonder why everyone <span>in</span> <span>the</span> <span>financial</span> <span>press</span> seem to be calling for a lower debt/equity ratio on banks <span>in</span> <span>the</span> post-crisis era? If you find yourself think about those questions, this is <span>the</span> course for you. We will start from some basic building blocks of finance, such as time value of money and discounting, and proceed to look at some of <span>the</span> important <span>financial</span> controversies you have read or heard <span>in</span> <span>the pop culture or media</span>. </p>",
+        "prerequisite": "High school algebra",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-250887": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "250887",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253415": {
+                        "instructorId": "7253415",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "177051",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "TH-240611": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "240611",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253416": {
+                        "instructorId": "7253416",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "190421",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "13",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "ACT230H1-F-20209": {
+        "courseId": "40230",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Mathematics of Finance for Non-Actuaries",
+        "code": "ACT230H1",
+        "courseDescription": "<p>Introduction to financial mathematics, interest measurement, present value calculation, annuity valuation, loan amortization, consumer financing arrangements, bond valuation. The course is aimed at a general audience who will not be continuing in the actuarial science program. Course manuals fee: $30.</p>",
+        "prerequisite": "First-year Calculus",
+        "corequisite": "",
+        "exclusion": "ACT240H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures and tutorials will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-224970": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "224970",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249895": {
+                        "instructorId": "7249895",
+                        "firstName": "S",
+                        "lastName": "Zaman"
+                    }
+                },
+                "meetingId": "149596",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "220",
+                "actualEnrolment": "65",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-201751": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "201751",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149597",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "74",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "FR-201752": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "201752",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149598",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "73",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "FR-201754": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "201754",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149599",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "73",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT240H1-F-20209": {
+        "courseId": "40231",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Mathematics of Investment & Credit",
+        "code": "ACT240H1",
+        "courseDescription": "<p>Interest, discount and present values, as applied to determine prices and values of annuities, mortgages, bonds, equities; loan repayment schedules and consumer finance payments in general; yield rates on investments given the costs on investments. Course manuals fee: $45.</p>",
+        "prerequisite": "MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%)",
+        "corequisite": "",
+        "exclusion": "ACT230H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures and tutorials will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-223478": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "223478",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249896": {
+                        "instructorId": "7249896",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "149601",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "160",
+                "actualEnrolment": "140",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-223486": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "223486",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149602",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "54",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "FR-223487": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "223487",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149603",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "53",
+                "actualEnrolment": "50",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "FR-223488": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "223488",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149604",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "53",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT245H1-S-20209": {
+        "courseId": "40232",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Financial Principles for Actuarial Science I",
+        "code": "ACT245H1",
+        "courseDescription": "<p>Term structure of interest rates, cashflow duration, convexity and immunization, forward and futures contracts, interest rate swaps, introduction to investment derivatives and hedging strategies.</p>",
+        "prerequisite": "ACT240H1, MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures and tutorials will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-227655": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "227655",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "TH-227656": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "227656",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253417": {
+                        "instructorId": "7253417",
+                        "firstName": "Y",
+                        "lastName": "Wang"
+                    }
+                },
+                "meetingId": "149605",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "160",
+                "actualEnrolment": "93",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT247H1-S-20209": {
+        "courseId": "40233",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Introductory Life Contingencies",
+        "code": "ACT247H1",
+        "courseDescription": "<p>Probability theory applied to survival and to costs and risks of life assurances, life annuities, and pensions; analysis of survival distributions; international actuarial notation. Course manuals fee: $35.</p>",
+        "prerequisite": "ACT240H1; MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%); STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures and tutorials will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-227660": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "227660",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253418": {
+                        "instructorId": "7253418",
+                        "firstName": "A",
+                        "lastName": "Yang"
+                    }
+                },
+                "meetingId": "149606",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "160",
+                "actualEnrolment": "99",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-227661": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "227661",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149607",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "54",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "TU-227662": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "227662",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149608",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "53",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "TU-227663": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "227663",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149609",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "53",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT348H1-F-20209": {
+        "courseId": "40234",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Advanced Life Contingencies",
+        "code": "ACT348H1",
+        "courseDescription": "<p>Determination of benefit premium and benefit reserves for life insurance and annuities; analysis of insurance loss random variables; theory of life contingencies for multiple lives. Course manuals fee: $40.</p>",
+        "prerequisite": "ACT240H1 (minimum grade C); ACT245H1 (minimum grade C); ACT247H1 (minimum grade C); (STA257H1,STA261H1); MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-246405": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "246405",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "WE-246406": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "246406",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249897": {
+                        "instructorId": "7249897",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "149610",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "MO-236816": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "236816",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    },
+                    "WE-236817": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "236817",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249898": {
+                        "instructorId": "7249898",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "187382",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "122",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT349H1-F-20209": {
+        "courseId": "40235",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Corporate Finance for Actuarial Science",
+        "code": "ACT349H1",
+        "courseDescription": "<p>Actuarial applications of financial mathematics and economics.</p>",
+        "prerequisite": "ACT240H1 (minimum grade C); ACT245H1 (minimum grade C); ACT247H1 (minimum grade C); (STA257H1, STA261H1); MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "ECO358H1, ECO359H1 , RSM332H1 , RSM333H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-246404": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "246404",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249899": {
+                        "instructorId": "7249899",
+                        "firstName": "J",
+                        "lastName": "Tome"
+                    }
+                },
+                "meetingId": "149611",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "WE-244024": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "244024",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249900": {
+                        "instructorId": "7249900",
+                        "firstName": "J",
+                        "lastName": "Tome"
+                    }
+                },
+                "meetingId": "187383",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT350H1-F-20209": {
+        "courseId": "40236",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Applied Probability for Actuarial Science",
+        "code": "ACT350H1",
+        "courseDescription": "<p>The course offers an introduction to elementary probability theory and stochastic processes. The main goal of the course is to help actuarial students understand the concept of stochastic processes with particular emphasis on Markov chains that are of great importance in Life Contingencies and Property and Casualty insurance.</p> <p><br />The course will cover the following topics: a basic review of probabilities with emphasis on conditional probabilities and expectations, discrete time Markov chains, Poisson processes, continuous time Markov chains, renewal theory and some applications, queueing theory.</p>",
+        "prerequisite": "ACT240H1 (minimum grade 63%); ACT245H1 (minimum grade 63%); ACT247H1 (minimum grade 63%); STA257H1; MAT223H1/MAT240H1, MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-246399": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "246399",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249901": {
+                        "instructorId": "7249901",
+                        "firstName": "S",
+                        "lastName": "Pesenti"
+                    }
+                },
+                "meetingId": "149612",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Applied Probability for Actuarial Science",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "TU-244025": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "244025",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249902": {
+                        "instructorId": "7249902",
+                        "firstName": "S",
+                        "lastName": "Pesenti"
+                    }
+                },
+                "meetingId": "187384",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "Applied Probability for Actuarial Science",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT370H1-S-20209": {
+        "courseId": "40237",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Financial Principles for Actuarial Science II",
+        "code": "ACT370H1",
+        "courseDescription": "<p>Mathematical theory of financial derivatives, discrete and continuous option pricing models, hedging strategies and exotic option valuation.</p>",
+        "prerequisite": "ACT240H1 (minimum grade C); ACT245H1 (minimum grade C); ACT247H1 (minimum grade C); (STA257H1,STA261H1); MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "RSM435H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-250937": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "250937",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "WE-250938": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "250938",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253419": {
+                        "instructorId": "7253419",
+                        "firstName": "A",
+                        "lastName": "Shipilov"
+                    }
+                },
+                "meetingId": "149613",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 27, 2020: Wednesday meeting time changed. <br/>July 31, 2020: Wednesday room added.",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-250940": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "250940",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "WE-250941": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "250941",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253420": {
+                        "instructorId": "7253420",
+                        "firstName": "A",
+                        "lastName": "Shipilov"
+                    }
+                },
+                "meetingId": "149614",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "July 27, 2020: Wednesday meeting time changed. <br/>July 31, 2020: Wednesday Room added.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-7001": {
+                "schedule": {
+                    "MO-244886": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "244886",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "WE-244887": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "244887",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253421": {
+                        "instructorId": "7253421",
+                        "firstName": "A",
+                        "lastName": "Shipilov"
+                    }
+                },
+                "meetingId": "190423",
+                "teachingMethod": "LEC",
+                "sectionNumber": "7001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "July 27, 2020: Wednesday meeting time changed.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "MO-244888": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "244888",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "WE-244889": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "244889",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253422": {
+                        "instructorId": "7253422",
+                        "firstName": "A",
+                        "lastName": "Shipilov"
+                    }
+                },
+                "meetingId": "190422",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "91",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT371H1-F-20209": {
+        "courseId": "40238",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Basic Reserving Methods For P&C Insurance",
+        "code": "ACT371H1",
+        "courseDescription": "<p>Topics covered include reserving data and triangles, diagnoses methods that range from triangle of ratios of paid claims to reported claims to triangle of reported claim ratios. The syllabus also includes projection techniques. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "ACT240H1, STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "None",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-246402": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "246402",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249903": {
+                        "instructorId": "7249903",
+                        "firstName": "T",
+                        "lastName": "Orrett"
+                    },
+                    "7249904": {
+                        "instructorId": "7249904",
+                        "firstName": "F",
+                        "lastName": "So"
+                    }
+                },
+                "meetingId": "149615",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-6101": {
+                "schedule": {
+                    "TU-244026": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "244026",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249905": {
+                        "instructorId": "7249905",
+                        "firstName": "T",
+                        "lastName": "Orrett"
+                    },
+                    "7249906": {
+                        "instructorId": "7249906",
+                        "firstName": "F",
+                        "lastName": "So"
+                    }
+                },
+                "meetingId": "187385",
+                "teachingMethod": "LEC",
+                "sectionNumber": "6101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT372H1-S-20209": {
+        "courseId": "40239",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Basic Ratemaking Methods For P&C Insurance",
+        "code": "ACT372H1",
+        "courseDescription": "<p>This course covers the basic ratemaking methods for P&C insurance. It assumes that students are familiar with traditional reserving diagnoses and projection methods. The syllabus would introduce concepts related to earning of exposures, on-level factors, catastrophe loading, large loss loading and credibility. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "ACT371H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "None",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-250933": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "250933",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253423": {
+                        "instructorId": "7253423",
+                        "firstName": "S",
+                        "lastName": "Ahmad"
+                    }
+                },
+                "meetingId": "149616",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-6101": {
+                "schedule": {
+                    "WE-240618": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "240618",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253424": {
+                        "instructorId": "7253424",
+                        "firstName": "S",
+                        "lastName": "Ahmad"
+                    }
+                },
+                "meetingId": "190424",
+                "teachingMethod": "LEC",
+                "sectionNumber": "6101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT390H1-F-20209": {
+        "courseId": "45666",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Professional Experience in Actuarial Science",
+        "code": "ACT390H1",
+        "courseDescription": "<p>The professional experience is a mandatory course in the actuarial science Specialist program, in preparation for an internship work term after the PE course is completed. It includes various professional skill workshops, networking activities and an invited industry speaker series.</p>",
+        "prerequisite": "Enrolment in the Actuarial Science Specialist.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>All seminars will be live-streamed per the meeting schedule and recorded for later viewing. The general expectation is that students will attend the seminar online synchronously. There will be special sessions including mock interview and presentation which will require students’ real-time interactions online. Students should get in touch with the course instructor before the course start date if they cannot attend the seminars online during the scheduled time.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-246395": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "246395",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249907": {
+                        "instructorId": "7249907",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "178872",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "82",
+                        "subjectCode": "ACT",
+                        "subjectName": "ACTUARIAL SCIENCE",
+                        "designationId": "5",
+                        "designationCode": "SPE",
+                        "designationName": "Specialist",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "TH-244979": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "244979",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249908": {
+                        "instructorId": "7249908",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "187386",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "82",
+                        "subjectCode": "ACT",
+                        "subjectName": "ACTUARIAL SCIENCE",
+                        "designationId": "5",
+                        "designationCode": "SPE",
+                        "designationName": "Specialist",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "ACT391H1-S-20209": {
+        "courseId": "45711",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Professional Internship",
+        "code": "ACT391H1",
+        "courseDescription": "<p>Internship course for students in the Actuarial Science Specialist, fulfilled as a 12-week work term in a workplace related to actuarial science in third or fourth year. ACT390H1 must be completed first in preparation. Contact Department for more information. (No tuition fee associated, however an ancillary fee of $720 will be assessed towards Professional Experience placement.)</p>\r\n",
+        "prerequisite": "ACT390H1\r\n",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": "<p>This is the actuarial internship after the student has completed ACT390. Each student will have individual arrangement based on their internship employment contract and relevant university policies.</p>",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253425": {
+                        "instructorId": "7253425",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "191061",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "September 1, 2020: Course added.",
+                "enrollmentControls": [
+                    {
+                        "postId": "256",
+                        "postCode": "ASSPE0608",
+                        "postName": "SP ACTUARIAL SCIENCE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    },
+    "ACT451H1-F-20209": {
+        "courseId": "40242",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Loss Models",
+        "code": "ACT451H1",
+        "courseDescription": "<p>Loss models policy adjustments, frequency and severity models, compound distributions.</p>",
+        "prerequisite": "STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-223490": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "223490",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "TH-223491": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "223491",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249909": {
+                        "instructorId": "7249909",
+                        "firstName": "X",
+                        "lastName": "Lin"
+                    }
+                },
+                "meetingId": "149617",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "56",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT452H1-S-20209": {
+        "courseId": "40243",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Loss Models II",
+        "code": "ACT452H1",
+        "courseDescription": "<p>Estimation of Loss and Survival Models using complete, censored and truncated data. Product-Limit estimation, empirical estimation, moment and percentile estimation, maximum likelihood estimation and simulation models.</p>",
+        "prerequisite": "STA261H1, ACT451H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-250924": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "250924",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "FR-250925": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "250925",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253426": {
+                        "instructorId": "7253426",
+                        "firstName": "X",
+                        "lastName": "Lin"
+                    }
+                },
+                "meetingId": "149618",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "WE-240619": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "240619",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    },
+                    "FR-240620": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "240620",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253427": {
+                        "instructorId": "7253427",
+                        "firstName": "X",
+                        "lastName": "Lin"
+                    }
+                },
+                "meetingId": "190425",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "54",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT455H1-S-20209": {
+        "courseId": "40244",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Advanced Topics in Actuarial Science",
+        "code": "ACT455H1",
+        "courseDescription": "<p>Advanced life contingencies, multiple decrement theory, insurance policy expenses, multi-state transition models, Poisson processes.</p>",
+        "prerequisite": "ACT348H1; ACT350H1/STA347H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-250919": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "250919",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "TH-250920": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "250920",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253428": {
+                        "instructorId": "7253428",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "149619",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "9",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "TU-240622": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "240622",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    },
+                    "TH-240623": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "240623",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253429": {
+                        "instructorId": "7253429",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "190426",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "51",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT460H1-F-20209": {
+        "courseId": "40245",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Stochastic Methods for Actuarial Science",
+        "code": "ACT460H1",
+        "courseDescription": "<p>Applications of the lognormal distribution, Brownian motion, geometric Brownian motion, martingales, Ito's lemma, stochastic differential equations, interest rate models, the Black-Scholes model, volatility, value at risk, conditional tail expectation.</p>",
+        "prerequisite": "ACT350H1/STA347H1. (ACT370H1 strongly recommended)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-246393": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "246393",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249910": {
+                        "instructorId": "7249910",
+                        "firstName": "Y",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "149620",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-240663": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "240663",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249911": {
+                        "instructorId": "7249911",
+                        "firstName": "Y",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "149621",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "TU-236823": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "236823",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249912": {
+                        "instructorId": "7249912",
+                        "firstName": "Y",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "187387",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT466H1-S-20209": {
+        "courseId": "40246",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Credibility and Simulation",
+        "code": "ACT466H1",
+        "courseDescription": "<p>Limited fluctuation credibility, Bayesian estimation, Buhlmann credibility, non-parametric credibility methods, inverse transformation simulation method, specialized simulation methods for the normal and lognormal distributions, Monte Carlo methods, the bootstrap method.</p>",
+        "prerequisite": "ACT451H1; STA261H1, ACT350H1/STA347H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-250917": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "250917",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "TH-250918": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "250918",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253430": {
+                        "instructorId": "7253430",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "149622",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "7",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "TU-240625": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "240625",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    },
+                    "TH-240626": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "240626",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253431": {
+                        "instructorId": "7253431",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "190427",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "11",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT470H1-S-20209": {
+        "courseId": "40247",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Advanced Pension Mathematics",
+        "code": "ACT470H1",
+        "courseDescription": "<p>Topics in pension mathematics; funding methods for pension plans. (Offered in alternate years)</p>",
+        "prerequisite": "ACT348H1 or permission of instructor",
+        "corequisite": "ACT455H1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-250913": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "250913",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253432": {
+                        "instructorId": "7253432",
+                        "firstName": "H",
+                        "lastName": "Lyons"
+                    }
+                },
+                "meetingId": "149623",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-6101": {
+                "schedule": {
+                    "WE-240628": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "240628",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253433": {
+                        "instructorId": "7253433",
+                        "firstName": "H",
+                        "lastName": "Lyons"
+                    }
+                },
+                "meetingId": "190428",
+                "teachingMethod": "LEC",
+                "sectionNumber": "6101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT471H1-F-20209": {
+        "courseId": "40248",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Topics in Casualty Actuarial Science",
+        "code": "ACT471H1",
+        "courseDescription": "<p>Topic for 2016-2017: Advanced Ratemaking Methods for P&amp;C Insurance</p> <p>This course will cover advanced ratemaking methods for P&amp;C insurance. It includes topics such as commercial insurance pricing, catastrophic pricing, reinsurance pricing and GLM aplications to P&amp;C insurance.</p> <p>(Offered in alternate years)</p> <p>Not eligible for CR/NCR option.</p>",
+        "prerequisite": "permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20209",
+        "webTimetableInstructions": "<p>For AE courses, enrolment is done via ACORN. Students must check back for their status update. If you have any questions, please contact Priya Sivathason at the Department of Statistical Sciences, Sidney Smith Hall, 100 St. George St., Room 6025, priya.sivathason@utoronto.ca or 416-946-0647.</p>",
+        "deliveryInstructions": "<p>All livestreamed lectures will also be recorded for later viewing for both online and in-person sections.</p><p>Online section: Lectures will be delivered online (per the meeting schedule) or pre-recorded. If there is any in-person tutorial or group office hour (at instructor’s discretion) for the “in-person section”, you may access all the material online as well.&nbsp;</p><p>In-person section: Lectures and tutorials (or group office hours) may be delivered online or in-person. Any in-person learning will only proceed if it is safe and practical to do so, at the instructor’s discretion.&nbsp;</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-244029": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "244029",
+                        "assignedRoom1": "BL 114",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249913": {
+                        "instructorId": "7249913",
+                        "firstName": "A",
+                        "lastName": "Le"
+                    },
+                    "7249914": {
+                        "instructorId": "7249914",
+                        "firstName": "C",
+                        "lastName": "Lussier"
+                    }
+                },
+                "meetingId": "149624",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-6101": {
+                "schedule": {
+                    "WE-244030": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "244030",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7249915": {
+                        "instructorId": "7249915",
+                        "firstName": "A",
+                        "lastName": "Le"
+                    },
+                    "7249916": {
+                        "instructorId": "7249916",
+                        "firstName": "C",
+                        "lastName": "Lussier"
+                    }
+                },
+                "meetingId": "187388",
+                "teachingMethod": "LEC",
+                "sectionNumber": "6101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT473H1-S-20209": {
+        "courseId": "40249",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Issues In Actuarial Practice",
+        "code": "ACT473H1",
+        "courseDescription": "<p>Case study approach to current issues in life insurance, pension consulting and casualty actuarial practice. The focus of the course will be on communication and presentation. This course is Pass/Fail. Not eligible for Credit/No Credit.  The course is open to students in the specialist program in actuarial science. Students in the major program in actuarial science can enrol into the course with permission of the department.</p>",
+        "prerequisite": "ACT348H1, ACT349H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures and tutorials will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-250905": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "250905",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253434": {
+                        "instructorId": "7253434",
+                        "firstName": "C",
+                        "lastName": "Genno"
+                    },
+                    "7253435": {
+                        "instructorId": "7253435",
+                        "firstName": "H",
+                        "lastName": "Lyons"
+                    }
+                },
+                "meetingId": "149625",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-6101": {
+                "schedule": {
+                    "MO-240629": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "240629",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253436": {
+                        "instructorId": "7253436",
+                        "firstName": "C",
+                        "lastName": "Genno"
+                    },
+                    "7253437": {
+                        "instructorId": "7253437",
+                        "firstName": "H",
+                        "lastName": "Lyons"
+                    }
+                },
+                "meetingId": "190429",
+                "teachingMethod": "LEC",
+                "sectionNumber": "6101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-250902": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "250902",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149626",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "WE-250898": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "250898",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149627",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-6101": {
+                "schedule": {
+                    "WE-240630": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "240630",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "190430",
+                "teachingMethod": "TUT",
+                "sectionNumber": "6101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "11",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-6201": {
+                "schedule": {
+                    "WE-240631": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "240631",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "190431",
+                "teachingMethod": "TUT",
+                "sectionNumber": "6201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "11",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT475H1-S-20209": {
+        "courseId": "40250",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Insurance Products and Regulation with AXIS",
+        "code": "ACT475H1",
+        "courseDescription": "<p>Case studies using leading actuarial application AXIS. Examine key types of insurance products and their pricing and valuation. Review representative developments in insurance regulations in US, Europe and Canada. Other topics include a brief introduction of the use of AI in life insurance.</p>",
+        "prerequisite": "ACT240H1, ACT245H1, ACT247H1",
+        "corequisite": "ACT348H1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures will be delivered online (per the meeting schedule) or pre-recorded. All livestreamed lectures will also be recorded for viewing.</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in online lectures.</p><p>Important system requirement: Students must have a PC (with a Windows system) to participate in this course, as AXIS software does not run on Macs OS.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-250892": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "250892",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "7253438": {
+                        "instructorId": "7253438",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "149628",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "FR-240632": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "240632",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "7253439": {
+                        "instructorId": "7253439",
+                        "firstName": "V",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "190432",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "13",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT497H1-S-20209": {
+        "courseId": "40252",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Readings in Actuarial Science",
+        "code": "ACT497H1",
+        "courseDescription": "<p>Independent study under the direction of a faculty member. Persons wishing to take this course must have the permission of the Undergraduate Secretary and of the prospective supervisor. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20209",
+        "webTimetableInstructions": "<p>For “E” indicator courses: students should obtain an application form from Priya Sivathason, ug.actsci@utstat.utoronto.ca at the Department of Statistical Sciences, Sidney Smith Hall, 100 St. George St., Room 6025.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149630",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Dec 2, 2020: Delivery method changed.",
+                "enrollmentControls": []
+            },
+            "LEC-9101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "190137",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT498Y1-Y-20209": {
+        "courseId": "40253",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Readings in Actuarial Science",
+        "code": "ACT498Y1",
+        "courseDescription": "<p>Independent study under the direction of a faculty member. Persons wishing to take this course must have the permission of the Undergraduate Secretary and of the prospective supervisor. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20209",
+        "webTimetableInstructions": "<p>For “E” indicator courses: students should obtain an application form from Priya Sivathason, ug.actsci@utstat.utoronto.ca at the Department of Statistical Sciences, Sidney Smith Hall, 100 St. George St., Room 6025.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149631",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Dec 2, 2020: Delivery method changed.",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT499Y1-Y-20209": {
+        "courseId": "40254",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Readings in Actuarial Science",
+        "code": "ACT499Y1",
+        "courseDescription": "<p>Independent study under the direction of a faculty member. Persons wishing to take this course must have the permission of the Undergraduate Secretary and of the prospective supervisor. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20209",
+        "webTimetableInstructions": "<p>For “E” indicator courses: students should obtain an application form from Priya Sivathason, ug.actsci@utstat.utoronto.ca at the Department of Statistical Sciences, Sidney Smith Hall, 100 St. George St., Room 6025.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "149632",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Dec 2, 2020: Delivery method changed.",
+                "enrollmentControls": []
+            }
+        }
+    }
+}
