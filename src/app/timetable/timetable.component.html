@@ -26,7 +26,7 @@
     </div>-->
   <div class="centering">
     <mat-form-field class="example-form-field" appearance="fill">
-        <mat-label>Clearable input</mat-label>
+        <mat-label>Course designators</mat-label>
         <input matInput type="text" [(ngModel)]="courseFilter">
       </mat-form-field>
 
@@ -43,7 +43,7 @@
                     <div *ngIf="course.show">
 
                         <div (click)="onCourseClicked(course)">
-
+                        <!--COURSE INFO-->
                             <div class="card-header" [style.background-color]="course.levelColor"
                             [style.border-right-color]="course.brqColor">
                                 {{course.code}}

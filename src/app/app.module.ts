@@ -12,27 +12,33 @@ import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatInputModule} from '@angular/material/input';
 import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
+import { CourseListComponent } from './course-list/course-list.component';
+import {MatTableModule} from "@angular/material/table";
+import {MatListModule} from "@angular/material/list";
 
 
 @NgModule({
   declarations: [
     AppComponent,
     TimetableComponent,
-    DialogExampleComponent
+    DialogExampleComponent,
+    CourseListComponent
   ],
   entryComponents: [DialogExampleComponent],
-  imports: [
-    BrowserModule,
-    HttpClientModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatDialogModule,
-    FormsModule,
-    MatSidenavModule,
-    MatInputModule,
-    MatIconModule,
-    MatButtonModule
-  ],
+    imports: [
+        BrowserModule,
+        HttpClientModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        MatDialogModule,
+        FormsModule,
+        MatSidenavModule,
+        MatInputModule,
+        MatIconModule,
+        MatButtonModule,
+        MatTableModule,
+        MatListModule
+    ],
   providers: [
     {provide: MAT_DIALOG_DEFAULT_OPTIONS, useValue: {hasBackdrop: false}}
   ],

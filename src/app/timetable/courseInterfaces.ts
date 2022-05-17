@@ -15,6 +15,7 @@ export interface crs {
   deliveryInstructions: string,
   breadthCategories: string,
   distributionCategories: string,
+  meetings: lecSession[],
 
   // If the course information is visible or not. toggled when clicked
   infoVisible: boolean,
@@ -30,8 +31,8 @@ export interface crs {
 }
 
 export interface lecSession {
-  schedule: Object;
-  instructors: Object;
+  schedule: crsMeeting[];
+  instructors: crsInstructor[];
   meetingId: string;
   teachingMethod: string;
   sectionNumber: string;
@@ -46,4 +47,23 @@ export interface lecSession {
   enrollmentIndicator?: string;
   meetingStatusNotes?: string;
   enrollmentControls: string[];
+  key?: string;
 }
+
+export interface crsMeeting {
+  meetingDay?: string | null;
+  meetingStartTime?: string | null;
+  meetingEndTime?: string | null;
+  meetingScheduleId?: string | null;
+  assignedRoom1?: string | null,
+  assignedRoom2?: string | null,
+  key?: string | null;
+}
+
+export interface crsInstructor {
+  instructorId: string | null;
+  firstName: string | null;
+  lastName: string | null;
+  key?: string | null;
+}
+

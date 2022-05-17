@@ -1,9 +1,9 @@
 import {Component, OnInit} from '@angular/core';
 import {MatDialog, MatDialogConfig} from '@angular/material/dialog';
 import {TimetableService} from './timetable.service';
-import {crs} from "./courseInterfaces";
+import {crs, lecSession} from "./courseInterfaces";
 import {utilities} from "./utilities";
-
+import {cItems} from "../course-list/course-list.component";
 
 @Component({
   selector: 'app-timetable',
@@ -35,7 +35,7 @@ export class TimetableComponent implements OnInit {
   splitCourseList: crs[][] = [];
 
   clicked(): void {
-
+    this.courseFilter = this.courseFilter.toUpperCase();
     this.splitted = this.courseFilter.split(',');
     this.splitted = this.splitted.map(item => item.trim());
     console.log(this.splitted);
@@ -152,7 +152,10 @@ const colorGreen = '#00c427';
 const colorPurple = '#9436ff'
 const colorYellow = '#ffbf00';
 
-// determine the level.
+/**
+ * Process the course list. That is, make it readable.
+ * @param cList
+ */
 function processCourselist(cList: any[]): void {
   // determine the level of the course.
   cList.forEach(element => {
@@ -191,7 +194,6 @@ function processCourselist(cList: any[]): void {
     else element.brq = 0;
 
     element.brqColor = utilities.brColors[element.brq];
-
     element.cardWidth = '20%';
 
     // add a display
@@ -199,7 +201,24 @@ function processCourselist(cList: any[]): void {
     element.show = true;
     // element.courseDescription = (element.CourseDescription);
     element.courseDescription = removeTags(element.courseDescription)
-    console.log('next up')
+
+    // change how meetings appear
+
+
+    element.meetings = cItems(element.meetings);
+
+
+    element.meetings.forEach((ls: lecSession) => {
+        ls.schedule = cItems(ls.schedule);
+        ls.instructors = cItems(ls.instructors);
+
+    })
+
+
+    // meeting to be changed to an entry of mettings
+
+    // change how schedules appear
+    console.log(element);
   })
 }
 
