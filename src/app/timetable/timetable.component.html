@@ -44,7 +44,8 @@
 
                         <div (click)="onCourseClicked(course)">
 
-                            <div class="card-header" [style.background-color]="course.levelColor">
+                            <div class="card-header" [style.background-color]="course.levelColor"
+                            [style.border-right-color]="course.brqColor">
                                 {{course.code}}
                             </div>
                             <div class="card-body">

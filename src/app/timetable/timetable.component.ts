@@ -1,8 +1,8 @@
 import {Component, OnInit} from '@angular/core';
 import {MatDialog, MatDialogConfig} from '@angular/material/dialog';
 import {TimetableService} from './timetable.service';
-import {DialogExampleComponent} from '../dialog-example/dialog-example.component';
-import {elementAt} from 'rxjs';
+import {crs} from "./courseInterfaces";
+import {utilities} from "./utilities";
 
 
 @Component({
@@ -25,25 +25,29 @@ export class TimetableComponent implements OnInit {
   // }
 
   // this value is binded.
+
+  designators: Set<string> = new Set(['ABP', 'ACT', 'AFR', 'AMS', 'ANA', 'ANT', 'APM', 'ARH', 'AST', 'BCB', 'BCH', 'BIO', 'BMS', 'BPM', 'CAR', 'CAS', 'CDN', 'CHC', 'CHM', 'CIN', 'CJH', 'CJS', 'CLA', 'CLT', 'COG', 'CRE', 'CRI', 'CSB', 'CSC', 'CSE', 'CTA', 'DHU', 'DRM', 'DTS', 'EAS', 'ECO', 'EDS', 'EEB', 'ENG', 'ENT', 'ENV', 'ESS', 'EST', 'ETH', 'EUR', 'FAH', 'FCS', 'FIN', 'FOR', 'FRE', 'FSL', 'GER', 'GGR', 'GRK', 'HIS', 'HMB', 'HPS', 'HST', 'HUN', 'IFP', 'IMM', 'INI', 'INS', 'IRE', 'IRW', 'ITA', 'JAL', 'JCA', 'JCI', 'JCR', 'JEG', 'JEH', 'JFG', 'JFP', 'JGA', 'JGE', 'JGJ', 'JGU', 'JHA', 'JHM', 'JIG', 'JLN', 'JLP', 'JLS', 'JNH', 'JNR', 'JNS', 'JPA', 'JPE', 'JPH', 'JPI', 'JPM', 'JPR', 'JPS', 'JQR', 'JRC', 'JRN', 'JSC', 'JSH', 'JSU', 'JWE', 'LAS', 'LAT', 'LCT', 'LIN', 'LMP', 'MAT', 'MCS', 'MGR', 'MGT', 'MGY', 'MHB', 'MIJ', 'MST', 'MUN', 'MUS', 'NEW', 'NFS', 'NMC', 'NML', 'PCJ', 'PCL', 'PDC', 'PHC', 'PHL', 'PHS', 'PHY', 'PLN', 'POL', 'PPG', 'PRT', 'PSL', 'PSY', 'REN', 'RLG', 'RSM', 'SAS', 'SDS', 'SLA', 'SMC', 'SOC', 'SPA', 'STA', 'TRN', 'UNI', 'URB', 'VIC', 'WDW', 'WGS', 'WRR'])
+
   courseFilter: string = '';  // this value is binded.
   splitted: string[] = [];
   courseList: any[] = [];
   allCourses: any[][] = [];
-  splitCourseList: any[][] = [];
+  splitCourseList: crs[][] = [];
 
   clicked(): void {
 
     this.splitted = this.courseFilter.split(',');
     this.splitted = this.splitted.map(item => item.trim());
     console.log(this.splitted);
+    this.getManyCourses(this.splitted);
 
-    if (this.courseFilter.replace(" ", "") !== "") {
-      let tempCourseList = this.courseList.filter(course => this.splitted.includes(course.org));
-
-      this.splitCourseList = splitListToLevels(tempCourseList);
-    } else {
-      this.splitCourseList = splitListToLevels(this.courseList);
-    }
+    // if (this.courseFilter.replace(" ", "") !== "") {
+    //   let tempCourseList = this.courseList.filter(course => this.splitted.includes(course.org));
+    //
+    //   this.splitCourseList = splitListToLevels(tempCourseList);
+    // } else {
+    //   this.splitCourseList = splitListToLevels(this.courseList);
+    // }
    // console.log('clicked!!!');
 
     // let splitted = this.courseFilter.split(',');
@@ -52,6 +56,41 @@ export class TimetableComponent implements OnInit {
     // )
     // console.log(this.splitCourseList, splitted);
 
+  }
+
+  /**
+   * Adjust this.splitCourseList to only include courses
+   * with designators matching the argument.
+   * @param designatorsList A list of designators to keep.
+   */
+  getManyCourses(designatorsList: string[]): void {
+
+    let masterList: any[] = [];
+    for (let des of designatorsList) {
+      this.timetableService.getAllCoursesInDes(des).subscribe(
+        data => {
+          // console.log('timetable', data);
+          // console.log('timetable1', this.coursesData.length);
+
+          // all converted to a list
+          let courseList = items(data);
+          // console.log(coursesData);
+          // console.log(courseList);
+
+          // process the courses we have
+          processCourselist(courseList);
+          // console.log(courseList);
+          masterList.push(...courseList);
+          // split the entire course list
+          // console.log(this.splitCourseList);
+        },
+        () => {},
+        () => {
+          // console.log('master list is', masterList)
+          this.splitCourseList = splitListToLevels(masterList);
+          // console.log("now, the split course list is", this.splitCourseList);
+        })
+    }
   }
 
   ngOnInit(): void {
@@ -75,7 +114,7 @@ export class TimetableComponent implements OnInit {
 
         // split the entire course list
         this.splitCourseList = splitListToLevels(this.courseList);
-        console.log(this.splitCourseList);
+        console.log('the split course list is now', this.splitCourseList);
       })
   }
 
@@ -140,9 +179,19 @@ function processCourselist(cList: any[]): void {
       console.log('case default');
       element.level = 4;
       element.levelColor = colorGreen;
-
-
     }
+
+    // Determine the breadth requirement.
+    let br: string = element.breadthCategories;
+    if (br.includes('1')) element.brq = 1;
+    else if (br.includes('2')) element.brq = 2;
+    else if (br.includes('3')) element.brq = 3;
+    else if (br.includes('4')) element.brq = 4;
+    else if (br.includes('5')) element.brq = 5;
+    else element.brq = 0;
+
+    element.brqColor = utilities.brColors[element.brq];
+
     element.cardWidth = '20%';
 
     // add a display
@@ -201,10 +250,12 @@ function removeTags(str: string) {
 }
 
 function splitListToLevels(cList: any[]): any[][] {
+  // cList is a list of courses.
   // split all courses to 100, 200, 300, and 400 level
   // courses, based on the order they appear in.
   // we will assume that the courses are sorted.
   // let targetLevel = 1;
+  console.log('SPLITTING LISTS TO LEVELS');
   console.log(cList);
   let courses: any[][] = [[], [], [], []];
   cList.forEach(element => {
