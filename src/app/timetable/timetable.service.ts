@@ -28,8 +28,9 @@ export class TimetableService {
   }
 
   desToLink(des: string): string {
-    return "api/ + this.yearSession + /courses" + des + ".json";
+    return "api/" + this.yearSession + "/courses" + des + ".json";
   }
+
 
 
 
