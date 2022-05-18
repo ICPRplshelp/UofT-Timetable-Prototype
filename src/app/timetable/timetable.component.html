@@ -33,6 +33,7 @@
       <button id="basic" type="button" mat-button (click)="clicked()">
         Click me!
       </button>
+
   </div>
 
 
@@ -41,14 +42,16 @@
             <div class="row">
                 <div class="card" *ngFor="let course of cL" [style.min-width]="course.infoVisible ? '40%' : '20%'">
                     <div *ngIf="course.show">
+                        <div>
 
-                        <div (click)="onCourseClicked(course)">
                         <!--COURSE INFO-->
                             <div class="card-header" [style.background-color]="course.levelColor"
-                            [style.border-right-color]="course.brqColor">
+                            [style.border-right-color]="course.brqColor"
+                                 (click)="onCourseClicked(course)">
                                 {{course.code}}
                             </div>
-                            <div class="card-body">
+<!--                          <div (click)="onCourseClicked(course)">-->
+                            <div class="card-body" (click)="openCourseDialog(course)">
                                 <p class="course-name">{{course.courseTitle}}
                                 </p>
 
@@ -74,6 +77,10 @@
                                         <div class="prq">Exclusion</div>
                                         <div [innerHTML]="course.exclusion"></div>
                                     </div>
+                                  <!-- PASS IN course.meetings -->
+<!--                                  <button id="third" type="button" mat-button (click)="openCourseDialog(course)">-->
+<!--                                    Timings-->
+<!--                                  </button>-->
 
                                 </div>
                             </div>

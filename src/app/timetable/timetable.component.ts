@@ -4,6 +4,7 @@ import {TimetableService} from './timetable.service';
 import {crs, lecSession} from "./courseInterfaces";
 import {utilities} from "./utilities";
 import {cItems} from "../course-list/course-list.component";
+import {CourseListComponent} from "../course-list/course-list.component";
 
 @Component({
   selector: 'app-timetable',
@@ -33,6 +34,11 @@ export class TimetableComponent implements OnInit {
   courseList: any[] = [];
   allCourses: any[][] = [];
   splitCourseList: crs[][] = [];
+  noDuplicates: boolean = true;
+
+  focusedCourseMeetings: lecSession[] = [];
+
+
 
   clicked(): void {
     this.courseFilter = this.courseFilter.toUpperCase();
@@ -59,7 +65,7 @@ export class TimetableComponent implements OnInit {
   }
 
   /**
-   * Adjust this.splitCourseList to only include courses
+   * Adjust this.splitCourseList to only include courses2
    * with designators matching the argument.
    * @param designatorsList A list of designators to keep.
    */
@@ -73,11 +79,11 @@ export class TimetableComponent implements OnInit {
           // console.log('timetable1', this.coursesData.length);
 
           // all converted to a list
-          let courseList = items(data);
+          let courseList = items(data, this.noDuplicates);
           // console.log(coursesData);
           // console.log(courseList);
 
-          // process the courses we have
+          // process the courses2 we have
           processCourselist(courseList);
           // console.log(courseList);
           masterList.push(...courseList);
@@ -102,11 +108,11 @@ export class TimetableComponent implements OnInit {
         // console.log('timetable1', this.coursesData.length);
 
         // all converted to a list
-        this.courseList = items(this.coursesData);
+        this.courseList = items(this.coursesData, this.noDuplicates);
         console.log(this.coursesData);
         console.log(this.courseList);
 
-        // process the courses we have
+        // process the courses2 we have
         processCourselist(this.courseList);
         console.log(this.courseList);
         this.courseList.filter(course => course.org === this.courseFilter);
@@ -135,8 +141,27 @@ export class TimetableComponent implements OnInit {
     //   {  });
   }
 
-  openDialog(): void {
+  openCourseDialog(tempCourse: crs): void {
+    const dialogConfig = new MatDialogConfig();
+    dialogConfig.width = '1200px';
+    console.log(tempCourse.fallMeetings);
 
+    // fallMeetings: tempCourse.fallMeetings, winterMeetings: tempCourse.winterMeetings,
+    //       yearMeetings: tempCourse.yearMeetings
+    dialogConfig.data = {};
+    if (tempCourse.fallMeetings !== undefined)
+      dialogConfig.data.fallMeetings = tempCourse.fallMeetings;
+    if (tempCourse.winterMeetings !== undefined)
+      dialogConfig.data.winterMeetings = tempCourse.winterMeetings;
+    if (tempCourse.yearMeetings !== undefined)
+      dialogConfig.data.yearMeetings = tempCourse.yearMeetings;
+
+
+    // this.focusedCourseMeetings = meetings;
+    const dialogRef = this.dialog.open(CourseListComponent, dialogConfig);
+    dialogRef.afterClosed().subscribe(result => {
+      console.log(`Dialog result: ${result}`);
+    });
   }
 
 }
@@ -203,27 +228,44 @@ function processCourselist(cList: any[]): void {
     element.courseDescription = removeTags(element.courseDescription)
 
     // change how meetings appear
-
-
     element.meetings = cItems(element.meetings);
-
-
     element.meetings.forEach((ls: lecSession) => {
         ls.schedule = cItems(ls.schedule);
         ls.instructors = cItems(ls.instructors);
-
     })
-
-
-    // meeting to be changed to an entry of mettings
-
+    if (element.fallMeetings !== undefined && element.fallMeetings !== null){
+    element.fallMeetings = cItems(element.fallMeetings);
+    element.fallMeetings.forEach((ls: lecSession) => {
+      ls.schedule = cItems(ls.schedule);
+      ls.instructors = cItems(ls.instructors);
+    })
+    }
+    if (element.winterMeetings !== undefined && element.winterMeetings !== null) {
+      element.winterMeetings = cItems(element.winterMeetings);
+      element.winterMeetings.forEach((ls: lecSession) => {
+        ls.schedule = cItems(ls.schedule);
+        ls.instructors = cItems(ls.instructors);
+      })
+    }
+    if (element.yearMeetings !== undefined && element.yearMeetings !== null) {
+      element.yearMeetings = cItems(element.yearMeetings);
+      element.yearMeetings.forEach((ls: lecSession) => {
+        ls.schedule = cItems(ls.schedule);
+        ls.instructors = cItems(ls.instructors);
+      })
+    }
+    // meeting to be changed to an entry of meetings
     // change how schedules appear
     console.log(element);
+    // add codeWithSession
+    element.codeWithSession = element.code + ' ' + element.section;
+
   })
 }
 
 
-function items(obj: any) {
+
+function items(obj: any, noDuplicates: boolean = false) {
   let i, arr = [];
   let j = 0;
   for (i in obj) {
@@ -234,17 +276,39 @@ function items(obj: any) {
     }
   }
   // arr.sort((a, b) => a.code.localeCompare(b.code));
+  if (noDuplicates)
   return removeDuplicates(arr);
+  else return arr;
 }
 
 function removeDuplicates(tempCourseList: any[]): any[] {
+
   let checkedCodes: string[] = [];
   let uniques: any[] = [];
   tempCourseList.forEach(element => {
     if (!checkedCodes.includes(element.code)) {
       // if the course is not already in
+
+      switch(element.section){
+        case 'F': element.fallMeetings = element.meetings; break;
+        case 'S': element.winterMeetings = element.meetings; break;
+        case 'Y': element.yearMeetings = element.meetings; break;
+        default: console.log('No meetings???');
+      }
+
+
       uniques.push(element);
       checkedCodes.push(element.code);
+    } else {
+      const ind = checkedCodes.indexOf(element.code);
+
+      switch(element.section){
+        case 'F': uniques[ind].fallMeetings = element.meetings; break;
+        case 'S': uniques[ind].winterMeetings = element.meetings; break;
+        case 'Y': uniques[ind].yearMeetings = element.meetings; break;
+        default: console.log('No meetings???');
+      }
+
     }
   })
   return uniques
@@ -269,10 +333,10 @@ function removeTags(str: string) {
 }
 
 function splitListToLevels(cList: any[]): any[][] {
-  // cList is a list of courses.
-  // split all courses to 100, 200, 300, and 400 level
-  // courses, based on the order they appear in.
-  // we will assume that the courses are sorted.
+  // cList is a list of courses2.
+  // split all courses2 to 100, 200, 300, and 400 level
+  // courses2, based on the order they appear in.
+  // we will assume that the courses2 are sorted.
   // let targetLevel = 1;
   console.log('SPLITTING LISTS TO LEVELS');
   console.log(cList);

@@ -8,9 +8,10 @@ import { Observable, tap } from 'rxjs';
 
 export class TimetableService {
 
-  productURL: string = "api/courses/coursesMASTER.json";
-  rawURL: string = "api/courses/courses";
-  rawURLend: string = ".json";
+  yearSession: string = "courses";
+  productURL: string = "api/" + this.yearSession + "/coursesMASTER.json";
+  // rawURL: string = "api/courses2/courses";
+  // rawURLend: string = ".json";
   //products: any = ;
   constructor(private http: HttpClient) { }
 
@@ -27,7 +28,7 @@ export class TimetableService {
   }
 
   desToLink(des: string): string {
-    return "api/courses/courses" + des + ".json";
+    return "api/ + this.yearSession + /courses" + des + ".json";
   }
 
 

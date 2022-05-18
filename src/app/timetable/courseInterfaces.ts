@@ -17,6 +17,10 @@ export interface crs {
   distributionCategories: string,
   meetings: lecSession[],
 
+  fallMeetings?: lecSession[],
+  winterMeetings?: lecSession[],
+  yearMeetings?: lecSession[],
+
   // If the course information is visible or not. toggled when clicked
   infoVisible: boolean,
   // whether the course is visible or not, and is a useless variable.
@@ -28,6 +32,7 @@ export interface crs {
   // for now, always take the lowest breadth requirement.
   brq: 0 | 1 | 2 | 3 | 4 | 5  // | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15
   brqColor: string
+  codeWithSession: string
 }
 
 export interface lecSession {

@@ -1,3 +1,67 @@
 table {
   width: 100%;
 }
+
+.pad-it {
+  padding: 10px;
+  width: 100%;
+  // border: 1px solid #4CAF50;
+}
+
+.r-chip {
+
+  display:inline;
+  horiz-align: center;
+  padding: 2px 2px;
+  vertical-align: middle;
+  background-color:#1a5385;
+  border-radius: 10px;
+
+  text-align: center;
+  border: 5px black;
+}
+
+.bold-it{
+  font-weight: bold;
+}
+
+.flexit {
+  display:flex;
+  flex-direction:column;
+}
+
+.margin-it {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.v-pad-it {
+  padding-bottom: 15px;
+}
+
+.flexith {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+
+//.mat-column-instructor {
+//  flex: 0 0 10%;
+//}
+//.mat-column-time {
+//  flex: 0 0 10%;
+//}
+
+.mat-row {
+  height: auto;
+}
+
+.mat-cell {
+  padding: 8px 8px 8px 0;
+}
+
+.ind-tbl {
+  width: 400px;
+}
