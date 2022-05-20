@@ -10,16 +10,90 @@ table {
 
 .r-chip {
 
-  display:inline;
+  display:flex;
+  gap: 5px;
+  flex-direction: row;
   horiz-align: center;
-  padding: 2px 2px;
+  justify-content: flex-start;
+  // padding: 2px 2px;
   vertical-align: middle;
   background-color:#1a5385;
   border-radius: 10px;
-
+  flex-shrink: 0;
   text-align: center;
   border: 5px black;
+  overflow: hidden;
+
 }
+
+.meeting-day-color {
+
+}
+
+
+.intro-content {
+  // width: 300px;
+  // height: 300px;
+  width: 15px;
+  position: relative;
+  padding: 2px 10px;
+
+}
+.intro-content::before {
+  content: "";
+  display: block;
+  // height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 107%;
+  height: 100%;
+  min-height: 24px;
+  background-color: rgba(176, 176, 176, 0.68);
+  mix-blend-mode: overlay;
+}
+.shield{
+  position: relative;
+  alignment: left;
+  padding-right: 4px;
+  // color: #fff;
+
+}
+
+
+
+.meeting-day {
+
+   position: relative;
+   width: 35px;
+
+   // padding: 2px 5px;
+
+}
+
+//.meeting-day::before{
+//  // position: absolute;
+//  // height: 100%;
+//  // width: 100%;
+//  // background-color: rgba(10, 10, 10, 0.4);
+//  // mix-blend-mode: overlay;
+//}
+
+
+
+.meeting-time {
+  padding: 2px 0px;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.assigned-room {
+  padding: 2px 5px;
+  display: inline-block;
+  white-space: nowrap;
+  font-stretch: extra-condensed;
+}
+
 
 .bold-it{
   font-weight: bold;
@@ -62,6 +136,16 @@ table {
   padding: 8px 8px 8px 0;
 }
 
+.width-textArea {
+  min-width: 50px;
+  word-wrap: break-word;
+}
+
 .ind-tbl {
   width: 400px;
+}
+
+.center-it {
+  margin: auto;
+  // text-align: center;
 }

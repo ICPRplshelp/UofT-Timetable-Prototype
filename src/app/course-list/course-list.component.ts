@@ -26,6 +26,13 @@ export class CourseListComponent implements OnInit {
   ) {
     console.log(data);
     this.meetingsArray = [];
+
+
+    // data.fallMeetings = data.fallMeetings.filter((meeting) => meeting.cancel !== 'Cancelled');
+    // data.winterMeetings = data.winterMeetings.filter((meeting) => meeting.cancel !== 'Cancelled');
+    // data.yearMeetings = data.yearMeetings.filter((meeting) => meeting.cancel !== 'Cancelled');
+
+
     // this.sampleMeetings = data.yearMeetings;
     if (data.fallMeetings !== undefined) {
       this.meetingsArray.push(data.fallMeetings);
@@ -46,6 +53,45 @@ export class CourseListComponent implements OnInit {
   ngOnInit(): void {
 
   }
+
+  /**
+   * Return the sync icon.
+   * @param mode SYNC, INPER, and so on.
+   */
+  getSyncIcon(mode: string): string {
+    const inper = 'group';
+    const sync = 'wifi';
+    const syncif = 'wifi group';
+    const async = 'wifi_off';
+    const asyncif = 'wifi_off group';
+
+
+    switch(mode){
+      case 'INPER':
+        return inper;
+      case 'CLASS':
+        return inper;
+      case 'SYNIF':
+        return syncif;
+      case 'SYNC':
+        return sync;
+      case 'ONLSYNC':
+        return sync;
+      case 'ASYNC':
+        return async;
+      case 'ONLASYNC':
+        return async;
+      case 'ASYIF':
+        return asyncif;
+      default:
+        return 'question_mark';
+
+    }
+
+  }
+
+
+
 
   getDayColor(day: string): string[] {
     let tempColor: string;
@@ -113,7 +159,7 @@ export class CourseListComponent implements OnInit {
 
     const toReturn = insNameList.join(", ");
     if (toReturn === "")
-      return "TO BE ADDED";
+      return "";
     else return toReturn;
   }
 
@@ -135,7 +181,12 @@ export class CourseListComponent implements OnInit {
       return 'NA';
 
     if (curTime.includes(':')) {
-      return curTime.split(':')[0];
+      const splitted = curTime.split(':');
+      let timeStr = splitted[0];
+      if (splitted[1] !== '00') {
+        timeStr = timeStr + ':' + splitted[1]
+      }
+      return timeStr;
     } else return 'NA';
   }
 

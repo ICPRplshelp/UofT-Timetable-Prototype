@@ -25,8 +25,9 @@
 
     </div>-->
   <div class="centering">
-    <mat-form-field class="example-form-field" appearance="fill">
+    <mat-form-field class="example-form-field" appearance="fill" (keydown)="keyDownFunction($event)">
         <mat-label>Course designators</mat-label>
+
         <input matInput type="text" [(ngModel)]="courseFilter">
       </mat-form-field>
 
@@ -34,8 +35,26 @@
         Click me!
       </button>
 
-  </div>
 
+<!--    <button id="pleaseHelp" type="button" mat-button (click)="openHelpDialog()">-->
+<!--      PLEASE HELP-->
+<!--    </button>-->
+
+
+
+  </div>
+  <div class="centering">
+    <p class="narrowed">
+      Search for a course designator (First 3 letters of a course code). The heading
+      color of a course represents its level. The color on the right represents
+      its breadth requirement. The colors on the bottom left shows which sessions
+      it is offered in.
+
+      Click on the top half of a course to open its course description. Click on
+      the bottom half to open up its lecture sessions.
+    </p>
+
+  </div>
 
         <div class="cLevel" *ngFor="let cL of splitCourseList">
 
@@ -46,9 +65,62 @@
 
                         <!--COURSE INFO-->
                             <div class="card-header" [style.background-color]="course.levelColor"
-                            [style.border-right-color]="course.brqColor"
                                  (click)="onCourseClicked(course)">
                                 {{course.code}}
+
+<!--                              [style.border-right-color]="course.brqColor"-->
+
+
+                              <div *ngIf="course.hasOnline" class="online-bumper">
+                                <mat-icon
+                                [matTooltipShowDelay]="200"
+                      matTooltipPosition="left"
+                    matTooltip="Has online lectures"
+                                
+                                >wifi</mat-icon>
+                              </div>
+                              <div class="brq-bumper">
+                                <div *ngFor="let brC of course.brColors" class="brq-square"
+                                     [style.background-color]="brC"
+                                     [style.height.%]="100/course.brColors.length"
+                                     [matTooltipShowDelay]="200"
+                      matTooltipPosition="above"
+                    matTooltip="{{course.breadthCategories}}"
+                                >
+<!--                                    THIS IS-->
+                                </div>
+                              </div>
+
+
+                              <div class="session-bumper">
+                                <div *ngIf="course.fallMeetings !== undefined" [style.background-color]="'LightSalmon'"
+                                     class="session-square"
+                                     [matTooltipShowDelay]="200"
+                      matTooltipPosition="left"
+                    matTooltip="offered in the fall"
+                                     >
+
+                                </div>
+                                <div *ngIf="course.winterMeetings !== undefined" [style.background-color]="'LightBlue'"
+                                     class="session-square"
+                                     [matTooltipShowDelay]="200"
+                      matTooltipPosition="left"
+                    matTooltip="offered in the winter"
+                                     >
+
+                                </div>
+                                <div *ngIf="course.yearMeetings !== undefined" [style.background-color]="'MediumOrchid'"
+                                     class="session-square"
+                                [style.min-width]="'40px'"
+                                [matTooltipShowDelay]="200"
+                      matTooltipPosition="left"
+                    matTooltip="offered year-wide"
+                                
+                                >
+
+                                </div>
+                              </div>
+
                             </div>
 <!--                          <div (click)="onCourseClicked(course)">-->
                             <div class="card-body" (click)="openCourseDialog(course)">
@@ -59,22 +131,41 @@
                                     <div [innerHTML]="course.courseDescription"></div>
 
                                     <div *ngIf="course.prerequisite.length != 0">
-                                        <div class="prq">Prerequisite</div>
+                                        <div class="prq"
+                                        
+                                        [matTooltipShowDelay]="200"
+                      matTooltipPosition="left"
+                    matTooltip="You must have taken these courses before taking this one"
+
+                                        >Prerequisite</div>
                                         <div [innerHTML]="course.prerequisite"></div>
                                     </div>
 
                                     <div *ngIf="course.corequisite.length != 0">
-                                        <div class="prq">Corequisite</div>
+                                        <div class="prq"
+                                        [matTooltipShowDelay]="200"
+                      matTooltipPosition="left"
+                    matTooltip="You must take or have taken these courses concurrently with this one"
+                                        >Corequisite</div>
                                         <div [innerHTML]="course.corequisite"></div>
                                     </div>
 
                                     <div *ngIf="course.recommendedPreparation.length != 0">
-                                        <div class="prq">Recommended preparation</div>
+                                        <div class="prq"
+                                        matTooltipPosition="left"
+                                        [matTooltipShowDelay]="200"
+                    matTooltip="You should, but are not required to take these courses before this one">Recommended preparation</div>
                                         <div [innerHTML]="course.recommendedPreparation"></div>
                                     </div>
 
-                                    <div *ngIf="course.exclusion.length != 0">
-                                        <div class="prq">Exclusion</div>
+                                    <div *ngIf="course.exclusion.length != 0"
+                                    
+                                    >
+                                        <div class="prq"
+                                        matTooltipPosition="left"
+                                        [matTooltipShowDelay]="200"
+                    matTooltip="If you've passed any of these courses you can't recieve credit for this one"
+                    >Exclusion</div>
                                         <div [innerHTML]="course.exclusion"></div>
                                     </div>
                                   <!-- PASS IN course.meetings -->

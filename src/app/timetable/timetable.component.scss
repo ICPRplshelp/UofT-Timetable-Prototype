@@ -102,14 +102,17 @@
   // }
 
   .card-header {
-    padding: 33px 15px;
+
+    padding: 33px 0px;
 
     font-weight: bold;
     font-size: 30px;
     // font-family: Helvetica, sans-serif;
     text-align: center;
-    border-right-style: solid;
-    border-width: 20px;
+    //border-right-style: solid;
+    //border-width: 20px;
+    // border-image:   linear-gradient(180deg, yellow 50%, yellow 50%, red 50%, red 75%) 5;
+
     border-right-color: #19177c;
 
 
@@ -117,6 +120,9 @@
 
     color: #fff;
     border-radius: 16px 16px 0px 0px;
+    position:relative;
+    height: 100%;
+    overflow:hidden
   }
 
   .card-body {
@@ -160,3 +166,59 @@
       width: 80%;
     }
   }
+
+.online-bumper{
+  float: left;
+  position: absolute;
+  top: 0;
+  margin: 0 auto;
+  padding: 4px 8px;
+}
+
+
+.session-bumper{
+  float: left;
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  justify-content: flex-start;
+  margin: 0 auto;
+}
+
+.session-square {
+  //border-style: solid;
+  // border-width: 2px;
+  // border-color: black;
+  min-width: 20px;
+  min-height: 10px;
+}
+
+.brq-bumper{
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 0;
+  justify-content: flex-start;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.brq-square {
+  //border-style: solid;
+  // border-width: 2px;
+  // border-color: black;
+  float: right;
+  background-color: black;
+  min-width: 20px;
+  min-height: 20px;
+  // height: 50%;
+}
+
+
+.narrowed {
+
+  max-width: 600px;
+  //text-align: justify;
+  //text-justify: inter-word;
+}

@@ -15,6 +15,9 @@ import {MatButtonModule} from '@angular/material/button';
 import { CourseListComponent } from './course-list/course-list.component';
 import {MatTableModule} from "@angular/material/table";
 import {MatListModule} from "@angular/material/list";
+import {MatTooltipModule} from "@angular/material/tooltip";
+import { HelpPageComponent } from './help-page/help-page.component';
+import { ScheduleComponent } from './schedule/schedule.component';
 
 
 @NgModule({
@@ -22,23 +25,26 @@ import {MatListModule} from "@angular/material/list";
     AppComponent,
     TimetableComponent,
     DialogExampleComponent,
-    CourseListComponent
+    CourseListComponent,
+    HelpPageComponent,
+    ScheduleComponent
   ],
   entryComponents: [DialogExampleComponent],
-    imports: [
-        BrowserModule,
-        HttpClientModule,
-        AppRoutingModule,
-        BrowserAnimationsModule,
-        MatDialogModule,
-        FormsModule,
-        MatSidenavModule,
-        MatInputModule,
-        MatIconModule,
-        MatButtonModule,
-        MatTableModule,
-        MatListModule
-    ],
+  imports: [
+    BrowserModule,
+    HttpClientModule,
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    MatDialogModule,
+    FormsModule,
+    MatSidenavModule,
+    MatInputModule,
+    MatIconModule,
+    MatButtonModule,
+    MatTableModule,
+    MatListModule,
+    MatTooltipModule
+  ],
   providers: [
     {provide: MAT_DIALOG_DEFAULT_OPTIONS, useValue: {hasBackdrop: false}}
   ],

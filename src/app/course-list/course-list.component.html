@@ -1,65 +1,100 @@
 <mat-dialog-content class="mat-typography">
   <div class="v-pad-it">
-  <div class="flexith">
-  <div class="margin-it" *ngFor="let sampleTab of meetingsArray;let i=index">
-    <div *ngIf="sampleTab !== undefined || sampleTab === null" class="ind-tbl">
-      <div class="pad-it">
+    <div class="flexith">
+      <div class="margin-it" *ngFor="let sampleTab of meetingsArray;let i=index">
+        <div *ngIf="sampleTab !== undefined || sampleTab === null" class="ind-tbl">
+          <div class="pad-it">
 
 
-        <!--  Objectives: Loop over this three times  -->
-        <div>
+            <!--  Objectives: Loop over this three times  -->
+            <div>
 
-          <table mat-table [dataSource]="sampleTab" class="mat-elevation-z8"
-                 [ngClass]="{accent:true}"
-                 [style.background-color]="getSessionColor(meetingsArrayType[i])[0]"
-                 >
+              <table mat-table [dataSource]="sampleTab" class="mat-elevation-z8"
+                     [ngClass]="{accent:true}"
+                     [style.background-color]="getSessionColor(meetingsArrayType[i])[0]"
 
-            <!--- Note that these columns can be defined in any order.
-                  The actual rendered columns are set as a property on the row definition" -->
+              >
 
-            <!-- Lecture code Column -->
-            <ng-container matColumnDef="lectureCode" >
-              <th mat-header-cell *matHeaderCellDef> LC</th>
-              <td mat-cell *matCellDef="let element"
-                  [ngStyle]="{'font-weight': element.teachingMethod === 'LEC' ? 'normal' : 'normal'}">
-                {{element.teachingMethod}}{{element.sectionNumber}} </td>
-            </ng-container>
+                <!--- Note that these columns can be defined in any order.
+                      The actual rendered columns are set as a property on the row definition"
 
-            <!-- Instructor Column -->
-            <ng-container matColumnDef="instructor">
-              <th mat-header-cell *matHeaderCellDef> INS</th>
-              <td mat-cell *matCellDef="let element"> {{obtainInstructors(element.instructors)}} </td>
-            </ng-container>
+                      [style.border-spacing]="'10px 0'"
+                      -->
 
-            <!-- Time and Location Column -->
-            <ng-container matColumnDef="time">
-              <th mat-header-cell *matHeaderCellDef> TIME</th>
-              <td mat-cell *matCellDef="let element">
-                <!--      {{obtainSchedule(element.schedule)}}-->
-                <div class="flexit">
-                  <div *ngFor="let meeting of element.schedule" class="r-chip"
-                       [style.color]="getDayColor(meeting.meetingDay)[0]"
-                       [style.background-color]="getDayColor(meeting.meetingDay)[1]">
-                    {{meeting.meetingDay}} {{trimTimes(meeting.meetingStartTime)}}-{{trimTimes(meeting.meetingEndTime)}} {{meeting.assignedRoom1}} {{meeting.assignedRoom2}}
-                  </div>
-                </div>
-              </td>
-            </ng-container>
+                <!-- Lecture code Column -->
+                <ng-container matColumnDef="lectureCode">
+                  <th mat-header-cell *matHeaderCellDef> LC</th>
+                  <td mat-cell *matCellDef="let element"
 
-            <!-- Delivery Column -->
-            <ng-container matColumnDef="deliveryMode">
-              <th mat-header-cell *matHeaderCellDef> DELIVERY</th>
-              <td mat-cell *matCellDef="let element"> {{element.deliveryMode}} </td>
-            </ng-container>
 
-            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-          </table>
+                      [ngStyle]="{'font-weight': element.teachingMethod === 'LEC' ? 'normal' : 'normal'}">
+                    {{element.teachingMethod}}{{element.sectionNumber}} </td>
+                </ng-container>
+
+                <!-- Instructor Column -->
+                <ng-container matColumnDef="instructor">
+                  <th mat-header-cell *matHeaderCellDef> INS</th>
+                  <td mat-cell class="width-textArea"
+                      *matCellDef="let element"> {{obtainInstructors(element.instructors)}} </td>
+                </ng-container>
+
+                <!-- Time and Location Column -->
+                <ng-container matColumnDef="time">
+                  <th mat-header-cell *matHeaderCellDef> TIME</th>
+                  <td mat-cell *matCellDef="let element">
+                    <!--      {{obtainSchedule(element.schedule)}}-->
+                    <div class="flexit">
+                      <div *ngFor="let meeting of element.schedule" class="r-chip"
+                           [style.color]="getDayColor(meeting.meetingDay)[0]"
+                           [style.background-color]="getDayColor(meeting.meetingDay)[1]">
+                        <div class="meeting-day" [style.color]="getDayColor(meeting.meetingDay)[0]">
+                          <div class="intro-content">
+                            <div class="shield">
+                            {{meeting.meetingDay}}
+                            </div>
+
+                          </div>
+                        </div>
+                        <div class="meeting-time">
+                          {{trimTimes(meeting.meetingStartTime)}}-{{trimTimes(meeting.meetingEndTime)}}
+                        </div>
+                        <div
+                          *ngIf="((meeting.assignedRoom1 !== '' || meeting.assignedRoom1 !== undefined
+                           || meeting.assignedRoom2 !== '' || meeting.assignedRoom2 !== undefined))
+                           "
+                          class="assigned-room">
+                          {{meeting.assignedRoom1}} {{meeting.assignedRoom2}}
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </ng-container>
+
+                <!-- Delivery Column -->
+                <ng-container matColumnDef="deliveryMode">
+                  <th mat-header-cell *matHeaderCellDef> DELIVERY</th>
+                  <td mat-cell *matCellDef="let element">
+                    <div class="center-it">
+                    <mat-icon
+                      [matTooltipShowDelay]="200"
+                      matTooltipPosition="right"
+                    matTooltip="{{element.online}}">{{getSyncIcon(element.deliveryMode)}}</mat-icon>
+                    </div>
+<!--                    {{element.deliveryMode}} -->
+
+
+
+                  </td>
+                </ng-container>
+
+                <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+              </table>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  </div>
   </div>
 </mat-dialog-content>
 

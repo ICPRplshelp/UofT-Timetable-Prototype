@@ -8,8 +8,8 @@ import { Observable, tap } from 'rxjs';
 
 export class TimetableService {
 
-  yearSession: string = "courses";
-  productURL: string = "api/" + this.yearSession + "/coursesMASTER.json";
+  yearSession: string = "20209";
+  productURL: string = "api/" + this.yearSession + "/coursesCSC.json";
   // rawURL: string = "api/courses2/courses";
   // rawURLend: string = ".json";
   //products: any = ;

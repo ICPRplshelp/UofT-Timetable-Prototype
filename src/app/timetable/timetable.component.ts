@@ -5,6 +5,8 @@ import {crs, lecSession} from "./courseInterfaces";
 import {utilities} from "./utilities";
 import {cItems} from "../course-list/course-list.component";
 import {CourseListComponent} from "../course-list/course-list.component";
+import {MatSnackBar, MatSnackBarModule} from '@angular/material/snack-bar';
+import {DialogExampleComponent} from "../dialog-example/dialog-example.component";
 
 @Component({
   selector: 'app-timetable',
@@ -18,8 +20,10 @@ export class TimetableComponent implements OnInit {
   coursesData: any;
 
   constructor(private timetableService: TimetableService,
-              public dialog: MatDialog) {
+              public dialog: MatDialog,
+              ) {
   }
+
 
   // openDialog() {
   //   this.dialog.open(DialogExampleComponent);
@@ -90,12 +94,21 @@ export class TimetableComponent implements OnInit {
           // split the entire course list
           // console.log(this.splitCourseList);
         },
-        () => {},
+        () => {
+
+        },
         () => {
           // console.log('master list is', masterList)
           this.splitCourseList = splitListToLevels(masterList);
           // console.log("now, the split course list is", this.splitCourseList);
         })
+    }
+  }
+
+  keyDownFunction(event: { keyCode: number; }) {
+    if (event.keyCode === 13) {
+      this.clicked();
+      // rest of your code
     }
   }
 
@@ -133,7 +146,15 @@ export class TimetableComponent implements OnInit {
 
   dialogConfig = new MatDialogConfig();
 
-  onCourseClicked(course: any): void {
+
+  /**
+   * Returns true if the course has at least one online lecture session.
+   * @param course The course to check.
+   * @returns true if the course has one online lecture session.
+   */
+
+
+  onCourseClicked(course: crs): void {
     console.log('course clicked: ' + course.code);
     course.infoVisible = !course.infoVisible;
     course.cardWidth = course.cardWidth == defaultCardWidth ? expandedCardWidth : defaultCardWidth;
@@ -143,24 +164,44 @@ export class TimetableComponent implements OnInit {
 
   openCourseDialog(tempCourse: crs): void {
     const dialogConfig = new MatDialogConfig();
-    dialogConfig.width = '1200px';
+    const perWidth = 600;
+    // const finalWidth = perWidth * tempCourse.
+    let finalWidth = 0;
+
     console.log(tempCourse.fallMeetings);
 
     // fallMeetings: tempCourse.fallMeetings, winterMeetings: tempCourse.winterMeetings,
     //       yearMeetings: tempCourse.yearMeetings
     dialogConfig.data = {};
-    if (tempCourse.fallMeetings !== undefined)
+    if (tempCourse.fallMeetings !== undefined) {
       dialogConfig.data.fallMeetings = tempCourse.fallMeetings;
-    if (tempCourse.winterMeetings !== undefined)
+    finalWidth += 600;
+    }
+    if (tempCourse.winterMeetings !== undefined){
       dialogConfig.data.winterMeetings = tempCourse.winterMeetings;
-    if (tempCourse.yearMeetings !== undefined)
+    finalWidth += 600;
+    }
+    if (tempCourse.yearMeetings !== undefined){
       dialogConfig.data.yearMeetings = tempCourse.yearMeetings;
+    finalWidth += 600;
+    }
+    finalWidth = Math.max(Math.min(finalWidth, 1500), 600)
+    dialogConfig.width = finalWidth.toString() + 'px';
 
 
     // this.focusedCourseMeetings = meetings;
     const dialogRef = this.dialog.open(CourseListComponent, dialogConfig);
     dialogRef.afterClosed().subscribe(result => {
       console.log(`Dialog result: ${result}`);
+    });
+  }
+
+  openHelpDialog(): void {
+    const dialogConfig = new MatDialogConfig();
+    dialogConfig.width = '800px';
+    const dialogRef = this.dialog.open(DialogExampleComponent, dialogConfig);
+    dialogRef.afterClosed().subscribe(result => {
+      console.log(`Dialog result: ${result}`) ;
     });
   }
 
@@ -181,42 +222,48 @@ const colorYellow = '#ffbf00';
  * Process the course list. That is, make it readable.
  * @param cList
  */
-function processCourselist(cList: any[]): void {
+function processCourselist(cList: crs[]): void {
   // determine the level of the course.
   cList.forEach(element => {
 
     let levelNumber = element.code[3]
     // console.log(levelNumber);
-    if (levelNumber == 1) {
+    if (levelNumber === '1') { // this
       // console.log('case 1');
       element.level = 1;
       element.levelColor = colorGreen;
-    } else if (levelNumber == 2) {
+    } else if (levelNumber === '2') {
       // console.log('case 2');
       element.level = 2;
       element.levelColor = colorBlue;
-    } else if (levelNumber == 3) {
+    } else if (levelNumber === '3') {
       // console.log('case 3');
       element.level = 3;
       element.levelColor = colorPurple;
-    } else if (levelNumber == 4) {
+    } else if (levelNumber === '4') {
       // console.log('case 4');
       element.level = 4;
       element.levelColor = colorRed;
     } else {
       console.log('case default');
-      element.level = 4;
+      element.level = 1;
       element.levelColor = colorGreen;
     }
 
     // Determine the breadth requirement.
-    let br: string = element.breadthCategories;
-    if (br.includes('1')) element.brq = 1;
-    else if (br.includes('2')) element.brq = 2;
-    else if (br.includes('3')) element.brq = 3;
-    else if (br.includes('4')) element.brq = 4;
-    else if (br.includes('5')) element.brq = 5;
-    else element.brq = 0;
+    const br: string = element.breadthCategories;
+    const brArray: number[] = [];
+    if (br.includes('1')) brArray.push(1);
+    if (br.includes('2')) brArray.push(2);
+    if (br.includes('3')) brArray.push(3);
+    if (br.includes('4')) brArray.push(4);
+    if (br.includes('5')) brArray.push(5);
+    if (brArray.length === 0) brArray.push(0);
+
+    element.brColors = [];
+    brArray.forEach((br) => {
+      element.brColors.push(utilities.brColors[br])
+    })
 
     element.brqColor = utilities.brColors[element.brq];
     element.cardWidth = '20%';
@@ -259,6 +306,11 @@ function processCourselist(cList: any[]): void {
     console.log(element);
     // add codeWithSession
     element.codeWithSession = element.code + ' ' + element.section;
+    if (checkOnlineOption(element)) {
+      element.hasOnline = true;
+    } else {
+      element.hasOnline = false;
+    }
 
   })
 }
@@ -352,3 +404,33 @@ function splitListToLevels(cList: any[]): any[][] {
   return courses
 }
 
+function checkOnlineOption(course: crs): boolean {
+  const onlineModes = ['SYNC', 'SYNIF', 'ASYNC', 'ASYIF',
+  'ONLSYNC', 'ONLASYNC'];
+  if (course.fallMeetings !== undefined){
+    for (let meeting of course.fallMeetings) {
+      if (onlineModes.includes(meeting.deliveryMode) &&
+      meeting.teachingMethod === 'LEC'){
+        return true;
+      }
+    }
+  }
+  if (course.winterMeetings !== undefined){
+    for (let meeting of course.winterMeetings) {
+      if (onlineModes.includes(meeting.deliveryMode) &&
+      meeting.teachingMethod === 'LEC'){
+        return true;
+      }
+    }
+  }
+  if (course.yearMeetings !== undefined){
+    for (let meeting of course.yearMeetings) {
+      if (onlineModes.includes(meeting.deliveryMode) &&
+      meeting.teachingMethod === 'LEC'){
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
