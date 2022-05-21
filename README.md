@@ -1,14 +1,21 @@
 # Timetable
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
-
-## Disclaimer
 
 My code is really messy. The `HTML` files should be fine,
 but my coding practices for the `.ts` files might
 look really off to someone who is very experienced with JS/TS.
 
+## How to change the colors
+
+`src/app/timetable/utilities.ts` - this contains color info. Change this however you like. Note that not all colors can be changed from this file, but most of them can.
+
+## How do I run this
+
+Clone/download this repository. Open CMD, and `cd` to the directiory of the repository you've downloaded. Type `npm start`.
+
 ## Development server
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
