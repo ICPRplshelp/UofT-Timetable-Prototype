@@ -62,13 +62,13 @@ export interface lecSession {
 }
 
 export interface crsMeeting {
-  meetingDay?: string | null;
-  meetingStartTime?: string | null;
-  meetingEndTime?: string | null;
-  meetingScheduleId?: string | null;
-  assignedRoom1?: string | null,
-  assignedRoom2?: string | null,
-  key?: string | null;
+  meetingDay?: string;
+  meetingStartTime?: string;
+  meetingEndTime?: string;
+  meetingScheduleId?: string;
+  assignedRoom1?: string,
+  assignedRoom2?: string,
+  key?: string;
 }
 
 export interface crsInstructor {

@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
+## Disclaimer
+
+My code is really messy. The `HTML` files should be fine,
+but my coding practices for the `.ts` files might
+look really off to someone who is very experienced with JS/TS.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
