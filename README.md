@@ -19,7 +19,7 @@ Or you can do this.
 
 Type `npm start`. Then, head to `localhost:4200` on your web browser.
 
-Note: make sure your computer can handle these commands. You need **Node.js**.
+Note: make sure your computer can handle these commands. You need **Node.js** and **angular cli**.
 
 ## Development server
 
