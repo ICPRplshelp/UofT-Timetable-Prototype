@@ -124,12 +124,12 @@ export class CourseListComponent implements OnInit {
         tempColor = utilities.dayColors[5];
         break;
       case 'SU':
-        bgColor = utilities.dayColorText[6];
-        tempColor = utilities.dayColors[6];
+        bgColor = utilities.dayColorText[5];
+        tempColor = utilities.dayColors[5];
         break;
       default:
-        bgColor = utilities.dayColorText[0];
-        tempColor = utilities.dayColors[0];
+        bgColor = utilities.dayColorText[6];
+        tempColor = utilities.dayColors[6];
     }
     return [bgColor, tempColor];
 

@@ -10,7 +10,7 @@ const routes: Routes = [
   {path: 'tc', component: TimetableComponent},
   {path: 'cl', component: CourseListComponent},
   {path: 'sc', component: ScheduleComponent},
-  {path: '', redirectTo: 'tc', pathMatch: 'full'}
+  {path: '', component: TimetableComponent}
 ];
 
 @NgModule({
