@@ -17,7 +17,7 @@ Or you can do this.
 
 ![image](https://user-images.githubusercontent.com/93059453/169639288-b8b70868-ed00-4e97-9d15-14b5106dad47.png)
 
-Type `npm start`.
+Type `npm start`. Then, head to `localhost:4200` on your web browser.
 
 Note: make sure your computer can handle these commands. You need **Node.js**.
 
