@@ -11,7 +11,15 @@ look really off to someone who is very experienced with JS/TS.
 
 ## How do I run this
 
-Clone/download this repository. Open CMD, and `cd` to the directiory of the repository you've downloaded. Type `npm start`.
+Clone/download this repository. Open CMD, and `cd` to the directiory of the repository you've downloaded.
+
+Or you can do this.
+
+![image](https://user-images.githubusercontent.com/93059453/169639288-b8b70868-ed00-4e97-9d15-14b5106dad47.png)
+
+Type `npm start`.
+
+Note: make sure your computer can handle these commands. You need **Node.js**.
 
 ## Development server
 
