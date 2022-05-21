@@ -2,6 +2,7 @@ import {Component, Inject, OnInit} from '@angular/core';
 import {crsInstructor, crsMeeting, lecSession} from "../timetable/courseInterfaces";
 import {MatTableModule} from '@angular/material/table';
 import {MAT_DIALOG_DATA, MatDialogRef} from "@angular/material/dialog";
+import {utilities} from "../timetable/utilities";
 
 // import {MAT_DIALOG_DATA, MatDialogRef} from "@angular/material";
 
@@ -96,38 +97,39 @@ export class CourseListComponent implements OnInit {
   getDayColor(day: string): string[] {
     let tempColor: string;
     let bgColor: string;
+    // why didn't I just use an object for this? that could've been way faster
     switch (day) {
       case 'MO':
-        bgColor = 'black';
-        tempColor = 'Coral';
+        bgColor = utilities.dayColorText[0];
+        tempColor = utilities.dayColors[0];
         break;
       case 'TU':
-        bgColor = 'black';
-        tempColor = 'bisque';
+        bgColor = utilities.dayColorText[1];
+        tempColor = utilities.dayColors[1];
         break;
       case 'WE':
-        bgColor = 'black';
-        tempColor = '#67e09b';
+        bgColor = utilities.dayColorText[2];
+        tempColor = utilities.dayColors[2];
         break;
       case 'TH':
-        bgColor = 'white';
-        tempColor = 'DodgerBlue';
+        bgColor = utilities.dayColorText[3];
+        tempColor = utilities.dayColors[3];
         break;
       case 'FR':
-        bgColor = 'white';
-        tempColor = 'DarkOrchid';
+        bgColor = utilities.dayColorText[4];
+        tempColor = utilities.dayColors[4];
         break;
       case 'SA':
-        bgColor = 'white';
-        tempColor = 'DarkRed';
+        bgColor = utilities.dayColorText[5];
+        tempColor = utilities.dayColors[5];
         break;
       case 'SU':
-        bgColor = 'white';
-        tempColor = 'DarkRed';
+        bgColor = utilities.dayColorText[6];
+        tempColor = utilities.dayColors[6];
         break;
       default:
-        bgColor = 'white';
-        tempColor = 'gray';
+        bgColor = utilities.dayColorText[0];
+        tempColor = utilities.dayColors[0];
     }
     return [bgColor, tempColor];
 
@@ -138,9 +140,9 @@ export class CourseListComponent implements OnInit {
     let temp: string;
     let textColor: string;
     switch(keyword){
-      case 'fall':   textColor = 'black'; temp = '#ffd3a4'; break;
-      case 'winter': textColor = 'black'; temp = '#a6f1ff'; break;
-      case 'year':   textColor = 'white'; temp = '#d5abff'; break;
+      case 'fall':   textColor = 'black'; temp = utilities.tableSessionColors[0]; break;
+      case 'winter': textColor = 'black'; temp = utilities.tableSessionColors[1]; break;
+      case 'year':   textColor = 'white'; temp = utilities.tableSessionColors[2]; break;
       default: textColor = 'black'; temp = 'white';
     }
     return [temp, textColor];

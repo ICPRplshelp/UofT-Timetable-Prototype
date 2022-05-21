@@ -231,23 +231,23 @@ function processCourselist(cList: crs[]): void {
     if (levelNumber === '1') { // this
       // console.log('case 1');
       element.level = 1;
-      element.levelColor = colorGreen;
+      element.levelColor = utilities.levelColors[1];
     } else if (levelNumber === '2') {
       // console.log('case 2');
       element.level = 2;
-      element.levelColor = colorBlue;
+      element.levelColor = utilities.levelColors[2];
     } else if (levelNumber === '3') {
       // console.log('case 3');
       element.level = 3;
-      element.levelColor = colorPurple;
+      element.levelColor = utilities.levelColors[3];
     } else if (levelNumber === '4') {
       // console.log('case 4');
       element.level = 4;
-      element.levelColor = colorRed;
+      element.levelColor = utilities.levelColors[4];
     } else {
       console.log('case default');
       element.level = 1;
-      element.levelColor = colorGreen;
+      element.levelColor = utilities.levelColors[0];
     }
 
     // Determine the breadth requirement.
