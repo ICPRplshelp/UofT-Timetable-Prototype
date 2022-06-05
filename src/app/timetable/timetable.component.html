@@ -41,7 +41,7 @@
 <!--      </mat-form-field>-->
 
       <mat-form-field appearance="fill">
-        <mat-label>Favorite food</mat-label>
+        <mat-label>Session</mat-label>
         <mat-select [(value)]="globalSessionKey">
           <mat-option *ngFor="let sesNum of storedSessionsKeys" [value]="sesNum">
             {{sesNum}}
@@ -61,14 +61,7 @@
 
 </div>
 
-<!--    <div class="center-it-2">-->
 
-<!--      <p>-->
-<!--      <button id="basic" type="button" mat-button (click)="clicked()">-->
-<!--        Search-->
-<!--      </button>-->
-<!--      </p>-->
-<!--    </div>-->
 
 
   </div>
@@ -99,13 +92,25 @@
       <p>
       A "session" is typed like this: <code>&lt;YEAR&gt;&lt;9 for Fall/Winter, 5 for Summer&gt;</code>
       </p>
+
+      
+
     </div>
 
   </div>
 
+  <div class="centering">
+
+    <p>
+    <button id="basic" type="button" mat-stroked-button (click)="clicked()">
+     Search
+  </button>
+    </p>
+  </div>
+
         <div class="cLevel" *ngFor="let cL of splitCourseList">
 
-            <div class="row">
+            <div class="row" *ngIf="cL.length !== 0">
                 <div class="card" *ngFor="let course of cL" [style.min-width]="course.infoVisible ? '40%' : '20%'">
                     <div *ngIf="course.show">
                         <div>

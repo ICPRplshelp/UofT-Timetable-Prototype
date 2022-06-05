@@ -237,6 +237,11 @@ export class CourseListComponent implements OnInit {
 }
 
 
+function blendingOverlay(r: Number, g: Number, b: Number) {
+
+}
+
+
 function safeString(theString: string | undefined | null): string {
   if (theString === undefined || theString === null) {
     return "-";
