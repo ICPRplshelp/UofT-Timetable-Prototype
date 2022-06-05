@@ -1,4 +1,4 @@
-import {Component, Inject, OnInit} from '@angular/core';
+import {Component, HostListener, Inject, OnInit} from '@angular/core';
 import {crsInstructor, crsMeeting, lecSession} from "../timetable/courseInterfaces";
 import {MatTableModule} from '@angular/material/table';
 import {MAT_DIALOG_DATA, MatDialogRef} from "@angular/material/dialog";
@@ -20,6 +20,19 @@ export class CourseListComponent implements OnInit {
 
   // objective: display a table based on the sample
   // meetings list.
+
+
+  lecHead = "LC";
+  insHead = "INS";
+  timeHead = "TIME";
+  delivHead = "DELIVERY";
+
+  private getScreenWidth: number = 800;
+  private getScreenHeight: number = 800;
+  roomsVisible: boolean = true;
+  toggleRooms(){
+    this.roomsVisible = !this.roomsVisible;
+  }
 
   constructor(
     private dialogRef: MatDialogRef<CourseListComponent>,
@@ -52,7 +65,9 @@ export class CourseListComponent implements OnInit {
   }
 
   ngOnInit(): void {
-
+    this.getScreenWidth = window.innerWidth;
+    this.getScreenHeight = window.innerHeight;
+    this.onWindowResize();
   }
 
   /**
@@ -190,6 +205,26 @@ export class CourseListComponent implements OnInit {
       }
       return timeStr;
     } else return 'NA';
+  }
+
+  smallScreen: boolean = false;
+
+  @HostListener('window:resize', ['$event'])
+  onWindowResize() {
+    this.getScreenWidth = window.innerWidth;
+    this.getScreenHeight = window.innerHeight;
+    if(!this.smallScreen && this.getScreenWidth < 768){
+      // displayedColumns: string[] = ['lectureCode', 'instructor', 'time', 'deliveryMode'];
+      this.displayedColumns = ['instructor', 'time', 'deliveryMode'];
+      this.smallScreen = true;
+      this.delivHead = "DELIV";
+      console.log("The screen is small");
+    } else if (this.smallScreen && this.getScreenWidth >= 768) {
+      this.displayedColumns = ['lectureCode', 'instructor', 'time', 'deliveryMode'];
+      this.smallScreen = false;
+      this.delivHead = "DELIVERY";
+      console.log("Screen small no more");
+    }
   }
 
 

@@ -18,6 +18,8 @@ import {MatListModule} from "@angular/material/list";
 import {MatTooltipModule} from "@angular/material/tooltip";
 import { HelpPageComponent } from './help-page/help-page.component';
 import { ScheduleComponent } from './schedule/schedule.component';
+import {MatOptionModule} from "@angular/material/core";
+import {MatSelectModule} from "@angular/material/select";
 
 
 @NgModule({
@@ -43,7 +45,9 @@ import { ScheduleComponent } from './schedule/schedule.component';
     MatButtonModule,
     MatTableModule,
     MatListModule,
-    MatTooltipModule
+    MatTooltipModule,
+    MatOptionModule,
+    MatSelectModule
   ],
   providers: [
     {provide: MAT_DIALOG_DEFAULT_OPTIONS, useValue: {hasBackdrop: false}}

@@ -32,24 +32,43 @@ export class TimetableComponent implements OnInit {
   // this value is binded.
 
   designators: Set<string> = new Set(['ABP', 'ACT', 'AFR', 'AMS', 'ANA', 'ANT', 'APM', 'ARH', 'AST', 'BCB', 'BCH', 'BIO', 'BMS', 'BPM', 'CAR', 'CAS', 'CDN', 'CHC', 'CHM', 'CIN', 'CJH', 'CJS', 'CLA', 'CLT', 'COG', 'CRE', 'CRI', 'CSB', 'CSC', 'CSE', 'CTA', 'DHU', 'DRM', 'DTS', 'EAS', 'ECO', 'EDS', 'EEB', 'ENG', 'ENT', 'ENV', 'ESS', 'EST', 'ETH', 'EUR', 'FAH', 'FCS', 'FIN', 'FOR', 'FRE', 'FSL', 'GER', 'GGR', 'GRK', 'HIS', 'HMB', 'HPS', 'HST', 'HUN', 'IFP', 'IMM', 'INI', 'INS', 'IRE', 'IRW', 'ITA', 'JAL', 'JCA', 'JCI', 'JCR', 'JEG', 'JEH', 'JFG', 'JFP', 'JGA', 'JGE', 'JGJ', 'JGU', 'JHA', 'JHM', 'JIG', 'JLN', 'JLP', 'JLS', 'JNH', 'JNR', 'JNS', 'JPA', 'JPE', 'JPH', 'JPI', 'JPM', 'JPR', 'JPS', 'JQR', 'JRC', 'JRN', 'JSC', 'JSH', 'JSU', 'JWE', 'LAS', 'LAT', 'LCT', 'LIN', 'LMP', 'MAT', 'MCS', 'MGR', 'MGT', 'MGY', 'MHB', 'MIJ', 'MST', 'MUN', 'MUS', 'NEW', 'NFS', 'NMC', 'NML', 'PCJ', 'PCL', 'PDC', 'PHC', 'PHL', 'PHS', 'PHY', 'PLN', 'POL', 'PPG', 'PRT', 'PSL', 'PSY', 'REN', 'RLG', 'RSM', 'SAS', 'SDS', 'SLA', 'SMC', 'SOC', 'SPA', 'STA', 'TRN', 'UNI', 'URB', 'VIC', 'WDW', 'WGS', 'WRR'])
-
+  errMessage: string = '';
   courseFilter: string = '';  // this value is binded.
   splitted: string[] = [];
   courseList: any[] = [];
   allCourses: any[][] = [];
   splitCourseList: crs[][] = [];
   noDuplicates: boolean = true;
-
+  globalSession: string = '20229';
   focusedCourseMeetings: lecSession[] = [];
+  // Prevents the option to search up every course in existence
+  disallowMaster: boolean = true;
+  storedSessions = {
+     "Fall 2020 - Winter 2021": "20209",
+     "Fall 2021 - Winter 2022":"20219",
+     "Summer 2022":"20225",
+     "Fall 2022 - Winter 2023":"20229",
+  };
+  storedSessionsKeys = Object.keys(this.storedSessions);
+  globalSessionKey: string = "Fall 2022 - Winter 2023";
+
 
 
 
   clicked(): void {
+    // @ts-ignore
+    this.globalSession = this.storedSessions[this.globalSessionKey];
+    console.log(this.globalSession);
     this.courseFilter = this.courseFilter.toUpperCase();
     this.splitted = this.courseFilter.split(',');
+    this.splitted.splice(4);
     this.splitted = this.splitted.map(item => item.trim());
+    if (this.disallowMaster) {
+      this.splitted = this.splitted.filter(e => e !== "MASTER");
+    }
     console.log(this.splitted);
     this.getManyCourses(this.splitted);
+    console.log("the split course list is", this.splitCourseList);
 
     // if (this.courseFilter.replace(" ", "") !== "") {
     //   let tempCourseList = this.courseList.filter(course => this.splitted.includes(course.org));
@@ -77,7 +96,7 @@ export class TimetableComponent implements OnInit {
 
     let masterList: any[] = [];
     for (let des of designatorsList) {
-      this.timetableService.getAllCoursesInDes(des).subscribe(
+      this.timetableService.getAllCoursesInDes(des, this.globalSession).subscribe(
         data => {
           // console.log('timetable', data);
           // console.log('timetable1', this.coursesData.length);
@@ -95,9 +114,10 @@ export class TimetableComponent implements OnInit {
           // console.log(this.splitCourseList);
         },
         () => {
-
+          this.errMessage = "You searched a course designator that didn't exist, or a session that doesn't exist or isn't supported.";
         },
         () => {
+          this.errMessage = "";
           // console.log('master list is', masterList)
           this.splitCourseList = splitListToLevels(masterList);
           // console.log("now, the split course list is", this.splitCourseList);
@@ -186,7 +206,8 @@ export class TimetableComponent implements OnInit {
     finalWidth += 600;
     }
     finalWidth = Math.max(Math.min(finalWidth, 1500), 600)
-    dialogConfig.width = finalWidth.toString() + 'px';
+    // dialogConfig.width = finalWidth.toString() + 'px';
+
 
 
     // this.focusedCourseMeetings = meetings;

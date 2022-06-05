@@ -30,6 +30,7 @@
               "src/favicon.ico",
               "src/assets",
               "src/api/20209",
+              "src/api/20219",
               "src/api/20225",
               "src/api/courses",
               "src/api/20229"
@@ -109,6 +110,9 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }

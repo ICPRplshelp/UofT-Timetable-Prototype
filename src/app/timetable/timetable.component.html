@@ -25,15 +25,31 @@
 
     </div>-->
   <div class="centering">
+    <div class="flex-it">
     <mat-form-field class="example-form-field" appearance="fill" (keydown)="keyDownFunction($event)">
         <mat-label>Course designators</mat-label>
 
         <input matInput type="text" [(ngModel)]="courseFilter">
       </mat-form-field>
 
-      <button id="basic" type="button" mat-button (click)="clicked()">
-        Click me!
-      </button>
+
+      <br>
+<!--      <mat-form-field class="example-form-field" appearance="fill" (keydown)="keyDownFunction($event)">-->
+<!--        <mat-label>Session</mat-label>-->
+
+<!--        <input matInput type="text" [(ngModel)]="globalSession">-->
+<!--      </mat-form-field>-->
+
+      <mat-form-field appearance="fill">
+        <mat-label>Favorite food</mat-label>
+        <mat-select [(value)]="globalSessionKey">
+          <mat-option *ngFor="let sesNum of storedSessionsKeys" [value]="sesNum">
+            {{sesNum}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+
 
 
 <!--    <button id="pleaseHelp" type="button" mat-button (click)="openHelpDialog()">-->
@@ -42,17 +58,48 @@
 
 
 
+
+</div>
+
+<!--    <div class="center-it-2">-->
+
+<!--      <p>-->
+<!--      <button id="basic" type="button" mat-button (click)="clicked()">-->
+<!--        Search-->
+<!--      </button>-->
+<!--      </p>-->
+<!--    </div>-->
+
+
   </div>
   <div class="centering">
-    <p class="narrowed">
-      Search for a course designator (First 3 letters of a course code). The heading
+
+
+
+    <div class="narrowed">
+
+      <div *ngIf="errMessage" style="color:red">
+        {{ errMessage }}
+      </div>
+
+      <p>Search for a course designator (First 3 letters of a course code), or more,
+        seperated by commas (up to a maximum of 4). The heading
       color of a course represents its level. The color on the right represents
       its breadth requirement. The colors on the bottom left shows which sessions
-      it is offered in.
+      it is offered in.</p>
 
-      Click on the top half of a course to open its course description. Click on
-      the bottom half to open up its lecture sessions.
-    </p>
+      <p>Click on the top half of a course to open its course description. Click on
+      the bottom half to open up its lecture sessions.</p>
+
+      <p>
+      <strong>Keep in mind that
+      the timetable info may not be the most up-to-date. The timetable
+      information here was last updated in late May 2022.</strong></p>
+
+      <p>
+      A "session" is typed like this: <code>&lt;YEAR&gt;&lt;9 for Fall/Winter, 5 for Summer&gt;</code>
+      </p>
+    </div>
 
   </div>
 
@@ -76,7 +123,7 @@
                                 [matTooltipShowDelay]="200"
                       matTooltipPosition="left"
                     matTooltip="Has online lectures"
-                                
+
                                 >wifi</mat-icon>
                               </div>
                               <div class="brq-bumper">
@@ -115,7 +162,7 @@
                                 [matTooltipShowDelay]="200"
                       matTooltipPosition="left"
                     matTooltip="offered year-wide"
-                                
+
                                 >
 
                                 </div>
@@ -132,7 +179,7 @@
 
                                     <div *ngIf="course.prerequisite.length != 0">
                                         <div class="prq"
-                                        
+
                                         [matTooltipShowDelay]="200"
                       matTooltipPosition="left"
                     matTooltip="You must have taken these courses before taking this one"
@@ -159,7 +206,7 @@
                                     </div>
 
                                     <div *ngIf="course.exclusion.length != 0"
-                                    
+
                                     >
                                         <div class="prq"
                                         matTooltipPosition="left"

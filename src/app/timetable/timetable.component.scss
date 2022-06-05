@@ -4,6 +4,17 @@
     box-sizing: border-box;
   }
 
+  .flex-it {
+    display: flex; /* or inline-flex */
+    flex-wrap: wrap;
+    gap: 10px;
+    // flex-direction: column;
+    // justify-content: flex-start;
+    align-content: space-between;
+
+  }
+
+
   body {
     background: #fefefe;
     font-family: Arial, Helvetica, sans-serif;

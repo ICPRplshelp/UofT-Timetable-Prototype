@@ -1,10 +1,10 @@
 table {
-  width: 100%;
+  // width: 100%;
 }
 
 .pad-it {
-  padding: 10px;
-  width: 100%;
+  padding: 10px 0px 20px 0px;
+  // width: 100%;
   // border: 1px solid #4CAF50;
 }
 
@@ -30,6 +30,10 @@ table {
 
 }
 
+
+.width-limiter {
+  max-width: 88px;
+}
 
 .intro-content {
   // width: 300px;
@@ -115,9 +119,9 @@ table {
 
 .flexith {
   display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-around;
+  // flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 
@@ -142,10 +146,15 @@ table {
 }
 
 .ind-tbl {
-  width: 400px;
+  // width: 400px;
 }
 
 .center-it {
   margin: auto;
   // text-align: center;
+}
+
+.center-it-2 {
+  display: flex;
+  justify-content: center;
 }

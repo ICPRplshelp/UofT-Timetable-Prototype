@@ -23,7 +23,7 @@
 
                 <!-- Lecture code Column -->
                 <ng-container matColumnDef="lectureCode">
-                  <th mat-header-cell *matHeaderCellDef> LC</th>
+                  <th mat-header-cell *matHeaderCellDef> {{lecHead}}</th>
                   <td mat-cell *matCellDef="let element"
 
 
@@ -33,14 +33,16 @@
 
                 <!-- Instructor Column -->
                 <ng-container matColumnDef="instructor">
-                  <th mat-header-cell *matHeaderCellDef> INS</th>
+                  <th mat-header-cell *matHeaderCellDef> {{insHead}}</th>
                   <td mat-cell class="width-textArea"
-                      *matCellDef="let element"> {{obtainInstructors(element.instructors)}} </td>
+                      *matCellDef="let element">
+                    <div class="width-limiter">{{obtainInstructors(element.instructors)}}</div>
+                     </td>
                 </ng-container>
 
                 <!-- Time and Location Column -->
                 <ng-container matColumnDef="time">
-                  <th mat-header-cell *matHeaderCellDef> TIME</th>
+                  <th mat-header-cell *matHeaderCellDef> {{timeHead}}</th>
                   <td mat-cell *matCellDef="let element">
                     <!--      {{obtainSchedule(element.schedule)}}-->
                     <div class="flexit">
@@ -59,11 +61,15 @@
                           {{trimTimes(meeting.meetingStartTime)}}-{{trimTimes(meeting.meetingEndTime)}}
                         </div>
                         <div
-                          *ngIf="((meeting.assignedRoom1 !== '' || meeting.assignedRoom1 !== undefined
+                          *ngIf="
+
+                          ((meeting.assignedRoom1 !== '' || meeting.assignedRoom1 !== undefined
                            || meeting.assignedRoom2 !== '' || meeting.assignedRoom2 !== undefined))
                            "
                           class="assigned-room">
-                          {{meeting.assignedRoom1}} {{meeting.assignedRoom2}}
+
+                          <div *ngIf="roomsVisible">
+                          {{meeting.assignedRoom1}} {{meeting.assignedRoom2}}</div>
                         </div>
                       </div>
                     </div>
@@ -72,7 +78,7 @@
 
                 <!-- Delivery Column -->
                 <ng-container matColumnDef="deliveryMode">
-                  <th mat-header-cell *matHeaderCellDef> DELIVERY</th>
+                  <th mat-header-cell *matHeaderCellDef> {{delivHead}}</th>
                   <td mat-cell *matCellDef="let element">
                     <div class="center-it">
                     <mat-icon
@@ -99,5 +105,8 @@
 </mat-dialog-content>
 
 <mat-dialog-actions align="end">
+  <button id="third" type="button" mat-button (click)="toggleRooms()">
+    Toggle rooms
+  </button>
   <button mat-button mat-dialog-close="">Close</button>
 </mat-dialog-actions>
