@@ -193,6 +193,11 @@ export class CourseListComponent implements OnInit {
     return schList.join('\n');
   }
 
+  processAssignedRooms(r1: string, r2: string) {
+    console.log(r1, r2)
+    return r1 === r2 ? r1 : r1 + ' ' + r2;
+  }
+
   trimTimes(curTime: string): string {
     if (curTime === null || curTime == undefined)
       return 'NA';
@@ -218,6 +223,7 @@ export class CourseListComponent implements OnInit {
       this.displayedColumns = ['instructor', 'time', 'deliveryMode'];
       this.smallScreen = true;
       this.delivHead = "DELIV";
+      this.roomsVisible = false;
       console.log("The screen is small");
     } else if (this.smallScreen && this.getScreenWidth >= 768) {
       this.displayedColumns = ['lectureCode', 'instructor', 'time', 'deliveryMode'];
