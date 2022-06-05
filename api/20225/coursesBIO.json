@@ -1,0 +1,482 @@
+{
+    "BIO120H1-F-20225": {
+        "courseId": "56269",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE) (NUS)",
+        "courseTitle": "Adaptation and Biodiversity",
+        "code": "BIO120H1",
+        "courseDescription": "<p>Principles and concepts of evolution and ecology related to origins of adaptation and biodiversity. Mechanisms and processes driving biological diversification illustrated from various perspectives using empirical and theoretical approaches. Topics include: genetic diversity, natural selection, speciation, physiological, population, and community ecology, maintenance of species diversity, conservation, species extinction, global environmental change, and invasion biology. A lab coat is required and the cost is approximately $16 if students wish to purchase it through the Department. (Lab Materials Fee: $26)</p>",
+        "prerequisite": "Grade 12 Biology or equivalent. Students without high school Biology must consult the BIO120 Office (bio120@utoronto.ca)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>This is an online, synchronous course.&nbsp;<br>Lectures will be given as two 2 hr online videos a week synchronously.&nbsp;<br>Students will have the opportunity for synchronous online tutorials with the lecturer each week.&nbsp;<br>Labs will run synchronously online Tuesdays (P0101) or Thursdays (P0201) from 1-4 pm.&nbsp;<br>Students need to be online during their scheduled lab time.&nbsp;<br>For more information, please contact <a href=\"mailto:bio120@utoronto.ca\">bio120@utoronto.ca</a><br>Students will need: regular access to a computer (note that smartphones are not guaranteed to work for all aspects of the course, and a laptop or desktop computer is recommended); an Internet connection and web browser that allows use of Quercus; Word processing software (if you do not already have this, Office 365 ProPlus can be accessed through U of T).</p>",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-340295": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "340295",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "TH-340296": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "340296",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8671385": {
+                        "instructorId": "8671385",
+                        "firstName": "L",
+                        "lastName": "Duquette"
+                    }
+                },
+                "meetingId": "208481",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "SYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "192",
+                "actualEnrolment": "183",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "30",
+                        "adminOrgCode": "EEB",
+                        "adminOrgName": "Department of Ecology and Evolutionary Biology"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-340297": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "340297",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208482",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TH-340298": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "340298",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208483",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "79",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "BIO130H1-F-20225": {
+        "courseId": "56270",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Molecular and Cell Biology",
+        "code": "BIO130H1",
+        "courseDescription": "<p>One of the goals of modern biology is to understand how the basic building blocks of life give rise to biological form and function. This course provides students with a common lexicon to understand the key principles and concepts in molecular and cell biology, with a focus on how the building blocks of life lead to functioning cells. (Lab Materials Fee: $10). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $25).</p>",
+        "prerequisite": "SBI4U and SCH4U (Grade 12 University Preparation Biology and Chemistry) or permission of department. Please contact bio130@utoronto.ca for more information.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20225",
+        "webTimetableInstructions": "<p>Please refer to the BIO130 description on the Undergraduate course section of the CSB website at <a href=\"http://csb.utoronto.ca\">http://csb.utoronto.ca</a> for more information on labs. You can find out your lab group (e.g., P0101A) by logging into Quercus and looking under the Groups tab. The lab manual can be purchased at the UofT Bookstore and all course information will be available on the course website on Quercus.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-304549": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "304549",
+                        "assignedRoom1": "RW 117",
+                        "assignedRoom2": null
+                    },
+                    "FR-304550": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "304550",
+                        "assignedRoom1": "RW 117",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8671386": {
+                        "instructorId": "8671386",
+                        "firstName": "K",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "208484",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "144",
+                "actualEnrolment": "127",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-305330": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "305330",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208485",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "144",
+                "actualEnrolment": "121",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "BIO230H1-F-20225": {
+        "courseId": "56272",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "From Genes to Organisms",
+        "code": "BIO230H1",
+        "courseDescription": "<p>The genome is the \"book of life,\" providing instructions to construct an organism. This course introduces genome biology and explores how the building blocks of life are networked into functioning organisms. We will investigate how cells perceive internal and external cues, how gene expression is shaped by this perception, and how these events give rise to tissues, organs, and whole organisms. (Lab Materials Fee: $15). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $25).</p>",
+        "prerequisite": "BIO130H1, (CHM135H1, CHM136H1)/(CHM138H1, CHM139H1)/CHM151Y1",
+        "corequisite": "",
+        "exclusion": "BIO255H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20225",
+        "webTimetableInstructions": "<p>You can find out your lab group (e.g., P0101A) by logging into Quercus and looking under the Groups section. The lab manual and all course information will be available on Quercus.</p>",
+        "deliveryInstructions": "<p>This course has an in-person mid-term and final exam. Delivery of lectures and practicals will occur through a combination of synchronous and asynchronous online components. The course instructor will provide details on Quercus.</p>",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-342495": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "342495",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8671387": {
+                        "instructorId": "8671387",
+                        "firstName": "K",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "208486",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "SYNIF",
+                "online": "Online - Synchronous (In Person Final) -- See Delivery Instructions.",
+                "enrollmentCapacity": "216",
+                "actualEnrolment": "207",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-342518": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:30",
+                        "meetingScheduleId": "342518",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208487",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "102",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TH-304566": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:30",
+                        "meetingScheduleId": "304566",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208488",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "95",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "BIO270H1-F-20225": {
+        "courseId": "56276",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Animal Physiology I",
+        "code": "BIO270H1",
+        "courseDescription": "<p>Animal physiology is a biological sub-discipline that aims to understand, in physical and chemical terms, how animals work. This course uses examples from throughout the animal kingdom, in a comparative approach, to introduce and study homeostasis and the endocrine system. Accompanying laboratories reinforce concepts introduced in lectures and provide opportunities for students to experience firsthand the role that experimentation, data collection, interpretation of data, and communication of data plays in the nature of the scientific process. (Lab Materials Fee: $10). Lab coat and safety glasses are required for use in laboratories; students are responsible for purchasing these items (approximate cost is $25).</p>",
+        "prerequisite": "BIO130H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20225",
+        "webTimetableInstructions": "<p>Laboratory enrolment can be done on ACORN until Thursday, May 5. For late lab enrolment or lab changes, please email Nalini Dominique-Guyah at <a href=\"mailto:nalini.dominique@utoronto.ca\">nalini.dominique@utoronto.ca</a> after this date. Lab manual and all course information are available on the U of T Quercus course website.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-305331": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "305331",
+                        "assignedRoom1": "RW 140",
+                        "assignedRoom2": null
+                    },
+                    "TH-305332": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "305332",
+                        "assignedRoom1": "RW 140",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8671388": {
+                        "instructorId": "8671388",
+                        "firstName": "J",
+                        "lastName": "Chung"
+                    }
+                },
+                "meetingId": "208489",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-305333": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "305333",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208490",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TH-305336": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "305336",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208491",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

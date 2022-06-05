@@ -1,0 +1,575 @@
+{
+    "ACT230H1-F-20225": {
+        "courseId": "56001",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Mathematics of Finance for Non-Actuaries",
+        "code": "ACT230H1",
+        "courseDescription": "<p>Introduction to financial mathematics, interest measurement, present value calculation, annuity valuation, loan amortization, consumer financing arrangements, bond valuation. The course is aimed at a general audience who will not be continuing in the actuarial science program. Course manuals fee: $30.</p>",
+        "prerequisite": "First-year Calculus",
+        "corequisite": "",
+        "exclusion": "ACT240H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials and tests will be in-person, office hours will be online or in-person. Details about the course meeting schedule, as well as other course activities and assessments, will be communicated in the course syllabus and/or on Quercus.&nbsp;</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in any online components of this course.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-304586": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "304586",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    },
+                    "WE-304587": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "304587",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8671356": {
+                        "instructorId": "8671356",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "208412",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-304588": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "304588",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    },
+                    "WE-304589": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "304589",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208413",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT240H1-F-20225": {
+        "courseId": "56002",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Mathematics of Investment & Credit",
+        "code": "ACT240H1",
+        "courseDescription": "<p>Interest, discount and present values, as applied to determine prices and values of annuities, mortgages, bonds, equities; loan repayment schedules and consumer finance payments in general; yield rates on investments given the costs on investments. Course manuals fee: $45.</p>",
+        "prerequisite": "MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%)",
+        "corequisite": "",
+        "exclusion": "ACT230H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials and tests will be in-person, office hours will be online or in-person. Details about the course meeting schedule, as well as other course activities and assessments, will be communicated in the course syllabus and/or on Quercus.&nbsp;</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in any online components of this course.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-304590": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "304590",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    },
+                    "WE-304591": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "304591",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8671357": {
+                        "instructorId": "8671357",
+                        "firstName": "S",
+                        "lastName": "Calcetero"
+                    }
+                },
+                "meetingId": "208414",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "MO-304584": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "304584",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    },
+                    "WE-304585": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "304585",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208415",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT245H1-S-20225": {
+        "courseId": "56003",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Financial Principles for Actuarial Science I",
+        "code": "ACT245H1",
+        "courseDescription": "<p>Term structure of interest rates, cashflow duration, convexity and immunization, forward and futures contracts, interest rate swaps, introduction to investment derivatives and hedging strategies.</p>",
+        "prerequisite": "ACT240H1, MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials and tests will be in-person, office hours will be online or in-person. Details about the course meeting schedule, as well as other course activities and assessments, will be communicated in the course syllabus and/or on Quercus.&nbsp;</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in any online components of this course.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-304592": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "304592",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "WE-304593": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "304593",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    }
+                },
+                "instructors": {
+                    "8671358": {
+                        "instructorId": "8671358",
+                        "firstName": "Y",
+                        "lastName": "Wang"
+                    }
+                },
+                "meetingId": "208416",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "MO-304594": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "304594",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "WE-304595": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "304595",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208417",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT247H1-S-20225": {
+        "courseId": "56004",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Introductory Life Contingencies",
+        "code": "ACT247H1",
+        "courseDescription": "<p>Probability theory applied to survival and to costs and risks of life assurances, life annuities, and pensions; analysis of survival distributions; international actuarial notation. Course manuals fee: $35.</p>",
+        "prerequisite": "ACT240H1; MAT137Y1 (minimum grade 63%)/MAT157Y1 (minimum grade 60%); STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials and tests will be in-person, office hours will be online or in-person. Details about the course meeting schedule, as well as other course activities and assessments, will be communicated in the course syllabus and/or on Quercus.&nbsp;</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in any online components of this course.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-304596": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "304596",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    },
+                    "WE-304597": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "304597",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": {
+                    "8671359": {
+                        "instructorId": "8671359",
+                        "firstName": "B",
+                        "lastName": "Singer"
+                    }
+                },
+                "meetingId": "208418",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TH-308054": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "308054",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2173"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208419",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT348H1-F-20225": {
+        "courseId": "56005",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Advanced Life Contingencies",
+        "code": "ACT348H1",
+        "courseDescription": "<p>Determination of benefit premium and benefit reserves for life insurance and annuities; analysis of insurance loss random variables; theory of life contingencies for multiple lives. Course manuals fee: $40.</p>",
+        "prerequisite": "ACT240H1 (minimum 63%); ACT245H1 (minimum 63%); ACT247H1 (minimum 63%); (STA257H1, STA261H1); MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials and tests will be in-person, office hours will be online or in-person. Details about the course meeting schedule, as well as other course activities and assessments, will be communicated in the course syllabus and/or on Quercus.&nbsp;</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in any online components of this course.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-304599": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "304599",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    },
+                    "WE-304600": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "304600",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8671360": {
+                        "instructorId": "8671360",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "208420",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT370H1-S-20225": {
+        "courseId": "56008",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Financial Principles for Actuarial Science II",
+        "code": "ACT370H1",
+        "courseDescription": "<p>Mathematical theory of financial derivatives, discrete and continuous option pricing models, hedging strategies and exotic option valuation.</p>",
+        "prerequisite": "ACT240H1 (minimum 63%); ACT245H1 (minimum 63%); ACT247H1 (minimum 63%); (STA257H1, STA261H1); MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "RSM435H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>Lectures and tutorials and tests will be in-person, office hours will be online or in-person. Details about the course meeting schedule, as well as other course activities and assessments, will be communicated in the course syllabus and/or on Quercus.&nbsp;</p><p>It is strongly recommended that students have a computer with a microphone and camera in order to participate in any online components of this course.</p>",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-304601": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "304601",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    },
+                    "TH-304602": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "304602",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": {
+                    "8671361": {
+                        "instructorId": "8671361",
+                        "firstName": "O",
+                        "lastName": "Yung"
+                    }
+                },
+                "meetingId": "208421",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT391H1-Y-20225": {
+        "courseId": "56012",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Professional Internship",
+        "code": "ACT391H1",
+        "courseDescription": "<p>Internship course for students enrolled in the Actuarial Science Specialist, fulfilled as a 12-week work term in a workplace related to actuarial science in third or fourth year. ACT390H1 must be completed first in preparation. Contact Department for more information. (No tuition fee associated, however an ancillary fee of $720 will be assessed towards Professional Experience placement.)</p>",
+        "prerequisite": "ACT390H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20225",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>For “E” indicator courses: students should obtain an application form from Priya Sivathason, ug.actsci@utoronto.ca at the Department of Statistical Sciences, 700 University Avenue, Room 9160-6, Toronto, Ontario, M5G 1Z5.</p>",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "208422",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "82",
+                        "subjectCode": "ACT",
+                        "subjectName": "ACTUARIAL SCIENCE",
+                        "designationId": "5",
+                        "designationCode": "SPE",
+                        "designationName": "Specialist",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}
