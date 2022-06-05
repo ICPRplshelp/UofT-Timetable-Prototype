@@ -1,5 +1,10 @@
 # Timetable
+**ACCESS IT HERE**
 
+https://icprplshelp.github.io/Uoft-Timetable-Prototype/
+
+
+---
 
 My code is really messy. The `HTML` files should be fine,
 but my coding practices for the `.ts` files might
