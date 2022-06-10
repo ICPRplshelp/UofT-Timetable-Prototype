@@ -27,13 +27,23 @@ export class utilities {
 
   // background colors of the XX:XX-XX:XX elements in the course section list
   static dayColors: string[] = [
-    'Coral',  // mon [0]
-    'bisque',  // tues [1]
-    '#67e09b',  // wed [2]
-    'DodgerBlue',  // thurs [3]
-    'DarkOrchid',  // fri [4]
-    'DarkRed',  // sat/su [5]
+    'Coral',  // mon [0] FF7F50
+    'bisque',  // tues [1] FFE4C4
+    '#67e09b',  // wed [2] 67e09b
+    'DodgerBlue',  // thurs [3] 1E90FF
+    'DarkOrchid',  // fri [4] 9932CC
+    'DarkRed',  // sat/su [5] 8B0000
     'gray'  // for async sections [6]
+  ]
+
+  static dayBrightenedColors: string[] = [
+    '#ff9f64',
+    '#ffebd3',
+    '#81e8b4',
+    '#26acff',
+    '#b33fd9',
+    '#cc1818',
+    '#a0a0a0',
   ]
 
   // text colors of the XX:XX-XX:XX elements in the course section list

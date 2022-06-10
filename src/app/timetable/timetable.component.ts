@@ -193,6 +193,7 @@ export class TimetableComponent implements OnInit {
     // fallMeetings: tempCourse.fallMeetings, winterMeetings: tempCourse.winterMeetings,
     //       yearMeetings: tempCourse.yearMeetings
     dialogConfig.data = {};
+    dialogConfig.data.crsCode = tempCourse.code;
     if (tempCourse.fallMeetings !== undefined) {
       dialogConfig.data.fallMeetings = tempCourse.fallMeetings;
     finalWidth += 600;

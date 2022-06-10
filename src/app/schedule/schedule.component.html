@@ -6,20 +6,59 @@
 
 <!--<p>schedule works!</p>-->
 
+<div class="center-it-2">
+<button 
+id="basic" type="button" mat-stroked-button (click)="reloadTable()">
+    Reload Timetable
+</button></div>
+<div class="flexith">
+<div *ngFor="let fw of sessions">
+<div class="container">
+    <table class="timetableSchedule" style="width:100%;">
+        <thead>
+            <tr>
+                <th
+                style="width:8%; min-width: 50px;"
+                >-</th>
+                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Monday</th>
+                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Tuesday</th>
+                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Wednesday</th>
+                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Thursday</th>
+                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Friday</th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr *ngFor="let tRow of totalTArray[fw]; let i=index">
+                    <td style="width:8%; height:50px;">{{i + 9}}:00</td>
 
-<!--<div class="container">-->
-<!--<table>-->
-<!--  <thead>-->
-<!--  <tr>-->
-<!--    <th>-</th><th>MO</th><th>TU</th><th>WE</th><th>TH</th><th>FR</th>-->
-<!--  </tr>-->
-<!--  </thead>-->
-<!--  <tbody *ngFor="let tRow of sampleTable">-->
-<!--  <td *ngFor="let tCell of tRow" rowspan="tCell.rowSpan">-->
-<!--    {{tCell.text}}-->
-<!--  </td>-->
+                    <td style="width:18%; height:50px;" *ngFor="let cl of tRow as any" 
+                    [attr.rowspan]="calGetDuration(cl)"
+                    [style.color]="'white'"
+                    [style.background-color]="determineBgColor(cl, fw)"
+                    >
+                        <div *ngIf="cl instanceof CalEntry"
+                        style="padding:5px;vertical-align: text-top;"
+                        >
+                            <div
+                            class="courseCodeInfo"
+                            >{{ensureCalEntry(cl).course_code}}</div>
+                            <div
+                            class="courseSection"
+                            >{{ensureCalEntry(cl).course_section}}</div>
+                            <div class="meetInfo">
+                                {{ensureCalEntry(cl).time_to_time}}
+                            </div>
+                        </div>
+                        <div *ngIf="cl === 0">
+                            
+                        </div>
+                    </td>
 
-<!--  </tbody>-->
+                </tr>
+            
+        </tbody>
 
-<!--</table>-->
-<!--</div>-->
+    </table>
+</div>
+</div>
+</div>

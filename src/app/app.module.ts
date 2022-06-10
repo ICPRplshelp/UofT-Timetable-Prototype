@@ -20,6 +20,7 @@ import { HelpPageComponent } from './help-page/help-page.component';
 import { ScheduleComponent } from './schedule/schedule.component';
 import {MatOptionModule} from "@angular/material/core";
 import {MatSelectModule} from "@angular/material/select";
+import {MatCheckboxModule} from "@angular/material/checkbox";
 
 
 @NgModule({
@@ -29,26 +30,27 @@ import {MatSelectModule} from "@angular/material/select";
     DialogExampleComponent,
     CourseListComponent,
     HelpPageComponent,
-    ScheduleComponent
+    ScheduleComponent,
   ],
   entryComponents: [DialogExampleComponent],
-  imports: [
-    BrowserModule,
-    HttpClientModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatDialogModule,
-    FormsModule,
-    MatSidenavModule,
-    MatInputModule,
-    MatIconModule,
-    MatButtonModule,
-    MatTableModule,
-    MatListModule,
-    MatTooltipModule,
-    MatOptionModule,
-    MatSelectModule
-  ],
+    imports: [
+        BrowserModule,
+        HttpClientModule,
+        AppRoutingModule,
+        BrowserAnimationsModule,
+        MatDialogModule,
+        FormsModule,
+        MatSidenavModule,
+        MatInputModule,
+        MatIconModule,
+        MatButtonModule,
+        MatTableModule,
+        MatListModule,
+        MatTooltipModule,
+        MatOptionModule,
+        MatSelectModule,
+        MatCheckboxModule
+    ],
   providers: [
     {provide: MAT_DIALOG_DEFAULT_OPTIONS, useValue: {hasBackdrop: false}}
   ],

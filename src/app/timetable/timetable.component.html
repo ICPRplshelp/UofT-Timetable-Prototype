@@ -5,7 +5,8 @@
 </head>
 
 <body>
-
+  <div>
+    <div>
 
 
     <div class="container">
@@ -87,13 +88,7 @@
       <p>
       <strong>Keep in mind that
       the timetable info may not be the most up-to-date. The timetable
-      information here was last updated in late May 2022.</strong></p>
-
-      <p>
-      A "session" is typed like this: <code>&lt;YEAR&gt;&lt;9 for Fall/Winter, 5 for Summer&gt;</code>
-      </p>
-
-      
+      information here was last updated in late May 2022.</strong></p>  
 
     </div>
 
@@ -179,6 +174,8 @@
                                 <p class="course-name">{{course.courseTitle}}
                                 </p>
 
+                                <!-- <p>2h/week</p> -->
+
                                 <div class="courseDescription" *ngIf="course.infoVisible">
                                     <div [innerHTML]="course.courseDescription"></div>
 
@@ -216,7 +213,7 @@
                                         <div class="prq"
                                         matTooltipPosition="left"
                                         [matTooltipShowDelay]="200"
-                    matTooltip="If you've passed any of these courses you can't recieve credit for this one"
+                    matTooltip="If you've passed or are concurrently taking any of these courses you can't recieve credit for this one"
                     >Exclusion</div>
                                         <div [innerHTML]="course.exclusion"></div>
                                     </div>
@@ -243,5 +240,7 @@
 
 
 <p>⠀</p>
-
+</div>
+<app-schedule></app-schedule>
+</div>
 </body>

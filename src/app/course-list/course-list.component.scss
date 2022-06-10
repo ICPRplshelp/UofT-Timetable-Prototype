@@ -9,11 +9,11 @@ table {
 }
 
 .r-chip {
-
+  padding-right: 5px;
   display:flex;
   gap: 5px;
   flex-direction: row;
-  horiz-align: center;
+  // horiz-align: center;
   justify-content: flex-start;
   // padding: 2px 2px;
   vertical-align: middle;
@@ -68,13 +68,15 @@ table {
 
 
 .meeting-day {
-
-   position: relative;
+  padding: 2px 0px;
+   // position: relative;
    width: 35px;
 
    // padding: 2px 5px;
 
 }
+
+
 
 //.meeting-day::before{
 //  // position: absolute;
@@ -84,7 +86,12 @@ table {
 //  // mix-blend-mode: overlay;
 //}
 
-
+.vert-centered-element {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
 
 .meeting-time {
   padding: 2px 0px;
@@ -155,7 +162,26 @@ table {
   // text-align: center;
 }
 
+.allow-wrap {
+  white-space: wrap;
+  max-width: 80px;
+}
+
 .center-it-2 {
   display: flex;
   justify-content: center;
+}
+
+.vert-center {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  // margin: 0;
+  // position: absolute;
+  // top: 50%;
+  // left: 50%;
+  // -ms-transform: translate(-50%, -50%);
+  // transform: translate(-50%, -50%);
 }

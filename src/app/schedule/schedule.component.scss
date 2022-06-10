@@ -1,0 +1,72 @@
+
+rect {
+    stroke: #CCCCCC;
+    stroke-width: 1px;
+    fill: #FFFFFF;
+}
+rect.dayOfWeek {
+    fill: #EEEEEE;
+}
+text {
+    font-size: 11px;
+}
+text.dayOfWeek {
+    stroke: #404040;
+    stroke-width: 1px;
+    font-weight: 700;
+}
+text.timeOfDay {
+    stroke: #404040;
+    stroke-width: 1px;
+    font-weight: 700;}
+.meetInfo {
+    font-size: 90%;
+    font-weight: normal;
+}
+.roomInfo {
+    font-size: 90%;
+    font-weight: normal;
+}
+.courseCodeInfo {
+    font-weight: bold;
+}
+.courseSection {
+    margin-top: 10px;
+}
+.meetingInfo {
+    padding: 10px;
+}
+ table.timetableSchedule {
+    border: 2px solid #ccc;
+}
+.dayOfWeek {
+    background-color: #eee !important;
+    text-align: center !important;
+}
+.courseCodeInfo {
+    font-weight: 700 !important;
+}
+
+.courseSection {
+    margin-top: 0;
+}
+
+
+
+.center-it-2 {
+    display: flex;
+    justify-content: center;
+  }
+
+  table, th, td {
+    border: 2px solid rgb(176, 176, 176);
+    border-collapse: collapse;
+  }
+
+  .flexith {
+    display: flex;
+    // flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 40px;
+  }

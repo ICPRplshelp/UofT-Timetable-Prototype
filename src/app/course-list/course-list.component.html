@@ -11,9 +11,7 @@
 
               <table mat-table [dataSource]="sampleTab" class="mat-elevation-z8"
                      [ngClass]="{accent:true}"
-                     [style.background-color]="getSessionColor(meetingsArrayType[i])[0]"
-
-              >
+                     [style.background-color]="getSessionColor(meetingsArrayType[i])[0]">
 
                 <!--- Note that these columns can be defined in any order.
                       The actual rendered columns are set as a property on the row definition"
@@ -22,6 +20,37 @@
                       -->
 
                 <!-- Lecture code Column -->
+
+                <div>
+                <ng-container matColumnDef="chosen">
+                  <th mat-header-cell *matHeaderCellDef> SEL </th>
+                  <td mat-cell *matCellDef="let element">
+
+                    <!-- <div *ngIf="checkInCourseController(courseCode,
+                    fys[i], element.teachingMethod + element.sectionNumber)">
+                  It's in.
+                  </div> -->
+
+                  <!-- <div *ngIf="checkCourseConflictController(element.schedule,
+                  fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber)">This conflicts!!!</div> -->
+
+                  <mat-checkbox
+                    [checked]="checkInCourseController(courseCode,
+                    fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber)"
+                    color="primary"
+                    [disabled]="checkCourseConflictController(element.schedule,
+                    fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber)"
+                    (change)="onChange($event,
+                    fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber,
+                    element.schedule, element.deliveryMode)"
+                  >
+
+                  </mat-checkbox>
+
+                  </td>
+                </ng-container>
+
+
                 <ng-container matColumnDef="lectureCode">
                   <th mat-header-cell *matHeaderCellDef> {{lecHead}}</th>
                   <td mat-cell *matCellDef="let element"
@@ -47,30 +76,65 @@
                     <!--      {{obtainSchedule(element.schedule)}}-->
                     <div class="flexit">
                       <div *ngFor="let meeting of element.schedule" class="r-chip"
-                           [style.color]="getDayColor(meeting.meetingDay)[0]"
-                           [style.background-color]="getDayColor(meeting.meetingDay)[1]">
-                        <div class="meeting-day" [style.color]="getDayColor(meeting.meetingDay)[0]">
-                          <div class="intro-content">
+                           [style.color]="
+                           checkCourseConflictController([meeting],
+                        fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber)
+                         ? getDayColor('CO')[0] :
+                           getDayColor(meeting.meetingDay)[0]
+                           "
+                           [style.background-color]="
+                           checkCourseConflictController([meeting],
+                           fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber)
+                        ? getDayColor('CO')[1]:   
+                           getDayColor(meeting.meetingDay)[1]
+                           
+                           "
+                           [style.min-height]="24*getMeetingDuration(meeting.meetingStartTime, meeting.meetingEndTime) + 'px'"
+
+
+                           [matTooltipShowDelay]="200"
+                           matTooltipPosition="right"
+                         [matTooltip]="ensureString(checkCourseConflictController([meeting],
+                         fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber))"
+
+                           >
+                        <div class="meeting-day"
+                        [style.background-color]="
+                        checkCourseConflictController([meeting],
+                        fys_actual(meetingsArrayType[i]), element.teachingMethod + element.sectionNumber)
+                  ?
+                        getDayColor('CO')[2] : 
+                        getDayColor(meeting.meetingDay)[2]
+                        ">
+                        <div class="vert-center">
+                        {{meeting.meetingDay}}
+                        
+                      </div>
+                          <!-- <div class="intro-content">
                             <div class="shield">
                             {{meeting.meetingDay}}
                             </div>
 
-                          </div>
+                          </div> -->
                         </div>
-                        <div class="meeting-time">
+                        <div class="meeting-time"> <div class="vert-center">
                           {{trimTimes(meeting.meetingStartTime)}}-{{trimTimes(meeting.meetingEndTime)}}
-                        </div>
+                        </div></div>
                         <div
                           *ngIf="
 
-                          ((meeting.assignedRoom1 !== '' || meeting.assignedRoom1 !== undefined
+                          roomsVisible && ((meeting.assignedRoom1 !== '' || meeting.assignedRoom1 !== undefined
                            || meeting.assignedRoom2 !== '' || meeting.assignedRoom2 !== undefined))
+
                            "
                           class="assigned-room">
+                          <div class="vert-center">
+                          <div>
+                            {{processAssignedRooms(meeting.assignedRoom1, meeting.assignedRoom2)}}
+                          <!-- {{meeting.assignedRoom1}} {{meeting.assignedRoom2}} -->
 
-                          <div *ngIf="roomsVisible">
-                          {{meeting.assignedRoom1}} {{meeting.assignedRoom2}}</div>
                         </div>
+                        </div></div>
                       </div>
                     </div>
                   </td>
@@ -81,20 +145,23 @@
                   <th mat-header-cell *matHeaderCellDef> {{delivHead}}</th>
                   <td mat-cell *matCellDef="let element">
                     <div class="center-it">
-                    <mat-icon
+                      <div class="allow-wrap">
+                    <mat-icon *ngIf="!noDeliverySymbols"
                       [matTooltipShowDelay]="200"
                       matTooltipPosition="right"
                     matTooltip="{{element.online}}">{{getSyncIcon(element.deliveryMode)}}</mat-icon>
-                    </div>
+                    <div *ngIf="noDeliverySymbols">{{element.online === undefined ? '' : element.online.replace('-- See Delivery Instructions.', '')}}</div>
+                  </div></div>
 <!--                    {{element.deliveryMode}} -->
-
-
-
                   </td>
                 </ng-container>
 
+
+
+
                 <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
                 <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+              </div>
               </table>
             </div>
           </div>
@@ -107,12 +174,12 @@
 <mat-dialog-actions align="end">
 
   <button id="fth" type="button" mat-button (click)="toggleRooms()">
-    
+
   </button>
 
   <button id="third" type="button" mat-button (click)="toggleRooms()">
     Toggle rooms
   </button>
-  
+
   <button id="closer" mat-button mat-dialog-close="">Close</button>
 </mat-dialog-actions>
