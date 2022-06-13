@@ -659,7 +659,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -686,7 +686,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1286,18 +1286,18 @@
         "recommendedPreparation": "Completion of at least 10.0 Science credits",
         "section": "S",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-333089": {
+                    "FR-343253": {
                         "meetingDay": "FR",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "333089",
+                        "meetingScheduleId": "343253",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -1311,11 +1311,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "11",
+                "enrollmentCapacity": "10",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }

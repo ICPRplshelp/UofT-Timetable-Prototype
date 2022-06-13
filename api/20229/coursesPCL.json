@@ -210,19 +210,19 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-320801": {
+                    "TU-343227": {
                         "meetingDay": "TU",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "320801",
+                        "meetingScheduleId": "343227",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "TH-320802": {
+                    "TH-343228": {
                         "meetingDay": "TH",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "320802",
+                        "meetingScheduleId": "343228",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -236,11 +236,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "250",
+                "enrollmentCapacity": "300",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -730,7 +730,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -757,7 +757,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -940,7 +940,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -967,7 +967,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1428,7 +1428,7 @@
         "orgName": "Pharmacology (PCL) (JPM)",
         "courseTitle": "Drug Development Pipeline I: In vitro",
         "code": "PCL367H1",
-        "courseDescription": "<p>This course will provide a learning experience that simulates the process, techniques, analysis and evaluation methods used for early-stage <em>in vitro</em> drug development. Modules will build on the student’s fundamental knowledge and will simulate and illustrate the thought processes and techniques that are used during new drug development in academic research institutes, clinical research organizations and pharmaceutical and biotechnology companies worldwide. Modules include target screening, cytotoxicity assays, transcriptional activation testing and metabolizing enzyme identification experiments. This experience will allow students to leverage their learned knowledge to improve their employability in this area, while honing their critical thinking and analytical skills.</p>",
+        "courseDescription": "<p>This course will provide a learning experience that simulates the process, techniques, analysis and evaluation methods used for early-stage <em>in vitro</em> drug development. Modules will build on the student’s fundamental knowledge and will simulate and illustrate the thought processes and techniques that are used during new drug development in academic research institutes, clinical research organizations and pharmaceutical and biotechnology companies worldwide. Modules include target screening, cytotoxicity assays, transcriptional activation testing and metabolizing enzyme identification experiments. This experience will allow students to leverage their learned knowledge to improve their employability in this area, while honing their critical thinking and analytical skills. (Lab Materials Fee: $25)</p>",
         "prerequisite": "PSL300H1, PSL301H1",
         "corequisite": "PCL302H1",
         "exclusion": "",
@@ -1784,7 +1784,7 @@
                         "designationId": "5",
                         "designationCode": "SPE",
                         "designationName": "Specialist",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1811,7 +1811,7 @@
                         "designationId": "5",
                         "designationCode": "SPE",
                         "designationName": "Specialist",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1946,7 +1946,7 @@
         "orgName": "Pharmacology (PCL) (JPM)",
         "courseTitle": "Drug Development Pipeline II: In vivo",
         "code": "PCL368H1",
-        "courseDescription": "<p>This course will provide a learning experience that parallels and simulates the process, protocols, methods and evaluation tools used for later-stage <em>in vivo</em> drug development. Modules will build on the student’s fundamental knowledge and simulate the thought processes and techniques used during drug development in research institutes, clinical research organizations and pharmaceutical and biotechnology companies worldwide. Modules will include pharmacokinetic and pharmacodynamic analyses and pharmacogenetic screening approaches in model systems and humans. This experience will allow students to leverage their learned skills and knowledge to improve their comprehension and employability in this area, while honing critical thinking and analytical skills.</p>",
+        "courseDescription": "<p>This course will provide a learning experience that parallels and simulates the process, protocols, methods and evaluation tools used for later-stage <em>in vivo</em> drug development. Modules will build on the student’s fundamental knowledge and simulate the thought processes and techniques used during drug development in research institutes, clinical research organizations and pharmaceutical and biotechnology companies worldwide. Modules will include pharmacokinetic and pharmacodynamic analyses and pharmacogenetic screening approaches in model systems and humans. This experience will allow students to leverage their learned skills and knowledge to improve their comprehension and employability in this area, while honing critical thinking and analytical skills. (Lab Materials Fee: $25)</p>",
         "prerequisite": "PSL300H1, PSL301H1, PCL201H1, PCL302H1",
         "corequisite": "",
         "exclusion": "",
@@ -2302,7 +2302,7 @@
                         "designationId": "5",
                         "designationCode": "SPE",
                         "designationName": "Specialist",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2329,7 +2329,7 @@
                         "designationId": "5",
                         "designationCode": "SPE",
                         "designationName": "Specialist",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2512,7 +2512,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2539,7 +2539,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2688,11 +2688,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-324995": {
+                    "WE-343527": {
                         "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:30",
-                        "meetingScheduleId": "324995",
+                        "meetingScheduleId": "343527",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -2706,11 +2706,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "30",
+                "enrollmentCapacity": "25",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -2722,7 +2722,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2749,7 +2749,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -3069,7 +3069,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -3096,7 +3096,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -3790,7 +3790,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -3817,7 +3817,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -3954,7 +3954,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -3981,7 +3981,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -4476,7 +4476,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -4503,7 +4503,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -4598,11 +4598,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-323469": {
+                    "TH-343006": {
                         "meetingDay": "TH",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "323469",
+                        "meetingScheduleId": "343006",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -4611,7 +4611,7 @@
                 "meetingId": "215179",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "Drugs, Poisons, and Public Policy: The Role of Pharmacology & Toxicology in Policy-Making",
+                "subtitle": "Drugs, Poisons, and Public Pharmacology & Toxicology in Policy-Making",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
@@ -4620,7 +4620,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "142",

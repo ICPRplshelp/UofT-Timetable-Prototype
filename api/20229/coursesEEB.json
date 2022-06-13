@@ -1498,13 +1498,13 @@
             },
             "PRA-0101": {
                 "schedule": {
-                    "TU-320095": {
+                    "TU-342977": {
                         "meetingDay": "TU",
-                        "meetingStartTime": "09:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "320095",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "342977",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1520,18 +1520,18 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "PRA-0102": {
                 "schedule": {
-                    "TU-338968": {
+                    "TU-342978": {
                         "meetingDay": "TU",
-                        "meetingStartTime": "09:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "338968",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "342978",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1552,13 +1552,13 @@
             },
             "PRA-0201": {
                 "schedule": {
-                    "TU-338969": {
-                        "meetingDay": "TU",
+                    "WE-342979": {
+                        "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "338969",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                        "meetingScheduleId": "342979",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1579,13 +1579,13 @@
             },
             "PRA-0202": {
                 "schedule": {
-                    "TU-338970": {
-                        "meetingDay": "TU",
+                    "WE-342980": {
+                        "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "338970",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                        "meetingScheduleId": "342980",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1606,13 +1606,13 @@
             },
             "PRA-0301": {
                 "schedule": {
-                    "WE-338971": {
-                        "meetingDay": "WE",
-                        "meetingStartTime": "14:00",
-                        "meetingEndTime": "17:00",
-                        "meetingScheduleId": "338971",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                    "TH-342981": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "342981",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1633,13 +1633,13 @@
             },
             "PRA-0302": {
                 "schedule": {
-                    "WE-338972": {
-                        "meetingDay": "WE",
-                        "meetingStartTime": "14:00",
-                        "meetingEndTime": "17:00",
-                        "meetingScheduleId": "338972",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                    "TH-342982": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "342982",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1660,13 +1660,13 @@
             },
             "PRA-0401": {
                 "schedule": {
-                    "TH-338973": {
+                    "TH-342983": {
                         "meetingDay": "TH",
-                        "meetingStartTime": "09:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "338973",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "342983",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1687,13 +1687,13 @@
             },
             "PRA-0402": {
                 "schedule": {
-                    "TH-338974": {
+                    "TH-342984": {
                         "meetingDay": "TH",
-                        "meetingStartTime": "09:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "338974",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "342984",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -8362,19 +8362,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-341208": {
+                    "FR-343257": {
                         "meetingDay": "FR",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "341208",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    },
-                    "FR-341209": {
-                        "meetingDay": "FR",
-                        "meetingStartTime": "13:00",
-                        "meetingEndTime": "15:00",
-                        "meetingScheduleId": "341209",
+                        "meetingScheduleId": "343257",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -8392,7 +8384,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 7, 2022: Time change. ",
                 "enrollmentControls": [
                     {
                         "postId": "42",
@@ -8557,6 +8549,33 @@
                         "adminOrgName": null
                     }
                 ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-343258": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "343258",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220743",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "June 7, 2022: TUT section added.",
+                "enrollmentControls": []
             }
         }
     },
@@ -10505,30 +10524,15 @@
         "distributionCategories": "Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-322012": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "12:30",
-                        "meetingScheduleId": "322012",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "218507",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "42",
@@ -10749,30 +10753,15 @@
                 ]
             },
             "PRA-0101": {
-                "schedule": {
-                    "WE-322011": {
-                        "meetingDay": "WE",
-                        "meetingStartTime": "14:00",
-                        "meetingEndTime": "17:00",
-                        "meetingScheduleId": "322011",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "218508",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }

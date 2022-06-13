@@ -1685,19 +1685,19 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-335481": {
+                    "WE-343073": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "335481",
+                        "meetingScheduleId": "343073",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "WE-335482": {
+                    "WE-343074": {
                         "meetingDay": "WE",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "335482",
+                        "meetingScheduleId": "343074",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -1715,8 +1715,65 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R2",
-                "meetingStatusNotes": null,
-                "enrollmentControls": []
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "267",
+                        "postCode": "ASSPE1002",
+                        "postName": "SP IMMUNOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "restrictedGroup": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "73",
+                        "postCode": "ASMAJ1002",
+                        "postName": "MA IMMUNOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "restrictedGroup": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
             }
         }
     },

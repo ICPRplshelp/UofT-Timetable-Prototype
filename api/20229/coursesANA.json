@@ -291,11 +291,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-334974": {
+                    "TU-343302": {
                         "meetingDay": "TU",
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "334974",
+                        "meetingScheduleId": "343302",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -309,20 +309,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "15",
+                "enrollmentCapacity": "16",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "PRA-0101": {
                 "schedule": {
-                    "TH-334975": {
+                    "TH-343303": {
                         "meetingDay": "TH",
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "334975",
+                        "meetingScheduleId": "343303",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -336,11 +336,11 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "15",
+                "enrollmentCapacity": "16",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -507,7 +507,7 @@
         "section": "Y",
         "session": "20229",
         "webTimetableInstructions": "<p>Students must submit a completed ANA498Y1Y ballot to <a href=\"mailto:anatomy@utoronto.ca\">anatomy@utoronto.ca</a> before being approved and enrolled. Ballots are available on the course website:&nbsp;<a href=\"https://surgery.utoronto.ca/division-anatomy-arts-science-undergraduate-courses\">https://surgery.utoronto.ca/division-anatomy-arts-science-undergraduate-courses.&nbsp;</a></p>",
-        "deliveryInstructions": "",
+        "deliveryInstructions": "<p>Students are expected to give in-person presentations during scheduled tutorials in March/April 2023. Tutorials will run on Wednesdays in March/April 2022 from 11:00am – 1:00pm. An introductory tutorial will be held in early September 2022 during the Wednesday from 11-1 timeslot.&nbsp; No additional tutorials will run in the fall or winter terms.</p>",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science",
         "meetings": {
@@ -530,7 +530,7 @@
                 "cancel": "",
                 "waitlist": "N",
                 "deliveryMode": "INPER",
-                "online": "In Person",
+                "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "9999",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
@@ -557,7 +557,7 @@
                 "cancel": "",
                 "waitlist": "N",
                 "deliveryMode": "INPER",
-                "online": "In Person",
+                "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "9999",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",

@@ -460,12 +460,12 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "WE-338273": {
-                        "meetingDay": "WE",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "19:00",
-                        "meetingScheduleId": "338273",
-                        "assignedRoom1": "",
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
                         "assignedRoom2": null
                     }
                 },
@@ -476,13 +476,14 @@
                 "subtitle": "",
                 "cancel": "",
                 "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
+                "deliveryMode": "ASYIF",
+                "online": "Online Asynchronous (with in-person assessments)",
+                "contactHours": "2.0",
                 "enrollmentCapacity": "325",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 6, 2022: Delivery Method changed. ",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -1494,7 +1495,7 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": "<p>Important: See EAS's <a href=\"https://www.eas.utoronto.ca/languages/enrolment-instructions/korean\">Korean Course Enrolment Instructions</a> for screening and placement processes as soon as possible, and before enrolling in the course on ACORN. Follow the placement/screening procedures on our website. &nbsp;</p><p>Students must enrol in tutorials as follows: LEC0101 in TUT0101 or TUT0201; LEC0201 in TUT0301 or TUT0401; LEC0301 in TUT0501 or TUT0601; LEC0401 in TUT5101 or TUT5201.</p>",
+        "webTimetableInstructions": "<p>Important: See EAS's Korean Course Enrolment Instructions for screening and placement processes as soon as possible, and before enrolling in the course on ACORN.&nbsp;</p><p>Follow the placement/screening procedures on our website. Students must enrol in tutorials as follows: LEC0101 in TUT0101 or TUT0201; LEC0201 in TUT0301 or TUT5101; LEC0301 in TUT0401 or TUT0501; LEC0401 in TUT0601 or TUT5201.&nbsp;</p>",
         "deliveryInstructions": "",
         "breadthCategories": "Creative and Cultural Representations (1)",
         "distributionCategories": "Humanities",
@@ -7053,18 +7054,18 @@
         "recommendedPreparation": "",
         "section": "S",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Creative and Cultural Representations (1)",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-321286": {
+                    "TH-342975": {
                         "meetingDay": "TH",
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "321286",
+                        "meetingScheduleId": "342975",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -7078,11 +7079,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "45",
+                "enrollmentCapacity": "20",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -7461,36 +7462,21 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Thought, Belief and Behaviour (2)",
         "distributionCategories": "",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-327887": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "11:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "327887",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "218400",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "45",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -8102,11 +8088,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-332768": {
+                    "MO-343053": {
                         "meetingDay": "MO",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "332768",
+                        "meetingScheduleId": "343053",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -8124,7 +8110,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -8140,9 +8126,9 @@
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
-                        "primaryOrgId": "1",
-                        "primaryOrgCode": "*",
-                        "primaryOrgName": "",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",

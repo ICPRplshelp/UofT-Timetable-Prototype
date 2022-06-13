@@ -1808,11 +1808,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-341954": {
+                    "FR-343063": {
                         "meetingDay": "FR",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "341954",
+                        "meetingScheduleId": "343063",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -1831,7 +1831,64 @@
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R2",
                 "meetingStatusNotes": "",
-                "enrollmentControls": []
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "restrictedGroup": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "47",
+                        "assocOrgCode": "INNIS",
+                        "assocOrgName": "Innis College",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "restrictedGroup": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
             }
         }
     },
@@ -2480,19 +2537,19 @@
             },
             "LEC-0201": {
                 "schedule": {
-                    "TU-339392": {
+                    "TU-343229": {
                         "meetingDay": "TU",
                         "meetingStartTime": "08:00",
                         "meetingEndTime": "10:00",
-                        "meetingScheduleId": "339392",
+                        "meetingScheduleId": "343229",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "TH-339393": {
+                    "TH-343230": {
                         "meetingDay": "TH",
                         "meetingStartTime": "08:00",
                         "meetingEndTime": "10:00",
-                        "meetingScheduleId": "339393",
+                        "meetingScheduleId": "343230",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -2504,13 +2561,13 @@
                 "subtitle": "",
                 "cancel": "",
                 "waitlist": "Y",
-                "deliveryMode": "SYNC",
-                "online": "Online Synchronous",
+                "deliveryMode": "INPER",
+                "online": "In Person",
                 "enrollmentCapacity": "30",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 6, 2022: Delivery Method changed. ",
                 "enrollmentControls": []
             },
             "LEC-5101": {

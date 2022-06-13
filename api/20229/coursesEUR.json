@@ -286,38 +286,15 @@
                 "enrollmentControls": []
             },
             "TUT-0301": {
-                "schedule": {
-                    "TU-338962": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "13:00",
-                        "meetingEndTime": "14:00",
-                        "meetingScheduleId": "338962",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    },
-                    "TH-338963": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "13:00",
-                        "meetingEndTime": "14:00",
-                        "meetingScheduleId": "338963",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "218517",
                 "teachingMethod": "TUT",
                 "sectionNumber": "0301",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "22",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 9, 2022: Section cancelled.",
                 "enrollmentControls": []
             }
         }
@@ -342,11 +319,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-342597": {
+                    "WE-343005": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "342597",
+                        "meetingScheduleId": "343005",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -355,7 +332,7 @@
                 "meetingId": "220686",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "Jews, Tatars, Poles, Armenians, and Other Minorities in Ukraine during the 20th and 21st Centuries",
+                "subtitle": "Minorities in Ukraine during the 20th and 21st Centuries",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
@@ -364,7 +341,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "May 25, 2022: Subtitle changed.",
                 "enrollmentControls": [
                     {
                         "postId": "666",
