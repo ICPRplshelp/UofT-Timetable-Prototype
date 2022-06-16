@@ -341,18 +341,18 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3), Thought, Belief and Behaviour (2)",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-327289": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "327289",
+                    "TH-343759": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "343759",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -370,7 +370,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 15, 2022: Day/Time Changed.",
                 "enrollmentControls": []
             }
         }
@@ -388,18 +388,18 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3), Thought, Belief and Behaviour (2)",
         "distributionCategories": "",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-327294": {
-                        "meetingDay": "TH",
+                    "WE-343760": {
+                        "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "327294",
+                        "meetingScheduleId": "343760",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -417,7 +417,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 15, 2022: Day/Time Changed.",
                 "enrollmentControls": []
             }
         }
@@ -1348,7 +1348,7 @@
             }
         }
     },
-    "TRN199H1-F-20229": {
+    "TRN199H1-S-20229": {
         "courseId": "65709",
         "org": "TRIN",
         "orgName": "Trinity College (TRN)",
@@ -1359,7 +1359,7 @@
         "corequisite": "",
         "exclusion": "",
         "recommendedPreparation": "",
-        "section": "F",
+        "section": "S",
         "session": "20229",
         "webTimetableInstructions": "",
         "deliveryInstructions": "",
@@ -1368,13 +1368,13 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-343088": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "11:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "343088",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
+                    "MO-343733": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "343733",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
@@ -1390,7 +1390,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R2",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 14, 2022: Course moved to S Term, Meeting Day/Time Changed.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -1938,8 +1938,8 @@
         "recommendedPreparation": "Prerequisite courses for entry into International Relations Major or Specialist Program",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3), Thought, Belief and Behaviour (2)",
         "distributionCategories": "Humanities",
         "meetings": {
@@ -1979,33 +1979,6 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "112",
-                        "postCode": "ASMAJ1469",
-                        "postName": "MA INTERNATIONAL RELATIONS",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
                         "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -2051,9 +2024,9 @@
                         "adminOrgName": null
                     },
                     {
-                        "postId": "315",
-                        "postCode": "ASSPE1469",
-                        "postName": "SP INTERNATIONAL RELATIONS",
+                        "postId": "112",
+                        "postCode": "ASMAJ1469",
+                        "postName": "MA INTERNATIONAL RELATIONS",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -2115,6 +2088,33 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "315",
+                        "postCode": "ASSPE1469",
+                        "postName": "SP INTERNATIONAL RELATIONS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2189,11 +2189,11 @@
             },
             "TUT-0301": {
                 "schedule": {
-                    "WE-328148": {
+                    "WE-343672": {
                         "meetingDay": "WE",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "328148",
+                        "meetingScheduleId": "343672",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -2211,7 +2211,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0401": {
@@ -3109,18 +3109,18 @@
         "recommendedPreparation": "PHL271H1",
         "section": "S",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-328167": {
+                    "WE-343668": {
                         "meetingDay": "WE",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "328167",
+                        "meetingScheduleId": "343668",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -3134,11 +3134,11 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "45",
+                "enrollmentCapacity": "75",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "121",
@@ -3198,11 +3198,11 @@
             },
             "TUT-0101": {
                 "schedule": {
-                    "FR-340480": {
+                    "FR-343734": {
                         "meetingDay": "FR",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "340480",
+                        "meetingScheduleId": "343734",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -3216,7 +3216,7 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "15",
+                "enrollmentCapacity": "25",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
@@ -3225,11 +3225,11 @@
             },
             "TUT-0201": {
                 "schedule": {
-                    "FR-340481": {
+                    "FR-343735": {
                         "meetingDay": "FR",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "340481",
+                        "meetingScheduleId": "343735",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -3243,7 +3243,7 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "15",
+                "enrollmentCapacity": "25",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
@@ -3252,11 +3252,11 @@
             },
             "TUT-0301": {
                 "schedule": {
-                    "FR-328171": {
+                    "FR-343736": {
                         "meetingDay": "FR",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "328171",
+                        "meetingScheduleId": "343736",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -3270,16 +3270,16 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "15",
+                "enrollmentCapacity": "25",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
     },
-    "TRN321H1-S-20229": {
+    "TRN321H1-F-20229": {
         "courseId": "65732",
         "org": "TRIN",
         "orgName": "Trinity College (TRN)",
@@ -3290,7 +3290,7 @@
         "corequisite": "",
         "exclusion": "",
         "recommendedPreparation": "PHL271H1, TRN203H1, TRN204H1",
-        "section": "S",
+        "section": "F",
         "session": "20229",
         "webTimetableInstructions": "",
         "deliveryInstructions": "",
@@ -3299,13 +3299,13 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-328173": {
+                    "FR-343671": {
                         "meetingDay": "FR",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "328173",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "meetingScheduleId": "343671",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
                     }
                 },
                 "instructors": [],
@@ -3321,7 +3321,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 14, 2022: Course moved to F Term. ",
                 "enrollmentControls": [
                     {
                         "postId": "121",
@@ -4400,11 +4400,11 @@
             },
             "LEC-0201": {
                 "schedule": {
-                    "TU-342841": {
+                    "TU-343730": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "342841",
+                        "meetingScheduleId": "343730",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -4418,7 +4418,7 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "12",
+                "enrollmentCapacity": "16",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
@@ -4482,11 +4482,11 @@
             },
             "LEC-0301": {
                 "schedule": {
-                    "TU-329627": {
+                    "TU-343731": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "329627",
+                        "meetingScheduleId": "343731",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -4500,11 +4500,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "12",
+                "enrollmentCapacity": "16",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "112",
@@ -4564,11 +4564,11 @@
             },
             "LEC-0401": {
                 "schedule": {
-                    "WE-329632": {
+                    "WE-343732": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "329632",
+                        "meetingScheduleId": "343732",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -4582,11 +4582,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "12",
+                "enrollmentCapacity": "16",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "112",
@@ -4878,6 +4878,115 @@
                         "postId": "121",
                         "postCode": "ASMAJ1618",
                         "postName": "MA ETHICS, SOCIETY & LAW",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "WE-343729": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "343729",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220758",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "June 14, 2022: Section Added.",
+                "enrollmentControls": [
+                    {
+                        "postId": "112",
+                        "postCode": "ASMAJ1469",
+                        "postName": "MA INTERNATIONAL RELATIONS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "121",
+                        "postCode": "ASMAJ1618",
+                        "postName": "MA ETHICS, SOCIETY & LAW",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "315",
+                        "postCode": "ASSPE1469",
+                        "postName": "SP INTERNATIONAL RELATIONS",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,

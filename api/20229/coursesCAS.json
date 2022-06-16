@@ -820,7 +820,7 @@
             }
         }
     },
-    "CAS390H1-S-20229": {
+    "CAS390H1-F-20229": {
         "courseId": "61336",
         "org": "ASI",
         "orgName": "Contemporary Asian Studies (CAS) (JHA) (JPA) (SAS)",
@@ -831,7 +831,7 @@
         "corequisite": "",
         "exclusion": "",
         "recommendedPreparation": "0.5 CAS credit at the 200-level",
-        "section": "S",
+        "section": "F",
         "session": "20229",
         "webTimetableInstructions": "",
         "deliveryInstructions": "",
@@ -840,13 +840,13 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-342985": {
-                        "meetingDay": "WE",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "342985",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
+                    "MO-343749": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "343749",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
                     }
                 },
                 "instructors": [],
@@ -862,7 +862,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": "May 20, 2022: Subtitle added.",
+                "meetingStatusNotes": "June 15, 2022: Term and day changed.</br>May 20, 2022: Subtitle added.",
                 "enrollmentControls": [
                     {
                         "postId": "51",
@@ -946,6 +946,53 @@
                         "adminOrgName": null
                     }
                 ]
+            }
+        }
+    },
+    "CAS390H1-S-20229": {
+        "courseId": "61336",
+        "org": "ASI",
+        "orgName": "Contemporary Asian Studies (CAS) (JHA) (JPA) (SAS)",
+        "courseTitle": "Special Topics",
+        "code": "CAS390H1",
+        "courseDescription": "<p>Course content varies in accordance with the interest of the instructor. Check <a href=\"http://munkschool.utoronto.ca/ai/cas\">http://munkschool.utoronto.ca/ai/cas</a> for an updated description.</p>",
+        "prerequisite": "6.0 credits",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "0.5 CAS credit at the 200-level",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "<p>This course is designed for senior undergraduate students who wish to enhance their knowledge of Asia’s adoption of the Internet and digital tools, and how these tools and systems are reshaping Asian societies, including their politics, culture, and social movements. We will study how governments in the region regulate information flows online and experiment on new technologies that have the potential to either curtail or encourage public participation. This course will also examine the private sector's outsized role in digital infrastructure and its consequences for human rights and good governance. Finally, we will shed light on the role of the Internet as a site of contestation, where representation, dissent, and resistance are developed and negotiated. By the end of the course, students will be able to identify and distinguish the range of actors, institutions, and policies that constitute our global network society, and understand Asia’s impact on the future of technology. Assignments in the course are designed to help students develop critical thinking and public speaking skills, and learn how to write to different audiences.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220763",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": null,
+                "cancel": "",
+                "waitlist": null,
+                "deliveryMode": null,
+                "online": "",
+                "enrollmentCapacity": null,
+                "actualEnrolment": null,
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
             }
         }
     },
@@ -1349,11 +1396,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-343256": {
+                    "TH-343696": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "343256",
+                        "meetingScheduleId": "343696",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -1367,7 +1414,7 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "4",
+                "enrollmentCapacity": "6",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
