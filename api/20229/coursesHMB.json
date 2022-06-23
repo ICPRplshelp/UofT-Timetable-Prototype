@@ -53,33 +53,6 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "2",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "44",
-                        "secondaryOrgCode": "HMB",
-                        "secondaryOrgName": "Human Biology Program",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "1",
-                        "adminOrgCode": "*",
-                        "adminOrgName": ""
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "55",
-                        "subjectCode": "NRO",
-                        "subjectName": "NEUROSCIENCE",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
                         "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -108,6 +81,33 @@
                         "designationCode": "*",
                         "designationName": "",
                         "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "44",
+                        "secondaryOrgCode": "HMB",
+                        "secondaryOrgName": "Human Biology Program",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "55",
+                        "subjectCode": "NRO",
+                        "subjectName": "NEUROSCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -563,7 +563,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694029": {
+                        "instructorId": "8694029",
+                        "firstName": "N",
+                        "lastName": "Levy-Strumpf"
+                    }
+                },
                 "meetingId": "213368",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -852,33 +858,6 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "137",
-                        "postCode": "ASMAJ2013",
-                        "postName": "MA HMB: HEALTH AND DISEASE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
                         "yearOfStudy": "2",
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
@@ -910,6 +889,33 @@
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
                         "typeOfProgramName": "All Types",
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "137",
+                        "postCode": "ASMAJ2013",
+                        "postName": "MA HMB: HEALTH AND DISEASE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -1307,7 +1313,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694030": {
+                        "instructorId": "8694030",
+                        "firstName": "M",
+                        "lastName": "Papaconstantinou"
+                    }
+                },
                 "meetingId": "213385",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1652,7 +1664,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694031": {
+                        "instructorId": "8694031",
+                        "firstName": "M",
+                        "lastName": "Papaconstantinou"
+                    }
+                },
                 "meetingId": "213390",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2167,7 +2185,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693168": {
+                        "instructorId": "8693168",
+                        "firstName": "N",
+                        "lastName": "Levy-Strumpf"
+                    }
+                },
                 "meetingId": "213401",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2182,6 +2206,87 @@
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "44",
+                        "adminOrgCode": "HMB",
+                        "adminOrgName": "Human Biology Program"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "22",
+                        "adminOrgCode": "CSB",
+                        "adminOrgName": "Department of Cell and Systems Biology"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "30",
+                        "adminOrgCode": "EEB",
+                        "adminOrgName": "Department of Ecology and Evolutionary Biology"
+                    },
                     {
                         "postId": null,
                         "postCode": null,
@@ -2343,87 +2448,6 @@
                         "adminOrgId": "69",
                         "adminOrgCode": "PSL",
                         "adminOrgName": "Department of Physiology"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "44",
-                        "adminOrgCode": "HMB",
-                        "adminOrgName": "Human Biology Program"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "22",
-                        "adminOrgCode": "CSB",
-                        "adminOrgName": "Department of Cell and Systems Biology"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "30",
-                        "adminOrgCode": "EEB",
-                        "adminOrgName": "Department of Ecology and Evolutionary Biology"
                     },
                     {
                         "postId": "39",
@@ -3882,7 +3906,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693169": {
+                        "instructorId": "8693169",
+                        "firstName": "B",
+                        "lastName": "Ju"
+                    }
+                },
                 "meetingId": "213448",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -4254,7 +4284,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693170": {
+                        "instructorId": "8693170",
+                        "firstName": "N",
+                        "lastName": "Levy-Strumpf"
+                    }
+                },
                 "meetingId": "213454",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -4518,7 +4554,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693171": {
+                        "instructorId": "8693171",
+                        "firstName": "R",
+                        "lastName": "Wilson Jr"
+                    }
+                },
                 "meetingId": "213456",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -4597,6 +4639,33 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "137",
+                        "postCode": "ASMAJ2013",
+                        "postName": "MA HMB: HEALTH AND DISEASE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
                         "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -4625,33 +4694,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "2",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "137",
-                        "postCode": "ASMAJ2013",
-                        "postName": "MA HMB: HEALTH AND DISEASE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -4863,7 +4905,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693172": {
+                        "instructorId": "8693172",
+                        "firstName": "P",
+                        "lastName": "Hamel"
+                    }
+                },
                 "meetingId": "213460",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -4942,10 +4990,10 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -4969,33 +5017,6 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
-                        "typeOfProgramId": "1",
-                        "typeOfProgramCode": "*",
-                        "typeOfProgramName": "All Types",
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "156",
-                        "postCode": "ASMAJ2575",
-                        "postName": "MA HMB: GLOBAL HEALTH",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
                         "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -5027,6 +5048,33 @@
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
                         "typeOfProgramName": "All Types",
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "156",
+                        "postCode": "ASMAJ2575",
+                        "postName": "MA HMB: GLOBAL HEALTH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -5077,10 +5125,10 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -5104,10 +5152,10 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
-                        "typeOfProgramId": "1",
-                        "typeOfProgramCode": "*",
-                        "typeOfProgramName": "All Types",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -5341,7 +5389,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -5368,7 +5416,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -5418,7 +5466,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693173": {
+                        "instructorId": "8693173",
+                        "firstName": "C",
+                        "lastName": "Dockstader"
+                    }
+                },
                 "meetingId": "213462",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -5763,7 +5817,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693174": {
+                        "instructorId": "8693174",
+                        "firstName": "N",
+                        "lastName": "Levy-Strumpf"
+                    }
+                },
                 "meetingId": "218705",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -5788,33 +5848,6 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "2",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "80",
-                        "postCode": "ASMAJ1050",
-                        "postName": "MA FUNDMNTL GENETICS & ITS APP",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
                         "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -5860,9 +5893,9 @@
                         "adminOrgName": null
                     },
                     {
-                        "postId": "276",
-                        "postCode": "ASSPE1050",
-                        "postName": "SP FUNDMNTL GENETICS & ITS APP",
+                        "postId": "80",
+                        "postCode": "ASMAJ1050",
+                        "postName": "MA FUNDMNTL GENETICS & ITS APP",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -5924,6 +5957,33 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "276",
+                        "postCode": "ASSPE1050",
+                        "postName": "SP FUNDMNTL GENETICS & ITS APP",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -6160,7 +6220,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -6181,33 +6241,6 @@
                         "postId": "141",
                         "postCode": "ASMAJ2035",
                         "postName": "MA HUMAN BIOLOGY",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "156",
-                        "postCode": "ASMAJ2575",
-                        "postName": "MA HMB: GLOBAL HEALTH",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -6245,6 +6278,33 @@
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
                         "typeOfProgramName": "All Types",
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "156",
+                        "postCode": "ASMAJ2575",
+                        "postName": "MA HMB: GLOBAL HEALTH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -6906,7 +6966,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694032": {
+                        "instructorId": "8694032",
+                        "firstName": "P",
+                        "lastName": "Koeberle"
+                    }
+                },
                 "meetingId": "213482",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -6931,33 +6997,6 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "2",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "113",
-                        "postCode": "ASMAJ1472",
-                        "postName": "MA HMB: NEUROSCIENCE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
                         "yearOfStudy": "3",
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
@@ -7003,9 +7042,9 @@
                         "adminOrgName": null
                     },
                     {
-                        "postId": "316",
-                        "postCode": "ASSPE1472",
-                        "postName": "SP HMB: NEUROSCIENCE",
+                        "postId": "113",
+                        "postCode": "ASMAJ1472",
+                        "postName": "MA HMB: NEUROSCIENCE",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -7070,6 +7109,33 @@
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
                         "typeOfProgramName": "All Types",
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "316",
+                        "postCode": "ASSPE1472",
+                        "postName": "SP HMB: NEUROSCIENCE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -7205,7 +7271,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694033": {
+                        "instructorId": "8694033",
+                        "firstName": "M",
+                        "lastName": "Papaconstantinou"
+                    }
+                },
                 "meetingId": "213486",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -7419,6 +7491,33 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "276",
+                        "postCode": "ASSPE1050",
+                        "postName": "SP FUNDMNTL GENETICS & ITS APP",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
                         "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -7447,33 +7546,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "276",
-                        "postCode": "ASSPE1050",
-                        "postName": "SP FUNDMNTL GENETICS & ITS APP",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -7710,7 +7782,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -7737,7 +7809,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -7872,7 +7944,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -7899,7 +7971,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8057,7 +8129,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694034": {
+                        "instructorId": "8694034",
+                        "firstName": "H",
+                        "lastName": "Dimaras"
+                    }
+                },
                 "meetingId": "213496",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -8271,7 +8349,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8298,7 +8376,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8379,7 +8457,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8406,7 +8484,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8537,7 +8615,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694035": {
+                        "instructorId": "8694035",
+                        "firstName": "L",
+                        "lastName": "De Souza"
+                    }
+                },
                 "meetingId": "213500",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -8913,7 +8997,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8940,7 +9024,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -9287,7 +9371,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693175": {
+                        "instructorId": "8693175",
+                        "firstName": "N",
+                        "lastName": "Levy-Strumpf"
+                    }
+                },
                 "meetingId": "213507",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -10242,7 +10332,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693176": {
+                        "instructorId": "8693176",
+                        "firstName": "R",
+                        "lastName": "Wilson Jr"
+                    }
+                },
                 "meetingId": "213518",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -10267,7 +10363,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -10294,7 +10390,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -10662,7 +10758,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694036": {
+                        "instructorId": "8694036",
+                        "firstName": "A",
+                        "lastName": "Cortinois"
+                    }
+                },
                 "meetingId": "213520",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -11109,7 +11211,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694037": {
+                        "instructorId": "8694037",
+                        "firstName": "N",
+                        "lastName": "Levy-Strumpf"
+                    }
+                },
                 "meetingId": "213522",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -11556,7 +11664,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693177": {
+                        "instructorId": "8693177",
+                        "firstName": "M",
+                        "lastName": "Jeffrey"
+                    }
+                },
                 "meetingId": "213524",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -11845,7 +11959,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -11872,7 +11986,7 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -12159,7 +12273,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693178": {
+                        "instructorId": "8693178",
+                        "firstName": "A",
+                        "lastName": "Kapus"
+                    }
+                },
                 "meetingId": "213527",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -12261,7 +12381,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694038": {
+                        "instructorId": "8694038",
+                        "firstName": "A",
+                        "lastName": "Astell"
+                    }
+                },
                 "meetingId": "213529",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -12363,7 +12489,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693179": {
+                        "instructorId": "8693179",
+                        "firstName": "M",
+                        "lastName": "Papaconstantinou"
+                    }
+                },
                 "meetingId": "213530",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -12573,7 +12705,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693180": {
+                        "instructorId": "8693180",
+                        "firstName": "L",
+                        "lastName": "De Souza"
+                    }
+                },
                 "meetingId": "213531",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -12648,7 +12786,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693181": {
+                        "instructorId": "8693181",
+                        "firstName": "C",
+                        "lastName": "Dockstader"
+                    }
+                },
                 "meetingId": "213532",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -13068,7 +13212,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693182": {
+                        "instructorId": "8693182",
+                        "firstName": "L",
+                        "lastName": "De Souza"
+                    }
+                },
                 "meetingId": "213534",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -13170,7 +13320,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694039": {
+                        "instructorId": "8694039",
+                        "firstName": "C",
+                        "lastName": "Dockstader"
+                    }
+                },
                 "meetingId": "213535",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -13374,7 +13530,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694040": {
+                        "instructorId": "8694040",
+                        "firstName": "D",
+                        "lastName": "Richards"
+                    }
+                },
                 "meetingId": "213537",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -13632,7 +13794,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693183": {
+                        "instructorId": "8693183",
+                        "firstName": "M",
+                        "lastName": "Locke"
+                    }
+                },
                 "meetingId": "213539",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -13788,7 +13956,18 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693184": {
+                        "instructorId": "8693184",
+                        "firstName": "M",
+                        "lastName": "Manolson"
+                    },
+                    "8693185": {
+                        "instructorId": "8693185",
+                        "firstName": "E",
+                        "lastName": "Somogyi-Ganss"
+                    }
+                },
                 "meetingId": "213540",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -13917,7 +14096,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693186": {
+                        "instructorId": "8693186",
+                        "firstName": "F",
+                        "lastName": "Taverna"
+                    }
+                },
                 "meetingId": "213545",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -13992,7 +14177,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693187": {
+                        "instructorId": "8693187",
+                        "firstName": "N",
+                        "lastName": "Levy-Strumpf"
+                    }
+                },
                 "meetingId": "218319",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -14067,7 +14258,18 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693188": {
+                        "instructorId": "8693188",
+                        "firstName": "C",
+                        "lastName": "Dockstader"
+                    },
+                    "8693189": {
+                        "instructorId": "8693189",
+                        "firstName": "F",
+                        "lastName": "Taverna"
+                    }
+                },
                 "meetingId": "213546",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -14169,7 +14371,18 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693190": {
+                        "instructorId": "8693190",
+                        "firstName": "C",
+                        "lastName": "Dockstader"
+                    },
+                    "8693191": {
+                        "instructorId": "8693191",
+                        "firstName": "F",
+                        "lastName": "Taverna"
+                    }
+                },
                 "meetingId": "213547",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8692758": {
+                        "instructorId": "8692758",
+                        "firstName": "D",
+                        "lastName": "Clark"
+                    }
+                },
                 "meetingId": "210620",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -75,7 +81,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693726": {
+                        "instructorId": "8693726",
+                        "firstName": "D",
+                        "lastName": "Clark"
+                    }
+                },
                 "meetingId": "210622",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -204,7 +216,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8692759": {
+                        "instructorId": "8692759",
+                        "firstName": "T",
+                        "lastName": "Fujitani"
+                    }
+                },
                 "meetingId": "210623",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -462,7 +480,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8692760": {
+                        "instructorId": "8692760",
+                        "firstName": "D",
+                        "lastName": "Clark"
+                    }
+                },
                 "meetingId": "210625",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -591,7 +615,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693727": {
+                        "instructorId": "8693727",
+                        "firstName": "D",
+                        "lastName": "Clark"
+                    }
+                },
                 "meetingId": "210626",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -833,7 +863,7 @@
         "recommendedPreparation": "0.5 CAS credit at the 200-level",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": "",
+        "webTimetableInstructions": "<p>Students are connected with a digital practicum placement in partnership with local, national, or international not-for-profits or governmental organizations connected to Asia. Students work in teams of 2-5 students, and help partner organizations address key issues they identify. Student teams work actively on strengthening on-line networks with partner organizations, while developing mutual mentoring, critique, and exchange with the organizations. Students are expected to invest 5-7 hours per week in course projects, in addition to class time.&nbsp; Students are expected to help teammates, advise other teams, and contribute their skills and talents to their community partners. The course will emphasize how groups can work together to contribute to extending, learning from, and contributing to transnational networks that bridge the University of Toronto and a range of partners throughout Asia.</p>",
         "deliveryInstructions": "",
         "breadthCategories": "",
         "distributionCategories": "Social Science",
@@ -969,30 +999,139 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
+                    "TU-343805": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "343805",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
                 "meetingId": "220763",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": null,
+                "subtitle": "Digital Futures of Asia",
                 "cancel": "",
-                "waitlist": null,
-                "deliveryMode": null,
-                "online": "",
-                "enrollmentCapacity": null,
-                "actualEnrolment": null,
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "0",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
-                "enrollmentControls": []
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "June 16, 2022: Course added.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "9",
+                        "adminOrgCode": "ASI",
+                        "adminOrgName": "Asia Pacific Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "72",
+                        "adminOrgCode": "SAS",
+                        "adminOrgName": "South Asian Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "9",
+                        "adminOrgCode": "ASI",
+                        "adminOrgName": "Asia Pacific Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "72",
+                        "adminOrgCode": "SAS",
+                        "adminOrgName": "South Asian Studies"
+                    }
+                ]
             }
         }
     },
@@ -1147,7 +1286,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693728": {
+                        "instructorId": "8693728",
+                        "firstName": "C",
+                        "lastName": "Emmrich"
+                    }
+                },
                 "meetingId": "220214",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1276,7 +1421,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8692761": {
+                        "instructorId": "8692761",
+                        "firstName": "L",
+                        "lastName": "Ong"
+                    }
+                },
                 "meetingId": "210633",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1405,7 +1556,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693729": {
+                        "instructorId": "8693729",
+                        "firstName": "S",
+                        "lastName": "Smith"
+                    }
+                },
                 "meetingId": "210634",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

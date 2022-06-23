@@ -5528,33 +5528,6 @@
                         "assocOrgId": "1",
                         "assocOrgCode": "*",
                         "assocOrgName": "",
-                        "adminOrgId": "44",
-                        "adminOrgCode": "HMB",
-                        "adminOrgName": "Human Biology Program"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
                         "adminOrgId": "64",
                         "adminOrgCode": "PCL",
                         "adminOrgName": "Department of Pharmacology"
@@ -5585,6 +5558,33 @@
                         "adminOrgId": "46",
                         "adminOrgCode": "IMM",
                         "adminOrgName": "Department of Immunology"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "44",
+                        "adminOrgCode": "HMB",
+                        "adminOrgName": "Human Biology Program"
                     }
                 ]
             },
@@ -9692,11 +9692,11 @@
             },
             "LEC-5101": {
                 "schedule": {
-                    "WE-329731": {
+                    "WE-343913": {
                         "meetingDay": "WE",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "21:00",
-                        "meetingScheduleId": "329731",
+                        "meetingScheduleId": "343913",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -9710,11 +9710,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
-                "enrollmentCapacity": "125",
+                "enrollmentCapacity": "150",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,

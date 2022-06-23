@@ -36,7 +36,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693252": {
+                        "instructorId": "8693252",
+                        "firstName": "S",
+                        "lastName": "Dowling"
+                    }
+                },
                 "meetingId": "214024",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -191,7 +197,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693253": {
+                        "instructorId": "8693253",
+                        "firstName": "M",
+                        "lastName": "Nyquist"
+                    }
+                },
                 "meetingId": "214029",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -300,7 +312,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693254": {
+                        "instructorId": "8693254",
+                        "firstName": "A",
+                        "lastName": "Komaromi"
+                    }
+                },
                 "meetingId": "214032",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -720,7 +738,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693255": {
+                        "instructorId": "8693255",
+                        "firstName": "A",
+                        "lastName": "Motsch"
+                    }
+                },
                 "meetingId": "218518",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1214,7 +1238,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694084": {
+                        "instructorId": "8694084",
+                        "firstName": "S",
+                        "lastName": "Ross"
+                    }
+                },
                 "meetingId": "218525",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1478,7 +1508,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694085": {
+                        "instructorId": "8694085",
+                        "firstName": "S",
+                        "lastName": "Dowling"
+                    }
+                },
                 "meetingId": "218856",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1652,12 +1688,12 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
+                    "MO-343811": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "343811",
+                        "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
@@ -1665,7 +1701,7 @@
                 "meetingId": "214042",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "Art and Politics ",
+                "subtitle": "Performative Autobiographical Acts",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
@@ -1674,17 +1710,17 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
             "LEC-0201": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
+                    "TU-343812": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "343812",
+                        "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
@@ -1692,7 +1728,7 @@
                 "meetingId": "214043",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0201",
-                "subtitle": "Revenge, Resistance Race & Law",
+                "subtitle": "The Rhetoric of Photography",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
@@ -1701,17 +1737,17 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
             "LEC-0301": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
+                    "TU-343813": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "343813",
+                        "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
@@ -1719,33 +1755,6 @@
                 "meetingId": "214044",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0301",
-                "subtitle": "Climate Genres ",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "4",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
-                "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
-                "enrollmentControls": []
-            },
-            "LEC-0401": {
-                "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
-                        "assignedRoom2": null
-                    }
-                },
-                "instructors": [],
-                "meetingId": "214045",
-                "teachingMethod": "LEC",
-                "sectionNumber": "0401",
                 "subtitle": "Space, Place Power",
                 "cancel": "",
                 "waitlist": "Y",
@@ -1755,17 +1764,44 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
+                "enrollmentControls": []
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "WE-343814": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "343814",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "214045",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
+                "subtitle": "Art and Politics: Bertolt Brecht, Robert Lepage",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
             "LEC-0501": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
+                    "WE-343815": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "343815",
+                        "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
@@ -1773,7 +1809,7 @@
                 "meetingId": "220157",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0501",
-                "subtitle": "Post-Conflict Literatures: Europe, Africa and the Americas ",
+                "subtitle": "Climate Genres",
                 "cancel": "",
                 "waitlist": "N",
                 "deliveryMode": "INPER",
@@ -1782,17 +1818,17 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
             "LEC-0601": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
+                    "TH-343816": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "343816",
+                        "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
@@ -1800,7 +1836,7 @@
                 "meetingId": "220158",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0601",
-                "subtitle": "Freud: Case Histories",
+                "subtitle": "Post-Conflict Literatures: Europe, Africa and the Americas",
                 "cancel": "",
                 "waitlist": "N",
                 "deliveryMode": "INPER",
@@ -1809,88 +1845,43 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
             "LEC-0701": {
-                "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "220159",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0701",
                 "subtitle": "Performative Autobiographical Acts",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "4",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Section Cancelled. ",
                 "enrollmentControls": []
             },
             "LEC-0801": {
-                "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "220160",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0801",
                 "subtitle": "Revolutionary Women’s Cultures in East Asia, Early to mid 20th century",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "4",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Section Cancelled. ",
                 "enrollmentControls": []
             },
             "LEC-0901": {
-                "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "220161",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0901",
                 "subtitle": "The Rhetoric of Photography",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "4",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Section Cancelled. ",
                 "enrollmentControls": []
             }
         }
@@ -1915,19 +1906,100 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
+                    "MO-343819": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "343819",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
                 "meetingId": "214048",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
+                "subtitle": "Literature, Culture and Contact in Medieval Iberia",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-343820": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "343820",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "214049",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "Literature of Contact and Anthropological Thought 16th-18th Century",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "TU-343821": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "343821",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "214050",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "Revenge, Resistance, Race and Law",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
+                "enrollmentControls": []
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "TU-343822": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "343822",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "214051",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
                 "subtitle": "Gender, Agency, and Life Writing",
                 "cancel": "",
                 "waitlist": "Y",
@@ -1937,51 +2009,78 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
-            "LEC-0201": {
+            "LEC-0501": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
+                    "WE-343823": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "343823",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
-                "meetingId": "214049",
+                "meetingId": "214052",
                 "teachingMethod": "LEC",
-                "sectionNumber": "0201",
-                "subtitle": "Post Capitalist Fantasy",
+                "sectionNumber": "0501",
+                "subtitle": "Text and Digital Media",
                 "cancel": "",
-                "waitlist": "Y",
+                "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "4",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
-            "LEC-0301": {
+            "LEC-0601": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
+                    "WE-343824": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "343824",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
-                "meetingId": "214050",
+                "meetingId": "214053",
                 "teachingMethod": "LEC",
-                "sectionNumber": "0301",
+                "sectionNumber": "0601",
+                "subtitle": "Post Capitalist Fantasy",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
+                "enrollmentControls": []
+            },
+            "LEC-0701": {
+                "schedule": {
+                    "TH-343825": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "343825",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220173",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0701",
                 "subtitle": "Jean-Luc Nancy: Retreating the Aesthetic",
                 "cancel": "",
                 "waitlist": "N",
@@ -1991,78 +2090,24 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 16, 2022: Subtitle & Meeting Day/Time Updated.",
                 "enrollmentControls": []
             },
-            "LEC-0401": {
+            "LEC-0801": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
+                    "TH-343817": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "343817",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
-                "meetingId": "214051",
+                "meetingId": "220774",
                 "teachingMethod": "LEC",
-                "sectionNumber": "0401",
-                "subtitle": "Text and Digital Media",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "4",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
-                "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
-                "enrollmentControls": []
-            },
-            "LEC-0501": {
-                "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
-                        "assignedRoom2": null
-                    }
-                },
-                "instructors": [],
-                "meetingId": "214052",
-                "teachingMethod": "LEC",
-                "sectionNumber": "0501",
-                "subtitle": "Books at Risk",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "4",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
-                "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
-                "enrollmentControls": []
-            },
-            "LEC-0601": {
-                "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
-                        "assignedRoom1": null,
-                        "assignedRoom2": null
-                    }
-                },
-                "instructors": [],
-                "meetingId": "214053",
-                "teachingMethod": "LEC",
-                "sectionNumber": "0601",
+                "sectionNumber": "0801",
                 "subtitle": "Apuleius of Madauros",
                 "cancel": "",
                 "waitlist": "N",
@@ -2072,25 +2117,25 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Section Added.",
                 "enrollmentControls": []
             },
-            "LEC-0701": {
+            "LEC-0901": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
+                    "TH-343818": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "343818",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
                 "instructors": [],
-                "meetingId": "220173",
+                "meetingId": "220775",
                 "teachingMethod": "LEC",
-                "sectionNumber": "0701",
-                "subtitle": "Literature, Culture and Contact in Medieval Iberia",
+                "sectionNumber": "0901",
+                "subtitle": "Books at Risk",
                 "cancel": "",
                 "waitlist": "N",
                 "deliveryMode": "INPER",
@@ -2099,7 +2144,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 16, 2022: Section Added.",
                 "enrollmentControls": []
             }
         }
@@ -2133,7 +2178,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693256": {
+                        "instructorId": "8693256",
+                        "firstName": "N",
+                        "lastName": "Seidman"
+                    }
+                },
                 "meetingId": "218533",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2397,7 +2448,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8694086": {
+                        "instructorId": "8694086",
+                        "firstName": "A",
+                        "lastName": "Sakaki"
+                    }
+                },
                 "meetingId": "218537",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

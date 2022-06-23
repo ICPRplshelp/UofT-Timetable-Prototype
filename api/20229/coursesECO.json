@@ -16181,11 +16181,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-335685": {
+                    "TU-343809": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "335685",
+                        "meetingScheduleId": "343809",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -16199,11 +16199,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "160",
+                "enrollmentCapacity": "156",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "337",
@@ -16290,11 +16290,11 @@
             },
             "LEC-5101": {
                 "schedule": {
-                    "TU-338898": {
+                    "TU-343810": {
                         "meetingDay": "TU",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "21:00",
-                        "meetingScheduleId": "338898",
+                        "meetingScheduleId": "343810",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -16308,7 +16308,7 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "160",
+                "enrollmentCapacity": "164",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
@@ -22288,6 +22288,115 @@
                         "adminOrgName": "Department of Economics"
                     }
                 ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-343930": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "343930",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220779",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "Competition Policy",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "June 22, 2022: Section added. ",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "29",
+                        "adminOrgCode": "ECO",
+                        "adminOrgName": "Department of Economics"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "29",
+                        "adminOrgCode": "ECO",
+                        "adminOrgName": "Department of Economics"
+                    }
+                ]
             }
         }
     },
@@ -22310,30 +22419,15 @@
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "MO-343704": {
-                        "meetingDay": "MO",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "343704",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "212032",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "Competition Policy",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "45",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "June 14, 2022: Session changed. ",
+                "meetingStatusNotes": "June 22, 2022",
                 "enrollmentControls": [
                     {
                         "postId": null,

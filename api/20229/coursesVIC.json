@@ -98,11 +98,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-343092": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "12:00",
-                        "meetingEndTime": "14:00",
-                        "meetingScheduleId": "343092",
+                    "TU-343892": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "343892",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -120,7 +120,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R2",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 21, 2022: Meeting Day/Time Changed.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -4851,7 +4851,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8693669": {
+                        "instructorId": "8693669",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
                 "meetingId": "217689",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

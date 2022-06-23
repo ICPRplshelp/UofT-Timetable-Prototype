@@ -441,11 +441,11 @@
             },
             "TUT-0101": {
                 "schedule": {
-                    "WE-320389": {
+                    "WE-343947": {
                         "meetingDay": "WE",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "320389",
+                        "meetingScheduleId": "343947",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -462,64 +462,9 @@
                 "enrollmentCapacity": "50",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
-                "enrollmentControls": [
-                    {
-                        "postId": "94",
-                        "postCode": "ASMAJ1228",
-                        "postName": "MA PEACE, CONFLICT & JUSTICE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "293",
-                        "postCode": "ASSPE1228",
-                        "postName": "SP PEACE, CONFLICT & JUSTICE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    }
-                ]
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
             }
         }
     },
