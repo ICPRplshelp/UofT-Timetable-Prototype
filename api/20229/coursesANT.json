@@ -12,8 +12,8 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Living Things and Their Environment (4), Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
@@ -29,18 +29,18 @@
                     }
                 },
                 "instructors": {
-                    "8692693": {
-                        "instructorId": "8692693",
+                    "8739118": {
+                        "instructorId": "8739118",
                         "firstName": "M",
                         "lastName": "Chazan"
                     },
-                    "8692694": {
-                        "instructorId": "8692694",
+                    "8739119": {
+                        "instructorId": "8739119",
                         "firstName": "I",
                         "lastName": "Kalmar"
                     },
-                    "8692695": {
-                        "instructorId": "8692695",
+                    "8739120": {
+                        "instructorId": "8739120",
                         "firstName": "S",
                         "lastName": "Lehman"
                     }
@@ -100,18 +100,18 @@
                     }
                 },
                 "instructors": {
-                    "8692696": {
-                        "instructorId": "8692696",
+                    "8739121": {
+                        "instructorId": "8739121",
                         "firstName": "M",
                         "lastName": "Chazan"
                     },
-                    "8692697": {
-                        "instructorId": "8692697",
+                    "8739122": {
+                        "instructorId": "8739122",
                         "firstName": "I",
                         "lastName": "Kalmar"
                     },
-                    "8692698": {
-                        "instructorId": "8692698",
+                    "8739123": {
+                        "instructorId": "8739123",
                         "firstName": "S",
                         "lastName": "Lehman"
                     }
@@ -140,33 +140,6 @@
                         "designationId": "1",
                         "designationCode": "*",
                         "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "3",
-                        "adminOrgCode": "ANT",
-                        "adminOrgName": "Department of Anthropology"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
                         "yearOfStudy": "1",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -183,6 +156,33 @@
                         "adminOrgId": "1",
                         "adminOrgCode": "*",
                         "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "3",
+                        "adminOrgCode": "ANT",
+                        "adminOrgName": "Department of Anthropology"
                     },
                     {
                         "postId": null,
@@ -296,11 +296,11 @@
             },
             "TUT-0101": {
                 "schedule": {
-                    "TU-321371": {
+                    "TU-344543": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "321371",
+                        "meetingScheduleId": "344543",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -314,20 +314,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0102": {
                 "schedule": {
-                    "TU-321372": {
+                    "TU-344544": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "321372",
+                        "meetingScheduleId": "344544",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -341,20 +341,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0201": {
                 "schedule": {
-                    "TU-321374": {
+                    "TU-344545": {
                         "meetingDay": "TU",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "321374",
+                        "meetingScheduleId": "344545",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -368,20 +368,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0202": {
                 "schedule": {
-                    "TU-321375": {
+                    "TU-344546": {
                         "meetingDay": "TU",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "321375",
+                        "meetingScheduleId": "344546",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -395,20 +395,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0301": {
                 "schedule": {
-                    "TU-321376": {
+                    "TU-344547": {
                         "meetingDay": "TU",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "321376",
+                        "meetingScheduleId": "344547",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -422,20 +422,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0302": {
                 "schedule": {
-                    "TU-321378": {
+                    "TU-344548": {
                         "meetingDay": "TU",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "321378",
+                        "meetingScheduleId": "344548",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -449,20 +449,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0401": {
                 "schedule": {
-                    "TU-321380": {
+                    "TU-344549": {
                         "meetingDay": "TU",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321380",
+                        "meetingScheduleId": "344549",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -476,20 +476,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0402": {
                 "schedule": {
-                    "TU-321381": {
+                    "TU-344550": {
                         "meetingDay": "TU",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321381",
+                        "meetingScheduleId": "344550",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -503,20 +503,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0501": {
                 "schedule": {
-                    "TU-321382": {
+                    "TU-344551": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "321382",
+                        "meetingScheduleId": "344551",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -530,20 +530,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0502": {
                 "schedule": {
-                    "TU-321384": {
+                    "TU-344552": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "321384",
+                        "meetingScheduleId": "344552",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -557,20 +557,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0601": {
                 "schedule": {
-                    "TU-321386": {
+                    "TU-344553": {
                         "meetingDay": "TU",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "321386",
+                        "meetingScheduleId": "344553",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -584,20 +584,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0602": {
                 "schedule": {
-                    "TU-321387": {
+                    "TU-344554": {
                         "meetingDay": "TU",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "321387",
+                        "meetingScheduleId": "344554",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -611,20 +611,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0701": {
                 "schedule": {
-                    "TU-321389": {
+                    "TU-344555": {
                         "meetingDay": "TU",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "321389",
+                        "meetingScheduleId": "344555",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -638,20 +638,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0702": {
                 "schedule": {
-                    "TU-321390": {
+                    "TU-344556": {
                         "meetingDay": "TU",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "321390",
+                        "meetingScheduleId": "344556",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -665,20 +665,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0801": {
                 "schedule": {
-                    "WE-321391": {
+                    "WE-344557": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "321391",
+                        "meetingScheduleId": "344557",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -692,20 +692,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0802": {
                 "schedule": {
-                    "WE-321392": {
+                    "WE-344558": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "321392",
+                        "meetingScheduleId": "344558",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -719,20 +719,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0901": {
                 "schedule": {
-                    "WE-321394": {
+                    "WE-344559": {
                         "meetingDay": "WE",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "321394",
+                        "meetingScheduleId": "344559",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -746,20 +746,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0902": {
                 "schedule": {
-                    "WE-321395": {
+                    "WE-344560": {
                         "meetingDay": "WE",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "321395",
+                        "meetingScheduleId": "344560",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -773,20 +773,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1001": {
                 "schedule": {
-                    "WE-321396": {
+                    "WE-344561": {
                         "meetingDay": "WE",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "321396",
+                        "meetingScheduleId": "344561",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -800,20 +800,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1002": {
                 "schedule": {
-                    "WE-321398": {
+                    "WE-344562": {
                         "meetingDay": "WE",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "321398",
+                        "meetingScheduleId": "344562",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -827,20 +827,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1101": {
                 "schedule": {
-                    "WE-321399": {
+                    "WE-344563": {
                         "meetingDay": "WE",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321399",
+                        "meetingScheduleId": "344563",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -854,20 +854,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1102": {
                 "schedule": {
-                    "WE-321400": {
+                    "WE-344564": {
                         "meetingDay": "WE",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321400",
+                        "meetingScheduleId": "344564",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -881,20 +881,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1201": {
                 "schedule": {
-                    "WE-321403": {
+                    "WE-344565": {
                         "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "321403",
+                        "meetingScheduleId": "344565",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -908,20 +908,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1202": {
                 "schedule": {
-                    "WE-321404": {
+                    "WE-344566": {
                         "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "321404",
+                        "meetingScheduleId": "344566",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -935,20 +935,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1301": {
                 "schedule": {
-                    "WE-321405": {
+                    "WE-344567": {
                         "meetingDay": "WE",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "321405",
+                        "meetingScheduleId": "344567",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -962,20 +962,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1302": {
                 "schedule": {
-                    "WE-321406": {
+                    "WE-344568": {
                         "meetingDay": "WE",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "321406",
+                        "meetingScheduleId": "344568",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -989,20 +989,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1401": {
                 "schedule": {
-                    "WE-321408": {
+                    "WE-344569": {
                         "meetingDay": "WE",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "321408",
+                        "meetingScheduleId": "344569",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1016,20 +1016,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1402": {
                 "schedule": {
-                    "WE-321411": {
+                    "WE-344570": {
                         "meetingDay": "WE",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "321411",
+                        "meetingScheduleId": "344570",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1043,20 +1043,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1501": {
                 "schedule": {
-                    "TH-321412": {
+                    "TH-344571": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "321412",
+                        "meetingScheduleId": "344571",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1070,20 +1070,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1502": {
                 "schedule": {
-                    "TH-321413": {
+                    "TH-344572": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "321413",
+                        "meetingScheduleId": "344572",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1097,20 +1097,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1601": {
                 "schedule": {
-                    "TH-321414": {
+                    "TH-344573": {
                         "meetingDay": "TH",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "321414",
+                        "meetingScheduleId": "344573",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1124,20 +1124,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1602": {
                 "schedule": {
-                    "TH-321415": {
+                    "TH-344574": {
                         "meetingDay": "TH",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "321415",
+                        "meetingScheduleId": "344574",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1151,20 +1151,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1701": {
                 "schedule": {
-                    "TH-321417": {
+                    "TH-344575": {
                         "meetingDay": "TH",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "321417",
+                        "meetingScheduleId": "344575",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1178,20 +1178,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1702": {
                 "schedule": {
-                    "TH-321419": {
+                    "TH-344576": {
                         "meetingDay": "TH",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "321419",
+                        "meetingScheduleId": "344576",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1205,20 +1205,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1801": {
                 "schedule": {
-                    "TH-321421": {
+                    "TH-344577": {
                         "meetingDay": "TH",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321421",
+                        "meetingScheduleId": "344577",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1232,20 +1232,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1802": {
                 "schedule": {
-                    "TH-321422": {
+                    "TH-344578": {
                         "meetingDay": "TH",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321422",
+                        "meetingScheduleId": "344578",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1259,20 +1259,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1901": {
                 "schedule": {
-                    "TH-321430": {
+                    "TH-344579": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "321430",
+                        "meetingScheduleId": "344579",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1286,20 +1286,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-1902": {
                 "schedule": {
-                    "TH-321432": {
+                    "TH-344580": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "321432",
+                        "meetingScheduleId": "344580",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1313,20 +1313,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-2001": {
                 "schedule": {
-                    "TH-321433": {
+                    "TH-344581": {
                         "meetingDay": "TH",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "321433",
+                        "meetingScheduleId": "344581",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1340,20 +1340,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-2002": {
                 "schedule": {
-                    "TH-321435": {
+                    "TH-344582": {
                         "meetingDay": "TH",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "321435",
+                        "meetingScheduleId": "344582",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1367,20 +1367,74 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-2101": {
+                "schedule": {
+                    "TH-344536": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "344536",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220841",
+                "teachingMethod": "TUT",
+                "sectionNumber": "2101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "23",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 7, 2022: Section added.",
+                "enrollmentControls": []
+            },
+            "TUT-2102": {
+                "schedule": {
+                    "TH-344583": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "344583",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220842",
+                "teachingMethod": "TUT",
+                "sectionNumber": "2102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "23",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 7, 2022: Section added.",
                 "enrollmentControls": []
             },
             "TUT-5101": {
                 "schedule": {
-                    "TU-321436": {
+                    "TU-344584": {
                         "meetingDay": "TU",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "321436",
+                        "meetingScheduleId": "344584",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1394,20 +1448,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-5102": {
                 "schedule": {
-                    "TU-321437": {
+                    "TU-344585": {
                         "meetingDay": "TU",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "321437",
+                        "meetingScheduleId": "344585",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1421,20 +1475,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-5201": {
                 "schedule": {
-                    "WE-321440": {
+                    "WE-344586": {
                         "meetingDay": "WE",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "321440",
+                        "meetingScheduleId": "344586",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1448,20 +1502,20 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-5202": {
                 "schedule": {
-                    "WE-321441": {
+                    "WE-344587": {
                         "meetingDay": "WE",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "321441",
+                        "meetingScheduleId": "344587",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
@@ -1475,11 +1529,65 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "23",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5301": {
+                "schedule": {
+                    "TH-344540": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "344540",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220843",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "23",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 7, 2022: Section added.",
+                "enrollmentControls": []
+            },
+            "TUT-5302": {
+                "schedule": {
+                    "TH-344542": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "344542",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220844",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "23",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 7, 2022: Section added.",
                 "enrollmentControls": []
             }
         }
@@ -1514,8 +1622,8 @@
                     }
                 },
                 "instructors": {
-                    "8692699": {
-                        "instructorId": "8692699",
+                    "8739124": {
+                        "instructorId": "8739124",
                         "firstName": "N",
                         "lastName": "Dave"
                     }
@@ -1595,8 +1703,8 @@
                     }
                 },
                 "instructors": {
-                    "8692700": {
-                        "instructorId": "8692700",
+                    "8739125": {
+                        "instructorId": "8739125",
                         "firstName": "H",
                         "lastName": "Duke"
                     }
@@ -1676,8 +1784,8 @@
                     }
                 },
                 "instructors": {
-                    "8693680": {
-                        "instructorId": "8693680",
+                    "8740607": {
+                        "instructorId": "8740607",
                         "firstName": "S",
                         "lastName": "Satsuka"
                     }
@@ -1757,13 +1865,13 @@
                     }
                 },
                 "instructors": {
-                    "8692701": {
-                        "instructorId": "8692701",
+                    "8739126": {
+                        "instructorId": "8739126",
                         "firstName": "H",
                         "lastName": "Duke"
                     },
-                    "8692702": {
-                        "instructorId": "8692702",
+                    "8739127": {
+                        "instructorId": "8739127",
                         "firstName": "J",
                         "lastName": "Jennings"
                     }
@@ -1977,8 +2085,8 @@
                     }
                 },
                 "instructors": {
-                    "8692703": {
-                        "instructorId": "8692703",
+                    "8739128": {
+                        "instructorId": "8739128",
                         "firstName": "T",
                         "lastName": "Viola"
                     }
@@ -2165,8 +2273,8 @@
                     }
                 },
                 "instructors": {
-                    "8693681": {
-                        "instructorId": "8693681",
+                    "8740608": {
+                        "instructorId": "8740608",
                         "firstName": "O",
                         "lastName": "Ozcan"
                     }
@@ -2488,8 +2596,8 @@
                     }
                 },
                 "instructors": {
-                    "8692704": {
-                        "instructorId": "8692704",
+                    "8739129": {
+                        "instructorId": "8739129",
                         "firstName": "J",
                         "lastName": "Taylor"
                     }
@@ -3365,8 +3473,8 @@
                     }
                 },
                 "instructors": {
-                    "8692705": {
-                        "instructorId": "8692705",
+                    "8739130": {
+                        "instructorId": "8739130",
                         "firstName": "S",
                         "lastName": "Yeung"
                     }
@@ -3878,8 +3986,8 @@
                     }
                 },
                 "instructors": {
-                    "8693682": {
-                        "instructorId": "8693682",
+                    "8740609": {
+                        "instructorId": "8740609",
                         "firstName": "P",
                         "lastName": "Jolicoeur"
                     }
@@ -4088,8 +4196,8 @@
                     }
                 },
                 "instructors": {
-                    "8693683": {
-                        "instructorId": "8693683",
+                    "8740610": {
+                        "instructorId": "8740610",
                         "firstName": "S",
                         "lastName": "Yeung"
                     }
@@ -4196,8 +4304,8 @@
                     }
                 },
                 "instructors": {
-                    "8692706": {
-                        "instructorId": "8692706",
+                    "8739131": {
+                        "instructorId": "8739131",
                         "firstName": "D",
                         "lastName": "Begun"
                     }
@@ -4385,8 +4493,8 @@
                     }
                 },
                 "instructors": {
-                    "8693684": {
-                        "instructorId": "8693684",
+                    "8740611": {
+                        "instructorId": "8740611",
                         "firstName": "T",
                         "lastName": "Viola"
                     }
@@ -4493,8 +4601,8 @@
                     }
                 },
                 "instructors": {
-                    "8693685": {
-                        "instructorId": "8693685",
+                    "8740612": {
+                        "instructorId": "8740612",
                         "firstName": "M",
                         "lastName": "Cameron"
                     }
@@ -4655,8 +4763,8 @@
                     }
                 },
                 "instructors": {
-                    "8693686": {
-                        "instructorId": "8693686",
+                    "8740613": {
+                        "instructorId": "8740613",
                         "firstName": "A",
                         "lastName": "Allen"
                     }
@@ -4865,8 +4973,8 @@
                     }
                 },
                 "instructors": {
-                    "8692707": {
-                        "instructorId": "8692707",
+                    "8739132": {
+                        "instructorId": "8739132",
                         "firstName": "O",
                         "lastName": "Ozcan"
                     }
@@ -5075,8 +5183,8 @@
                     }
                 },
                 "instructors": {
-                    "8693687": {
-                        "instructorId": "8693687",
+                    "8740614": {
+                        "instructorId": "8740614",
                         "firstName": "E",
                         "lastName": "Sammons"
                     }
@@ -5183,8 +5291,8 @@
                     }
                 },
                 "instructors": {
-                    "8693688": {
-                        "instructorId": "8693688",
+                    "8740615": {
+                        "instructorId": "8740615",
                         "firstName": "K",
                         "lastName": "Maxwell"
                     }
@@ -5291,8 +5399,8 @@
                     }
                 },
                 "instructors": {
-                    "8692708": {
-                        "instructorId": "8692708",
+                    "8739133": {
+                        "instructorId": "8739133",
                         "firstName": "J",
                         "lastName": "Taylor"
                     }
@@ -5471,7 +5579,7 @@
             }
         }
     },
-    "ANT366H1-F-20229": {
+    "ANT366H1-S-20229": {
         "courseId": "61104",
         "org": "ANT",
         "orgName": "Anthropology (ANT) (ARH) (HAJ) (JAH) (JAL) (JAR) (JGA)",
@@ -5482,7 +5590,7 @@
         "corequisite": "",
         "exclusion": "",
         "recommendedPreparation": "",
-        "section": "F",
+        "section": "S",
         "session": "20229",
         "webTimetableInstructions": "",
         "deliveryInstructions": "",
@@ -5491,26 +5599,20 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-308895": {
+                    "TH-344490": {
                         "meetingDay": "TH",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "308895",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "344490",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
-                "instructors": {
-                    "8692709": {
-                        "instructorId": "8692709",
-                        "firstName": "J",
-                        "lastName": "Song"
-                    }
-                },
+                "instructors": [],
                 "meetingId": "210218",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": null,
+                "subtitle": "",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
@@ -5519,7 +5621,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "July 6, 2022: Session and time changed.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -5609,8 +5711,8 @@
                     }
                 },
                 "instructors": {
-                    "8692710": {
-                        "instructorId": "8692710",
+                    "8739134": {
+                        "instructorId": "8739134",
                         "firstName": "V",
                         "lastName": "Napolitano"
                     }
@@ -5700,42 +5802,21 @@
         "recommendedPreparation": "",
         "section": "S",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TH-319811": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "16:00",
-                        "meetingEndTime": "18:00",
-                        "meetingScheduleId": "319811",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    }
-                },
-                "instructors": {
-                    "8693689": {
-                        "instructorId": "8693689",
-                        "firstName": "J",
-                        "lastName": "Song"
-                    }
-                },
+                "schedule": [],
+                "instructors": [],
                 "meetingId": "217995",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "SYNC",
-                "online": "Online Synchronous",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "July 6, 2022: Course cancelled.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -5824,13 +5905,7 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": {
-                    "8692711": {
-                        "instructorId": "8692711",
-                        "firstName": "S",
-                        "lastName": "Satsuka"
-                    }
-                },
+                "instructors": [],
                 "meetingId": "210220",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -5906,8 +5981,8 @@
                     }
                 },
                 "instructors": {
-                    "8692712": {
-                        "instructorId": "8692712",
+                    "8739135": {
+                        "instructorId": "8739135",
                         "firstName": "S",
                         "lastName": "Kassamali"
                     }
@@ -6014,8 +6089,8 @@
                     }
                 },
                 "instructors": {
-                    "8693690": {
-                        "instructorId": "8693690",
+                    "8740616": {
+                        "instructorId": "8740616",
                         "firstName": "N",
                         "lastName": "Dave"
                     }
@@ -6033,6 +6108,108 @@
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "3",
+                        "adminOrgCode": "ANT",
+                        "adminOrgName": "Department of Anthropology"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "3",
+                        "adminOrgCode": "ANT",
+                        "adminOrgName": "Department of Anthropology"
+                    }
+                ]
+            }
+        }
+    },
+    "ANT385H1-S-20229": {
+        "courseId": "66115",
+        "org": "ANT",
+        "orgName": "Anthropology (ANT) (ARH) (HAJ) (JAH) (JAL) (JAR) (JGA)",
+        "courseTitle": "Special Topics in Sociocultural Medical Anthropology",
+        "code": "ANT385H1",
+        "courseDescription": "<p>This course combines lecture and discussion, and focuses on a topic in medical anthropology from a sociocultural perspective. Topics change from year to year. See Anthropology website for more details.</p>\r\n",
+        "prerequisite": "<p>ANT205H1 or ANT207H1</p>\r\n",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-344510": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "344510",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220837",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "July 7, 2022: Course added.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -6213,30 +6390,15 @@
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-343761": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "12:00",
-                        "meetingEndTime": "14:00",
-                        "meetingScheduleId": "343761",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "220759",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "Anthropology of Dispossession",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "June 15, 2022: Course added.",
+                "meetingStatusNotes": "July 6, 2022: Course cancelled.</br>June 15, 2022: Course added.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -6326,8 +6488,8 @@
                     }
                 },
                 "instructors": {
-                    "8693691": {
-                        "instructorId": "8693691",
+                    "8740617": {
+                        "instructorId": "8740617",
                         "firstName": "H",
                         "lastName": "Duke"
                     }
@@ -6515,8 +6677,8 @@
                     }
                 },
                 "instructors": {
-                    "8692713": {
-                        "instructorId": "8692713",
+                    "8739136": {
+                        "instructorId": "8739136",
                         "firstName": "E",
                         "lastName": "Swenson"
                     }
@@ -6704,8 +6866,8 @@
                     }
                 },
                 "instructors": {
-                    "8693692": {
-                        "instructorId": "8693692",
+                    "8740618": {
+                        "instructorId": "8740618",
                         "firstName": "H",
                         "lastName": "Duke"
                     }
@@ -6893,8 +7055,8 @@
                     }
                 },
                 "instructors": {
-                    "8692714": {
-                        "instructorId": "8692714",
+                    "8739137": {
+                        "instructorId": "8739137",
                         "firstName": "M",
                         "lastName": "Friesen"
                     }
@@ -6946,8 +7108,8 @@
                     }
                 },
                 "instructors": {
-                    "8692715": {
-                        "instructorId": "8692715",
+                    "8739138": {
+                        "instructorId": "8739138",
                         "firstName": "S",
                         "lastName": "Yeung"
                     }
@@ -7108,8 +7270,8 @@
                     }
                 },
                 "instructors": {
-                    "8692716": {
-                        "instructorId": "8692716",
+                    "8739139": {
+                        "instructorId": "8739139",
                         "firstName": "I",
                         "lastName": "Kalmar"
                     }
@@ -7270,8 +7432,8 @@
                     }
                 },
                 "instructors": {
-                    "8692717": {
-                        "instructorId": "8692717",
+                    "8739140": {
+                        "instructorId": "8739140",
                         "firstName": "S",
                         "lastName": "Lehman"
                     }
@@ -7459,8 +7621,8 @@
                     }
                 },
                 "instructors": {
-                    "8692718": {
-                        "instructorId": "8692718",
+                    "8739141": {
+                        "instructorId": "8739141",
                         "firstName": "D",
                         "lastName": "Begun"
                     }
@@ -7611,18 +7773,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-321480": {
+                    "TU-344417": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "321480",
+                        "meetingScheduleId": "344417",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
                 },
                 "instructors": {
-                    "8693693": {
-                        "instructorId": "8693693",
+                    "8740619": {
+                        "instructorId": "8740619",
                         "firstName": "M",
                         "lastName": "Cameron"
                     }
@@ -7639,7 +7801,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "115",
@@ -7699,6 +7861,33 @@
                         "postId": "145",
                         "postCode": "ASMAJ2112",
                         "postName": "MA ANTHROPOLOGY(SCTY/CULT/LNG)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "671",
+                        "postCode": "ASMIN1778",
+                        "postName": "MI MEDICAL ANTHROPOLOGY",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -7793,25 +7982,25 @@
         "recommendedPreparation": "",
         "section": "S",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science, Social Science",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-321839": {
+                    "TH-344418": {
                         "meetingDay": "TH",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321839",
+                        "meetingScheduleId": "344418",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
                 },
                 "instructors": {
-                    "8693694": {
-                        "instructorId": "8693694",
+                    "8740620": {
+                        "instructorId": "8740620",
                         "firstName": "D",
                         "lastName": "Sellen"
                     }
@@ -7828,7 +8017,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "115",
@@ -7888,6 +8077,33 @@
                         "postId": "145",
                         "postCode": "ASMAJ2112",
                         "postName": "MA ANTHROPOLOGY(SCTY/CULT/LNG)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "671",
+                        "postCode": "ASMIN1778",
+                        "postName": "MI MEDICAL ANTHROPOLOGY",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -7999,8 +8215,8 @@
                     }
                 },
                 "instructors": {
-                    "8693695": {
-                        "instructorId": "8693695",
+                    "8740621": {
+                        "instructorId": "8740621",
                         "firstName": "S",
                         "lastName": "Lehman"
                     }
@@ -8344,8 +8560,8 @@
                     }
                 },
                 "instructors": {
-                    "8692719": {
-                        "instructorId": "8692719",
+                    "8739142": {
+                        "instructorId": "8739142",
                         "firstName": "H",
                         "lastName": "Cunningham"
                     }
@@ -8533,8 +8749,8 @@
                     }
                 },
                 "instructors": {
-                    "8692720": {
-                        "instructorId": "8692720",
+                    "8739143": {
+                        "instructorId": "8739143",
                         "firstName": "S",
                         "lastName": "Kassamali"
                     }
@@ -8678,25 +8894,25 @@
         "recommendedPreparation": "ANT345H1 or ANT348H1 or ANT358H1",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-321467": {
+                    "WE-344419": {
                         "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "321467",
+                        "meetingScheduleId": "344419",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8692721": {
-                        "instructorId": "8692721",
+                    "8739144": {
+                        "instructorId": "8739144",
                         "firstName": "K",
                         "lastName": "Maxwell"
                     }
@@ -8713,7 +8929,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "131",
@@ -8746,6 +8962,33 @@
                         "postId": "145",
                         "postCode": "ASMAJ2112",
                         "postName": "MA ANTHROPOLOGY(SCTY/CULT/LNG)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "671",
+                        "postCode": "ASMIN1778",
+                        "postName": "MI MEDICAL ANTHROPOLOGY",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -8857,8 +9100,8 @@
                     }
                 },
                 "instructors": {
-                    "8692722": {
-                        "instructorId": "8692722",
+                    "8739145": {
+                        "instructorId": "8739145",
                         "firstName": "H",
                         "lastName": "Cunningham"
                     }
@@ -9002,25 +9245,25 @@
         "recommendedPreparation": "",
         "section": "S",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "TH-338402": {
+                    "TH-344420": {
                         "meetingDay": "TH",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "338402",
+                        "meetingScheduleId": "344420",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
                 },
                 "instructors": {
-                    "8693696": {
-                        "instructorId": "8693696",
+                    "8740622": {
+                        "instructorId": "8740622",
                         "firstName": "H",
                         "lastName": "Wardlow"
                     }
@@ -9070,6 +9313,33 @@
                         "postId": "145",
                         "postCode": "ASMAJ2112",
                         "postName": "MA ANTHROPOLOGY(SCTY/CULT/LNG)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "671",
+                        "postCode": "ASMIN1778",
+                        "postName": "MI MEDICAL ANTHROPOLOGY",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -9181,8 +9451,8 @@
                     }
                 },
                 "instructors": {
-                    "8692723": {
-                        "instructorId": "8692723",
+                    "8739146": {
+                        "instructorId": "8739146",
                         "firstName": "V",
                         "lastName": "Napolitano"
                     }
@@ -9343,8 +9613,8 @@
                     }
                 },
                 "instructors": {
-                    "8693697": {
-                        "instructorId": "8693697",
+                    "8740623": {
+                        "instructorId": "8740623",
                         "firstName": "O",
                         "lastName": "Ozcan"
                     }
@@ -9407,42 +9677,21 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TH-326598": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "16:00",
-                        "meetingEndTime": "18:00",
-                        "meetingScheduleId": "326598",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
-                "instructors": {
-                    "8692724": {
-                        "instructorId": "8692724",
-                        "firstName": "J",
-                        "lastName": "Song"
-                    }
-                },
+                "schedule": [],
+                "instructors": [],
                 "meetingId": "218005",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "SYNC",
-                "online": "Online Synchronous",
-                "enrollmentCapacity": "18",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "July 6, 2022: Course cancelled.",
                 "enrollmentControls": [
                     {
                         "postId": "131",
@@ -9586,8 +9835,8 @@
                     }
                 },
                 "instructors": {
-                    "8693698": {
-                        "instructorId": "8693698",
+                    "8740624": {
+                        "instructorId": "8740624",
                         "firstName": "J",
                         "lastName": "Taylor"
                     }
@@ -9731,36 +9980,21 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TH-321868": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "12:00",
-                        "meetingEndTime": "14:00",
-                        "meetingScheduleId": "321868",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "218007",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "Human Birth and Infant Care: an Evolutionary Perspective",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "18",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "July 5, 2022: Course cancelled.",
                 "enrollmentControls": [
                     {
                         "postId": "115",
@@ -9904,8 +10138,8 @@
                     }
                 },
                 "instructors": {
-                    "8692725": {
-                        "instructorId": "8692725",
+                    "8739147": {
+                        "instructorId": "8739147",
                         "firstName": "O",
                         "lastName": "Ozcan"
                     }
@@ -10066,8 +10300,8 @@
                     }
                 },
                 "instructors": {
-                    "8693699": {
-                        "instructorId": "8693699",
+                    "8740625": {
+                        "instructorId": "8740625",
                         "firstName": "N",
                         "lastName": "Dave"
                     }
@@ -10228,8 +10462,8 @@
                     }
                 },
                 "instructors": {
-                    "8693700": {
-                        "instructorId": "8693700",
+                    "8740626": {
+                        "instructorId": "8740626",
                         "firstName": "W",
                         "lastName": "Brunson"
                     }
@@ -10373,42 +10607,21 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-328820": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "328820",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
-                "instructors": {
-                    "8692726": {
-                        "instructorId": "8692726",
-                        "firstName": "S",
-                        "lastName": "Forni"
-                    }
-                },
+                "schedule": [],
+                "instructors": [],
                 "meetingId": "210244",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "Perspectives on Africa",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "18",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "July 5, 2022: Course cancelled.",
                 "enrollmentControls": [
                     {
                         "postId": "131",
@@ -10552,8 +10765,8 @@
                     }
                 },
                 "instructors": {
-                    "8693701": {
-                        "instructorId": "8693701",
+                    "8740627": {
+                        "instructorId": "8740627",
                         "firstName": "K",
                         "lastName": "Maxwell"
                     }
@@ -10571,6 +10784,162 @@
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "131",
+                        "postCode": "ASMAJ1775",
+                        "postName": "MA ANTHROPOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "145",
+                        "postCode": "ASMAJ2112",
+                        "postName": "MA ANTHROPOLOGY(SCTY/CULT/LNG)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "238",
+                        "postCode": "ASSPE0155",
+                        "postName": "SP ARCHAEOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "364",
+                        "postCode": "ASSPE2112",
+                        "postName": "SP ANTHROPOLOGY(SCTY/CULT/LNG)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    },
+    "ANT488H1-S-20229": {
+        "courseId": "66116",
+        "org": "ANT",
+        "orgName": "Anthropology (ANT) (ARH) (HAJ) (JAH) (JAL) (JAR) (JGA)",
+        "courseTitle": "Special Topics in Medical Anthropology",
+        "code": "ANT488H1",
+        "courseDescription": "<p>This discussion-based seminar course focuses on a topic in medical anthropology. Topics change from year to year. See Anthropology website for more details.</p>\r\n",
+        "prerequisite": "<p>ANT205H1, ANT208H1, and 1.0 credit in ANT/ARH/JAH/JAL/JAR courses at the 300-level</p>\r\n",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-344509": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "344509",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220834",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "July 7, 2022: Course added.",
                 "enrollmentControls": [
                     {
                         "postId": "131",

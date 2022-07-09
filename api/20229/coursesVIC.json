@@ -46,6 +46,144 @@
             }
         }
     },
+    "VIC102H1-S-20229": {
+        "courseId": "65789",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (CRE) (EDS) (IVP) (JSV) (JFV) (LCT) (MCS) (REN)",
+        "courseTitle": "Ethics and Choices in Times of Crisis",
+        "code": "VIC102H1",
+        "courseDescription": "<p>This course examines a specific event, or events, in relation to the public sphere. The course will use events or an event as an entry point to discuss the nature of society including topics such as major revolutions, economic crises, the impact of the appearance of significant artistic or cultural works, and the impact of technological changes. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "VIC102Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-344093": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "344093",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8741680": {
+                        "instructorId": "8741680",
+                        "firstName": "J",
+                        "lastName": "Duncan"
+                    }
+                },
+                "meetingId": "220812",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Ethics and Choices in times of Crisis",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "June 27, 2022: Course Added.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "restrictedGroup": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "86",
+                        "assocOrgCode": "VIC",
+                        "assocOrgName": "Victoria College",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "restrictedGroup": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "restrictedGroup": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
     "VIC106H1-F-20229": {
         "courseId": "65791",
         "org": "VIC",
@@ -107,7 +245,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741681": {
+                        "instructorId": "8741681",
+                        "firstName": "M",
+                        "lastName": "Cichosz"
+                    }
+                },
                 "meetingId": "217618",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -239,7 +383,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741682": {
+                        "instructorId": "8741682",
+                        "firstName": "E",
+                        "lastName": "Koester"
+                    }
+                },
                 "meetingId": "219077",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -371,7 +521,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740551": {
+                        "instructorId": "8740551",
+                        "firstName": "K",
+                        "lastName": "Derry"
+                    }
+                },
                 "meetingId": "219083",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -503,7 +659,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741683": {
+                        "instructorId": "8741683",
+                        "firstName": "J",
+                        "lastName": "Hamilton-Diabo"
+                    }
+                },
                 "meetingId": "219089",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -635,7 +797,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740552": {
+                        "instructorId": "8740552",
+                        "firstName": "J",
+                        "lastName": "Papayiannis"
+                    }
+                },
                 "meetingId": "217620",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -767,7 +935,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740553": {
+                        "instructorId": "8740553",
+                        "firstName": "D",
+                        "lastName": "Cook"
+                    }
+                },
                 "meetingId": "217621",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -899,7 +1073,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741684": {
+                        "instructorId": "8741684",
+                        "firstName": "S",
+                        "lastName": "Ross"
+                    }
+                },
                 "meetingId": "217622",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1031,7 +1211,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740554": {
+                        "instructorId": "8740554",
+                        "firstName": "C",
+                        "lastName": "Sutton"
+                    }
+                },
                 "meetingId": "217625",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1163,7 +1349,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740555": {
+                        "instructorId": "8740555",
+                        "firstName": "M",
+                        "lastName": "Mercuri"
+                    }
+                },
                 "meetingId": "217626",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1295,7 +1487,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741685": {
+                        "instructorId": "8741685",
+                        "firstName": "M",
+                        "lastName": "Mercuri"
+                    }
+                },
                 "meetingId": "217627",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1427,7 +1625,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741686": {
+                        "instructorId": "8741686",
+                        "firstName": "S",
+                        "lastName": "Yeung"
+                    }
+                },
                 "meetingId": "219435",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1529,7 +1733,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740556": {
+                        "instructorId": "8740556",
+                        "firstName": "A",
+                        "lastName": "Lawless"
+                    }
+                },
                 "meetingId": "217628",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1661,7 +1871,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740557": {
+                        "instructorId": "8740557",
+                        "firstName": "I",
+                        "lastName": "Kalmar"
+                    }
+                },
                 "meetingId": "217630",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1793,7 +2009,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740558": {
+                        "instructorId": "8740558",
+                        "firstName": "E",
+                        "lastName": "Koester"
+                    }
+                },
                 "meetingId": "217631",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1925,7 +2147,18 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740559": {
+                        "instructorId": "8740559",
+                        "firstName": "E",
+                        "lastName": "Greenleaf"
+                    },
+                    "8740560": {
+                        "instructorId": "8740560",
+                        "firstName": "J",
+                        "lastName": "Hamilton-Diabo"
+                    }
+                },
                 "meetingId": "217632",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1972,7 +2205,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740561": {
+                        "instructorId": "8740561",
+                        "firstName": "J",
+                        "lastName": "Forgie"
+                    }
+                },
                 "meetingId": "217633",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2019,7 +2258,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741687": {
+                        "instructorId": "8741687",
+                        "firstName": "M",
+                        "lastName": "Solovey"
+                    }
+                },
                 "meetingId": "218795",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2094,7 +2339,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740562": {
+                        "instructorId": "8740562",
+                        "firstName": "I",
+                        "lastName": "Wells"
+                    }
+                },
                 "meetingId": "217634",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2141,7 +2392,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741688": {
+                        "instructorId": "8741688",
+                        "firstName": "I",
+                        "lastName": "Wells"
+                    }
+                },
                 "meetingId": "217635",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2196,7 +2453,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740563": {
+                        "instructorId": "8740563",
+                        "firstName": "A",
+                        "lastName": "Urbancic"
+                    }
+                },
                 "meetingId": "217636",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2251,7 +2514,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741689": {
+                        "instructorId": "8741689",
+                        "firstName": "A",
+                        "lastName": "Urbancic"
+                    }
+                },
                 "meetingId": "217637",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2298,7 +2567,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740564": {
+                        "instructorId": "8740564",
+                        "firstName": "M",
+                        "lastName": "Cichosz"
+                    }
+                },
                 "meetingId": "217638",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2345,7 +2620,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741690": {
+                        "instructorId": "8741690",
+                        "firstName": "M",
+                        "lastName": "Cichosz"
+                    }
+                },
                 "meetingId": "217639",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2392,7 +2673,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740565": {
+                        "instructorId": "8740565",
+                        "firstName": "A",
+                        "lastName": "Sol"
+                    }
+                },
                 "meetingId": "217640",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2439,7 +2726,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741691": {
+                        "instructorId": "8741691",
+                        "firstName": "A",
+                        "lastName": "Sol"
+                    }
+                },
                 "meetingId": "217641",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2486,7 +2779,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740566": {
+                        "instructorId": "8740566",
+                        "firstName": "P",
+                        "lastName": "Gooch"
+                    }
+                },
                 "meetingId": "217642",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2533,7 +2832,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741692": {
+                        "instructorId": "8741692",
+                        "firstName": "D",
+                        "lastName": "Cook"
+                    }
+                },
                 "meetingId": "217643",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2580,7 +2885,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740567": {
+                        "instructorId": "8740567",
+                        "firstName": "A",
+                        "lastName": "Lawless"
+                    }
+                },
                 "meetingId": "217644",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2627,7 +2938,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741693": {
+                        "instructorId": "8741693",
+                        "firstName": "M",
+                        "lastName": "Dougherty"
+                    }
+                },
                 "meetingId": "217645",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2674,7 +2991,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740568": {
+                        "instructorId": "8740568",
+                        "firstName": "A",
+                        "lastName": "McQuibban"
+                    }
+                },
                 "meetingId": "217646",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2721,7 +3044,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740569": {
+                        "instructorId": "8740569",
+                        "firstName": "C",
+                        "lastName": "Lewis"
+                    }
+                },
                 "meetingId": "217647",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2768,7 +3097,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740570": {
+                        "instructorId": "8740570",
+                        "firstName": "M",
+                        "lastName": "Goh"
+                    }
+                },
                 "meetingId": "217648",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2815,7 +3150,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740571": {
+                        "instructorId": "8740571",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
                 "meetingId": "217649",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2862,7 +3203,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740572": {
+                        "instructorId": "8740572",
+                        "firstName": "D",
+                        "lastName": "Wright"
+                    }
+                },
                 "meetingId": "217650",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2909,7 +3256,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741694": {
+                        "instructorId": "8741694",
+                        "firstName": "D",
+                        "lastName": "Wright"
+                    }
+                },
                 "meetingId": "217651",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2956,7 +3309,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740573": {
+                        "instructorId": "8740573",
+                        "firstName": "S",
+                        "lastName": "Johal"
+                    }
+                },
                 "meetingId": "217652",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3003,7 +3362,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741695": {
+                        "instructorId": "8741695",
+                        "firstName": "S",
+                        "lastName": "Johal"
+                    }
+                },
                 "meetingId": "217653",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3058,7 +3423,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740574": {
+                        "instructorId": "8740574",
+                        "firstName": "A",
+                        "lastName": "Urbancic"
+                    }
+                },
                 "meetingId": "217654",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3113,7 +3484,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741696": {
+                        "instructorId": "8741696",
+                        "firstName": "A",
+                        "lastName": "Urbancic"
+                    }
+                },
                 "meetingId": "217655",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3160,7 +3537,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740575": {
+                        "instructorId": "8740575",
+                        "firstName": "V",
+                        "lastName": "Falkenheim"
+                    }
+                },
                 "meetingId": "217656",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3207,7 +3590,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741697": {
+                        "instructorId": "8741697",
+                        "firstName": "V",
+                        "lastName": "Falkenheim"
+                    }
+                },
                 "meetingId": "217657",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3243,21 +3632,27 @@
         "breadthCategories": "Creative and Cultural Representations (1)",
         "distributionCategories": "Humanities",
         "meetings": {
-            "LEC-5101": {
+            "LEC-0101": {
                 "schedule": {
-                    "TU-331149": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "18:00",
-                        "meetingEndTime": "20:00",
-                        "meetingScheduleId": "331149",
+                    "TH-344082": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "344082",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740576": {
+                        "instructorId": "8740576",
+                        "firstName": "J",
+                        "lastName": "Faflak"
+                    }
+                },
                 "meetingId": "217658",
                 "teachingMethod": "LEC",
-                "sectionNumber": "5101",
+                "sectionNumber": "0101",
                 "subtitle": "",
                 "cancel": "",
                 "waitlist": "N",
@@ -3267,7 +3662,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 27, 2022: Section Number & Meeting Day/Time Changed.",
                 "enrollmentControls": []
             }
         }
@@ -3292,16 +3687,22 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-331165": {
+                    "MO-344065": {
                         "meetingDay": "MO",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "331165",
+                        "meetingScheduleId": "344065",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740577": {
+                        "instructorId": "8740577",
+                        "firstName": "K",
+                        "lastName": "Wynne"
+                    }
+                },
                 "meetingId": "219991",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3313,8 +3714,8 @@
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -3348,7 +3749,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741698": {
+                        "instructorId": "8741698",
+                        "firstName": "W",
+                        "lastName": "Cecil"
+                    }
+                },
                 "meetingId": "217660",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -3386,16 +3793,22 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-331233": {
-                        "meetingDay": "FR",
-                        "meetingStartTime": "11:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "331233",
+                    "TH-344079": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "344079",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741699": {
+                        "instructorId": "8741699",
+                        "firstName": "J",
+                        "lastName": "Faflak"
+                    }
+                },
                 "meetingId": "217661",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3408,7 +3821,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 27, 2022: Meeting Day/Time Changed.",
                 "enrollmentControls": []
             }
         }
@@ -3442,7 +3855,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740578": {
+                        "instructorId": "8740578",
+                        "firstName": "A",
+                        "lastName": "Sol"
+                    }
+                },
                 "meetingId": "217662",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3489,7 +3908,18 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740579": {
+                        "instructorId": "8740579",
+                        "firstName": "C",
+                        "lastName": "Battershill"
+                    },
+                    "8740580": {
+                        "instructorId": "8740580",
+                        "firstName": "E",
+                        "lastName": "Friesen"
+                    }
+                },
                 "meetingId": "217663",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3536,7 +3966,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741700": {
+                        "instructorId": "8741700",
+                        "firstName": "C",
+                        "lastName": "Sutton"
+                    }
+                },
                 "meetingId": "217665",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3640,7 +4076,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740581": {
+                        "instructorId": "8740581",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
                 "meetingId": "217666",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3715,7 +4157,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741701": {
+                        "instructorId": "8741701",
+                        "firstName": "S",
+                        "lastName": "Nickerson"
+                    }
+                },
                 "meetingId": "220720",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3817,7 +4265,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740582": {
+                        "instructorId": "8740582",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
                 "meetingId": "217668",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3831,6 +4285,53 @@
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC377H1-S-20229": {
+        "courseId": "65854",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (CRE) (EDS) (IVP) (JSV) (JFV) (LCT) (MCS) (REN)",
+        "courseTitle": "Special Topics in Science, Technology and Society",
+        "code": "VIC377H1",
+        "courseDescription": "<p>In-depth study of a topic related to science and society. Content varies with instructor. Please see the Victoria College website for current offerings.</p>",
+        "prerequisite": "Completion of 9.0 credits",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "0.5 credit in Science and Society",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-344037": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "344037",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220807",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Women in the History of Math",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "June 24, 2022: Course Added.",
                 "enrollmentControls": []
             }
         }
@@ -4852,8 +5353,8 @@
                     }
                 },
                 "instructors": {
-                    "8693669": {
-                        "instructorId": "8693669",
+                    "8740583": {
+                        "instructorId": "8740583",
                         "firstName": "H",
                         "lastName": "Barseghyan"
                     }

@@ -19,32 +19,38 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-338413": {
+                    "TU-344040": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "338413",
+                        "meetingScheduleId": "344040",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "TH-338414": {
+                    "TH-344041": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "338414",
+                        "meetingScheduleId": "344041",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "FR-338415": {
+                    "FR-344042": {
                         "meetingDay": "FR",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "338415",
+                        "meetingScheduleId": "344042",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739161": {
+                        "instructorId": "8739161",
+                        "firstName": "S",
+                        "lastName": "Patterson"
+                    }
+                },
                 "meetingId": "210406",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -53,7 +59,7 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "1400",
+                "enrollmentCapacity": "1300",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
@@ -62,11 +68,11 @@
             },
             "TUT-0101": {
                 "schedule": {
-                    "WE-338418": {
+                    "WE-344046": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "338418",
+                        "meetingScheduleId": "344046",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -80,7 +86,7 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "300",
+                "enrollmentCapacity": "250",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
@@ -89,11 +95,11 @@
             },
             "TUT-0201": {
                 "schedule": {
-                    "TH-338417": {
+                    "TH-344045": {
                         "meetingDay": "TH",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "338417",
+                        "meetingScheduleId": "344045",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -107,7 +113,7 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "300",
+                "enrollmentCapacity": "350",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
@@ -116,11 +122,11 @@
             },
             "TUT-0301": {
                 "schedule": {
-                    "TH-338419": {
+                    "TH-344044": {
                         "meetingDay": "TH",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "338419",
+                        "meetingScheduleId": "344044",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -134,7 +140,7 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "300",
+                "enrollmentCapacity": "350",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
@@ -143,11 +149,11 @@
             },
             "TUT-0401": {
                 "schedule": {
-                    "FR-318681": {
+                    "FR-344043": {
                         "meetingDay": "FR",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "318681",
+                        "meetingScheduleId": "344043",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -161,11 +167,11 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "500",
+                "enrollmentCapacity": "350",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -215,7 +221,43 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739162": {
+                        "instructorId": "8739162",
+                        "firstName": "A",
+                        "lastName": "Davidson"
+                    },
+                    "8739163": {
+                        "instructorId": "8739163",
+                        "firstName": "J",
+                        "lastName": "Ditlev"
+                    },
+                    "8739164": {
+                        "instructorId": "8739164",
+                        "firstName": "K",
+                        "lastName": "Maxwell"
+                    },
+                    "8739165": {
+                        "instructorId": "8739165",
+                        "firstName": "A",
+                        "lastName": "McQuibban"
+                    },
+                    "8739166": {
+                        "instructorId": "8739166",
+                        "firstName": "S",
+                        "lastName": "Patterson"
+                    },
+                    "8739167": {
+                        "instructorId": "8739167",
+                        "firstName": "C",
+                        "lastName": "Smibert"
+                    },
+                    "8739168": {
+                        "instructorId": "8739168",
+                        "firstName": "J",
+                        "lastName": "Watts"
+                    }
+                },
                 "meetingId": "210411",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -499,7 +541,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740637": {
+                        "instructorId": "8740637",
+                        "firstName": "S",
+                        "lastName": "Andreopoulos"
+                    }
+                },
                 "meetingId": "210416",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -617,7 +665,18 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740638": {
+                        "instructorId": "8740638",
+                        "firstName": "G",
+                        "lastName": "Prive"
+                    },
+                    "8740639": {
+                        "instructorId": "8740639",
+                        "firstName": "H",
+                        "lastName": "Wyatt"
+                    }
+                },
                 "meetingId": "210419",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -773,7 +832,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739169": {
+                        "instructorId": "8739169",
+                        "firstName": "A",
+                        "lastName": "Khan-Trottier"
+                    }
+                },
                 "meetingId": "210420",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -811,63 +876,9 @@
                         "assocOrgId": "1",
                         "assocOrgCode": "*",
                         "assocOrgName": "",
-                        "adminOrgId": "61",
-                        "adminOrgCode": "NUSCI",
-                        "adminOrgName": "Department of Nutritional Sciences"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
                         "adminOrgId": "54",
                         "adminOrgCode": "LMP",
                         "adminOrgName": "Department of Laboratory Medicine and Pathobiology"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "61",
-                        "adminOrgCode": "NUSCI",
-                        "adminOrgName": "Department of Nutritional Sciences"
                     },
                     {
                         "postId": null,
@@ -892,9 +903,63 @@
                         "assocOrgId": "1",
                         "assocOrgCode": "*",
                         "assocOrgName": "",
+                        "adminOrgId": "61",
+                        "adminOrgCode": "NUSCI",
+                        "adminOrgName": "Department of Nutritional Sciences"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
                         "adminOrgId": "54",
                         "adminOrgCode": "LMP",
                         "adminOrgName": "Department of Laboratory Medicine and Pathobiology"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "61",
+                        "adminOrgCode": "NUSCI",
+                        "adminOrgName": "Department of Nutritional Sciences"
                     },
                     {
                         "postId": null,
@@ -1014,7 +1079,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1041,7 +1106,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1176,7 +1241,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1203,7 +1268,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1307,7 +1372,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740640": {
+                        "instructorId": "8740640",
+                        "firstName": "A",
+                        "lastName": "Khan-Trottier"
+                    }
+                },
                 "meetingId": "210424",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1345,63 +1416,9 @@
                         "assocOrgId": "1",
                         "assocOrgCode": "*",
                         "assocOrgName": "",
-                        "adminOrgId": "61",
-                        "adminOrgCode": "NUSCI",
-                        "adminOrgName": "Department of Nutritional Sciences"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
                         "adminOrgId": "54",
                         "adminOrgCode": "LMP",
                         "adminOrgName": "Department of Laboratory Medicine and Pathobiology"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "61",
-                        "adminOrgCode": "NUSCI",
-                        "adminOrgName": "Department of Nutritional Sciences"
                     },
                     {
                         "postId": null,
@@ -1426,9 +1443,63 @@
                         "assocOrgId": "1",
                         "assocOrgCode": "*",
                         "assocOrgName": "",
+                        "adminOrgId": "61",
+                        "adminOrgCode": "NUSCI",
+                        "adminOrgName": "Department of Nutritional Sciences"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
                         "adminOrgId": "54",
                         "adminOrgCode": "LMP",
                         "adminOrgName": "Department of Laboratory Medicine and Pathobiology"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "61",
+                        "adminOrgCode": "NUSCI",
+                        "adminOrgName": "Department of Nutritional Sciences"
                     },
                     {
                         "postId": null,
@@ -1548,7 +1619,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1575,7 +1646,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1710,7 +1781,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1737,7 +1808,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1916,7 +1987,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739170": {
+                        "instructorId": "8739170",
+                        "firstName": "H",
+                        "lastName": "Chan"
+                    }
+                },
                 "meetingId": "210428",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2024,7 +2101,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2051,7 +2128,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2240,7 +2317,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2267,7 +2344,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -2318,8 +2395,8 @@
                     }
                 },
                 "instructors": {
-                    "8692740": {
-                        "instructorId": "8692740",
+                    "8739171": {
+                        "instructorId": "8739171",
                         "firstName": "W",
                         "lastName": "Lee"
                     }
@@ -2405,7 +2482,28 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739172": {
+                        "instructorId": "8739172",
+                        "firstName": "C",
+                        "lastName": "Bear"
+                    },
+                    "8739173": {
+                        "instructorId": "8739173",
+                        "firstName": "O",
+                        "lastName": "Ernst"
+                    },
+                    "8739174": {
+                        "instructorId": "8739174",
+                        "firstName": "M",
+                        "lastName": "Manolson"
+                    },
+                    "8739175": {
+                        "instructorId": "8739175",
+                        "firstName": "R",
+                        "lastName": "Pomes"
+                    }
+                },
                 "meetingId": "210435",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2488,7 +2586,28 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739176": {
+                        "instructorId": "8739176",
+                        "firstName": "L",
+                        "lastName": "Howell"
+                    },
+                    "8739177": {
+                        "instructorId": "8739177",
+                        "firstName": "J",
+                        "lastName": "Rubinstein"
+                    },
+                    "8739178": {
+                        "instructorId": "8739178",
+                        "firstName": "S",
+                        "lastName": "Sharpe"
+                    },
+                    "8739179": {
+                        "instructorId": "8739179",
+                        "firstName": "C",
+                        "lastName": "Yip"
+                    }
+                },
                 "meetingId": "210436",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2603,7 +2722,18 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739180": {
+                        "instructorId": "8739180",
+                        "firstName": "A",
+                        "lastName": "Ensminger"
+                    },
+                    "8739181": {
+                        "instructorId": "8739181",
+                        "firstName": "J",
+                        "lastName": "Parkinson"
+                    }
+                },
                 "meetingId": "210437",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2713,7 +2843,18 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740641": {
+                        "instructorId": "8740641",
+                        "firstName": "W",
+                        "lastName": "Houry"
+                    },
+                    "8740642": {
+                        "instructorId": "8740642",
+                        "firstName": "J",
+                        "lastName": "Rini"
+                    }
+                },
                 "meetingId": "210439",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2788,7 +2929,28 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740643": {
+                        "instructorId": "8740643",
+                        "firstName": "D",
+                        "lastName": "Andrews"
+                    },
+                    "8740644": {
+                        "instructorId": "8740644",
+                        "firstName": "S",
+                        "lastName": "Freeman"
+                    },
+                    "8740645": {
+                        "instructorId": "8740645",
+                        "firstName": "P",
+                        "lastName": "Kim"
+                    },
+                    "8740646": {
+                        "instructorId": "8740646",
+                        "firstName": "H",
+                        "lastName": "Lee"
+                    }
+                },
                 "meetingId": "210441",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2843,7 +3005,18 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739182": {
+                        "instructorId": "8739182",
+                        "firstName": "A",
+                        "lastName": "Palazzo"
+                    },
+                    "8739183": {
+                        "instructorId": "8739183",
+                        "firstName": "A",
+                        "lastName": "Wilde"
+                    }
+                },
                 "meetingId": "210442",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -2890,7 +3063,28 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740647": {
+                        "instructorId": "8740647",
+                        "firstName": "M",
+                        "lastName": "Lemaire"
+                    },
+                    "8740648": {
+                        "instructorId": "8740648",
+                        "firstName": "J",
+                        "lastName": "Maynes"
+                    },
+                    "8740649": {
+                        "instructorId": "8740649",
+                        "firstName": "A",
+                        "lastName": "Muise"
+                    },
+                    "8740650": {
+                        "instructorId": "8740650",
+                        "firstName": "A",
+                        "lastName": "Schulze"
+                    }
+                },
                 "meetingId": "218021",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3094,7 +3288,18 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739184": {
+                        "instructorId": "8739184",
+                        "firstName": "H",
+                        "lastName": "Chan"
+                    },
+                    "8739185": {
+                        "instructorId": "8739185",
+                        "firstName": "C",
+                        "lastName": "Smibert"
+                    }
+                },
                 "meetingId": "210444",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3177,7 +3382,18 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739186": {
+                        "instructorId": "8739186",
+                        "firstName": "G",
+                        "lastName": "Brown"
+                    },
+                    "8739187": {
+                        "instructorId": "8739187",
+                        "firstName": "T",
+                        "lastName": "Moraes"
+                    }
+                },
                 "meetingId": "210445",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3279,7 +3495,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740651": {
+                        "instructorId": "8740651",
+                        "firstName": "R",
+                        "lastName": "Reithmeier"
+                    }
+                },
                 "meetingId": "210446",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

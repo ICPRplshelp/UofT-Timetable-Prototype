@@ -28,7 +28,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741676": {
+                        "instructorId": "8741676",
+                        "firstName": "A",
+                        "lastName": "Mehta"
+                    }
+                },
                 "meetingId": "217601",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -75,7 +81,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740545": {
+                        "instructorId": "8740545",
+                        "firstName": "D",
+                        "lastName": "Roberts"
+                    }
+                },
                 "meetingId": "217602",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -122,7 +134,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741677": {
+                        "instructorId": "8741677",
+                        "firstName": "A",
+                        "lastName": "Mehta"
+                    }
+                },
                 "meetingId": "217603",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -427,7 +445,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740546": {
+                        "instructorId": "8740546",
+                        "firstName": "A",
+                        "lastName": "Mehta"
+                    }
+                },
                 "meetingId": "217606",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -556,7 +580,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741678": {
+                        "instructorId": "8741678",
+                        "firstName": "J",
+                        "lastName": "Hulchanski"
+                    }
+                },
                 "meetingId": "217607",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -603,7 +633,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8741679": {
+                        "instructorId": "8741679",
+                        "firstName": "A",
+                        "lastName": "Mehta"
+                    }
+                },
                 "meetingId": "217608",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -732,7 +768,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740547": {
+                        "instructorId": "8740547",
+                        "firstName": "A",
+                        "lastName": "Mehta"
+                    }
+                },
                 "meetingId": "220346",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -861,7 +903,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740548": {
+                        "instructorId": "8740548",
+                        "firstName": "D",
+                        "lastName": "Roberts"
+                    }
+                },
                 "meetingId": "217609",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -875,6 +923,59 @@
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "URB432H1-F-20229": {
+        "courseId": "65779",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI) (JGU) (JWE) (URB) (WRR)",
+        "courseTitle": "Special Topics in Urban Studies",
+        "code": "URB432H1",
+        "courseDescription": "<p>Special topics courses are offered periodically for senior students in the Urban Studies Program. Offerings in any given year will depend on program priorities, availability of specialized expertise and funding. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "URB235H1 and URB236H1, completion of research design and research methods courses, 14.0 credits in an aligned social science program.",
+        "section": "F",
+        "session": "20229",
+        "webTimetableInstructions": "<p>**Pre-Requisites will be waived for Fall 2022; students from associated disciplines are encouraged to enrol**<br>&nbsp;</p><p>Course Description for Fall 2022: This course will provide a broad overview of the roles of both the citizen and the professional practitioner in advancing effective and meaningful public participation in the policy-making process, particularly as it relates to city planning. Through an examination of a mix of theoretical frameworks and case studies from Toronto and elsewhere, you will gain an understanding of the ways in which effective public participation can contribute to the maintenance of a healthy democratic society while also exploring some of the key challenges and opportunities faced by public participation practitioners today. The course has two key objectives: to give you a practical understanding of all of the elements of an effective public participation process, and to explore how public participation processes can be designed to be more inclusive and effective. In addition, students will be able to apply this knowledge towards the development of a project or report for a client. You can read more about the course and examples of previous community engagement projects on the U of T News article regarding Rail Deck Park. (U of T News article: https://www.utoronto.ca/news/u-t-students-tackle-community-engagement-urban-projects-rail-deck-park)</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-344023": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "344023",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8740549": {
+                        "instructorId": "8740549",
+                        "firstName": "D",
+                        "lastName": "Fusca"
+                    }
+                },
+                "meetingId": "220801",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Urban Studio: Public Participation in Policy Making",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "June 24, 2022: Course Added.",
                 "enrollmentControls": []
             }
         }
@@ -1049,7 +1150,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8740550": {
+                        "instructorId": "8740550",
+                        "firstName": "D",
+                        "lastName": "Roberts"
+                    }
+                },
                 "meetingId": "217615",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

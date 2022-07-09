@@ -45,8 +45,8 @@
                     }
                 },
                 "instructors": {
-                    "8692727": {
-                        "instructorId": "8692727",
+                    "8739148": {
+                        "instructorId": "8739148",
                         "firstName": "J",
                         "lastName": "Korman"
                     }
@@ -78,8 +78,8 @@
                     }
                 },
                 "instructors": {
-                    "8692728": {
-                        "instructorId": "8692728",
+                    "8739149": {
+                        "instructorId": "8739149",
                         "firstName": "J",
                         "lastName": "Korman"
                     }
@@ -247,8 +247,8 @@
                     }
                 },
                 "instructors": {
-                    "8693702": {
-                        "instructorId": "8693702",
+                    "8740628": {
+                        "instructorId": "8740628",
                         "firstName": "J",
                         "lastName": "Korman"
                     }
@@ -408,8 +408,8 @@
                     }
                 },
                 "instructors": {
-                    "8692729": {
-                        "instructorId": "8692729",
+                    "8739150": {
+                        "instructorId": "8739150",
                         "firstName": "N",
                         "lastName": "Derzko"
                     }
@@ -441,8 +441,8 @@
                     }
                 },
                 "instructors": {
-                    "8692730": {
-                        "instructorId": "8692730",
+                    "8739151": {
+                        "instructorId": "8739151",
                         "firstName": "N",
                         "lastName": "Derzko"
                     }
@@ -502,8 +502,8 @@
                     }
                 },
                 "instructors": {
-                    "8692731": {
-                        "instructorId": "8692731",
+                    "8739152": {
+                        "instructorId": "8739152",
                         "firstName": "V",
                         "lastName": "Ivrii"
                     }
@@ -671,8 +671,8 @@
                     }
                 },
                 "instructors": {
-                    "8693703": {
-                        "instructorId": "8693703",
+                    "8740629": {
+                        "instructorId": "8740629",
                         "firstName": "V",
                         "lastName": "Ivrii"
                     }
@@ -712,8 +712,8 @@
                     }
                 },
                 "instructors": {
-                    "8693704": {
-                        "instructorId": "8693704",
+                    "8740630": {
+                        "instructorId": "8740630",
                         "firstName": "I",
                         "lastName": "Sigal"
                     }
@@ -997,8 +997,8 @@
                     }
                 },
                 "instructors": {
-                    "8693705": {
-                        "instructorId": "8693705",
+                    "8740631": {
+                        "instructorId": "8740631",
                         "firstName": "A",
                         "lastName": "Stinchcombe"
                     }
@@ -1112,8 +1112,8 @@
                     }
                 },
                 "instructors": {
-                    "8692732": {
-                        "instructorId": "8692732",
+                    "8739153": {
+                        "instructorId": "8739153",
                         "firstName": "I",
                         "lastName": "Sigal"
                     }
@@ -1155,26 +1155,26 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-343138": {
+                    "TU-344439": {
                         "meetingDay": "TU",
-                        "meetingStartTime": "14:00",
-                        "meetingEndTime": "15:00",
-                        "meetingScheduleId": "343138",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "344439",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "TH-343139": {
+                    "TH-344440": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
-                        "meetingEndTime": "16:00",
-                        "meetingScheduleId": "343139",
+                        "meetingEndTime": "15:30",
+                        "meetingScheduleId": "344440",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8692733": {
-                        "instructorId": "8692733",
+                    "8739154": {
+                        "instructorId": "8739154",
                         "firstName": "R",
                         "lastName": "McCann"
                     }
@@ -1191,7 +1191,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "June 27, 2022: Meeting Day/Time Changed.",
                 "enrollmentControls": []
             }
         }
@@ -1242,8 +1242,8 @@
                     }
                 },
                 "instructors": {
-                    "8693706": {
-                        "instructorId": "8693706",
+                    "8740632": {
+                        "instructorId": "8740632",
                         "firstName": "A",
                         "lastName": "Stinchcombe"
                     }
@@ -1293,7 +1293,7 @@
             }
         }
     },
-    "APM461H1-F-20229": {
+    "APM461H1-S-20229": {
         "courseId": "61178",
         "org": "MAT",
         "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
@@ -1304,7 +1304,7 @@
         "corequisite": "",
         "exclusion": "",
         "recommendedPreparation": "MAT344H1",
-        "section": "F",
+        "section": "S",
         "session": "20229",
         "webTimetableInstructions": "",
         "deliveryInstructions": "",
@@ -1313,22 +1313,16 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "-": {
-                        "meetingDay": null,
-                        "meetingStartTime": null,
-                        "meetingEndTime": null,
-                        "meetingScheduleId": null,
+                    "TU-344460": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "344460",
                         "assignedRoom1": null,
-                        "assignedRoom2": null
+                        "assignedRoom2": ""
                     }
                 },
-                "instructors": {
-                    "8692734": {
-                        "instructorId": "8692734",
-                        "firstName": "S",
-                        "lastName": "Kopparty"
-                    }
-                },
+                "instructors": [],
                 "meetingId": "210300",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1341,7 +1335,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "July 6, 2022: Section moved from F to S Term, Meeting Day/Time Updated.",
                 "enrollmentControls": []
             }
         }
@@ -1392,8 +1386,8 @@
                     }
                 },
                 "instructors": {
-                    "8692735": {
-                        "instructorId": "8692735",
+                    "8739155": {
+                        "instructorId": "8739155",
                         "firstName": "J",
                         "lastName": "Korman"
                     }
@@ -1445,8 +1439,8 @@
                     }
                 },
                 "instructors": {
-                    "8693707": {
-                        "instructorId": "8693707",
+                    "8740633": {
+                        "instructorId": "8740633",
                         "firstName": "J",
                         "lastName": "Korman"
                     }
@@ -1498,8 +1492,8 @@
                     }
                 },
                 "instructors": {
-                    "8693708": {
-                        "instructorId": "8693708",
+                    "8740634": {
+                        "instructorId": "8740634",
                         "firstName": "L",
                         "lastName": "Seco"
                     }
@@ -1531,8 +1525,8 @@
                     }
                 },
                 "instructors": {
-                    "8693709": {
-                        "instructorId": "8693709",
+                    "8740635": {
+                        "instructorId": "8740635",
                         "firstName": "L",
                         "lastName": "Seco"
                     }

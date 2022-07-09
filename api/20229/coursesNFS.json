@@ -54,6 +54,33 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
                         "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -82,33 +109,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "82",
-                        "postCode": "ASMAJ1068",
-                        "postName": "MA NUTRITIONAL SCIENCES",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -184,6 +184,33 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
                         "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -212,33 +239,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "82",
-                        "postCode": "ASMAJ1068",
-                        "postName": "MA NUTRITIONAL SCIENCES",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -288,7 +288,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739977": {
+                        "instructorId": "8739977",
+                        "firstName": "J",
+                        "lastName": "Sievenpiper"
+                    }
+                },
                 "meetingId": "215013",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -718,7 +724,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739978": {
+                        "instructorId": "8739978",
+                        "firstName": "A",
+                        "lastName": "Metherel"
+                    }
+                },
                 "meetingId": "215019",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -793,7 +805,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739979": {
+                        "instructorId": "8739979",
+                        "firstName": "E",
+                        "lastName": "Comelli"
+                    }
+                },
                 "meetingId": "215020",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -943,7 +961,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739980": {
+                        "instructorId": "8739980",
+                        "firstName": "A",
+                        "lastName": "El-Sohemy"
+                    }
+                },
                 "meetingId": "215022",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1093,7 +1117,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8739981": {
+                        "instructorId": "8739981",
+                        "firstName": "R",
+                        "lastName": "Bazinet"
+                    }
+                },
                 "meetingId": "215024",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

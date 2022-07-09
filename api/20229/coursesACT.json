@@ -877,11 +877,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-318057": {
-                        "meetingDay": "FR",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "12:00",
-                        "meetingScheduleId": "318057",
+                    "TH-344445": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "344445",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -892,15 +892,42 @@
                 "sectionNumber": "0101",
                 "subtitle": "",
                 "cancel": "",
-                "waitlist": "N",
+                "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "40",
+                "enrollmentCapacity": "60",
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "June 24, 2022: Day/Time changed.",
                 "enrollmentControls": [
+                    {
+                        "postId": "63",
+                        "postCode": "ASMAJ0608",
+                        "postName": "MA ACTUARIAL SCIENCE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
                     {
                         "postId": "256",
                         "postCode": "ASSPE0608",
@@ -1369,19 +1396,19 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-318087": {
+                    "TU-344465": {
                         "meetingDay": "TU",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "318087",
+                        "meetingScheduleId": "344465",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     },
-                    "TH-318088": {
+                    "TH-344466": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "318088",
+                        "meetingScheduleId": "344466",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -1399,7 +1426,7 @@
                 "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
