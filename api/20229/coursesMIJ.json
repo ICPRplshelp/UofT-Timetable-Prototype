@@ -25,10 +25,16 @@
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "341627",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "MS 2173"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8750938": {
+                        "instructorId": "8750938",
+                        "firstName": "S",
+                        "lastName": "Gray-Owen"
+                    }
+                },
                 "meetingId": "214952",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "42",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",

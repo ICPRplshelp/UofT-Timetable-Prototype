@@ -24,13 +24,13 @@
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "342252",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MB 128",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739297": {
-                        "instructorId": "8739297",
+                    "8748970": {
+                        "instructorId": "8748970",
                         "firstName": "N",
                         "lastName": "Wortley"
                     }
@@ -44,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "225",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -133,12 +133,12 @@
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "342253",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "MB 128"
                     }
                 },
                 "instructors": {
-                    "8740741": {
-                        "instructorId": "8740741",
+                    "8750438": {
+                        "instructorId": "8750438",
                         "firstName": "N",
                         "lastName": "Wortley"
                     }
@@ -152,7 +152,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "225",
-                "actualEnrolment": "0",
+                "actualEnrolment": "6",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -240,13 +240,13 @@
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "342060",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "BR 200",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739298": {
-                        "instructorId": "8739298",
+                    "8748971": {
+                        "instructorId": "8748971",
                         "firstName": "M",
                         "lastName": "Mitchell"
                     }
@@ -260,7 +260,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "230",
-                "actualEnrolment": "0",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -348,13 +348,13 @@
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "342254",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MB 128",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739299": {
-                        "instructorId": "8739299",
+                    "8748972": {
+                        "instructorId": "8748972",
                         "firstName": "A",
                         "lastName": "Weaver"
                     }
@@ -368,7 +368,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "225",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -451,18 +451,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-344009": {
+                    "WE-344770": {
                         "meetingDay": "WE",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "19:00",
-                        "meetingScheduleId": "344009",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "344770",
+                        "assignedRoom1": "SS 2106",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739300": {
-                        "instructorId": "8739300",
+                    "8748973": {
+                        "instructorId": "8748973",
                         "firstName": "Z",
                         "lastName": "Levinsky"
                     }
@@ -476,7 +476,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "18",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "June 24, 2022: Day, time, and section number changed.",
@@ -498,6 +498,33 @@
                         "primaryOrgId": "6",
                         "primaryOrgCode": "ARTSC",
                         "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "21",
+                        "adminOrgCode": "CRIM",
+                        "adminOrgName": "Centre for Criminology and Sociolegal Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",
@@ -538,7 +565,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "335983",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2106"
                     }
                 },
                 "instructors": [],
@@ -551,7 +578,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "65",
-                "actualEnrolment": "0",
+                "actualEnrolment": "28",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -634,18 +661,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-339203": {
+                    "TH-344699": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "339203",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "344699",
+                        "assignedRoom1": "EM 001",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739301": {
-                        "instructorId": "8739301",
+                    "8748974": {
+                        "instructorId": "8748974",
                         "firstName": "B",
                         "lastName": "Jauregui"
                     }
@@ -659,7 +686,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "0",
+                "actualEnrolment": "29",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -747,13 +774,13 @@
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "335920",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "LM 162",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739302": {
-                        "instructorId": "8739302",
+                    "8748975": {
+                        "instructorId": "8748975",
                         "firstName": "K",
                         "lastName": "Taylor"
                     }
@@ -767,7 +794,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "0",
+                "actualEnrolment": "50",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -855,13 +882,13 @@
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "335911",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "GB 244",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739303": {
-                        "instructorId": "8739303",
+                    "8748976": {
+                        "instructorId": "8748976",
                         "firstName": "A",
                         "lastName": "Laniyonu"
                     }
@@ -875,7 +902,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "0",
+                "actualEnrolment": "59",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -963,13 +990,13 @@
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "20:00",
                         "meetingScheduleId": "335922",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "OI 5150",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739304": {
-                        "instructorId": "8739304",
+                    "8748977": {
+                        "instructorId": "8748977",
                         "firstName": "K",
                         "lastName": "Taylor"
                     }
@@ -983,7 +1010,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "55",
-                "actualEnrolment": "0",
+                "actualEnrolment": "47",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1071,13 +1098,13 @@
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "335925",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "OI 2212",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739305": {
-                        "instructorId": "8739305",
+                    "8748978": {
+                        "instructorId": "8748978",
                         "firstName": "C",
                         "lastName": "Evans"
                     }
@@ -1091,7 +1118,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "0",
+                "actualEnrolment": "80",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1180,7 +1207,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "342255",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "RW 110"
                     }
                 },
                 "instructors": [],
@@ -1193,7 +1220,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "0",
+                "actualEnrolment": "27",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -1282,7 +1309,7 @@
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "335989",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 1071"
                     }
                 },
                 "instructors": [],
@@ -1295,7 +1322,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "0",
+                "actualEnrolment": "36",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1383,13 +1410,13 @@
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "338493",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "RW 110",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739306": {
-                        "instructorId": "8739306",
+                    "8748979": {
+                        "instructorId": "8748979",
                         "firstName": "K",
                         "lastName": "Taylor"
                     }
@@ -1403,7 +1430,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "125",
-                "actualEnrolment": "0",
+                "actualEnrolment": "39",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -1492,12 +1519,12 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "335992",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2102"
                     }
                 },
                 "instructors": {
-                    "8740742": {
-                        "instructorId": "8740742",
+                    "8750439": {
+                        "instructorId": "8750439",
                         "firstName": "Z",
                         "lastName": "Levinsky"
                     }
@@ -1511,7 +1538,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1600,12 +1627,12 @@
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "335996",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2108"
                     }
                 },
                 "instructors": {
-                    "8740743": {
-                        "instructorId": "8740743",
+                    "8750440": {
+                        "instructorId": "8750440",
                         "firstName": "Z",
                         "lastName": "Levinsky"
                     }
@@ -1619,7 +1646,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1708,12 +1735,12 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "336001",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "VC 323"
                     }
                 },
                 "instructors": {
-                    "8740744": {
-                        "instructorId": "8740744",
+                    "8750441": {
+                        "instructorId": "8750441",
                         "firstName": "A",
                         "lastName": "Laniyonu"
                     }
@@ -1727,7 +1754,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "0",
+                "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1815,13 +1842,13 @@
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "342260",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "BL 325",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739307": {
-                        "instructorId": "8739307",
+                    "8748980": {
+                        "instructorId": "8748980",
                         "firstName": "M",
                         "lastName": "Mitchell"
                     }
@@ -1835,7 +1862,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "16",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -2106,18 +2133,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-342261": {
+                    "WE-344764": {
                         "meetingDay": "WE",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "19:00",
-                        "meetingScheduleId": "342261",
+                        "meetingScheduleId": "344764",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "UC 52"
                     }
                 },
                 "instructors": {
-                    "8740745": {
-                        "instructorId": "8740745",
+                    "8750442": {
+                        "instructorId": "8750442",
                         "firstName": "K",
                         "lastName": "Taylor"
                     }
@@ -2131,7 +2158,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "43",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -2153,6 +2180,33 @@
                         "primaryOrgId": "6",
                         "primaryOrgCode": "ARTSC",
                         "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "21",
+                        "adminOrgCode": "CRIM",
+                        "adminOrgName": "Centre for Criminology and Sociolegal Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",
@@ -2193,12 +2247,12 @@
                         "meetingEndTime": "20:00",
                         "meetingScheduleId": "336004",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "MP 134"
                     }
                 },
                 "instructors": {
-                    "8740746": {
-                        "instructorId": "8740746",
+                    "8750443": {
+                        "instructorId": "8750443",
                         "firstName": "A",
                         "lastName": "Weaver"
                     }
@@ -2212,8 +2266,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "80",
+                "actualWaitlist": "35",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2301,12 +2355,12 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "336010",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "MP 137"
                     }
                 },
                 "instructors": {
-                    "8740747": {
-                        "instructorId": "8740747",
+                    "8750444": {
+                        "instructorId": "8750444",
                         "firstName": "M",
                         "lastName": "Light"
                     }
@@ -2320,8 +2374,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "60",
+                "actualWaitlist": "17",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2409,12 +2463,12 @@
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "336012",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2110"
                     }
                 },
                 "instructors": {
-                    "8740748": {
-                        "instructorId": "8740748",
+                    "8750445": {
+                        "instructorId": "8750445",
                         "firstName": "A",
                         "lastName": "Laniyonu"
                     }
@@ -2428,7 +2482,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "43",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -2516,13 +2570,13 @@
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
                         "meetingScheduleId": "335953",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "SK 348",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739308": {
-                        "instructorId": "8739308",
+                    "8748981": {
+                        "instructorId": "8748981",
                         "firstName": "Z",
                         "lastName": "Levinsky"
                     }
@@ -2536,8 +2590,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "30",
+                "actualWaitlist": "24",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2625,12 +2679,12 @@
                         "meetingEndTime": "15:00",
                         "meetingScheduleId": "336014",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "VC 211"
                     }
                 },
                 "instructors": {
-                    "8740749": {
-                        "instructorId": "8740749",
+                    "8750446": {
+                        "instructorId": "8750446",
                         "firstName": "K",
                         "lastName": "Taylor"
                     }
@@ -2644,8 +2698,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "30",
+                "actualWaitlist": "20",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2732,13 +2786,13 @@
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "338495",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "SK 348",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739309": {
-                        "instructorId": "8739309",
+                    "8748982": {
+                        "instructorId": "8748982",
                         "firstName": "L",
                         "lastName": "Kosals"
                     }
@@ -2752,8 +2806,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "30",
+                "actualWaitlist": "14",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -2835,18 +2889,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-342619": {
+                    "WE-344765": {
                         "meetingDay": "WE",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "342619",
+                        "meetingScheduleId": "344765",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SK 346"
                     }
                 },
                 "instructors": {
-                    "8740750": {
-                        "instructorId": "8740750",
+                    "8750447": {
+                        "instructorId": "8750447",
                         "firstName": "M",
                         "lastName": "Mitchell"
                     }
@@ -2860,7 +2914,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "14",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -2882,6 +2936,33 @@
                         "primaryOrgId": "6",
                         "primaryOrgCode": "ARTSC",
                         "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "21",
+                        "adminOrgCode": "CRIM",
+                        "adminOrgName": "Centre for Criminology and Sociolegal Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",
@@ -2922,7 +3003,7 @@
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "343670",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SK 348"
                     }
                 },
                 "instructors": [],
@@ -2935,7 +3016,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "June 14, 2022: Term and day changed.",
@@ -3018,18 +3099,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-335970": {
+                    "WE-344766": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "335970",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "344766",
+                        "assignedRoom1": "FE 24",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8739310": {
-                        "instructorId": "8739310",
+                    "8748983": {
+                        "instructorId": "8748983",
                         "firstName": "M",
                         "lastName": "Light"
                     }
@@ -3043,10 +3124,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "20",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -3065,6 +3146,33 @@
                         "primaryOrgId": "6",
                         "primaryOrgCode": "ARTSC",
                         "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "21",
+                        "adminOrgCode": "CRIM",
+                        "adminOrgName": "Centre for Criminology and Sociolegal Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",
@@ -3099,12 +3207,12 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-344595": {
+                    "FR-344767": {
                         "meetingDay": "FR",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "344595",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "344767",
+                        "assignedRoom1": "UC 177",
                         "assignedRoom2": null
                     }
                 },
@@ -3118,7 +3226,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "12",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "July 8, 2022: Subtitle Updated.",
@@ -3140,6 +3248,33 @@
                         "primaryOrgId": "6",
                         "primaryOrgCode": "ARTSC",
                         "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "21",
+                        "adminOrgCode": "CRIM",
+                        "adminOrgName": "Centre for Criminology and Sociolegal Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",
@@ -3174,13 +3309,13 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-342893": {
+                    "FR-344768": {
                         "meetingDay": "FR",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "342893",
+                        "meetingScheduleId": "344768",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "UC 175"
                     }
                 },
                 "instructors": [],
@@ -3193,7 +3328,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "13",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -3215,6 +3350,33 @@
                         "primaryOrgId": "6",
                         "primaryOrgCode": "ARTSC",
                         "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "21",
+                        "adminOrgCode": "CRIM",
+                        "adminOrgName": "Centre for Criminology and Sociolegal Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",
@@ -3249,18 +3411,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-342618": {
+                    "FR-344769": {
                         "meetingDay": "FR",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "342618",
+                        "meetingScheduleId": "344769",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "BL 112"
                     }
                 },
                 "instructors": {
-                    "8740751": {
-                        "instructorId": "8740751",
+                    "8750448": {
+                        "instructorId": "8750448",
                         "firstName": "K",
                         "lastName": "Taylor"
                     }
@@ -3274,7 +3436,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "10",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -3296,6 +3458,33 @@
                         "primaryOrgId": "6",
                         "primaryOrgCode": "ARTSC",
                         "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "21",
+                        "adminOrgCode": "CRIM",
+                        "adminOrgName": "Centre for Criminology and Sociolegal Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
                         "secondaryOrgId": "1",
                         "secondaryOrgCode": "*",
                         "secondaryOrgName": "",
