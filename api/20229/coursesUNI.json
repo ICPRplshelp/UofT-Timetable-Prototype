@@ -38,7 +38,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1492,7 +1492,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8774246": {
+                        "instructorId": "8774246",
+                        "firstName": "H",
+                        "lastName": "Anderson"
+                    }
+                },
                 "meetingId": "217592",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1798,7 +1804,13 @@
                         "assignedRoom2": "UC 65"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8775498": {
+                        "instructorId": "8775498",
+                        "firstName": "H",
+                        "lastName": "Anderson"
+                    }
+                },
                 "meetingId": "217594",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

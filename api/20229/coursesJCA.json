@@ -28,7 +28,13 @@
                         "assignedRoom2": "UC 65"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8774888": {
+                        "instructorId": "8774888",
+                        "firstName": "A",
+                        "lastName": "Hincks"
+                    }
+                },
                 "meetingId": "213909",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,8 +44,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "4",
-                "actualWaitlist": "0",
+                "actualEnrolment": "20",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
