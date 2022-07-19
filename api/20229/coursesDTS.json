@@ -12,8 +12,8 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": "",
-        "deliveryInstructions": "",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
         "breadthCategories": "Creative and Cultural Representations (1), Society and its Institutions (3)",
         "distributionCategories": "Humanities, Social Science",
         "meetings": {
@@ -29,13 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "8773004": {
-                        "instructorId": "8773004",
-                        "firstName": "A",
-                        "lastName": "Pesarini"
-                    },
-                    "8773005": {
-                        "instructorId": "8773005",
+                    "8749096": {
+                        "instructorId": "8749096",
                         "firstName": "A",
                         "lastName": "Shternshis"
                     }
@@ -49,22 +44,43 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "45",
+                "actualEnrolment": "7",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "LEC-0102": {
-                "schedule": [],
-                "instructors": [],
+                "schedule": {
+                    "TU-338377": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "338377",
+                        "assignedRoom1": "GB 119",
+                        "assignedRoom2": "RW 110"
+                    }
+                },
+                "instructors": {
+                    "8749097": {
+                        "instructorId": "8749097",
+                        "firstName": "A",
+                        "lastName": "Pesarini"
+                    }
+                },
                 "meetingId": "211635",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0102",
                 "subtitle": "",
-                "cancel": "Cancelled",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "July 18, 2022",
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -99,8 +115,8 @@
                     }
                 },
                 "instructors": {
-                    "8774590": {
-                        "instructorId": "8774590",
+                    "8750546": {
+                        "instructorId": "8750546",
                         "firstName": "P",
                         "lastName": "Scanlan"
                     }
@@ -114,8 +130,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "75",
-                "actualEnrolment": "75",
-                "actualWaitlist": "7",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -152,8 +168,8 @@
                     }
                 },
                 "instructors": {
-                    "8773006": {
-                        "instructorId": "8773006",
+                    "8749098": {
+                        "instructorId": "8749098",
                         "firstName": "A",
                         "lastName": "Allen"
                     }
@@ -167,7 +183,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "75",
-                "actualEnrolment": "46",
+                "actualEnrolment": "18",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -205,8 +221,8 @@
                     }
                 },
                 "instructors": {
-                    "8773007": {
-                        "instructorId": "8773007",
+                    "8749099": {
+                        "instructorId": "8749099",
                         "firstName": "E",
                         "lastName": "Sammons"
                     }
@@ -220,7 +236,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "75",
-                "actualEnrolment": "41",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -399,8 +415,8 @@
                     }
                 },
                 "instructors": {
-                    "8774591": {
-                        "instructorId": "8774591",
+                    "8750547": {
+                        "instructorId": "8750547",
                         "firstName": "M",
                         "lastName": "Schulz"
                     }
@@ -594,8 +610,8 @@
                     }
                 },
                 "instructors": {
-                    "8773008": {
-                        "instructorId": "8773008",
+                    "8749100": {
+                        "instructorId": "8749100",
                         "firstName": "N",
                         "lastName": "Seidman"
                     }
@@ -609,7 +625,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "20",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -789,8 +805,8 @@
                     }
                 },
                 "instructors": {
-                    "8774592": {
-                        "instructorId": "8774592",
+                    "8750548": {
+                        "instructorId": "8750548",
                         "firstName": "E",
                         "lastName": "Sammons"
                     }
@@ -897,8 +913,8 @@
                     }
                 },
                 "instructors": {
-                    "8773009": {
-                        "instructorId": "8773009",
+                    "8749101": {
+                        "instructorId": "8749101",
                         "firstName": "A",
                         "lastName": "Allen"
                     }

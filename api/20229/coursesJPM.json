@@ -38,8 +38,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "80",
-                "actualWaitlist": "1",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -383,21 +383,21 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "14",
+                "actualEnrolment": "12",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": null,
                 "enrollmentControls": []
             },
             "TUT-0101": {
                 "schedule": {
-                    "MO-345186": {
+                    "MO-322351": {
                         "meetingDay": "MO",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "345186",
-                        "assignedRoom1": "WW 119",
-                        "assignedRoom2": "MY 320"
+                        "meetingScheduleId": "322351",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "AB 114"
                     }
                 },
                 "instructors": [],
@@ -410,10 +410,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "14",
+                "actualEnrolment": "12",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": null,
                 "enrollmentControls": []
             }
         }
