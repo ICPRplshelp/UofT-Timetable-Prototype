@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "8773603": {
-                        "instructorId": "8773603",
+                    "8841413": {
+                        "instructorId": "8841413",
                         "firstName": "C",
                         "lastName": "Ramsaroop"
                     }
@@ -44,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -146,7 +146,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -239,8 +239,8 @@
                     }
                 },
                 "instructors": {
-                    "8773604": {
-                        "instructorId": "8773604",
+                    "8841414": {
+                        "instructorId": "8841414",
                         "firstName": "R",
                         "lastName": "Buiani"
                     }
@@ -254,8 +254,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "25",
+                "actualWaitlist": "8",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -356,8 +356,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "24",
+                "actualWaitlist": "4",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -458,8 +458,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "25",
+                "actualWaitlist": "8",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -551,8 +551,8 @@
                     }
                 },
                 "instructors": {
-                    "8775017": {
-                        "instructorId": "8775017",
+                    "8843001": {
+                        "instructorId": "8843001",
                         "firstName": "C",
                         "lastName": "Ramsaroop"
                     }
@@ -566,8 +566,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "25",
+                "actualWaitlist": "5",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -668,8 +668,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "25",
+                "actualWaitlist": "5",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -761,8 +761,8 @@
                     }
                 },
                 "instructors": {
-                    "8775018": {
-                        "instructorId": "8775018",
+                    "8843002": {
+                        "instructorId": "8843002",
                         "firstName": "R",
                         "lastName": "Buiani"
                     }
@@ -776,8 +776,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "25",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -878,8 +878,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "24",
+                "actualWaitlist": "3",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -980,7 +980,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1062,36 +1062,15 @@
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-334874": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "13:00",
-                        "meetingEndTime": "15:00",
-                        "meetingScheduleId": "334874",
-                        "assignedRoom1": "WE 54F",
-                        "assignedRoom2": null
-                    }
-                },
-                "instructors": {
-                    "8773605": {
-                        "instructorId": "8773605",
-                        "firstName": "N",
-                        "lastName": "Rodriguez"
-                    }
-                },
+                "schedule": [],
+                "instructors": [],
                 "meetingId": "214999",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "24",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "August 3, 2022: Course Cancelled. ",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -1181,8 +1160,8 @@
                     }
                 },
                 "instructors": {
-                    "8775019": {
-                        "instructorId": "8775019",
+                    "8843003": {
+                        "instructorId": "8843003",
                         "firstName": "D",
                         "lastName": "Clandfield"
                     }
@@ -1196,8 +1175,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "24",
+                "actualWaitlist": "4",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -1289,8 +1268,8 @@
                     }
                 },
                 "instructors": {
-                    "8773606": {
-                        "instructorId": "8773606",
+                    "8841415": {
+                        "instructorId": "8841415",
                         "firstName": "D",
                         "lastName": "Clandfield"
                     }
@@ -1304,8 +1283,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "24",
+                "actualWaitlist": "5",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -1397,8 +1376,8 @@
                     }
                 },
                 "instructors": {
-                    "8773607": {
-                        "instructorId": "8773607",
+                    "8841416": {
+                        "instructorId": "8841416",
                         "firstName": "T",
                         "lastName": "Goldstein"
                     }
@@ -1450,8 +1429,8 @@
                     }
                 },
                 "instructors": {
-                    "8773608": {
-                        "instructorId": "8773608",
+                    "8841417": {
+                        "instructorId": "8841417",
                         "firstName": "A",
                         "lastName": "Todd"
                     }
@@ -1465,7 +1444,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "29",
-                "actualEnrolment": "11",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1503,8 +1482,8 @@
                     }
                 },
                 "instructors": {
-                    "8773609": {
-                        "instructorId": "8773609",
+                    "8841418": {
+                        "instructorId": "8841418",
                         "firstName": "A",
                         "lastName": "Todd"
                     }
@@ -1518,8 +1497,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "39",
-                "actualWaitlist": "0",
+                "actualEnrolment": "40",
+                "actualWaitlist": "2",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -1565,7 +1544,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "1",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -1697,8 +1676,8 @@
                     }
                 },
                 "instructors": {
-                    "8773610": {
-                        "instructorId": "8773610",
+                    "8841419": {
+                        "instructorId": "8841419",
                         "firstName": "A",
                         "lastName": "Todd"
                     }
@@ -1805,8 +1784,8 @@
                     }
                 },
                 "instructors": {
-                    "8775020": {
-                        "instructorId": "8775020",
+                    "8843004": {
+                        "instructorId": "8843004",
                         "firstName": "A",
                         "lastName": "Todd"
                     }
@@ -2054,8 +2033,8 @@
                     }
                 },
                 "instructors": {
-                    "8773611": {
-                        "instructorId": "8773611",
+                    "8841420": {
+                        "instructorId": "8841420",
                         "firstName": "C",
                         "lastName": "Ramsaroop"
                     }
@@ -2069,7 +2048,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,

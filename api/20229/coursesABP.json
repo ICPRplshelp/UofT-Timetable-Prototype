@@ -113,7 +113,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "2",
+                "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -461,30 +461,15 @@
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-5101": {
-                "schedule": {
-                    "TU-344312": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "18:00",
-                        "meetingEndTime": "21:00",
-                        "meetingScheduleId": "344312",
-                        "assignedRoom1": "WW 119",
-                        "assignedRoom2": "WW 119"
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "220817",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": "June 28, 2022: Section Added.",
+                "meetingStatusNotes": "July 28, 2022: Course Cancelled.",
                 "enrollmentControls": [
                     {
                         "postId": "28",

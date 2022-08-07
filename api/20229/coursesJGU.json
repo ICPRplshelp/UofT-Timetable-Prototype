@@ -28,7 +28,13 @@
                         "assignedRoom2": "IN 112"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8842858": {
+                        "instructorId": "8842858",
+                        "firstName": "S",
+                        "lastName": "Amrov"
+                    }
+                },
                 "meetingId": "213927",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "200",
-                "actualEnrolment": "28",
+                "actualEnrolment": "72",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -221,8 +227,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "70",
-                "actualEnrolment": "64",
-                "actualWaitlist": "0",
+                "actualEnrolment": "70",
+                "actualWaitlist": "9",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [

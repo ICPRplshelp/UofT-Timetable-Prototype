@@ -38,7 +38,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "11",
+                "actualEnrolment": "57",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -75,7 +75,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8840984": {
+                        "instructorId": "8840984",
+                        "firstName": "M",
+                        "lastName": "Visoi"
+                    }
+                },
                 "meetingId": "212667",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -85,7 +91,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -160,7 +166,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "23",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -225,7 +231,13 @@
                         "assignedRoom2": "CR 107"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8842677": {
+                        "instructorId": "8842677",
+                        "firstName": "M",
+                        "lastName": "Friesner"
+                    }
+                },
                 "meetingId": "212669",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -235,8 +247,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "25",
+                "actualWaitlist": "3",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -300,7 +312,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8840985": {
+                        "instructorId": "8840985",
+                        "firstName": "M",
+                        "lastName": "Visoi"
+                    }
+                },
                 "meetingId": "212670",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -310,9 +328,9 @@
                 "deliveryMode": "ASYNC",
                 "online": "Online Asynchronous",
                 "contactHours": "2.0",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "58",
-                "actualWaitlist": "0",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "70",
+                "actualWaitlist": "16",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []

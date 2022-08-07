@@ -38,8 +38,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "55",
-                "actualEnrolment": "41",
-                "actualWaitlist": "0",
+                "actualEnrolment": "55",
+                "actualWaitlist": "48",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -113,8 +113,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "55",
-                "actualEnrolment": "25",
-                "actualWaitlist": "0",
+                "actualEnrolment": "55",
+                "actualWaitlist": "15",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -162,36 +162,21 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Thought, Belief and Behaviour (2)",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-327929": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "15:00",
-                        "meetingEndTime": "18:00",
-                        "meetingScheduleId": "327929",
-                        "assignedRoom1": "LA 200",
-                        "assignedRoom2": "LA 200"
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "212585",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "10",
-                "actualEnrolment": "1",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "A",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "July 20, 2022",
                 "enrollmentControls": []
             }
         }
@@ -209,8 +194,8 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "<p>This course will not be taught by the Centre’s Director this year.</p>",
+        "deliveryInstructions": "",
         "breadthCategories": "Thought, Belief and Behaviour (2)",
         "distributionCategories": "Humanities, Social Science",
         "meetings": {

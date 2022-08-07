@@ -38,7 +38,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "1",
+                "actualEnrolment": "10",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -221,7 +221,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "13",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -404,7 +404,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -587,7 +587,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -770,7 +770,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "12",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -953,7 +953,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "8",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1136,7 +1136,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "23",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1319,7 +1319,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1493,8 +1493,8 @@
                     }
                 },
                 "instructors": {
-                    "8774246": {
-                        "instructorId": "8774246",
+                    "8842148": {
+                        "instructorId": "8842148",
                         "firstName": "H",
                         "lastName": "Anderson"
                     }
@@ -1508,8 +1508,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "30",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -1600,7 +1600,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8842149": {
+                        "instructorId": "8842149",
+                        "firstName": "R",
+                        "lastName": "Bleich"
+                    }
+                },
                 "meetingId": "220814",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1610,7 +1616,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "June 27, 2022: Section Added.",
@@ -1702,7 +1708,13 @@
                         "assignedRoom2": "UC 177"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8843576": {
+                        "instructorId": "8843576",
+                        "firstName": "R",
+                        "lastName": "Bleich"
+                    }
+                },
                 "meetingId": "217593",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1712,7 +1724,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -1805,8 +1817,8 @@
                     }
                 },
                 "instructors": {
-                    "8775498": {
-                        "instructorId": "8775498",
+                    "8843577": {
+                        "instructorId": "8843577",
                         "firstName": "H",
                         "lastName": "Anderson"
                     }
@@ -1820,8 +1832,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "25",
+                "actualWaitlist": "3",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
