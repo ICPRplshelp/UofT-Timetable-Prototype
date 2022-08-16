@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8881758": {
+                        "instructorId": "8881758",
+                        "firstName": "S",
+                        "lastName": "Warren"
+                    }
+                },
                 "meetingId": "219410",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -114,7 +120,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "55",
                 "actualEnrolment": "55",
-                "actualWaitlist": "15",
+                "actualWaitlist": "17",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -194,18 +200,18 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": "<p>This course will not be taught by the Centre’s Director this year.</p>",
+        "webTimetableInstructions": "<p>Contact ethics@utoronto.ca</p><p>This course will not be taught by the Centre’s Director this year.</p>",
         "deliveryInstructions": "",
         "breadthCategories": "Thought, Belief and Behaviour (2)",
         "distributionCategories": "Humanities, Social Science",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-327934": {
+                    "WE-346215": {
                         "meetingDay": "WE",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "327934",
+                        "meetingScheduleId": "346215",
                         "assignedRoom1": "LA 200",
                         "assignedRoom2": "LA 200"
                     }
@@ -220,39 +226,11 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "12",
-                "actualEnrolment": "1",
+                "actualEnrolment": "2",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
-                "enrollmentControls": [
-                    {
-                        "postId": "121",
-                        "postCode": "ASMAJ1618",
-                        "postName": "MA ETHICS, SOCIETY & LAW",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    }
-                ]
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
             }
         }
     }

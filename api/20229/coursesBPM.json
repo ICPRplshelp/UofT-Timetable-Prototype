@@ -19,18 +19,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-331984": {
+                    "WE-346568": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "331984",
+                        "meetingScheduleId": "346568",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8840367": {
-                        "instructorId": "8840367",
+                    "8881121": {
+                        "instructorId": "8881121",
                         "firstName": "E",
                         "lastName": "Weisbaum"
                     }
@@ -43,11 +43,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
-                "enrollmentCapacity": "75",
+                "enrollmentCapacity": "100",
                 "actualEnrolment": "75",
-                "actualWaitlist": "27",
+                "actualWaitlist": "29",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -72,16 +72,22 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "WE-341675": {
+                    "WE-346569": {
                         "meetingDay": "WE",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "341675",
+                        "meetingScheduleId": "346569",
                         "assignedRoom1": "WB 116",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8881122": {
+                        "instructorId": "8881122",
+                        "firstName": "J",
+                        "lastName": "Bright"
+                    }
+                },
                 "meetingId": "210591",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -90,9 +96,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "220",
+                "enrollmentCapacity": "240",
                 "actualEnrolment": "220",
-                "actualWaitlist": "39",
+                "actualWaitlist": "46",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -128,7 +134,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8881123": {
+                        "instructorId": "8881123",
+                        "firstName": "R",
+                        "lastName": "Munjee"
+                    }
+                },
                 "meetingId": "220802",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -138,7 +150,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "87",
+                "actualEnrolment": "95",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "June 24, 2022: Course Added.",
@@ -264,8 +276,8 @@
                     }
                 },
                 "instructors": {
-                    "8842293": {
-                        "instructorId": "8842293",
+                    "8883178": {
+                        "instructorId": "8883178",
                         "firstName": "M",
                         "lastName": "Ferrari"
                     }
@@ -280,7 +292,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "5",
+                "actualWaitlist": "8",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -344,7 +356,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8881124": {
+                        "instructorId": "8881124",
+                        "firstName": "P",
+                        "lastName": "Whissell"
+                    }
+                },
                 "meetingId": "210596",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -354,7 +372,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "300",
-                "actualEnrolment": "240",
+                "actualEnrolment": "266",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -369,7 +387,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -396,7 +414,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -446,7 +464,13 @@
                         "assignedRoom2": "WI 1016"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8883179": {
+                        "instructorId": "8883179",
+                        "firstName": "P",
+                        "lastName": "Whissell"
+                    }
+                },
                 "meetingId": "210597",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -457,7 +481,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "150",
                 "actualEnrolment": "150",
-                "actualWaitlist": "21",
+                "actualWaitlist": "24",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -471,7 +495,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -498,7 +522,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -539,16 +563,22 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-332002": {
+                    "FR-346570": {
                         "meetingDay": "FR",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "332002",
+                        "meetingScheduleId": "346570",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8881125": {
+                        "instructorId": "8881125",
+                        "firstName": "M",
+                        "lastName": "Viglas"
+                    }
+                },
                 "meetingId": "210599",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -557,11 +587,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
-                "enrollmentCapacity": "40",
+                "enrollmentCapacity": "60",
                 "actualEnrolment": "40",
-                "actualWaitlist": "32",
+                "actualWaitlist": "29",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "183",
@@ -623,7 +653,13 @@
                         "assignedRoom2": "BL 114"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8883180": {
+                        "instructorId": "8883180",
+                        "firstName": "M",
+                        "lastName": "Viglas"
+                    }
+                },
                 "meetingId": "210600",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -634,7 +670,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "24",
+                "actualWaitlist": "27",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -709,7 +745,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "18",
+                "actualWaitlist": "21",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -774,8 +810,8 @@
                     }
                 },
                 "instructors": {
-                    "8842294": {
-                        "instructorId": "8842294",
+                    "8883181": {
+                        "instructorId": "8883181",
                         "firstName": "E",
                         "lastName": "Weisbaum"
                     }
@@ -789,7 +825,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "75",
-                "actualEnrolment": "16",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -845,29 +881,35 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-332008": {
+                    "FR-346329": {
                         "meetingDay": "FR",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "332008",
+                        "meetingScheduleId": "346329",
                         "assignedRoom1": null,
                         "assignedRoom2": "WI 524"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8883182": {
+                        "instructorId": "8883182",
+                        "firstName": "P",
+                        "lastName": "Whissell"
+                    }
+                },
                 "meetingId": "210601",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "",
+                "subtitle": "Advances in Neuroscience and Mindfulness",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "27",
+                "actualEnrolment": "28",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "August 10, 2022: Subtitle Added.",
                 "enrollmentControls": [
                     {
                         "postId": "183",
@@ -879,7 +921,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -906,7 +948,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -947,18 +989,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-332011": {
+                    "TH-346331": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "332011",
+                        "meetingScheduleId": "346331",
                         "assignedRoom1": null,
                         "assignedRoom2": "WW 119"
                     }
                 },
                 "instructors": {
-                    "8842295": {
-                        "instructorId": "8842295",
+                    "8883183": {
+                        "instructorId": "8883183",
                         "firstName": "E",
                         "lastName": "Weisbaum"
                     }
@@ -966,16 +1008,16 @@
                 "meetingId": "210602",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "",
+                "subtitle": "Advanced Exploration of Buddhist Psychology & Dharma",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "18",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "183",
@@ -987,7 +1029,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1014,7 +1056,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1065,8 +1107,8 @@
                     }
                 },
                 "instructors": {
-                    "8840368": {
-                        "instructorId": "8840368",
+                    "8881126": {
+                        "instructorId": "8881126",
                         "firstName": "E",
                         "lastName": "Weisbaum"
                     }
@@ -1080,7 +1122,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "24",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "July 26, 2022: Room Changed.",
@@ -1095,7 +1137,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1122,7 +1164,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,

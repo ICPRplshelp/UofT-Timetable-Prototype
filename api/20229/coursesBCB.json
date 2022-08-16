@@ -38,7 +38,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "2",
+                "actualEnrolment": "5",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -75,7 +75,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8881066": {
+                        "instructorId": "8881066",
+                        "firstName": "A",
+                        "lastName": "Silva"
+                    }
+                },
                 "meetingId": "210403",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -86,7 +92,7 @@
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "10",
+                "actualWaitlist": "2",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -122,7 +128,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8883144": {
+                        "instructorId": "8883144",
+                        "firstName": "R",
+                        "lastName": "Isserlin"
+                    }
+                },
                 "meetingId": "210404",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -132,7 +144,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "47",
+                "actualEnrolment": "48",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -179,7 +191,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "1",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,

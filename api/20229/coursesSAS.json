@@ -38,8 +38,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "38",
-                "actualWaitlist": "0",
+                "actualEnrolment": "40",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -75,7 +75,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8882873": {
+                        "instructorId": "8882873",
+                        "firstName": "B",
+                        "lastName": "Punjabi"
+                    }
+                },
                 "meetingId": "219993",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -85,7 +91,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "18",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "June 24, 2022: Term/Day changed.",

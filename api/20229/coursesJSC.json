@@ -36,7 +36,13 @@
                         "assignedRoom2": "ES B142"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8883817": {
+                        "instructorId": "8883817",
+                        "firstName": "C",
+                        "lastName": "Nobre"
+                    }
+                },
                 "meetingId": "213980",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -120,18 +126,18 @@
                     }
                 },
                 "instructors": {
-                    "8842871": {
-                        "instructorId": "8842871",
+                    "8883818": {
+                        "instructorId": "8883818",
                         "firstName": "C",
                         "lastName": "Bank"
                     },
-                    "8842872": {
-                        "instructorId": "8842872",
+                    "8883819": {
+                        "instructorId": "8883819",
                         "firstName": "S",
                         "lastName": "Cowling"
                     },
-                    "8842873": {
-                        "instructorId": "8842873",
+                    "8883820": {
+                        "instructorId": "8883820",
                         "firstName": "D",
                         "lastName": "Stone"
                     }
@@ -145,7 +151,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "28",
-                "actualEnrolment": "9",
+                "actualEnrolment": "10",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,

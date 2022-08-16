@@ -12,8 +12,8 @@
         "recommendedPreparation": "(BIO120H1, BIO130H1)/BIO150Y1; (CHM138H1, CHM139H1)/(CHM135H1, CHM136H1)/CHM151Y1",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science",
         "meetings": {
@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8882278": {
+                        "instructorId": "8882278",
+                        "firstName": "A",
+                        "lastName": "Schwartz"
+                    }
+                },
                 "meetingId": "215011",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,12 +44,39 @@
                 "deliveryMode": "ASYNC",
                 "online": "Online Asynchronous",
                 "contactHours": "3.0",
-                "enrollmentCapacity": "1020",
+                "enrollmentCapacity": "1140",
                 "actualEnrolment": "1020",
-                "actualWaitlist": "159",
+                "actualWaitlist": "183",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
                     {
                         "postId": "82",
                         "postCode": "ASMAJ1068",
@@ -82,33 +115,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "82",
-                        "postCode": "ASMAJ1068",
-                        "postName": "MA NUTRITIONAL SCIENCES",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -142,8 +148,8 @@
         "recommendedPreparation": "(BIO120H1, BIO130H1)/BIO150Y1; (CHM138H1, CHM139H1)/(CHM135H1, CHM136H1)/CHM151Y1",
         "section": "S",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science",
         "meetings": {
@@ -169,11 +175,38 @@
                 "online": "Online Asynchronous",
                 "contactHours": "3.0",
                 "enrollmentCapacity": "1020",
-                "actualEnrolment": "1009",
-                "actualWaitlist": "0",
+                "actualEnrolment": "1020",
+                "actualWaitlist": "66",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
                     {
                         "postId": "82",
                         "postCode": "ASMAJ1068",
@@ -212,33 +245,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "82",
-                        "postCode": "ASMAJ1068",
-                        "postName": "MA NUTRITIONAL SCIENCES",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -289,8 +295,8 @@
                     }
                 },
                 "instructors": {
-                    "8841421": {
-                        "instructorId": "8841421",
+                    "8882279": {
+                        "instructorId": "8882279",
                         "firstName": "J",
                         "lastName": "Sievenpiper"
                     }
@@ -304,7 +310,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "140",
-                "actualEnrolment": "93",
+                "actualEnrolment": "97",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -379,7 +385,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "244",
-                "actualEnrolment": "170",
+                "actualEnrolment": "178",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -462,7 +468,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "140",
-                "actualEnrolment": "64",
+                "actualEnrolment": "63",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -537,7 +543,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "196",
-                "actualEnrolment": "58",
+                "actualEnrolment": "59",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -659,7 +665,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "64",
+                "actualEnrolment": "67",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -725,8 +731,8 @@
                     }
                 },
                 "instructors": {
-                    "8841422": {
-                        "instructorId": "8841422",
+                    "8882280": {
+                        "instructorId": "8882280",
                         "firstName": "A",
                         "lastName": "Metherel"
                     }
@@ -740,7 +746,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "21",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -806,8 +812,8 @@
                     }
                 },
                 "instructors": {
-                    "8841423": {
-                        "instructorId": "8841423",
+                    "8882281": {
+                        "instructorId": "8882281",
                         "firstName": "E",
                         "lastName": "Comelli"
                     }
@@ -821,7 +827,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "52",
+                "actualEnrolment": "57",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -962,8 +968,8 @@
                     }
                 },
                 "instructors": {
-                    "8841424": {
-                        "instructorId": "8841424",
+                    "8882282": {
+                        "instructorId": "8882282",
                         "firstName": "A",
                         "lastName": "El-Sohemy"
                     }
@@ -977,7 +983,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "41",
+                "actualEnrolment": "43",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -1052,7 +1058,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "85",
-                "actualEnrolment": "37",
+                "actualEnrolment": "36",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -1118,8 +1124,8 @@
                     }
                 },
                 "instructors": {
-                    "8841425": {
-                        "instructorId": "8841425",
+                    "8882283": {
+                        "instructorId": "8882283",
                         "firstName": "R",
                         "lastName": "Bazinet"
                     }
@@ -1133,7 +1139,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "35",
+                "actualEnrolment": "34",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -1208,7 +1214,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "64",
+                "actualEnrolment": "62",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
