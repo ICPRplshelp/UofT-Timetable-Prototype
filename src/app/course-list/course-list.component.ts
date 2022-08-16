@@ -9,6 +9,7 @@ import { ScheduleComponent } from '../schedule/schedule.component';
 import { CourseIn, Schedule } from '../schedule/scheduleInterface2';
 import { MatCheckboxChange } from '@angular/material/checkbox';
 
+
 // import {MAT_DIALOG_DATA, MatDialogRef} from "@angular/material";
 
 
@@ -36,7 +37,8 @@ export class CourseListComponent implements OnInit {
 
   chooseHead = "";
   lecHead = "LEC";
-  insHead = "INST.";
+  enrollHead = "ENROLL";
+  insHead = "INST";
   timeHead = "TIME";
   delivHead = "DELIVERY";
   courseCode: string = '';  // CSC110Y1
@@ -55,7 +57,7 @@ export class CourseListComponent implements OnInit {
 
 
   darkMode: boolean = false;  // whether dark mode is on or off
-  stretchCourse: boolean = false;  // true -> courses are stretched
+  stretchCourse: boolean = true;  // true -> courses are stretched  !!
   // depending on time
   noDeliverySymbols: boolean = false;  // true -> delivery shows word
 
@@ -101,6 +103,10 @@ export class CourseListComponent implements OnInit {
     console.log(this.meetingsArrayType);
   }
 
+  makeInt(arg: string): number {
+    return parseInt(arg);
+  }
+
   ngOnInit(): void {
     this.getScreenWidth = window.innerWidth;
     this.getScreenHeight = window.innerHeight;
@@ -128,6 +134,8 @@ export class CourseListComponent implements OnInit {
       case 'SYNIF':
         return syncif;
       case 'SYNC':
+        return sync;
+      case 'ONL':
         return sync;
       case 'ONLSYNC':
         return sync;
@@ -330,7 +338,7 @@ export class CourseListComponent implements OnInit {
   }
 
   /**
-   * 
+   *
    * @param curTime HH:MM time format
    * @returns That, but in hours. Return -1 on failure.
    */
@@ -363,7 +371,7 @@ export class CourseListComponent implements OnInit {
       this.roomsVisible = false;
       console.log("The screen is small");
     } else if (this.smallScreen && this.getScreenWidth >= 768) {
-      this.displayedColumns = ['chosen', 'lectureCode', 'instructor', 'time', 'deliveryMode'];
+      this.displayedColumns = ['chosen', 'lectureCode', 'instructor', 'time', 'space', 'deliveryMode'];
       this.smallScreen = false;
       this.delivHead = "DELIVERY";
       console.log("Screen small no more");
@@ -371,7 +379,7 @@ export class CourseListComponent implements OnInit {
   }
 
   /**
-   * 
+   *
    * @param cc course code CSC110Y1-F-20229
    * @param lecType LEC
    * @param lecNum 0101
@@ -394,13 +402,13 @@ export class CourseListComponent implements OnInit {
   }
 
   /**
-   * 
+   *
    * @param crsCode CSC110Y1
    * @param session F
    * @param lecSession LEC0101
    * @param meetings The list of meetings
    * @param delivery SYNC ASYNCIF
-   * @returns 
+   * @returns
    */
   addCourseController(crsCode: string, session: string, lecSession: string,
     meetings: crsMeeting[], delivery: string): boolean{
@@ -410,7 +418,7 @@ export class CourseListComponent implements OnInit {
     }
 
     /**
-     * 
+     *
      * @param crsCode CSC110Y1
      * @param session F
      * @param lecSession LEC0101

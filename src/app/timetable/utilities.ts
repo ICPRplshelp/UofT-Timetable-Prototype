@@ -2,7 +2,7 @@
 export class utilities {
   // colors associated with breadth requirements
   static brColors: string[] = [
-    '#797979',  // no breath requirement
+    '#474545',  // no breath requirement
     '#d71a1a',  // br1
     '#34e7ff',
     '#ffd300',
@@ -13,10 +13,13 @@ export class utilities {
   // colors associated with the background of courses based on course level (100, 200, 300, 400)
   static levelColors: string[] = [
     '#444444',  // 0-level
-    '#00c427',  // 100-level
-    '#52b1ff',
+    '#02ad23',  // 100-level
+    '#3694ff',
     '#9436ff',
-    '#ff6600'  // 400-level
+    '#f53d00',  // 400-level
+    '#5454e8',  // 500-level
+    "#78630e", // 600-level,
+    "#85462c" // 700-level
   ]
 
   static tableSessionColors: string[] = [

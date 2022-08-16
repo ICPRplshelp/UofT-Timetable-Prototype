@@ -1,0 +1,3869 @@
+{
+    "SPA100Y1-Y-20219": {
+        "courseId": "55560",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Spanish for Beginners",
+        "code": "SPA100Y1",
+        "courseDescription": "<p>Introduction to the Spanish language for beginning students; overview of basic grammatical structures, development of vocabulary and oral and written expression. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "No previous knowledge of Spanish, or placement test results.",
+        "corequisite": "",
+        "exclusion": "SPA120Y1, SPA219Y1, SPA319Y1, SPA220Y1, SPA320Y1, SPA420H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20219",
+        "webTimetableInstructions": "<p>Students MUST enrol in a tutorial section according to their lecture. Students who enrol in a tutorial that does not correspond with their lecture WILL be moved.</p><p>For LEC9901, enrol in TUT0101, TUT0102 or TUT0103.<br>For LEC0201, enrol in TUT0201, TUT0202 or TUT0203.<br>For LEC0301, enrol in TUT0301, TUT0302 or TUT0303.<br>For LEC0401, enrol in TUT0401, TUT0402 or TUT0403.<br>For LEC5101, enrol in TUT5101, TUT5102 or TUT5103.<br>For LEC5102, enrol in TUT5104, TUT5105 or TUT5106.<br>For LEC5201, enrol in TUT5201, TUT5202 or TUT5203.<br>For LEC9902, enrol in TUT5204, TUT5205 or TUT5206.</p>",
+        "deliveryInstructions": "<p>It is recommended that students have a computer with a microphone and camera in order to participate in online activities.</p>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0201": {
+                "schedule": {
+                    "MO-297003": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "297003",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660011": {
+                        "instructorId": "8660011",
+                        "firstName": "S",
+                        "lastName": "Jambrovic"
+                    }
+                },
+                "meetingId": "199637",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "TU-297007": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "297007",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660012": {
+                        "instructorId": "8660012",
+                        "firstName": "I",
+                        "lastName": "Fernandez Pelaez"
+                    }
+                },
+                "meetingId": "199636",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "TU-297008": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "297008",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660013": {
+                        "instructorId": "8660013",
+                        "firstName": "N",
+                        "lastName": "Contreras"
+                    }
+                },
+                "meetingId": "199638",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-287822": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "287822",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660014": {
+                        "instructorId": "8660014",
+                        "firstName": "V",
+                        "lastName": "Brejkaln"
+                    },
+                    "8660015": {
+                        "instructorId": "8660015",
+                        "firstName": "M",
+                        "lastName": "Rocatin Centelles"
+                    }
+                },
+                "meetingId": "199639",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-5102": {
+                "schedule": {
+                    "MO-287825": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "287825",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660016": {
+                        "instructorId": "8660016",
+                        "firstName": "J",
+                        "lastName": "Porras Vielma"
+                    }
+                },
+                "meetingId": "199640",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-5201": {
+                "schedule": {
+                    "TU-287830": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "287830",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660017": {
+                        "instructorId": "8660017",
+                        "firstName": "N",
+                        "lastName": "Hanashiro Avila"
+                    }
+                },
+                "meetingId": "199641",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-9901": {
+                "schedule": {
+                    "MO-294285": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "294285",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660018": {
+                        "instructorId": "8660018",
+                        "firstName": "J",
+                        "lastName": "Rocha Osornio"
+                    }
+                },
+                "meetingId": "199635",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-9902": {
+                "schedule": {
+                    "TU-297361": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "297361",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660019": {
+                        "instructorId": "8660019",
+                        "firstName": "A",
+                        "lastName": "Soifer"
+                    }
+                },
+                "meetingId": "199642",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9902",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "64",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "July 12, 2021: Section code changed.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-296297": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "296297",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199643",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "WE-296298": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "296298",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199644",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "WE-296299": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "296299",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199645",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-297004": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "297004",
+                        "assignedRoom1": "NF 007",
+                        "assignedRoom2": "NF 007"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199649",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "WE-297005": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "297005",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199650",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0203": {
+                "schedule": {
+                    "WE-297006": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "297006",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": "NF 332"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199651",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0203",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "TH-319633": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "319633",
+                        "assignedRoom1": "OI 8201",
+                        "assignedRoom2": "OI 8201"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199646",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "March 14, 2022: Room changed.",
+                "enrollmentControls": []
+            },
+            "TUT-0302": {
+                "schedule": {
+                    "TH-297011": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "297011",
+                        "assignedRoom1": "OI 4426",
+                        "assignedRoom2": "OI 4426"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199647",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0303": {
+                "schedule": {
+                    "TH-297012": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "297012",
+                        "assignedRoom1": "OI 2295",
+                        "assignedRoom2": "OI 2295"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199648",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0303",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "TH-289602": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "289602",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": "NF 004"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199652",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0402": {
+                "schedule": {
+                    "TH-289607": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "289607",
+                        "assignedRoom1": "NF 006",
+                        "assignedRoom2": "NF 006"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199653",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0403": {
+                "schedule": {
+                    "TH-289617": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "289617",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": "NF 332"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199654",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0403",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-289629": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289629",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": "NF 004"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199655",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": {
+                    "WE-317606": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "317606",
+                        "assignedRoom1": "BC 20",
+                        "assignedRoom2": "NF 006"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199656",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "March 2, 2022: Room changed. ",
+                "enrollmentControls": []
+            },
+            "TUT-5103": {
+                "schedule": {
+                    "WE-289646": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289646",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": "NF 332"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199657",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5104": {
+                "schedule": {
+                    "WE-300226": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "300226",
+                        "assignedRoom1": "VC 212",
+                        "assignedRoom2": "NF 231"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199658",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5104",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Oct 14, 2021: Room changed.",
+                "enrollmentControls": []
+            },
+            "TUT-5105": {
+                "schedule": {
+                    "WE-289648": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289648",
+                        "assignedRoom1": "NF 235",
+                        "assignedRoom2": "NF 235"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199659",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5105",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5106": {
+                "schedule": {
+                    "WE-289662": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289662",
+                        "assignedRoom1": "VC 211",
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199660",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5106",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "TH-289670": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289670",
+                        "assignedRoom1": "VC 211",
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199661",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5202": {
+                "schedule": {
+                    "TH-289680": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289680",
+                        "assignedRoom1": "NF 235",
+                        "assignedRoom2": "NF 235"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199662",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5203": {
+                "schedule": {
+                    "TH-289686": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289686",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199663",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5203",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5204": {
+                "schedule": {
+                    "TH-297345": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "297345",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199664",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5204",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 12, 2021: Delivery method changed.",
+                "enrollmentControls": []
+            },
+            "TUT-5205": {
+                "schedule": {
+                    "TH-297347": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "297347",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199665",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5205",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 12, 2021: Delivery method changed.",
+                "enrollmentControls": []
+            },
+            "TUT-5206": {
+                "schedule": {
+                    "TH-297349": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "297349",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199666",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5206",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 12, 2021: Delivery method changed.",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA195H1-F-20219": {
+        "courseId": "55562",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Barcelona",
+        "code": "SPA195H1",
+        "courseDescription": "<p>A deep dive into the modern experience of one of the world´s most compelling cities, this course considers Barcelona from a multidisciplinary perspective that includes study of its architecture, foodways, politics and response to mass tourism. Restricted to first-year students. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-295367": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "295367",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660020": {
+                        "instructorId": "8660020",
+                        "firstName": "B",
+                        "lastName": "Davidson"
+                    }
+                },
+                "meetingId": "199668",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "SPA197H1-F-20219": {
+        "courseId": "55564",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Cervantes and Imperial Spain",
+        "code": "SPA197H1",
+        "courseDescription": "<p>During the lifetime of Miguel de Cervantes, the Spanish monarchy governed an empire that extended across the globe, from its traditional lands in Europe to colonies in the Philippines and the Americas. We will examine the advantages and cost of imperial rule through reading a selection of Cervantes's works. Discussions will centre on such questions as the social impact of imperial wealth, the disruptive role of soldiers in civil society, contact with non-European cultures and the sub-cultures of Spanish society. Students will be introduced to the University of Toronto´s outstanding resources for studying the literatures and cultures of early modern Europe. Readings will include some of the Exemplary Stories and selected episodes of <i>Don Quixote</i>. Restricted to first-year students. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-293487": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "293487",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660021": {
+                        "instructorId": "8660021",
+                        "firstName": "S",
+                        "lastName": "Rupp"
+                    }
+                },
+                "meetingId": "199669",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "SPA198H1-F-20219": {
+        "courseId": "55565",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "A Brief History of Love in the Western World",
+        "code": "SPA198H1",
+        "courseDescription": "<p>This course introduces students to the ways in which the foremost thinkers in the history of the Western world (Plato, Ovid, St. Augustine, Ficino, Ebreo) conceived the idea of love; how did the notions of sexuality and gender play into that idea, and how did these notions carry on – or not – into our present understanding of love, sexuality and gender. While the background readings pertain to the general Western cultural heritage, the literary texts through which we will observe particular applications of the theories of love were produced by some of the outstanding 16th and 17th century Spanish authors (for ex. Rodríguez de Montalvo; Jorge de Montemayor; Miguel de Cervantes; Tirso de Molina, María de Zayas, Sor Juana Inés de la Cruz). All the readings will be in English. Restricted to first-year students. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-300166": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "300166",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660022": {
+                        "instructorId": "8660022",
+                        "firstName": "S",
+                        "lastName": "Munjic"
+                    }
+                },
+                "meetingId": "202387",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "October 8, 2021: Delivery Method Changed.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "SPA199H1-S-20219": {
+        "courseId": "55566",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "More than Nachos and Tequila: Mexican History and Culture",
+        "code": "SPA199H1",
+        "courseDescription": "<p>This course aims at studying the rich history of Mexico from an interdisciplinary perspective. We will cover a wide range of issues, such as identity, modernity race, immigration, gender, sexuality, globalization, and iconic figures. The issue of identity as construed from the inside, but also from the outside and particularly from the English-speaking world (i.e. current US presidential views on the wall); will be widely examined. Course materials will range from chronicles of conquest to modern reflections and representations by historians, philosophers, filmmakers, musicians, writers and artist, among others. Restricted to first-year students. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-295369": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "295369",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BC 20"
+                    }
+                },
+                "instructors": {
+                    "8662122": {
+                        "instructorId": "8662122",
+                        "firstName": "J",
+                        "lastName": "Rocha Osornio"
+                    }
+                },
+                "meetingId": "207865",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "SPA219Y1-Y-20219": {
+        "courseId": "55567",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Academic Spanish",
+        "code": "SPA219Y1",
+        "courseDescription": "<p>For native (heritage) speakers who have had exposure to spoken Spanish in an informal context (i.e, living in a Spanish-speaking country; or with a Spanish-speaking family); but little to no exposure to written Spanish. The students' ability to speak and understand Spanish may range from basic to relatively high fluency, but they cannot write and/or read Spanish. The course reviews English/Spanish spelling differences; written and spoken registers of Spanish, and basic aspects of the grammatical system. Provides students with the essential understanding of Spanish grammatical system; builds their vocabulary; and trains them to express themselves formally.</p>",
+        "prerequisite": "Basic to relatively high native ability to speak and understand Spanish; limited or no formal education in Spanish.",
+        "corequisite": "",
+        "exclusion": "SPA100Y1, SPA120Y1, SPA220Y1, SPA320Y1, SPA319Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-289824": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "289824",
+                        "assignedRoom1": "VC 206",
+                        "assignedRoom2": "VC 206"
+                    }
+                },
+                "instructors": {
+                    "8660023": {
+                        "instructorId": "8660023",
+                        "firstName": "L",
+                        "lastName": "Colantoni"
+                    },
+                    "8660024": {
+                        "instructorId": "8660024",
+                        "firstName": "I",
+                        "lastName": "Fernandez Pelaez"
+                    }
+                },
+                "meetingId": "199670",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA220Y1-Y-20219": {
+        "courseId": "55568",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Intermediate Spanish",
+        "code": "SPA220Y1",
+        "courseDescription": "<p>Intermediate Spanish for non-native speakers. Intensive grammar review of the structures of Spanish integrated with an introduction to reading authentic Spanish material, with practice designed to build vocabulary and to improve oral and written expression.</p>",
+        "prerequisite": "SPA100Y1 or placement test.",
+        "corequisite": "",
+        "exclusion": "SPA120Y1, SPA219Y1, SPA319Y1, SPA320Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20219",
+        "webTimetableInstructions": "<p>Students MUST enroll in a tutorial section according to their lecture. Students who enroll in a tutorial that does not correspond with their lecture WILL be moved.&nbsp;</p><ul><li>LEC0101, enroll in TUT0101 or TUT0102.</li><li>LEC0201, enroll in TUT0201 or TUT0202.</li><li>LEC5101, enroll in TUT5101 or TUT5102.</li><li>LEC9901, enroll in TUT5201 or TUT5202.</li></ul>",
+        "deliveryInstructions": "<p>It is recommended that students have a computer with a microphone and camera in order to participate in online activities.</p>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-297306": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "297306",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "WE-297307": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "297307",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660025": {
+                        "instructorId": "8660025",
+                        "firstName": "M",
+                        "lastName": "Ramirez-Salazar"
+                    }
+                },
+                "meetingId": "199671",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 7, 2021: Delivery method change.",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-297395": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "297395",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "WE-297396": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "297396",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660026": {
+                        "instructorId": "8660026",
+                        "firstName": "M",
+                        "lastName": "Ramirez-Salazar"
+                    }
+                },
+                "meetingId": "199674",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 9, 2021: Time change.",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-289852": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289852",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660027": {
+                        "instructorId": "8660027",
+                        "firstName": "V",
+                        "lastName": "Machado"
+                    }
+                },
+                "meetingId": "199673",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-9901": {
+                "schedule": {
+                    "TU-297045": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "297045",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660028": {
+                        "instructorId": "8660028",
+                        "firstName": "J",
+                        "lastName": "Rocha Osornio"
+                    },
+                    "8660029": {
+                        "instructorId": "8660029",
+                        "firstName": "C",
+                        "lastName": "Sawyer"
+                    }
+                },
+                "meetingId": "199672",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 9, 2021: Time change.",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-297033": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "297033",
+                        "assignedRoom1": "SS 2114",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "TH-297034": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "297034",
+                        "assignedRoom1": "SS 2114",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199675",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "199676",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 2, 2021: Section Cancelled. ",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-289889": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "289889",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": "NF 004"
+                    },
+                    "TH-289890": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "289890",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": "NF 004"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199677",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "TU-289895": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "289895",
+                        "assignedRoom1": "BC 20",
+                        "assignedRoom2": "BC 20"
+                    },
+                    "TH-289896": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "289896",
+                        "assignedRoom1": "BC 20",
+                        "assignedRoom2": "BC 20"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199678",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-289903": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289903",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "AB 114"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199679",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": {
+                    "WE-289914": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289914",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199680",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "TH-296935": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "296935",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199681",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5202": {
+                "schedule": {
+                    "TH-296934": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "296934",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199682",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA221H1-F-20219": {
+        "courseId": "55569",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Spanish Pronunciation",
+        "code": "SPA221H1",
+        "courseDescription": "<p>A practical introduction to articulatory phonetics, Spanish sound patterns, phonetics, phonology; the basic concepts of phonetic description and transcription; the study of Spanish vowel and consonant systems, stress and intonation.</p>",
+        "prerequisite": "SPA100Y1",
+        "corequisite": "SPA120Y1 or SPA220Y1",
+        "exclusion": "SPA219Y1; native speakers of Spanish; SPA321H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-296679": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "296679",
+                        "assignedRoom1": "NF 235",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660030": {
+                        "instructorId": "8660030",
+                        "firstName": "O",
+                        "lastName": "Ward"
+                    }
+                },
+                "meetingId": "208136",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA254H1-S-20219": {
+        "courseId": "55570",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Cervantes and Modern Fiction",
+        "code": "SPA254H1",
+        "courseDescription": "<p>Critical reading of Don Quixote as a canonical text for the novel and other narrative forms, including historical metafiction, the short story, and fictional autobiography. Comparative discussion of Quixotic fictions by modern authors, such as Machado de Assis, Borges, Nabokov, García Márquez, Junot Díaz. Lectures and readings in English.</p>",
+        "prerequisite": "None",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "None",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-287732": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "287732",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": {
+                    "8662123": {
+                        "instructorId": "8662123",
+                        "firstName": "M",
+                        "lastName": "Batiz Zuk"
+                    }
+                },
+                "meetingId": "202388",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA258H1-F-20219": {
+        "courseId": "55572",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Introduction to Hispanic Literary Studies",
+        "code": "SPA258H1",
+        "courseDescription": "<p>Introduction to university literary studies in Spanish and information literacy. Representative selection of Spanish and Spanish American prose, poetry, and drama, with focus on critical terminology and methods of literary analysis. Required for a program degree.</p>",
+        "prerequisite": "First semester SPA220Y1",
+        "corequisite": "SPA120Y1 or SPA220Y1 or SPA219Y1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>It is recommended that students have a computer with a microphone and camera in order to participate in online activities.</p>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "MO-294290": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "294290",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660031": {
+                        "instructorId": "8660031",
+                        "firstName": "S",
+                        "lastName": "Munjic"
+                    }
+                },
+                "meetingId": "202389",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA258H1-S-20219": {
+        "courseId": "55572",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Introduction to Hispanic Literary Studies",
+        "code": "SPA258H1",
+        "courseDescription": "<p>Introduction to university literary studies in Spanish and information literacy. Representative selection of Spanish and Spanish American prose, poetry, and drama, with focus on critical terminology and methods of literary analysis. Required for a program degree.</p>",
+        "prerequisite": "First semester SPA220Y1",
+        "corequisite": "SPA120Y1 or SPA220Y1 or SPA219Y1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-287567": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "287567",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 004"
+                    }
+                },
+                "instructors": {
+                    "8662124": {
+                        "instructorId": "8662124",
+                        "firstName": "S",
+                        "lastName": "Munjic"
+                    }
+                },
+                "meetingId": "199684",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA259H1-F-20219": {
+        "courseId": "55573",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Introduction to Hispanic Cultural Studies",
+        "code": "SPA259H1",
+        "courseDescription": "<p>Forms of cultural expression in Spain, Latin America and Spanish-speaking North America, with study of representative media, including literature, journalism, film, visual art, and the urban environment. Introduction to methods of cultural analysis. (Offered in alternate years).</p>",
+        "prerequisite": "Minimum 1st semester of SPA220Y1",
+        "corequisite": "SPA120Y1 or SPA220Y1 or SPA219Y1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-287573": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "287573",
+                        "assignedRoom1": "VC 211",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660032": {
+                        "instructorId": "8660032",
+                        "firstName": "P",
+                        "lastName": "Ene"
+                    }
+                },
+                "meetingId": "199685",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA320Y1-Y-20219": {
+        "courseId": "55575",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Advanced Spanish",
+        "code": "SPA320Y1",
+        "courseDescription": "<p>Advanced Spanish for non-natives. Selective review of grammar with emphasis on the complex sentence; intensive practice in written and oral expression to improve proficiency.</p>",
+        "prerequisite": "SPA120Y1 or SPA220Y1 or placement test.",
+        "corequisite": "",
+        "exclusion": "SPA219Y1/SPA319Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20219",
+        "webTimetableInstructions": "<p>Students MUST enroll in a tutorial section according to their lecture. Students who enroll&nbsp;in a tutorial that does not correspond with their lecture WILL be moved.&nbsp;</p><ul><li>LEC9901, enroll&nbsp;in TUT0101 or TUT0102</li><li>LEC0201, enroll&nbsp;in TUT0201 or TUT0202</li><li>LEC5101, enroll&nbsp;in TUT5101 or TUT5102.</li></ul>",
+        "deliveryInstructions": "<p>It is recommended that students have a computer with a microphone and camera in order to participate in online activities.</p>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0201": {
+                "schedule": {
+                    "MO-289939": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "289939",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "WE-289940": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "289940",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660033": {
+                        "instructorId": "8660033",
+                        "firstName": "M",
+                        "lastName": "Ramirez-Salazar"
+                    },
+                    "8660034": {
+                        "instructorId": "8660034",
+                        "firstName": "R",
+                        "lastName": "Swanson"
+                    }
+                },
+                "meetingId": "199687",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-289938": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289938",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660035": {
+                        "instructorId": "8660035",
+                        "firstName": "V",
+                        "lastName": "Brejkaln"
+                    },
+                    "8660036": {
+                        "instructorId": "8660036",
+                        "firstName": "E",
+                        "lastName": "Pettibone"
+                    }
+                },
+                "meetingId": "199688",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-9901": {
+                "schedule": {
+                    "MO-294291": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "294291",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "WE-294292": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "294292",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "8660037": {
+                        "instructorId": "8660037",
+                        "firstName": "D",
+                        "lastName": "Maldonado Castaneda"
+                    }
+                },
+                "meetingId": "199686",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-296304": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "296304",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-296305": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "296305",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199689",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "TU-296306": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "296306",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-296307": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "296307",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199690",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-289956": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "289956",
+                        "assignedRoom1": "NF 205",
+                        "assignedRoom2": "NF 205"
+                    },
+                    "TH-289957": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "289957",
+                        "assignedRoom1": "NF 205",
+                        "assignedRoom2": "NF 205"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199691",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "199692",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 14, 2021: Section Cancelled. ",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TH-289962": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289962",
+                        "assignedRoom1": "NF 008",
+                        "assignedRoom2": "NF 008"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199693",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": {
+                    "TH-289964": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "289964",
+                        "assignedRoom1": "NF 205",
+                        "assignedRoom2": "NF 205"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "199694",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA322H1-S-20219": {
+        "courseId": "55576",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Introduction to Hispanic Linguistics",
+        "code": "SPA322H1",
+        "courseDescription": "<p>The basic concepts and analytic tools of linguistics applied to the study of Spanish, with a focus on the Spanish phonological, morphological, and syntactic systems. Theoretical discussion and practical exercises in analytic techniques. </p>",
+        "prerequisite": "SPA120Y1 or SPA220Y1 or SPA219Y1; or instructor's permission",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA221H1",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-295370": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "295370",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 006"
+                    },
+                    "WE-295371": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "295371",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 006"
+                    }
+                },
+                "instructors": {
+                    "8662125": {
+                        "instructorId": "8662125",
+                        "firstName": "M",
+                        "lastName": "Cuervo"
+                    }
+                },
+                "meetingId": "199695",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA323H1-F-20219": {
+        "courseId": "55577",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Business Spanish",
+        "code": "SPA323H1",
+        "courseDescription": "<p>An advanced level business Spanish course covering topics on international relations, politics, legal and culture. This course aims to enhance written and oral expression in Spanish through content focusing on the language that is used in official, diplomatic, and financial situations. Through the analysis of case studies, newspapers and videos, students will be introduced to the business cultures and intercultural communication of the Spanish-speaking world.</p>",
+        "prerequisite": "SPA120Y1 or SPA220Y1 or proof of comparable Spanish level",
+        "corequisite": "SPA320Y1, SPA219Y1 or proof of comparable Spanish level",
+        "exclusion": "SPA323Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-287587": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "287587",
+                        "assignedRoom1": "VC 206",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660038": {
+                        "instructorId": "8660038",
+                        "firstName": "I",
+                        "lastName": "Fernandez Pelaez"
+                    }
+                },
+                "meetingId": "202392",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA345H1-S-20219": {
+        "courseId": "55582",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Spanish Cinema",
+        "code": "SPA345H1",
+        "courseDescription": "<p>Analysis of the development of Spanish Cinema within its social and political contexts. Directors studied include Buñuel, Bardem, Erice, Saura, Almodóvar and Bigas Luna. (Offered every three years).</p>",
+        "prerequisite": "SPA120Y1 or SPA220Y1 or SPA219Y1 or Permission of the Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-300369": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "300369",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 212"
+                    }
+                },
+                "instructors": {
+                    "8662126": {
+                        "instructorId": "8662126",
+                        "firstName": "B",
+                        "lastName": "Davidson"
+                    }
+                },
+                "meetingId": "199699",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Nov 5, 2021: Room changed",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA348H1-S-20219": {
+        "courseId": "55583",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Galdos and the Realist Novel",
+        "code": "SPA348H1",
+        "courseDescription": "<p>Representative fiction by Galdós, the principal Spanish novelist of the nineteenth century. Detailed study of such texts as <em>Marianela</em>, <em>Doña Perfecta</em>, <em>La desheredada</em>, <em>Realidad</em>, <em>La incognita</em>, in relation to modernity of realist fiction and contemporary issues in politics, social relations and individual psychology. (Offered every three years)</p>",
+        "prerequisite": "SPA120Y1 or SPA220Y1 or SPA219Y1 or Permission of the Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-287590": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "287590",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 113"
+                    }
+                },
+                "instructors": {
+                    "8662127": {
+                        "instructorId": "8662127",
+                        "firstName": "Y",
+                        "lastName": "Iglesias"
+                    }
+                },
+                "meetingId": "202393",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA375H1-F-20219": {
+        "courseId": "55587",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Latin American Cinema",
+        "code": "SPA375H1",
+        "courseDescription": "<p>This online course examines the social, political, and cultural contexts of recent Latin American cinema. Topics include: military dictatorship and its aftermath, race and indigeneity; poverty, precarity, and inequality; gender and sexuality; and memory and trauma. The representation of these themes in Latin American cinema of the 21st century has contributed to an increase in its transnational and cosmopolitan reception. Focus is given to Argentina and Mexico, though films from other countries will be included. Taught in English.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "INI115Y/INI212Y/SPA258H1",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>It is recommended that students have a computer with a microphone and camera in order to participate in online activities.</p>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "WE-290642": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "290642",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660039": {
+                        "instructorId": "8660039",
+                        "firstName": "E",
+                        "lastName": "Jagoe"
+                    }
+                },
+                "meetingId": "199701",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONLSYNC",
+                "online": "Online - Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "56",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA386H1-F-20219": {
+        "courseId": "55593",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Literary Landscapes of the Mexican Revolution",
+        "code": "SPA386H1",
+        "courseDescription": "<p>Examines cultural production, including short stories, novels, films and paintings surrounding the socio-political transformations of the revolutionary period. Readings and discussion emphasize general concepts of the landscape, as a visual and spatial mode of interpreting relationships between human subjects, and between these subjects and the territory they occupy. (Offered every three years)</p>",
+        "prerequisite": "SPA120Y1 or SPA220Y1 or SPA219Y1 or Permission of the Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-287621": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "287621",
+                        "assignedRoom1": "VC 206",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660040": {
+                        "instructorId": "8660040",
+                        "firstName": "S",
+                        "lastName": "Antebi"
+                    }
+                },
+                "meetingId": "202403",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA389H1-F-20219": {
+        "courseId": "55595",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Central American Literature: Narratives of War",
+        "code": "SPA389H1",
+        "courseDescription": "<p>The 70s and 80s represent a period of armed struggle, civil war, and revolution in most of Central America. Through the study of specific novels, short stories, and films, this course analyzes the representation of violence, and the political repression generated by military conflicts. (Offered every three years)</p>",
+        "prerequisite": "SPA120Y1  or SPA220Y1 or SPA219Y1 or Permission of the Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-287634": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "287634",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660041": {
+                        "instructorId": "8660041",
+                        "firstName": "M",
+                        "lastName": "Ramirez-Salazar"
+                    }
+                },
+                "meetingId": "202406",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA420H1-S-20219": {
+        "courseId": "55599",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Advanced Grammar",
+        "code": "SPA420H1",
+        "courseDescription": "<p>Linguistic analysis with the objective of improving students' command of Spanish grammar. Advanced review of traditional grammatical topics, including the verbal and pronominal systems, and Spanish copulas and embedded clauses. This course assumes familiarity with the grammatical terminology introduced in SPA320Y1.</p>",
+        "prerequisite": "SPA219Y1 or SPA320Y1, or placement test.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-289985": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "289985",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 215"
+                    }
+                },
+                "instructors": {
+                    "8662128": {
+                        "instructorId": "8662128",
+                        "firstName": "I",
+                        "lastName": "Marinescu"
+                    }
+                },
+                "meetingId": "199704",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA424H1-F-20219": {
+        "courseId": "55603",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Experimental Approaches to Hispanic and Lusophone Linguistics",
+        "code": "SPA424H1",
+        "courseDescription": "<p>This course introduces students to theoretically grounded experimental approaches in the field of linguistics, with a particular focus on Hispanic and Lusophone linguistics. Students will receive training in the use of different experimental and corpus analysis techniques and will discuss paradigmatic examples of research papers in the areas of phonetics-phonology and morpho-syntax. Throughout the course, they will conduct their own research project under the supervision of a specialist in the field. The course can be taught in English, Spanish and Portuguese. </p>",
+        "prerequisite": "SPA322H1/ PRT322H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "300-level SPA/PRT linguistic courses",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-289990": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "289990",
+                        "assignedRoom1": "NF 007",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660042": {
+                        "instructorId": "8660042",
+                        "firstName": "L",
+                        "lastName": "Colantoni"
+                    }
+                },
+                "meetingId": "202411",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA480H1-F-20219": {
+        "courseId": "55612",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Icons and Iconography in Latin American Culture",
+        "code": "SPA480H1",
+        "courseDescription": "<p>Production, circulation and meaning of icons through Latin American literary and cultural contexts. Readings are selected from the period of independence to the present, and focus on the transformative ideological charge of cultural objects across geographic space and history. Focuses on political and socio-economic tensions between popular and elite spheres of cultural production, and on the risks and limits of iconographic representation. (Offered every three years)    </p>",
+        "prerequisite": "At least one 300-series half-course in Spanish.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1/SPA259H1",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-290650": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "290650",
+                        "assignedRoom1": "NF 007",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660043": {
+                        "instructorId": "8660043",
+                        "firstName": "S",
+                        "lastName": "Antebi"
+                    }
+                },
+                "meetingId": "202408",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA486H1-S-20219": {
+        "courseId": "55614",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Contemporary Caribbean Literatures and Identities",
+        "code": "SPA486H1",
+        "courseDescription": "<p>Literature studied as a socio-political space for the articulation of new concepts of cultural identity; examination of cultural change and aesthetic innovation in selected poetic, dramatic, and narrative texts from different national traditions (Cuba, the Dominican Republic, Puerto Rico). (Offered every three years)</p>",
+        "prerequisite": "At least one 300-series half-course in Spanish.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1/SPA259H1",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-287660": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "287660",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 113"
+                    }
+                },
+                "instructors": {
+                    "8662129": {
+                        "instructorId": "8662129",
+                        "firstName": "N",
+                        "lastName": "Rodriguez"
+                    }
+                },
+                "meetingId": "202409",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA489H1-S-20219": {
+        "courseId": "55616",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Latin American Transculturations",
+        "code": "SPA489H1",
+        "courseDescription": "<p>This course integrates a series of contemporary debates in Latin American cultural studies with analysis of its transdisciplinary history and global permutations. Key topics of investigation within these debates may include indigeneity; coloniality, transculturation, and subalternity; empire, nation, and globalism; revolution, state discourse, and the popular; gender and sexuality; and the production of race. </p>",
+        "prerequisite": "SPA258H1; SPA219Y1/SPA320Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Another 300-series half-course in literature",
+        "section": "S",
+        "session": "20219",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-287675": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "287675",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 006"
+                    }
+                },
+                "instructors": {
+                    "8662130": {
+                        "instructorId": "8662130",
+                        "firstName": "S",
+                        "lastName": "Antebi"
+                    }
+                },
+                "meetingId": "202410",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA490H1-F-20219": {
+        "courseId": "55617",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Independent Study",
+        "code": "SPA490H1",
+        "courseDescription": "<p>Individual study with a member of staff on a topic of common interest including readings, discussion and written assignments. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "At least one 300-series half-course in Spanish, and written approval of the Undergraduate Coordinator",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20219",
+        "webTimetableInstructions": "<p>Restricted course. For information, please visit our website.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-297504": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "297504",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8660044": {
+                        "instructorId": "8660044",
+                        "firstName": "N",
+                        "lastName": "Rodriguez"
+                    }
+                },
+                "meetingId": "208201",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "1",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "July 21, 2021: Section added.",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

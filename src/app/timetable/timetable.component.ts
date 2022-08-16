@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, EventEmitter, OnInit, Output} from '@angular/core';
 import {MatDialog, MatDialogConfig} from '@angular/material/dialog';
 import {TimetableService} from './timetable.service';
 import {crs, lecSession} from "./courseInterfaces";
@@ -7,6 +7,7 @@ import {cItems} from "../course-list/course-list.component";
 import {CourseListComponent} from "../course-list/course-list.component";
 import {MatSnackBar, MatSnackBarModule} from '@angular/material/snack-bar';
 import {DialogExampleComponent} from "../dialog-example/dialog-example.component";
+import { Cal, Schedule } from '../schedule/scheduleInterface2';
 
 @Component({
   selector: 'app-timetable',
@@ -33,7 +34,8 @@ export class TimetableComponent implements OnInit {
 
   designators: Set<string> = new Set(['ABP', 'ACT', 'AFR', 'AMS', 'ANA', 'ANT', 'APM', 'ARH', 'AST', 'BCB', 'BCH', 'BIO', 'BMS', 'BPM', 'CAR', 'CAS', 'CDN', 'CHC', 'CHM', 'CIN', 'CJH', 'CJS', 'CLA', 'CLT', 'COG', 'CRE', 'CRI', 'CSB', 'CSC', 'CSE', 'CTA', 'DHU', 'DRM', 'DTS', 'EAS', 'ECO', 'EDS', 'EEB', 'ENG', 'ENT', 'ENV', 'ESS', 'EST', 'ETH', 'EUR', 'FAH', 'FCS', 'FIN', 'FOR', 'FRE', 'FSL', 'GER', 'GGR', 'GRK', 'HIS', 'HMB', 'HPS', 'HST', 'HUN', 'IFP', 'IMM', 'INI', 'INS', 'IRE', 'IRW', 'ITA', 'JAL', 'JCA', 'JCI', 'JCR', 'JEG', 'JEH', 'JFG', 'JFP', 'JGA', 'JGE', 'JGJ', 'JGU', 'JHA', 'JHM', 'JIG', 'JLN', 'JLP', 'JLS', 'JNH', 'JNR', 'JNS', 'JPA', 'JPE', 'JPH', 'JPI', 'JPM', 'JPR', 'JPS', 'JQR', 'JRC', 'JRN', 'JSC', 'JSH', 'JSU', 'JWE', 'LAS', 'LAT', 'LCT', 'LIN', 'LMP', 'MAT', 'MCS', 'MGR', 'MGT', 'MGY', 'MHB', 'MIJ', 'MST', 'MUN', 'MUS', 'NEW', 'NFS', 'NMC', 'NML', 'PCJ', 'PCL', 'PDC', 'PHC', 'PHL', 'PHS', 'PHY', 'PLN', 'POL', 'PPG', 'PRT', 'PSL', 'PSY', 'REN', 'RLG', 'RSM', 'SAS', 'SDS', 'SLA', 'SMC', 'SOC', 'SPA', 'STA', 'TRN', 'UNI', 'URB', 'VIC', 'WDW', 'WGS', 'WRR'])
   errMessage: string = '';
-  courseFilter: string = '';  // this value is binded.
+  courseFilter: string = 'CSC';  // this value is binded.
+  prevCourseFilter: string = '';
   splitted: string[] = [];
   courseList: any[] = [];
   allCourses: any[][] = [];
@@ -44,6 +46,7 @@ export class TimetableComponent implements OnInit {
   // Prevents the option to search up every course in existence
   disallowMaster: boolean = true;
   storedSessions = {
+    "Fall 2019 - Winter 2020": "20199",
      "Fall 2020 - Winter 2021": "20209",
      "Fall 2021 - Winter 2022":"20219",
      "Summer 2022":"20225",
@@ -51,8 +54,28 @@ export class TimetableComponent implements OnInit {
   };
   storedSessionsKeys = Object.keys(this.storedSessions);
   globalSessionKey: string = "Fall 2022 - Winter 2023";
+  prevGSK: string = this.globalSessionKey;
 
+  lastUpdated: number = 0;
+  lastUpdateString: string = "";
 
+  updateLastUpdated(): void {
+    let updateInfo: any;
+    console.log("Attempting to update");
+    this.timetableService.getLastUpdatedTime().subscribe(
+      (data) => {
+        updateInfo = data;
+      },
+      () => {
+        
+      },
+      () => {
+        this.lastUpdated = updateInfo.time;
+        this.lastUpdateString = new Date(this.lastUpdated * 1000).toLocaleDateString();
+      
+      }
+    )
+  }
 
 
   clicked(): void {
@@ -60,6 +83,18 @@ export class TimetableComponent implements OnInit {
     this.globalSession = this.storedSessions[this.globalSessionKey];
     console.log(this.globalSession);
     this.courseFilter = this.courseFilter.toUpperCase();
+    if(this.prevCourseFilter === this.courseFilter &&
+      this.prevGSK === this.globalSessionKey){
+      return;
+    }
+    if(this.prevGSK !== this.globalSession){
+      // console.log("resetting the timetable");
+      // console.log(this.prevGSK, this.globalSessionKey);
+      // Cal.resetCal();
+      // Schedule.removeAllCourses();
+    }
+    this.prevGSK = this.globalSessionKey;
+    this.prevCourseFilter = this.courseFilter;
     this.splitted = this.courseFilter.split(',');
     this.splitted.splice(4);
     this.splitted = this.splitted.map(item => item.trim());
@@ -133,6 +168,7 @@ export class TimetableComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.updateLastUpdated();
     this.timetableService.getCourses().subscribe(
       data => {
         // console.log('timetable', data);
@@ -215,6 +251,7 @@ export class TimetableComponent implements OnInit {
     const dialogRef = this.dialog.open(CourseListComponent, dialogConfig);
     dialogRef.afterClosed().subscribe(result => {
       console.log(`Dialog result: ${result}`);
+      this.sendMessage();
     });
   }
 
@@ -224,8 +261,17 @@ export class TimetableComponent implements OnInit {
     const dialogRef = this.dialog.open(DialogExampleComponent, dialogConfig);
     dialogRef.afterClosed().subscribe(result => {
       console.log(`Dialog result: ${result}`) ;
+      
+
     });
   }
+  message = "THIS IS";
+  sendMessage() {
+    console.log("Trying to emit message");
+    this.messageEvent.emit(this.message)
+  }
+  
+  @Output() messageEvent = new EventEmitter<string>();
 
 }
 
@@ -289,7 +335,7 @@ function processCourselist(cList: crs[]): void {
 
     element.brqColor = utilities.brColors[element.brq];
     element.cardWidth = '20%';
-
+    // element.prerequisite = element.prerequisite.replace("/", "");
     // add a display
     element.infoVisible = false;
     element.show = true;
@@ -428,7 +474,7 @@ function splitListToLevels(cList: any[]): any[][] {
 
 function checkOnlineOption(course: crs): boolean {
   const onlineModes = ['SYNC', 'SYNIF', 'ASYNC', 'ASYIF',
-  'ONLSYNC', 'ONLASYNC'];
+  'ONLSYNC', 'ONLASYNC', 'ONL'];
   if (course.fallMeetings !== undefined){
     for (let meeting of course.fallMeetings) {
       if (onlineModes.includes(meeting.deliveryMode) &&

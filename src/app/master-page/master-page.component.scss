@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  
+  .side{
+    // flex: 10;
+    width: 60%;
+    // flex: 3;
+    height: 100vh;
+    overflow: scroll;
+    resize: horizontal;
+  }
+  
+  .content{
+    flex: 5;
+    height: 100vh;
+    overflow: scroll;
+    // resize: both;
+  }

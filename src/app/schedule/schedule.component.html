@@ -6,32 +6,44 @@
 
 <!--<p>schedule works!</p>-->
 
-<div class="center-it-2">
-<button 
-id="basic" type="button" mat-stroked-button (click)="reloadTable()">
-    Reload Timetable
-</button></div>
+<div class="center-it-2" style="padding: 0px 0px 20px 0px">
+    
+    <!-- <button 
+    id="basic" type="button" mat-stroked-button (click)="reloadTable()">
+        Reload Timetable
+    </button> -->
+
+
+</div>
+
+
 <div class="flexith">
-<div *ngFor="let fw of sessions">
+<div *ngFor="let fw of sessions;let qq=index" style="padding:0px 0px 40px 0px;">
+
+
+
 <div class="container">
+
+    <h1 class="center-it-2" style="font-weight:bold">{{fwText[qq]}} Courses</h1>
+
     <table class="timetableSchedule" style="width:100%;">
         <thead>
             <tr>
                 <th
-                style="width:8%; min-width: 50px;"
+                class="hour-cell"
                 >-</th>
-                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Monday</th>
-                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Tuesday</th>
-                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Wednesday</th>
-                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Thursday</th>
-                <th class="dayOfWeek" style="width:18%; min-width: 100px;">Friday</th>
+                <th class="dayOfWeek">Monday</th>
+                <th class="dayOfWeek">Tuesday</th>
+                <th class="dayOfWeek">Wednesday</th>
+                <th class="dayOfWeek">Thursday</th>
+                <th class="dayOfWeek">Friday</th>
             </tr>
         </thead>
         <tbody>
                 <tr *ngFor="let tRow of totalTArray[fw]; let i=index">
                     <td style="width:8%; height:50px;">{{i + 9}}:00</td>
 
-                    <td style="width:18%; height:50px;" *ngFor="let cl of tRow as any" 
+                    <td style="width:60px; height:50px;" *ngFor="let cl of tRow as any" 
                     [attr.rowspan]="calGetDuration(cl)"
                     [style.color]="'white'"
                     [style.background-color]="determineBgColor(cl, fw)"
@@ -48,6 +60,11 @@ id="basic" type="button" mat-stroked-button (click)="reloadTable()">
                             <div class="meetInfo">
                                 {{ensureCalEntry(cl).time_to_time}}
                             </div>
+                            <div class="roomInfo">
+                                
+                                {{qq === 0 ? ensureCalEntry(cl).room_fall : ensureCalEntry(cl).room_winter}}
+
+                            </div>
                         </div>
                         <div *ngIf="cl === 0">
                             
@@ -61,4 +78,25 @@ id="basic" type="button" mat-stroked-button (click)="reloadTable()">
     </table>
 </div>
 </div>
+
+
+
+</div>
+
+<div class="container" style="padding: 20px">
+
+    <h3>Fall courses:</h3>
+    <ol>
+    <li *ngFor="let cr of tNamesFall">
+        {{cr}}
+    </li>
+    </ol>
+
+    <h3>Winter courses:</h3>
+
+    <ol>
+        <li *ngFor="let cr of tNames">
+            {{cr}}
+        </li>
+        </ol>
 </div>

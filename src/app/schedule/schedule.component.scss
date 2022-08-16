@@ -42,7 +42,19 @@ text.timeOfDay {
 .dayOfWeek {
     background-color: #eee !important;
     text-align: center !important;
+    width:22%;
+    min-width: 80px;
 }
+
+.day-cell {
+    width: 22%;
+    min-width: 80px;
+}
+
+.hour-cell {
+    width:8%; // min-width: 50px;
+}
+
 .courseCodeInfo {
     font-weight: 700 !important;
 }

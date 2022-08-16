@@ -21,6 +21,7 @@ import { ScheduleComponent } from './schedule/schedule.component';
 import {MatOptionModule} from "@angular/material/core";
 import {MatSelectModule} from "@angular/material/select";
 import {MatCheckboxModule} from "@angular/material/checkbox";
+import { MasterPageComponent } from './master-page/master-page.component';
 
 
 @NgModule({
@@ -31,6 +32,7 @@ import {MatCheckboxModule} from "@angular/material/checkbox";
     CourseListComponent,
     HelpPageComponent,
     ScheduleComponent,
+    MasterPageComponent,
   ],
   entryComponents: [DialogExampleComponent],
     imports: [

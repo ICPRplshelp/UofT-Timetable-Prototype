@@ -1,0 +1,606 @@
+{
+    "ANA300Y1-Y-20229": {
+        "courseId": "61045",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Human Anatomy and Histology",
+        "code": "ANA300Y1",
+        "courseDescription": "<p>Structure of the human body and its relationship to function. Basic human histology, gross anatomy and neuroanatomy. Some content is delivered using online modules.</p>",
+        "prerequisite": "<p>BIO130H1 or <a href=\"https://utm.calendar.utoronto.ca/course/BIO206H5\">BIO206H5</a> or <a href=\"https://utsc.calendar.utoronto.ca/course/BIOB10H3\">BIOB10H3</a>. ANA126Y1 may be applied for students enrolled in a program in Kinesiology and Physical Education.</p>",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20229",
+        "webTimetableInstructions": "<p>ANA300Y1 meets four hours per week for lectures. One-hour practical sessions are offered six times per week.&nbsp;</p>",
+        "deliveryInstructions": "<p>Lectures in ANA300Y are held in person only. Lectures are not recorded.</p><p>Practical sessions in ANA300Y fall into two categories: histology practical sessions and gross anatomy practical sessions.&nbsp;</p><p>Histology practical sessions are online-synchronous workshops. It is highly recommended that students have a microphone and camera to fully participate in these sessions. Histology workshops are not recorded.</p><p>Gross anatomy practical sessions are in-person and involve the study of physical specimens such as models, bones and plastinated prosections.</p>",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-338334": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "338334",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": "MS 2158"
+                    },
+                    "FR-338335": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "338335",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": "MS 2158"
+                    }
+                },
+                "instructors": {
+                    "8881007": {
+                        "instructorId": "8881007",
+                        "firstName": "D",
+                        "lastName": "Ballyk"
+                    }
+                },
+                "meetingId": "210056",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "400",
+                "actualEnrolment": "343",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-345189": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "345189",
+                        "assignedRoom1": "MS 2280 / MS 2282",
+                        "assignedRoom2": "MS 2280 / MS 2282"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210057",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "67",
+                "actualEnrolment": "62",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-345190": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "345190",
+                        "assignedRoom1": "MS 2280 / MS 2282",
+                        "assignedRoom2": "MS 2280 / MS 2282"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210058",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "67",
+                "actualEnrolment": "55",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-345191": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "345191",
+                        "assignedRoom1": "MS 2280 / MS 2282",
+                        "assignedRoom2": "MS 2280 / MS 2282"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210059",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "67",
+                "actualEnrolment": "61",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "WE-345192": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "345192",
+                        "assignedRoom1": "MS 2280 / MS 2282",
+                        "assignedRoom2": "MS 2280 / MS 2282"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210060",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "66",
+                "actualEnrolment": "66",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0501": {
+                "schedule": {
+                    "WE-345193": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "345193",
+                        "assignedRoom1": "MS 2280 / MS 2282",
+                        "assignedRoom2": "MS 2280 / MS 2282"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210061",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "66",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0601": {
+                "schedule": {
+                    "WE-345194": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "345194",
+                        "assignedRoom1": "MS 2280 / MS 2282",
+                        "assignedRoom2": "MS 2280 / MS 2282"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210062",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "67",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANA301H1-S-20229": {
+        "courseId": "61046",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Human Embryology",
+        "code": "ANA301H1",
+        "courseDescription": "<p>Human embryology from fertilization to the end of the fetal period. Current concepts in mammalian morphogenesis applied to the development of the various organ systems; etiologies and pathogenesis of some of the more common human congenital abnormalities.</p>",
+        "prerequisite": "BIO130H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-338336": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "338336",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2158"
+                    },
+                    "TH-338337": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "338337",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2158"
+                    }
+                },
+                "instructors": {
+                    "8883095": {
+                        "instructorId": "8883095",
+                        "firstName": "D",
+                        "lastName": "Bentley"
+                    }
+                },
+                "meetingId": "210063",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "500",
+                "actualEnrolment": "199",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANA400H1-S-20229": {
+        "courseId": "61047",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Anatomy Dissection",
+        "code": "ANA400H1",
+        "courseDescription": "<p>A focussed series of Anatomical dissections will be made and the surgical implications of the findings will be the subject of seminars. Attitudes to dissection of the human body, complications of surgery and other relevant issues will be discussed.</p>",
+        "prerequisite": "ANA300Y1 and permission of department. Normally a \"B+\" standing will be required",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "<p>To enroll in this course, please check the application instructions found at http://surgery.utoronto.ca/division-anatomy-arts-science-undergraduate-courses. Contact the Course Director to submit applications at danielle.bentley@utoronto.ca.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-343302": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "343302",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact DEPT"
+                    }
+                },
+                "instructors": {
+                    "8883096": {
+                        "instructorId": "8883096",
+                        "firstName": "D",
+                        "lastName": "Bentley"
+                    }
+                },
+                "meetingId": "210064",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TH-343303": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "343303",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210065",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANA411H1-S-20229": {
+        "courseId": "61048",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Anatomy in Application: Exercise & Biomechanics",
+        "code": "ANA411H1",
+        "courseDescription": "<p>This course will cover musculoskeletal anatomy (both upper and lower limb) topics with an emphasis on applying detailed anatomical review, biomechanical principles and research evidence to explain or clarify exercise principles and myths.</p>",
+        "prerequisite": "ANA126Y1 or ANA300Y1 (78%) or equivalent",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "<p>To enroll in this course, please check the application instructions found at http://surgery.utoronto.ca/division-anatomy-arts-science-undergraduate-courses. Contact the Course Director to submit applications at judi.laprade@utoronto.ca.&nbsp;</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-334977": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "334977",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact DEPT"
+                    }
+                },
+                "instructors": {
+                    "8883097": {
+                        "instructorId": "8883097",
+                        "firstName": "J",
+                        "lastName": "Laprade"
+                    }
+                },
+                "meetingId": "210066",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "MO-334980": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "334980",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210067",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANA420H1-S-20229": {
+        "courseId": "61049",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Anatomy of the Stem Cell Niche",
+        "code": "ANA420H1",
+        "courseDescription": "<p>This course introduces the anatomy and histology of stem cell niches in the adult and relates adult stem cells to organ function throughout the body. It is designed to build upon students’ knowledge of basic human anatomy and histology.</p>",
+        "prerequisite": "ANA300Y1/ANA301H1/HMB302H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "<p>ANA420 meets 2 hours per week for lectures. Two-hour tutorials are offered once per week.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-344855": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "344855",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact DEPT"
+                    }
+                },
+                "instructors": {
+                    "8883098": {
+                        "instructorId": "8883098",
+                        "firstName": "M",
+                        "lastName": "Faiz"
+                    }
+                },
+                "meetingId": "210068",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 14, 2022: Meeting Day changed.",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-344856": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "344856",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210069",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 14, 2022: Meeting Day changed.",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANA498Y1-Y-20229": {
+        "courseId": "61052",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Project in Anatomy",
+        "code": "ANA498Y1",
+        "courseDescription": "<p>A research project in Histology, Cellular or Molecular Biology, Developmental Biology, Neuroanatomy or Gross Anatomy. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "Permission of a professor to supervise the project",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20229",
+        "webTimetableInstructions": "<p>Students must submit a completed ANA498Y1Y ballot to <a href=\"mailto:anatomy@utoronto.ca\">anatomy@utoronto.ca</a> before being approved and enrolled. Ballots are available on the course website:&nbsp;<a href=\"https://surgery.utoronto.ca/division-anatomy-arts-science-undergraduate-courses\">https://surgery.utoronto.ca/division-anatomy-arts-science-undergraduate-courses.&nbsp;</a></p>",
+        "deliveryInstructions": "<p>Students are expected to give in-person presentations during scheduled tutorials in March/April 2023. Tutorials will run on Wednesdays in March/April 2022 from 11:00am – 1:00pm. An introductory tutorial will be held in early September 2022 during the Wednesday from 11-1 timeslot.&nbsp; No additional tutorials will run in the fall or winter terms.</p>",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "8881008": {
+                        "instructorId": "8881008",
+                        "firstName": "C",
+                        "lastName": "Morshead"
+                    }
+                },
+                "meetingId": "210070",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": null,
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-308748": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "308748",
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "210071",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": null,
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person -- See Delivery Instructions.",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

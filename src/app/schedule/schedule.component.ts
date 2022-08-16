@@ -11,7 +11,8 @@ import { Cal, CalEntry } from './scheduleInterface2';
   styleUrls: ['./schedule.component.scss']
 })
 export class ScheduleComponent implements OnInit {
-
+  fwText: string[] = ['Fall', 'Winter'];
+  private dummyVar: string = "AA";
   // this is not the table heading. a table contains six columns.
   // weekend dates are to be discarded.
   // the cell contains data for a cell.
@@ -44,6 +45,7 @@ export class ScheduleComponent implements OnInit {
   ]
 
   ensureCalEntry(calE: CalEntry | Number): CalEntry {
+    console.log(calE);
     if (calE instanceof CalEntry){
       return calE;
     } else{
@@ -80,7 +82,7 @@ export class ScheduleComponent implements OnInit {
 
     this.tNames = te2;
     console.log(te1);
-    this.table = te1.slice(9, 22);
+    this.table = te1.slice(8, 22);
 
     this.totalTArray = [this.tableFall, this.table];
     this.totalNArray = [this.tNamesFall, this.tNames];

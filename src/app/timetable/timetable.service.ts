@@ -19,6 +19,16 @@ export class TimetableService {
   constructor(private http: HttpClient) {
   }
 
+  /**
+   * Run an HTTP request to api/last_update.json
+   * and extract the number from the time field
+   */
+  getLastUpdatedTime(): Observable<any> {
+    return this.http.get<any>("api/20229/last_update.json").pipe(
+      tap(data => {})
+    );
+  }
+
   getCourses(): Observable<any> {
     return this.http.get<any>(this.productURL).pipe(
       tap(data => {
@@ -255,7 +265,7 @@ function processCourselist(cList: crs[]): void {
 
 function checkOnlineOption(course: crs): boolean {
   const onlineModes = ['SYNC', 'SYNIF', 'ASYNC', 'ASYIF',
-    'ONLSYNC', 'ONLASYNC'];
+    'ONLSYNC', 'ONLASYNC', 'ONL'];
   if (course.fallMeetings !== undefined) {
     for (let meeting of course.fallMeetings) {
       if (onlineModes.includes(meeting.deliveryMode) &&

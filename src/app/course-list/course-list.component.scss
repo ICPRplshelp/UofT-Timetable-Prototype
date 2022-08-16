@@ -9,6 +9,9 @@ table {
 }
 
 .r-chip {
+  outline: #000000;
+  outline-width: 2px;
+  min-height: 24px;
   padding-right: 5px;
   display:flex;
   gap: 5px;
@@ -66,6 +69,12 @@ table {
 }
 
 
+.inner-chip{
+  padding: 2px 4px;
+  color: white;
+  display:flex;
+  background-color: #202225;
+}
 
 .meeting-day {
   padding: 2px 0px;

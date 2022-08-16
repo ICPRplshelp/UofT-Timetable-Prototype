@@ -14,19 +14,6 @@ look really off to someone who is very experienced with JS/TS.
 
 `src/app/timetable/utilities.ts` - this contains color info. Change this however you like. Note that not all colors can be changed from this file, but most of them can.
 
-## How do I run this
-
-Clone/download this repository. Open CMD, and `cd` to the directiory of the repository you've downloaded.
-
-Or you can do this.
-
-![image](https://user-images.githubusercontent.com/93059453/169639288-b8b70868-ed00-4e97-9d15-14b5106dad47.png)
-
-Type `npm start`. Then, head to `localhost:4200` on your web browser.
-
-Note: make sure your computer can handle these commands. You need **Node.js** and **angular cli**.
-
-
 ## Development server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
