@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "8883727": {
-                        "instructorId": "8883727",
+                    "8892231": {
+                        "instructorId": "8892231",
                         "firstName": "P",
                         "lastName": "Whissell"
                     }
@@ -45,7 +45,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "241",
                 "actualEnrolment": "241",
-                "actualWaitlist": "74",
+                "actualWaitlist": "67",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -198,8 +198,8 @@
                     }
                 },
                 "instructors": {
-                    "8883728": {
-                        "instructorId": "8883728",
+                    "8892232": {
+                        "instructorId": "8892232",
                         "firstName": "P",
                         "lastName": "Whissell"
                     }
@@ -511,7 +511,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "23",
-                "actualEnrolment": "23",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -538,7 +538,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "23",
-                "actualEnrolment": "19",
+                "actualEnrolment": "20",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -576,8 +576,8 @@
                     }
                 },
                 "instructors": {
-                    "8883729": {
-                        "instructorId": "8883729",
+                    "8892233": {
+                        "instructorId": "8892233",
                         "firstName": "N",
                         "lastName": "Levy-Strumpf"
                     }
@@ -592,7 +592,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "100",
                 "actualEnrolment": "100",
-                "actualWaitlist": "1",
+                "actualWaitlist": "2",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -870,6 +870,33 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "137",
+                        "postCode": "ASMAJ2013",
+                        "postName": "MA HMB: HEALTH AND DISEASE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
                         "yearOfStudy": "2",
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
@@ -901,33 +928,6 @@
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
                         "typeOfProgramName": "All Types",
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "137",
-                        "postCode": "ASMAJ2013",
-                        "postName": "MA HMB: HEALTH AND DISEASE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -1072,7 +1072,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "32",
-                "actualEnrolment": "32",
+                "actualEnrolment": "31",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1153,7 +1153,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "32",
-                "actualEnrolment": "32",
+                "actualEnrolment": "31",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1261,7 +1261,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "32",
-                "actualEnrolment": "31",
+                "actualEnrolment": "32",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1288,7 +1288,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "32",
-                "actualEnrolment": "23",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1326,8 +1326,8 @@
                     }
                 },
                 "instructors": {
-                    "8883730": {
-                        "instructorId": "8883730",
+                    "8892234": {
+                        "instructorId": "8892234",
                         "firstName": "A",
                         "lastName": "Cortinois"
                     }
@@ -1342,7 +1342,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "100",
                 "actualEnrolment": "100",
-                "actualWaitlist": "20",
+                "actualWaitlist": "18",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -1677,8 +1677,8 @@
                     }
                 },
                 "instructors": {
-                    "8883731": {
-                        "instructorId": "8883731",
+                    "8892235": {
+                        "instructorId": "8892235",
                         "firstName": "M",
                         "lastName": "Papaconstantinou"
                     }
@@ -1693,7 +1693,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "378",
                 "actualEnrolment": "378",
-                "actualWaitlist": "14",
+                "actualWaitlist": "15",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "June 7, 2022: Time change.",
                 "enrollmentControls": [
@@ -2098,7 +2098,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "27",
-                "actualEnrolment": "27",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2198,13 +2198,13 @@
                     }
                 },
                 "instructors": {
-                    "8881950": {
-                        "instructorId": "8881950",
+                    "8890416": {
+                        "instructorId": "8890416",
                         "firstName": "B",
                         "lastName": "Chang"
                     },
-                    "8881951": {
-                        "instructorId": "8881951",
+                    "8890417": {
+                        "instructorId": "8890417",
                         "firstName": "N",
                         "lastName": "Levy-Strumpf"
                     }
@@ -2219,10 +2219,91 @@
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "1185",
                 "actualEnrolment": "1185",
-                "actualWaitlist": "102",
+                "actualWaitlist": "104",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "56",
+                        "adminOrgCode": "MEDGM",
+                        "adminOrgName": "Department of Molecular Genetics"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "64",
+                        "adminOrgCode": "PCL",
+                        "adminOrgName": "Department of Pharmacology"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "69",
+                        "adminOrgCode": "PSL",
+                        "adminOrgName": "Department of Physiology"
+                    },
                     {
                         "postId": null,
                         "postCode": null,
@@ -2384,87 +2465,6 @@
                         "adminOrgId": "54",
                         "adminOrgCode": "LMP",
                         "adminOrgName": "Department of Laboratory Medicine and Pathobiology"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "56",
-                        "adminOrgCode": "MEDGM",
-                        "adminOrgName": "Department of Molecular Genetics"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "64",
-                        "adminOrgCode": "PCL",
-                        "adminOrgName": "Department of Pharmacology"
-                    },
-                    {
-                        "postId": null,
-                        "postCode": null,
-                        "postName": null,
-                        "subjectId": "1",
-                        "subjectCode": "*",
-                        "subjectName": "",
-                        "designationId": "1",
-                        "designationCode": "*",
-                        "designationName": "",
-                        "yearOfStudy": "*",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": "6",
-                        "primaryOrgCode": "ARTSC",
-                        "primaryOrgName": "Faculty of Arts and Science",
-                        "secondaryOrgId": "1",
-                        "secondaryOrgCode": "*",
-                        "secondaryOrgName": "",
-                        "assocOrgId": "1",
-                        "assocOrgCode": "*",
-                        "assocOrgName": "",
-                        "adminOrgId": "69",
-                        "adminOrgCode": "PSL",
-                        "adminOrgName": "Department of Physiology"
                     },
                     {
                         "postId": "39",
@@ -3083,7 +3083,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "26",
-                "actualEnrolment": "26",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -3569,7 +3569,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "26",
-                "actualEnrolment": "24",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -3650,7 +3650,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "27",
-                "actualEnrolment": "14",
+                "actualEnrolment": "15",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -3704,7 +3704,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "26",
-                "actualEnrolment": "26",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -3923,7 +3923,18 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "8890418": {
+                        "instructorId": "8890418",
+                        "firstName": "J",
+                        "lastName": "Fraigne"
+                    },
+                    "8890419": {
+                        "instructorId": "8890419",
+                        "firstName": "D",
+                        "lastName": "Garand"
+                    }
+                },
                 "meetingId": "213448",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -3933,7 +3944,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "300",
-                "actualEnrolment": "253",
+                "actualEnrolment": "257",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
@@ -4150,7 +4161,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "38",
-                "actualEnrolment": "38",
+                "actualEnrolment": "37",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -4231,7 +4242,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "38",
-                "actualEnrolment": "19",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -4296,8 +4307,8 @@
                     }
                 },
                 "instructors": {
-                    "8881952": {
-                        "instructorId": "8881952",
+                    "8890420": {
+                        "instructorId": "8890420",
                         "firstName": "N",
                         "lastName": "Levy-Strumpf"
                     }
@@ -4312,7 +4323,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "70",
                 "actualEnrolment": "70",
-                "actualWaitlist": "13",
+                "actualWaitlist": "12",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -4566,8 +4577,8 @@
                     }
                 },
                 "instructors": {
-                    "8881953": {
-                        "instructorId": "8881953",
+                    "8890421": {
+                        "instructorId": "8890421",
                         "firstName": "R",
                         "lastName": "Wilson Jr"
                     }
@@ -4582,7 +4593,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "250",
                 "actualEnrolment": "250",
-                "actualWaitlist": "106",
+                "actualWaitlist": "103",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -4650,6 +4661,33 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "137",
+                        "postCode": "ASMAJ2013",
+                        "postName": "MA HMB: HEALTH AND DISEASE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
                         "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -4695,9 +4733,9 @@
                         "adminOrgName": null
                     },
                     {
-                        "postId": "137",
-                        "postCode": "ASMAJ2013",
-                        "postName": "MA HMB: HEALTH AND DISEASE",
+                        "postId": "355",
+                        "postCode": "ASSPE2013",
+                        "postName": "SP HMB: HEALTH AND DISEASE",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -4759,33 +4797,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "355",
-                        "postCode": "ASSPE2013",
-                        "postName": "SP HMB: HEALTH AND DISEASE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -4917,8 +4928,8 @@
                     }
                 },
                 "instructors": {
-                    "8881954": {
-                        "instructorId": "8881954",
+                    "8890422": {
+                        "instructorId": "8890422",
                         "firstName": "P",
                         "lastName": "Hamel"
                     }
@@ -4933,7 +4944,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "100",
                 "actualEnrolment": "100",
-                "actualWaitlist": "19",
+                "actualWaitlist": "14",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -5055,10 +5066,10 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
-                        "typeOfProgramId": "1",
-                        "typeOfProgramCode": "*",
-                        "typeOfProgramName": "All Types",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -5082,10 +5093,10 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -5214,8 +5225,8 @@
                     }
                 },
                 "instructors": {
-                    "8881955": {
-                        "instructorId": "8881955",
+                    "8890423": {
+                        "instructorId": "8890423",
                         "firstName": "K",
                         "lastName": "Bowman"
                     }
@@ -5244,7 +5255,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -5271,34 +5282,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "316",
-                        "postCode": "ASSPE1472",
-                        "postName": "SP HMB: NEUROSCIENCE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -5326,6 +5310,33 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "316",
+                        "postCode": "ASSPE1472",
+                        "postName": "SP HMB: NEUROSCIENCE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -5484,8 +5495,8 @@
                     }
                 },
                 "instructors": {
-                    "8881956": {
-                        "instructorId": "8881956",
+                    "8890424": {
+                        "instructorId": "8890424",
                         "firstName": "C",
                         "lastName": "Dockstader"
                     }
@@ -5499,7 +5510,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "192",
-                "actualEnrolment": "187",
+                "actualEnrolment": "188",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
@@ -5635,7 +5646,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "22",
+                "actualEnrolment": "23",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -5743,7 +5754,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "22",
+                "actualEnrolment": "23",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -5770,7 +5781,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "23",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -5835,13 +5846,13 @@
                     }
                 },
                 "instructors": {
-                    "8881957": {
-                        "instructorId": "8881957",
+                    "8890425": {
+                        "instructorId": "8890425",
                         "firstName": "N",
                         "lastName": "Li"
                     },
-                    "8881958": {
-                        "instructorId": "8881958",
+                    "8890426": {
+                        "instructorId": "8890426",
                         "firstName": "Y",
                         "lastName": "Lu"
                     }
@@ -5860,6 +5871,33 @@
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
+                    {
+                        "postId": "80",
+                        "postCode": "ASMAJ1050",
+                        "postName": "MA FUNDMNTL GENETICS & ITS APP",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
                     {
                         "postId": "80",
                         "postCode": "ASMAJ1050",
@@ -5898,33 +5936,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "80",
-                        "postCode": "ASMAJ1050",
-                        "postName": "MA FUNDMNTL GENETICS & ITS APP",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -6242,7 +6253,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -6263,6 +6274,33 @@
                         "postId": "141",
                         "postCode": "ASMAJ2035",
                         "postName": "MA HUMAN BIOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "156",
+                        "postCode": "ASMAJ2575",
+                        "postName": "MA HMB: GLOBAL HEALTH",
                         "subjectId": null,
                         "subjectCode": null,
                         "subjectName": null,
@@ -6300,33 +6338,6 @@
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
                         "typeOfProgramName": "All Types",
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "156",
-                        "postCode": "ASMAJ2575",
-                        "postName": "MA HMB: GLOBAL HEALTH",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -6681,7 +6692,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "96",
                 "actualEnrolment": "96",
-                "actualWaitlist": "56",
+                "actualWaitlist": "54",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -6803,7 +6814,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -6830,7 +6841,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -6989,8 +7000,8 @@
                     }
                 },
                 "instructors": {
-                    "8883732": {
-                        "instructorId": "8883732",
+                    "8892236": {
+                        "instructorId": "8892236",
                         "firstName": "P",
                         "lastName": "Koeberle"
                     }
@@ -7004,11 +7015,38 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "165",
-                "actualEnrolment": "137",
+                "actualEnrolment": "127",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
+                    {
+                        "postId": "113",
+                        "postCode": "ASMAJ1472",
+                        "postName": "MA HMB: NEUROSCIENCE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
                     {
                         "postId": "113",
                         "postCode": "ASMAJ1472",
@@ -7050,33 +7088,6 @@
                         "typeOfProgramId": "1",
                         "typeOfProgramCode": "*",
                         "typeOfProgramName": "All Types",
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "113",
-                        "postCode": "ASMAJ1472",
-                        "postName": "MA HMB: NEUROSCIENCE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
                         "primaryOrgId": null,
                         "primaryOrgCode": null,
                         "primaryOrgName": null,
@@ -7221,7 +7232,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "55",
-                "actualEnrolment": "45",
+                "actualEnrolment": "42",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -7248,7 +7259,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "55",
-                "actualEnrolment": "54",
+                "actualEnrolment": "48",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -7294,8 +7305,8 @@
                     }
                 },
                 "instructors": {
-                    "8883733": {
-                        "instructorId": "8883733",
+                    "8892237": {
+                        "instructorId": "8892237",
                         "firstName": "M",
                         "lastName": "Papaconstantinou"
                     }
@@ -7309,7 +7320,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "85",
+                "actualEnrolment": "83",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
@@ -7432,6 +7443,33 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "80",
+                        "postCode": "ASMAJ1050",
+                        "postName": "MA FUNDMNTL GENETICS & ITS APP",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
                         "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -7460,60 +7498,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "80",
-                        "postCode": "ASMAJ1050",
-                        "postName": "MA FUNDMNTL GENETICS & ITS APP",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "276",
-                        "postCode": "ASSPE1050",
-                        "postName": "SP FUNDMNTL GENETICS & ITS APP",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -7568,6 +7552,33 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "276",
+                        "postCode": "ASSPE1050",
+                        "postName": "SP FUNDMNTL GENETICS & ITS APP",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -7688,7 +7699,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "10",
+                "actualEnrolment": "9",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -7858,7 +7869,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -7885,7 +7896,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8033,7 +8044,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "30",
+                "actualEnrolment": "29",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -8152,8 +8163,8 @@
                     }
                 },
                 "instructors": {
-                    "8883734": {
-                        "instructorId": "8883734",
+                    "8892238": {
+                        "instructorId": "8892238",
                         "firstName": "H",
                         "lastName": "Dimaras"
                     }
@@ -8167,7 +8178,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "90",
-                "actualEnrolment": "62",
+                "actualEnrolment": "63",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
@@ -8263,7 +8274,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8290,7 +8301,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -8600,7 +8611,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "3",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -8638,8 +8649,8 @@
                     }
                 },
                 "instructors": {
-                    "8883735": {
-                        "instructorId": "8883735",
+                    "8892239": {
+                        "instructorId": "8892239",
                         "firstName": "L",
                         "lastName": "De Souza"
                     }
@@ -9019,7 +9030,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "3",
+                        "yearOfStudy": "4",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -9046,7 +9057,7 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "4",
+                        "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -9275,7 +9286,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "31",
-                "actualEnrolment": "31",
+                "actualEnrolment": "30",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -9394,8 +9405,8 @@
                     }
                 },
                 "instructors": {
-                    "8881959": {
-                        "instructorId": "8881959",
+                    "8890427": {
+                        "instructorId": "8890427",
                         "firstName": "N",
                         "lastName": "Levy-Strumpf"
                     }
@@ -9409,7 +9420,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "95",
-                "actualEnrolment": "89",
+                "actualEnrolment": "86",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,
@@ -9653,7 +9664,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "32",
-                "actualEnrolment": "32",
+                "actualEnrolment": "30",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -9680,7 +9691,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "31",
-                "actualEnrolment": "23",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -9968,8 +9979,8 @@
                     }
                 },
                 "instructors": {
-                    "8881960": {
-                        "instructorId": "8881960",
+                    "8890428": {
+                        "instructorId": "8890428",
                         "firstName": "M",
                         "lastName": "Papaconstantinou"
                     }
@@ -10167,7 +10178,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "13",
+                "actualWaitlist": "12",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -10286,13 +10297,13 @@
                     }
                 },
                 "instructors": {
-                    "8881961": {
-                        "instructorId": "8881961",
+                    "8890429": {
+                        "instructorId": "8890429",
                         "firstName": "J",
                         "lastName": "Fraigne"
                     },
-                    "8881962": {
-                        "instructorId": "8881962",
+                    "8890430": {
+                        "instructorId": "8890430",
                         "firstName": "D",
                         "lastName": "Garand"
                     }
@@ -10399,8 +10410,8 @@
                     }
                 },
                 "instructors": {
-                    "8881963": {
-                        "instructorId": "8881963",
+                    "8890431": {
+                        "instructorId": "8890431",
                         "firstName": "R",
                         "lastName": "Wilson Jr"
                     }
@@ -10414,7 +10425,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "19",
+                "actualEnrolment": "20",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": null,
@@ -10588,8 +10599,8 @@
                     }
                 },
                 "instructors": {
-                    "8881964": {
-                        "instructorId": "8881964",
+                    "8890432": {
+                        "instructorId": "8890432",
                         "firstName": "A",
                         "lastName": "Sage"
                     }
@@ -10604,7 +10615,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "30",
                 "actualEnrolment": "30",
-                "actualWaitlist": "13",
+                "actualWaitlist": "14",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -10831,8 +10842,8 @@
                     }
                 },
                 "instructors": {
-                    "8883736": {
-                        "instructorId": "8883736",
+                    "8892240": {
+                        "instructorId": "8892240",
                         "firstName": "A",
                         "lastName": "Cortinois"
                     }
@@ -11128,8 +11139,8 @@
                     }
                 },
                 "instructors": {
-                    "8881965": {
-                        "instructorId": "8881965",
+                    "8890433": {
+                        "instructorId": "8890433",
                         "firstName": "C",
                         "lastName": "Dockstader"
                     }
@@ -11143,7 +11154,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "37",
+                "actualEnrolment": "38",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
@@ -11290,8 +11301,8 @@
                     }
                 },
                 "instructors": {
-                    "8883737": {
-                        "instructorId": "8883737",
+                    "8892241": {
+                        "instructorId": "8892241",
                         "firstName": "N",
                         "lastName": "Levy-Strumpf"
                     }
@@ -11305,8 +11316,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "29",
-                "actualWaitlist": "0",
+                "actualEnrolment": "30",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -11743,8 +11754,8 @@
                     }
                 },
                 "instructors": {
-                    "8881966": {
-                        "instructorId": "8881966",
+                    "8890434": {
+                        "instructorId": "8890434",
                         "firstName": "M",
                         "lastName": "Jeffrey"
                     }
@@ -11758,7 +11769,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "15",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
@@ -12023,7 +12034,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "30",
                 "actualEnrolment": "30",
-                "actualWaitlist": "8",
+                "actualWaitlist": "7",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -12233,7 +12244,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "50",
                 "actualEnrolment": "50",
-                "actualWaitlist": "9",
+                "actualWaitlist": "8",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -12352,8 +12363,8 @@
                     }
                 },
                 "instructors": {
-                    "8881967": {
-                        "instructorId": "8881967",
+                    "8890435": {
+                        "instructorId": "8890435",
                         "firstName": "A",
                         "lastName": "Kapus"
                     }
@@ -12460,8 +12471,8 @@
                     }
                 },
                 "instructors": {
-                    "8883738": {
-                        "instructorId": "8883738",
+                    "8892242": {
+                        "instructorId": "8892242",
                         "firstName": "A",
                         "lastName": "Astell"
                     }
@@ -12568,8 +12579,8 @@
                     }
                 },
                 "instructors": {
-                    "8881968": {
-                        "instructorId": "8881968",
+                    "8890436": {
+                        "instructorId": "8890436",
                         "firstName": "M",
                         "lastName": "Papaconstantinou"
                     }
@@ -12584,7 +12595,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "12",
+                "actualWaitlist": "13",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "August 4, 2022: room changed.",
                 "enrollmentControls": [
@@ -12784,8 +12795,8 @@
                     }
                 },
                 "instructors": {
-                    "8881969": {
-                        "instructorId": "8881969",
+                    "8890437": {
+                        "instructorId": "8890437",
                         "firstName": "L",
                         "lastName": "De Souza"
                     }
@@ -12865,8 +12876,8 @@
                     }
                 },
                 "instructors": {
-                    "8881970": {
-                        "instructorId": "8881970",
+                    "8890438": {
+                        "instructorId": "8890438",
                         "firstName": "C",
                         "lastName": "Dockstader"
                     }
@@ -12881,7 +12892,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "50",
                 "actualEnrolment": "50",
-                "actualWaitlist": "2",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -13027,8 +13038,8 @@
                     }
                 },
                 "instructors": {
-                    "8883739": {
-                        "instructorId": "8883739",
+                    "8892243": {
+                        "instructorId": "8892243",
                         "firstName": "A",
                         "lastName": "Sage"
                     }
@@ -13043,7 +13054,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "19",
+                "actualWaitlist": "18",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -13297,8 +13308,8 @@
                     }
                 },
                 "instructors": {
-                    "8881971": {
-                        "instructorId": "8881971",
+                    "8890439": {
+                        "instructorId": "8890439",
                         "firstName": "L",
                         "lastName": "De Souza"
                     }
@@ -13313,7 +13324,7 @@
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "90",
                 "actualEnrolment": "90",
-                "actualWaitlist": "11",
+                "actualWaitlist": "10",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -13405,8 +13416,8 @@
                     }
                 },
                 "instructors": {
-                    "8883740": {
-                        "instructorId": "8883740",
+                    "8892244": {
+                        "instructorId": "8892244",
                         "firstName": "C",
                         "lastName": "Dockstader"
                     }
@@ -13615,8 +13626,8 @@
                     }
                 },
                 "instructors": {
-                    "8883741": {
-                        "instructorId": "8883741",
+                    "8892245": {
+                        "instructorId": "8892245",
                         "firstName": "D",
                         "lastName": "Richards"
                     }
@@ -13631,7 +13642,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "130",
                 "actualEnrolment": "130",
-                "actualWaitlist": "30",
+                "actualWaitlist": "29",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -13723,8 +13734,8 @@
                     }
                 },
                 "instructors": {
-                    "8881972": {
-                        "instructorId": "8881972",
+                    "8890440": {
+                        "instructorId": "8890440",
                         "firstName": "G",
                         "lastName": "Maal-Bared"
                     }
@@ -13885,8 +13896,8 @@
                     }
                 },
                 "instructors": {
-                    "8881973": {
-                        "instructorId": "8881973",
+                    "8890441": {
+                        "instructorId": "8890441",
                         "firstName": "M",
                         "lastName": "Locke"
                     }
@@ -13901,7 +13912,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "75",
                 "actualEnrolment": "75",
-                "actualWaitlist": "14",
+                "actualWaitlist": "8",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -14047,13 +14058,13 @@
                     }
                 },
                 "instructors": {
-                    "8881974": {
-                        "instructorId": "8881974",
+                    "8890442": {
+                        "instructorId": "8890442",
                         "firstName": "M",
                         "lastName": "Manolson"
                     },
-                    "8881975": {
-                        "instructorId": "8881975",
+                    "8890443": {
+                        "instructorId": "8890443",
                         "firstName": "E",
                         "lastName": "Somogyi-Ganss"
                     }
@@ -14068,7 +14079,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "26",
+                "actualWaitlist": "21",
                 "enrollmentIndicator": "R1*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -14187,8 +14198,8 @@
                     }
                 },
                 "instructors": {
-                    "8881976": {
-                        "instructorId": "8881976",
+                    "8890444": {
+                        "instructorId": "8890444",
                         "firstName": "F",
                         "lastName": "Taverna"
                     }
@@ -14268,8 +14279,8 @@
                     }
                 },
                 "instructors": {
-                    "8881977": {
-                        "instructorId": "8881977",
+                    "8890445": {
+                        "instructorId": "8890445",
                         "firstName": "N",
                         "lastName": "Levy-Strumpf"
                     }
@@ -14349,13 +14360,13 @@
                     }
                 },
                 "instructors": {
-                    "8881978": {
-                        "instructorId": "8881978",
+                    "8890446": {
+                        "instructorId": "8890446",
                         "firstName": "C",
                         "lastName": "Dockstader"
                     },
-                    "8881979": {
-                        "instructorId": "8881979",
+                    "8890447": {
+                        "instructorId": "8890447",
                         "firstName": "F",
                         "lastName": "Taverna"
                     }
@@ -14462,13 +14473,13 @@
                     }
                 },
                 "instructors": {
-                    "8881980": {
-                        "instructorId": "8881980",
+                    "8890448": {
+                        "instructorId": "8890448",
                         "firstName": "C",
                         "lastName": "Dockstader"
                     },
-                    "8881981": {
-                        "instructorId": "8881981",
+                    "8890449": {
+                        "instructorId": "8890449",
                         "firstName": "F",
                         "lastName": "Taverna"
                     }
