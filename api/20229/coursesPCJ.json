@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "8890804": {
-                        "instructorId": "8890804",
+                    "8907966": {
+                        "instructorId": "8907966",
                         "firstName": "P",
                         "lastName": "Salardi"
                     }
@@ -348,8 +348,8 @@
                     }
                 },
                 "instructors": {
-                    "8890805": {
-                        "instructorId": "8890805",
+                    "8907967": {
+                        "instructorId": "8907967",
                         "firstName": "P",
                         "lastName": "Salardi"
                     }
@@ -606,6 +606,33 @@
                         "adminOrgName": null
                     }
                 ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-346741": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "346741",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LA 341"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220928",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "August 22, 2022: section added",
+                "enrollmentControls": []
             }
         }
     },

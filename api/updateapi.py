@@ -20,7 +20,7 @@ def update_last_updated() -> None:
         f.write(json_str)
 
 
-VSC_COMMAND_FULL = "ng deploy --base-href=/Uoft-Timetable-Prototype/"
+VSC_COMMAND_FULL = "ng deploy --base-href=/UofT-Timetable-Prototype/"
 
 
 def deploy() -> None:
