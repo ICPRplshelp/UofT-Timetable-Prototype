@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "8911392": {
-                        "instructorId": "8911392",
+                    "8937689": {
+                        "instructorId": "8937689",
                         "firstName": "A",
                         "lastName": "Bolintineanu"
                     }
@@ -45,7 +45,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "3",
+                "actualWaitlist": "5",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -90,8 +90,8 @@
                     }
                 },
                 "instructors": {
-                    "8911393": {
-                        "instructorId": "8911393",
+                    "8937690": {
+                        "instructorId": "8937690",
                         "firstName": "C",
                         "lastName": "Henderson"
                     }
@@ -106,7 +106,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "2",
+                "actualWaitlist": "5",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "August 9, 2022: Section Added.",
                 "enrollmentControls": [
@@ -235,7 +235,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "29",
+                "actualEnrolment": "30",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "August 9. 2022: Section Added.",
@@ -301,8 +301,8 @@
                     }
                 },
                 "instructors": {
-                    "8913435": {
-                        "instructorId": "8913435",
+                    "8939758": {
+                        "instructorId": "8939758",
                         "firstName": "P",
                         "lastName": "Bohorquez"
                     }
@@ -316,7 +316,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "25",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -432,18 +432,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-335308": {
+                    "TH-347170": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "335308",
+                        "meetingScheduleId": "347170",
                         "assignedRoom1": null,
                         "assignedRoom2": "UC 175"
                     }
                 },
                 "instructors": {
-                    "8913436": {
-                        "instructorId": "8913436",
+                    "8939759": {
+                        "instructorId": "8939759",
                         "firstName": "A",
                         "lastName": "Bolintineanu"
                     }
@@ -451,16 +451,71 @@
                 "meetingId": "220251",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "",
+                "subtitle": "Book, Map, Videogame",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "21",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "458",
+                        "postCode": "ASMIN1337",
+                        "postName": "MI DIGITAL HUM",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-347258": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "347258",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WW 119"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220956",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "Decolonial Digital Humanities ",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "August 26, 2022: Section added",
                 "enrollmentControls": [
                     {
                         "postId": "458",

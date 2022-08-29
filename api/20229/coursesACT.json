@@ -39,7 +39,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "24",
+                "actualWaitlist": "23",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -139,7 +139,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "73",
-                "actualEnrolment": "12",
+                "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -213,7 +213,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "160",
-                "actualEnrolment": "126",
+                "actualEnrolment": "127",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -240,7 +240,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "54",
-                "actualEnrolment": "54",
+                "actualEnrolment": "53",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -294,7 +294,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "53",
-                "actualEnrolment": "10",
+                "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -349,7 +349,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "160",
-                "actualEnrolment": "123",
+                "actualEnrolment": "125",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -396,7 +396,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "160",
-                "actualEnrolment": "103",
+                "actualEnrolment": "104",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -423,7 +423,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "54",
-                "actualEnrolment": "54",
+                "actualEnrolment": "53",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -450,7 +450,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "53",
-                "actualEnrolment": "26",
+                "actualEnrolment": "28",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -579,7 +579,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "46",
+                "actualEnrolment": "47",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -626,7 +626,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "31",
+                "actualEnrolment": "32",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "June 14, 2022: Day/Time change.",
@@ -654,11 +654,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-318026": {
+                    "MO-347092": {
                         "meetingDay": "MO",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "318026",
+                        "meetingScheduleId": "347092",
                         "assignedRoom1": null,
                         "assignedRoom2": "SS 2118"
                     }
@@ -672,20 +672,20 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "115",
+                "enrollmentCapacity": "120",
                 "actualEnrolment": "70",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "LEC-2001": {
                 "schedule": {
-                    "MO-318089": {
+                    "MO-347093": {
                         "meetingDay": "MO",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "318089",
+                        "meetingScheduleId": "347093",
                         "assignedRoom1": null,
                         "assignedRoom2": "SS 2118"
                     }
@@ -699,11 +699,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "30",
+                "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "0",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -998,7 +998,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "3",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -1129,19 +1129,19 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-318080": {
+                    "TU-347164": {
                         "meetingDay": "TU",
                         "meetingStartTime": "11:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "318080",
+                        "meetingScheduleId": "347164",
                         "assignedRoom1": "MS 4279",
                         "assignedRoom2": null
                     },
-                    "TH-318081": {
+                    "TH-347165": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "318081",
+                        "meetingScheduleId": "347165",
                         "assignedRoom1": "MS 4279",
                         "assignedRoom2": null
                     }
@@ -1155,11 +1155,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "80",
-                "actualEnrolment": "79",
+                "enrollmentCapacity": "87",
+                "actualEnrolment": "80",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -1184,19 +1184,19 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-318073": {
+                    "WE-347124": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "318073",
+                        "meetingScheduleId": "347124",
                         "assignedRoom1": null,
                         "assignedRoom2": "MS 4171"
                     },
-                    "FR-318074": {
+                    "FR-347125": {
                         "meetingDay": "FR",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "11:00",
-                        "meetingScheduleId": "318074",
+                        "meetingScheduleId": "347125",
                         "assignedRoom1": null,
                         "assignedRoom2": "MS 4171"
                     }
@@ -1210,11 +1210,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "70",
-                "actualEnrolment": "70",
-                "actualWaitlist": "17",
+                "enrollmentCapacity": "87",
+                "actualEnrolment": "87",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -1294,11 +1294,11 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-318082": {
+                    "TU-347094": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "318082",
+                        "meetingScheduleId": "347094",
                         "assignedRoom1": "MS 2173",
                         "assignedRoom2": null
                     }
@@ -1312,20 +1312,20 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "45",
-                "actualEnrolment": "7",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "8",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "LEC-2001": {
                 "schedule": {
-                    "TU-318084": {
+                    "TU-347095": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "318084",
+                        "meetingScheduleId": "347095",
                         "assignedRoom1": "MS 2173",
                         "assignedRoom2": null
                     }
@@ -1339,11 +1339,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "25",
+                "enrollmentCapacity": "15",
                 "actualEnrolment": "15",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -1564,7 +1564,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "14",
+                "actualEnrolment": "15",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1591,7 +1591,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "10",
+                "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1638,8 +1638,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "25",
-                "actualWaitlist": "3",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
