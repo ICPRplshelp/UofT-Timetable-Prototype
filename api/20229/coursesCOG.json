@@ -12,25 +12,25 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Thought, Belief and Behaviour (2)",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-341879": {
+                    "MO-347734": {
                         "meetingDay": "MO",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "341879",
+                        "meetingScheduleId": "347734",
                         "assignedRoom1": "BR 200",
                         "assignedRoom2": "BR 200"
                     }
                 },
                 "instructors": {
-                    "8981953": {
-                        "instructorId": "8981953",
+                    "8990650": {
+                        "instructorId": "8990650",
                         "firstName": "J",
                         "lastName": "Vervaeke"
                     }
@@ -43,9 +43,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "200",
-                "actualEnrolment": "200",
-                "actualWaitlist": "135",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "250",
+                "actualWaitlist": "82",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -558,7 +558,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "22",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -585,7 +585,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "20",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -612,7 +612,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "19",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -666,7 +666,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "15",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -697,6 +697,60 @@
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0402": {
+                "schedule": {
+                    "FR-347735": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "347735",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220977",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 8, 2022: Section Added. ",
+                "enrollmentControls": []
+            },
+            "TUT-0403": {
+                "schedule": {
+                    "FR-347736": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "347736",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "220978",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0403",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 8, 2022: Section Added. ",
                 "enrollmentControls": []
             }
         }
@@ -731,8 +785,8 @@
                     }
                 },
                 "instructors": {
-                    "8981954": {
-                        "instructorId": "8981954",
+                    "8990651": {
+                        "instructorId": "8990651",
                         "firstName": "Y",
                         "lastName": "Xu"
                     }
@@ -747,7 +801,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "30",
+                "actualWaitlist": "29",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -1021,8 +1075,8 @@
                     }
                 },
                 "instructors": {
-                    "8981955": {
-                        "instructorId": "8981955",
+                    "8990652": {
+                        "instructorId": "8990652",
                         "firstName": "S",
                         "lastName": "Aronowitz"
                     }
@@ -1036,7 +1090,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "65",
-                "actualEnrolment": "35",
+                "actualEnrolment": "33",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -1264,8 +1318,8 @@
                     }
                 },
                 "instructors": {
-                    "8981956": {
-                        "instructorId": "8981956",
+                    "8990653": {
+                        "instructorId": "8990653",
                         "firstName": "M",
                         "lastName": "Grigoroglou"
                     }
@@ -1279,7 +1333,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "6",
+                "actualEnrolment": "7",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -1506,13 +1560,7 @@
                         "assignedRoom2": "UC 261"
                     }
                 },
-                "instructors": {
-                    "8984247": {
-                        "instructorId": "8984247",
-                        "firstName": "K",
-                        "lastName": "Vold"
-                    }
-                },
+                "instructors": [],
                 "meetingId": "211161",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -1813,7 +1861,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "33",
+                "actualEnrolment": "34",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -2041,8 +2089,8 @@
                     }
                 },
                 "instructors": {
-                    "8981957": {
-                        "instructorId": "8981957",
+                    "8990654": {
+                        "instructorId": "8990654",
                         "firstName": "A",
                         "lastName": "Djedovic"
                     }
@@ -2284,8 +2332,8 @@
                     }
                 },
                 "instructors": {
-                    "8984248": {
-                        "instructorId": "8984248",
+                    "8992952": {
+                        "instructorId": "8992952",
                         "firstName": "Y",
                         "lastName": "Xu"
                     }
@@ -2527,8 +2575,8 @@
                     }
                 },
                 "instructors": {
-                    "8981958": {
-                        "instructorId": "8981958",
+                    "8990655": {
+                        "instructorId": "8990655",
                         "firstName": "M",
                         "lastName": "Grigoroglou"
                     }
