@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "9005148": {
-                        "instructorId": "9005148",
+                    "9077068": {
+                        "instructorId": "9077068",
                         "firstName": "A",
                         "lastName": "Cohen"
                     }
@@ -45,8 +45,8 @@
                 "online": "Online Asynchronous",
                 "contactHours": "2.0",
                 "enrollmentCapacity": "240",
-                "actualEnrolment": "240",
-                "actualWaitlist": "80",
+                "actualEnrolment": "237",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -207,8 +207,8 @@
                 "waitlist": "N",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
-                "enrollmentCapacity": "24",
-                "actualEnrolment": "24",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -234,7 +234,7 @@
                 "waitlist": "N",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
-                "enrollmentCapacity": "24",
+                "enrollmentCapacity": "25",
                 "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
@@ -316,7 +316,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "24",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -370,7 +370,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "24",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -397,7 +397,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "24",
+                "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -405,11 +405,11 @@
             },
             "TUT-5101": {
                 "schedule": {
-                    "TU-330158": {
+                    "TU-348261": {
                         "meetingDay": "TU",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
-                        "meetingScheduleId": "330158",
+                        "meetingScheduleId": "348261",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -423,20 +423,20 @@
                 "waitlist": "N",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
-                "enrollmentCapacity": "24",
-                "actualEnrolment": "24",
+                "enrollmentCapacity": "26",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-5201": {
                 "schedule": {
-                    "TU-330166": {
+                    "TU-348256": {
                         "meetingDay": "TU",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "19:00",
-                        "meetingScheduleId": "330166",
+                        "meetingScheduleId": "348256",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -450,11 +450,11 @@
                 "waitlist": "N",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
-                "enrollmentCapacity": "24",
-                "actualEnrolment": "24",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -479,18 +479,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-335664": {
+                    "TH-348103": {
                         "meetingDay": "TH",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "335664",
+                        "meetingScheduleId": "348103",
                         "assignedRoom1": null,
                         "assignedRoom2": "MB 128"
                     }
                 },
                 "instructors": {
-                    "9007271": {
-                        "instructorId": "9007271",
+                    "9079396": {
+                        "instructorId": "9079396",
                         "firstName": "J",
                         "lastName": "Clarke"
                     }
@@ -498,16 +498,16 @@
                 "meetingId": "212601",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "",
+                "subtitle": "Images and Institutions",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "220",
                 "actualEnrolment": "220",
-                "actualWaitlist": "99",
+                "actualWaitlist": "34",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -648,11 +648,11 @@
             },
             "LEC-0201": {
                 "schedule": {
-                    "MO-347916": {
+                    "MO-348104": {
                         "meetingDay": "MO",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "347916",
+                        "meetingScheduleId": "348104",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
@@ -661,17 +661,153 @@
                 "meetingId": "220983",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0201",
-                "subtitle": "The City Seen",
+                "subtitle": "Images and Institutions",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
-                "enrollmentIndicator": null,
+                "actualEnrolment": "100",
+                "actualWaitlist": "13",
+                "enrollmentIndicator": "P",
                 "meetingStatusNotes": "September 13, 2022: Section added",
-                "enrollmentControls": []
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "564",
+                        "postCode": "AS   HBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "566",
+                        "postCode": "ASCRSHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "568",
+                        "postCode": "ASPRGHBA T",
+                        "postName": "Arts Transfer Degree Program",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
             },
             "TUT-0101": {
                 "schedule": {
@@ -775,7 +911,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "19",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -802,7 +938,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "22",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -829,7 +965,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "22",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -856,7 +992,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "18",
+                "actualEnrolment": "20",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -910,7 +1046,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "0",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "September 13, 2022: Section added",
@@ -937,7 +1073,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "0",
+                "actualEnrolment": "20",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "September 13, 2022: Section added",
@@ -964,7 +1100,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "0",
+                "actualEnrolment": "14",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "September 13, 2022: Section added",
@@ -991,7 +1127,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "0",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "September 13, 2022: Section added",
@@ -1045,7 +1181,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "22",
-                "actualEnrolment": "16",
+                "actualEnrolment": "15",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1072,7 +1208,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "0",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "September 13, 2022: Section added",
@@ -1110,8 +1246,8 @@
                     }
                 },
                 "instructors": {
-                    "9005149": {
-                        "instructorId": "9005149",
+                    "9077069": {
+                        "instructorId": "9077069",
                         "firstName": "M",
                         "lastName": "Cheetham"
                     }
@@ -1126,7 +1262,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "5",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -1191,8 +1327,8 @@
                     }
                 },
                 "instructors": {
-                    "9005150": {
-                        "instructorId": "9005150",
+                    "9077070": {
+                        "instructorId": "9077070",
                         "firstName": "J",
                         "lastName": "Purtle"
                     }
@@ -1207,7 +1343,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "4",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -1272,8 +1408,8 @@
                     }
                 },
                 "instructors": {
-                    "9007272": {
-                        "instructorId": "9007272",
+                    "9079397": {
+                        "instructorId": "9079397",
                         "firstName": "C",
                         "lastName": "Katsougiannopoulou"
                     }
@@ -1288,7 +1424,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "19",
+                "actualWaitlist": "15",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -1353,8 +1489,8 @@
                     }
                 },
                 "instructors": {
-                    "9005151": {
-                        "instructorId": "9005151",
+                    "9077071": {
+                        "instructorId": "9077071",
                         "firstName": "E",
                         "lastName": "Legge"
                     }
@@ -1369,7 +1505,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "13",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R2",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -1463,8 +1599,8 @@
                     }
                 },
                 "instructors": {
-                    "9005152": {
-                        "instructorId": "9005152",
+                    "9077072": {
+                        "instructorId": "9077072",
                         "firstName": "J",
                         "lastName": "Mace"
                     }
@@ -1479,7 +1615,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "13",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -1544,8 +1680,8 @@
                     }
                 },
                 "instructors": {
-                    "9007273": {
-                        "instructorId": "9007273",
+                    "9079398": {
+                        "instructorId": "9079398",
                         "firstName": "T",
                         "lastName": "Sager"
                     }
@@ -1560,7 +1696,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "150",
                 "actualEnrolment": "150",
-                "actualWaitlist": "33",
+                "actualWaitlist": "26",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -1597,8 +1733,8 @@
                     }
                 },
                 "instructors": {
-                    "9005153": {
-                        "instructorId": "9005153",
+                    "9077073": {
+                        "instructorId": "9077073",
                         "firstName": "J",
                         "lastName": "Husband"
                     }
@@ -1612,8 +1748,8 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "180",
-                "actualEnrolment": "179",
-                "actualWaitlist": "48",
+                "actualEnrolment": "174",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -1659,7 +1795,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "65",
+                "actualEnrolment": "77",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "August 8, 2022: course added. ",
@@ -1697,8 +1833,8 @@
                     }
                 },
                 "instructors": {
-                    "9007274": {
-                        "instructorId": "9007274",
+                    "9079399": {
+                        "instructorId": "9079399",
                         "firstName": "J",
                         "lastName": "Bear"
                     }
@@ -1713,7 +1849,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "150",
                 "actualEnrolment": "150",
-                "actualWaitlist": "2",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -1750,8 +1886,8 @@
                     }
                 },
                 "instructors": {
-                    "9005154": {
-                        "instructorId": "9005154",
+                    "9077074": {
+                        "instructorId": "9077074",
                         "firstName": "J",
                         "lastName": "Mace"
                     }
@@ -1765,7 +1901,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "67",
+                "actualEnrolment": "80",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -1803,8 +1939,8 @@
                     }
                 },
                 "instructors": {
-                    "9005155": {
-                        "instructorId": "9005155",
+                    "9077075": {
+                        "instructorId": "9077075",
                         "firstName": "J",
                         "lastName": "Bear"
                     }
@@ -1818,7 +1954,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "180",
-                "actualEnrolment": "179",
+                "actualEnrolment": "172",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1856,8 +1992,8 @@
                     }
                 },
                 "instructors": {
-                    "9007275": {
-                        "instructorId": "9007275",
+                    "9079400": {
+                        "instructorId": "9079400",
                         "firstName": "M",
                         "lastName": "Migwans"
                     }
@@ -1871,7 +2007,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "42",
+                "actualEnrolment": "45",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1909,8 +2045,8 @@
                     }
                 },
                 "instructors": {
-                    "9007276": {
-                        "instructorId": "9007276",
+                    "9079401": {
+                        "instructorId": "9079401",
                         "firstName": "G",
                         "lastName": "Wang"
                     }
@@ -1924,7 +2060,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "180",
-                "actualEnrolment": "168",
+                "actualEnrolment": "172",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -1962,8 +2098,8 @@
                     }
                 },
                 "instructors": {
-                    "9005156": {
-                        "instructorId": "9005156",
+                    "9077076": {
+                        "instructorId": "9077076",
                         "firstName": "H",
                         "lastName": "Mostafa"
                     }
@@ -1977,7 +2113,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "97",
+                "actualEnrolment": "95",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2015,8 +2151,8 @@
                     }
                 },
                 "instructors": {
-                    "9007277": {
-                        "instructorId": "9007277",
+                    "9079402": {
+                        "instructorId": "9079402",
                         "firstName": "P",
                         "lastName": "Sapirstein"
                     }
@@ -2030,7 +2166,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "180",
-                "actualEnrolment": "127",
+                "actualEnrolment": "126",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2068,8 +2204,8 @@
                     }
                 },
                 "instructors": {
-                    "9005157": {
-                        "instructorId": "9005157",
+                    "9077077": {
+                        "instructorId": "9077077",
                         "firstName": "J",
                         "lastName": "Clarke"
                     }
@@ -2083,7 +2219,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "150",
-                "actualEnrolment": "109",
+                "actualEnrolment": "123",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2121,8 +2257,8 @@
                     }
                 },
                 "instructors": {
-                    "9005158": {
-                        "instructorId": "9005158",
+                    "9077078": {
+                        "instructorId": "9077078",
                         "firstName": "M",
                         "lastName": "Harakawa"
                     }
@@ -2136,7 +2272,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "56",
+                "actualEnrolment": "57",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2174,8 +2310,8 @@
                     }
                 },
                 "instructors": {
-                    "9005159": {
-                        "instructorId": "9005159",
+                    "9077079": {
+                        "instructorId": "9077079",
                         "firstName": "B",
                         "lastName": "Ewald"
                     }
@@ -2189,8 +2325,8 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "120",
-                "actualWaitlist": "4",
+                "actualEnrolment": "119",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -2259,8 +2395,8 @@
                     }
                 },
                 "instructors": {
-                    "9007278": {
-                        "instructorId": "9007278",
+                    "9079403": {
+                        "instructorId": "9079403",
                         "firstName": "P",
                         "lastName": "Johal"
                     }
@@ -2274,7 +2410,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "50",
+                "actualEnrolment": "49",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -2312,8 +2448,8 @@
                     }
                 },
                 "instructors": {
-                    "9007279": {
-                        "instructorId": "9007279",
+                    "9079404": {
+                        "instructorId": "9079404",
                         "firstName": "B",
                         "lastName": "Ewald"
                     }
@@ -2328,7 +2464,7 @@
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "120",
                 "actualEnrolment": "120",
-                "actualWaitlist": "29",
+                "actualWaitlist": "5",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -2412,8 +2548,8 @@
                     }
                 },
                 "instructors": {
-                    "9007280": {
-                        "instructorId": "9007280",
+                    "9079405": {
+                        "instructorId": "9079405",
                         "firstName": "H",
                         "lastName": "Mostafa"
                     }
@@ -2427,7 +2563,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "55",
+                "actualEnrolment": "56",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2465,8 +2601,8 @@
                     }
                 },
                 "instructors": {
-                    "9005160": {
-                        "instructorId": "9005160",
+                    "9077080": {
+                        "instructorId": "9077080",
                         "firstName": "C",
                         "lastName": "Kralik"
                     }
@@ -2480,7 +2616,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "58",
+                "actualEnrolment": "53",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2518,8 +2654,8 @@
                     }
                 },
                 "instructors": {
-                    "9005161": {
-                        "instructorId": "9005161",
+                    "9077081": {
+                        "instructorId": "9077081",
                         "firstName": "E",
                         "lastName": "Kavaler"
                     }
@@ -2533,7 +2669,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "33",
+                "actualEnrolment": "32",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2571,8 +2707,8 @@
                     }
                 },
                 "instructors": {
-                    "9007281": {
-                        "instructorId": "9007281",
+                    "9079406": {
+                        "instructorId": "9079406",
                         "firstName": "C",
                         "lastName": "Murray"
                     }
@@ -2586,7 +2722,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "65",
+                "actualEnrolment": "62",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -2624,8 +2760,8 @@
                     }
                 },
                 "instructors": {
-                    "9007282": {
-                        "instructorId": "9007282",
+                    "9079407": {
+                        "instructorId": "9079407",
                         "firstName": "C",
                         "lastName": "Murray"
                     }
@@ -2639,7 +2775,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "60",
+                "actualEnrolment": "57",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2677,8 +2813,8 @@
                     }
                 },
                 "instructors": {
-                    "9007283": {
-                        "instructorId": "9007283",
+                    "9079408": {
+                        "instructorId": "9079408",
                         "firstName": "E",
                         "lastName": "Legge"
                     }
@@ -2692,7 +2828,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "63",
+                "actualEnrolment": "60",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2730,8 +2866,8 @@
                     }
                 },
                 "instructors": {
-                    "9005162": {
-                        "instructorId": "9005162",
+                    "9077082": {
+                        "instructorId": "9077082",
                         "firstName": "R",
                         "lastName": "Vogl"
                     }
@@ -2745,7 +2881,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "58",
+                "actualEnrolment": "49",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2783,8 +2919,8 @@
                     }
                 },
                 "instructors": {
-                    "9007284": {
-                        "instructorId": "9007284",
+                    "9079409": {
+                        "instructorId": "9079409",
                         "firstName": "J",
                         "lastName": "Bear"
                     }
@@ -2798,7 +2934,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "35",
+                "actualEnrolment": "37",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -2836,8 +2972,8 @@
                     }
                 },
                 "instructors": {
-                    "9005163": {
-                        "instructorId": "9005163",
+                    "9077083": {
+                        "instructorId": "9077083",
                         "firstName": "C",
                         "lastName": "Chan"
                     }
@@ -2851,7 +2987,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "69",
+                "actualEnrolment": "82",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "June 27, 2022: Course added. ",
@@ -2953,8 +3089,8 @@
                     }
                 },
                 "instructors": {
-                    "9007285": {
-                        "instructorId": "9007285",
+                    "9079410": {
+                        "instructorId": "9079410",
                         "firstName": "B",
                         "lastName": "Ewald"
                     }
@@ -2968,7 +3104,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "18",
-                "actualEnrolment": "18",
+                "actualEnrolment": "13",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -3115,8 +3251,8 @@
                     }
                 },
                 "instructors": {
-                    "9005164": {
-                        "instructorId": "9005164",
+                    "9077084": {
+                        "instructorId": "9077084",
                         "firstName": "H",
                         "lastName": "Mostafa"
                     }
@@ -3130,7 +3266,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "10",
-                "actualEnrolment": "10",
+                "actualEnrolment": "9",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -3418,8 +3554,8 @@
                     }
                 },
                 "instructors": {
-                    "9007286": {
-                        "instructorId": "9007286",
+                    "9079411": {
+                        "instructorId": "9079411",
                         "firstName": "G",
                         "lastName": "Periti"
                     }
@@ -3434,7 +3570,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "18",
                 "actualEnrolment": "18",
-                "actualWaitlist": "10",
+                "actualWaitlist": "4",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -3580,8 +3716,8 @@
                     }
                 },
                 "instructors": {
-                    "9007287": {
-                        "instructorId": "9007287",
+                    "9079412": {
+                        "instructorId": "9079412",
                         "firstName": "P",
                         "lastName": "Sohm"
                     }
@@ -3596,7 +3732,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "18",
                 "actualEnrolment": "18",
-                "actualWaitlist": "8",
+                "actualWaitlist": "7",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -3742,8 +3878,8 @@
                     }
                 },
                 "instructors": {
-                    "9007288": {
-                        "instructorId": "9007288",
+                    "9079413": {
+                        "instructorId": "9079413",
                         "firstName": "K",
                         "lastName": "Tsoumis"
                     }
@@ -3758,7 +3894,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "12",
                 "actualEnrolment": "12",
-                "actualWaitlist": "7",
+                "actualWaitlist": "5",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -3913,7 +4049,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "10",
-                "actualEnrolment": "6",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -4060,8 +4196,8 @@
                     }
                 },
                 "instructors": {
-                    "9005165": {
-                        "instructorId": "9005165",
+                    "9077085": {
+                        "instructorId": "9077085",
                         "firstName": "M",
                         "lastName": "Migwans"
                     }
@@ -4075,7 +4211,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "15",
-                "actualEnrolment": "13",
+                "actualEnrolment": "14",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -4222,8 +4358,8 @@
                     }
                 },
                 "instructors": {
-                    "9007289": {
-                        "instructorId": "9007289",
+                    "9079414": {
+                        "instructorId": "9079414",
                         "firstName": "J",
                         "lastName": "Purtle"
                     }
@@ -4525,8 +4661,8 @@
                     }
                 },
                 "instructors": {
-                    "9007290": {
-                        "instructorId": "9007290",
+                    "9079415": {
+                        "instructorId": "9079415",
                         "firstName": "J",
                         "lastName": "Mace"
                     }
@@ -4541,7 +4677,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "10",
                 "actualEnrolment": "10",
-                "actualWaitlist": "2",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -4687,8 +4823,8 @@
                     }
                 },
                 "instructors": {
-                    "9005166": {
-                        "instructorId": "9005166",
+                    "9077086": {
+                        "instructorId": "9077086",
                         "firstName": "J",
                         "lastName": "Mace"
                     }
@@ -4702,7 +4838,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "8",
+                "actualEnrolment": "9",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -4749,7 +4885,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "1",
+                "actualEnrolment": "0",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -4834,8 +4970,8 @@
                     }
                 },
                 "instructors": {
-                    "9007291": {
-                        "instructorId": "9007291",
+                    "9079416": {
+                        "instructorId": "9079416",
                         "firstName": "H",
                         "lastName": "Coxon"
                     }
@@ -4850,7 +4986,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "15",
                 "actualEnrolment": "15",
-                "actualWaitlist": "16",
+                "actualWaitlist": "13",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -4996,8 +5132,8 @@
                     }
                 },
                 "instructors": {
-                    "9005167": {
-                        "instructorId": "9005167",
+                    "9077087": {
+                        "instructorId": "9077087",
                         "firstName": "R",
                         "lastName": "Fox"
                     }
@@ -5011,8 +5147,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "15",
-                "actualEnrolment": "15",
-                "actualWaitlist": "7",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -5158,8 +5294,8 @@
                     }
                 },
                 "instructors": {
-                    "9007292": {
-                        "instructorId": "9007292",
+                    "9079417": {
+                        "instructorId": "9079417",
                         "firstName": "A",
                         "lastName": "Palmer"
                     }
@@ -5174,7 +5310,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "15",
                 "actualEnrolment": "15",
-                "actualWaitlist": "3",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [

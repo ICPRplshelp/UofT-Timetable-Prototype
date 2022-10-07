@@ -1,0 +1,140 @@
+{
+    "GRK101H1-F-20195": {
+        "courseId": "26430",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Introductory Ancient Greek I (formerly GRK 100Y1)",
+        "code": "GRK101H1",
+        "courseDescription": "An intensive introduction to Ancient Greek for students who have no knowledge of the language; preparation for the reading of Ancient Greek literature.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "GRK100Y1 Students who have studied Ancient Greek previously must obtain permission from the Undergraduate Coordinator before enrolling.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20195",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-140838": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "140838",
+                        "assignedRoom1": "LI 220",
+                        "assignedRoom2": null
+                    },
+                    "WE-140839": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "140839",
+                        "assignedRoom1": "LI 220",
+                        "assignedRoom2": null
+                    },
+                    "FR-140840": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "140840",
+                        "assignedRoom1": "LI 220",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097701": {
+                        "instructorId": "4097701",
+                        "firstName": "R",
+                        "lastName": "Mazzara"
+                    }
+                },
+                "meetingId": "93338",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "GRK102H1-S-20195": {
+        "courseId": "26431",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Introductory Ancient Greek II",
+        "code": "GRK102H1",
+        "courseDescription": "A continuation of the intensive introduction to Ancient Greek in GRK 101H1. Also appropriate for students who have some training in Ancient Greek, but have not completed a whole credit course at University or a final-year (Grade 12) course in secondary school.",
+        "prerequisite": "GRK101H1/some background in Ancient Greek",
+        "corequisite": "",
+        "exclusion": "GRK100Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20195",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-140835": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "140835",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 220"
+                    },
+                    "WE-140836": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "140836",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 220"
+                    },
+                    "FR-140837": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "140837",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 220"
+                    }
+                },
+                "instructors": {
+                    "4097702": {
+                        "instructorId": "4097702",
+                        "firstName": "E",
+                        "lastName": "Leonard"
+                    }
+                },
+                "meetingId": "93339",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

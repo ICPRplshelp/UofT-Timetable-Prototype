@@ -38,7 +38,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "110",
-                "actualEnrolment": "72",
+                "actualEnrolment": "75",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -175,18 +175,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-346665": {
+                    "TH-348128": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "346665",
-                        "assignedRoom1": "VC 206",
+                        "meetingScheduleId": "348128",
+                        "assignedRoom1": "EM 119",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "9005543": {
-                        "instructorId": "9005543",
+                    "9077610": {
+                        "instructorId": "9077610",
                         "firstName": "M",
                         "lastName": "Brook"
                     }
@@ -199,11 +199,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "45",
-                "actualEnrolment": "45",
-                "actualWaitlist": "16",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "August 18, 2022: Room changed.",
+                "meetingStatusNotes": "September 16, 2022: Room changed.",
                 "enrollmentControls": []
             }
         }
@@ -246,8 +246,8 @@
                     }
                 },
                 "instructors": {
-                    "9005544": {
-                        "instructorId": "9005544",
+                    "9077611": {
+                        "instructorId": "9077611",
                         "firstName": "P",
                         "lastName": "Mateo Pedro"
                     }

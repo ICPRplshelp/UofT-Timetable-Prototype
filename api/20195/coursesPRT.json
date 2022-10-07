@@ -1,0 +1,95 @@
+{
+    "PRT100Y1-Y-20195": {
+        "courseId": "28202",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Portuguese for Beginners",
+        "code": "PRT100Y1",
+        "courseDescription": "Introduction to the Portuguese language for beginning students. Overview of basic gramatical structures, development of vocabulary and oral and written expression.",
+        "prerequisite": "No previous knowledge of Portuguese.",
+        "corequisite": "",
+        "exclusion": "PRT110Y1, PRT120Y1, PRT219Y1, PRT220Y1, PRT320Y1, PRT420H1, PRT420Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20195",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "93472",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "March 25, 2019",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PRT250H1-F-20195": {
+        "courseId": "28208",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT) (LAS)",
+        "courseTitle": "Introduction to Lusophone Culture",
+        "code": "PRT250H1",
+        "courseDescription": "A survey of historical and cultural trends in the Portuguese-speaking world, from colonial past to the present. (Offered in alternate years; taught in English)",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PRT252",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20195",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-171574": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "171574",
+                        "assignedRoom1": "NF 235",
+                        "assignedRoom2": null
+                    },
+                    "WE-171575": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "171575",
+                        "assignedRoom1": "NF 235",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097923": {
+                        "instructorId": "4097923",
+                        "firstName": "L",
+                        "lastName": "de Almeida Graca"
+                    }
+                },
+                "meetingId": "93476",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Change: May 1, 2019",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

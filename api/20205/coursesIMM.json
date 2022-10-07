@@ -1,0 +1,88 @@
+{
+    "IMM340H1-F-20205": {
+        "courseId": "37325",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "Fundamental Immunology",
+        "code": "IMM340H1",
+        "courseDescription": "This course introduces the basic principles and key players of the immune system: differences and interplay between innate and adaptive immunity, how immune cells develop and function, how immune cells recognize threats and danger and mount an appropriate and measured response. This course is offered in the Fall term with in-class lectures and tutorials, as well as in the Summer term with hybrid delivery (online lectures and in-class tutorials).",
+        "prerequisite": "BIO230H1",
+        "corequisite": "",
+        "exclusion": "IMM334Y1/IMM335Y1/IMM341H1",
+        "recommendedPreparation": "IMM250H1",
+        "section": "F",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online hybrid course. Lectures are pre-recorded and posted every Tuesday at 9am. Tutorials are synchronous and are scheduled on Mondays at 3-4pm.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643414": {
+                        "instructorId": "5643414",
+                        "firstName": "L",
+                        "lastName": "Clemenza"
+                    }
+                },
+                "meetingId": "133978",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "145",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Online - Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-223316": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "223316",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643413": {
+                        "instructorId": "5643413",
+                        "firstName": "L",
+                        "lastName": "Clemenza"
+                    }
+                },
+                "meetingId": "133977",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "112",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Tutorial Day/Time Changed: May 8, 2020.",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

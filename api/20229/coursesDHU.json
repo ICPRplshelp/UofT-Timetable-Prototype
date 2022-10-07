@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "9004807": {
-                        "instructorId": "9004807",
+                    "9076725": {
+                        "instructorId": "9076725",
                         "firstName": "A",
                         "lastName": "Bolintineanu"
                     }
@@ -45,7 +45,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "9",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -90,8 +90,8 @@
                     }
                 },
                 "instructors": {
-                    "9004808": {
-                        "instructorId": "9004808",
+                    "9076726": {
+                        "instructorId": "9076726",
                         "firstName": "C",
                         "lastName": "Henderson"
                     }
@@ -105,8 +105,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "40",
-                "actualWaitlist": "7",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "August 9, 2022: Section Added.",
                 "enrollmentControls": [
@@ -181,7 +181,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "40",
                 "actualEnrolment": "40",
-                "actualWaitlist": "3",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -235,7 +235,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "33",
+                "actualEnrolment": "34",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "August 9. 2022: Section Added.",
@@ -291,18 +291,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-335075": {
+                    "TU-348027": {
                         "meetingDay": "TU",
-                        "meetingStartTime": "10:00",
+                        "meetingStartTime": "09:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "335075",
+                        "meetingScheduleId": "348027",
                         "assignedRoom1": null,
-                        "assignedRoom2": "SS 561"
+                        "assignedRoom2": "CR 325"
                     }
                 },
                 "instructors": {
-                    "9007083": {
-                        "instructorId": "9007083",
+                    "9079207": {
+                        "instructorId": "9079207",
                         "firstName": "P",
                         "lastName": "Bohorquez"
                     }
@@ -316,10 +316,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "24",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "September 14, 2022: Meeting Time & Room Changed.",
                 "enrollmentControls": [
                     {
                         "postId": "458",
@@ -442,8 +442,8 @@
                     }
                 },
                 "instructors": {
-                    "9007084": {
-                        "instructorId": "9007084",
+                    "9079208": {
+                        "instructorId": "9079208",
                         "firstName": "A",
                         "lastName": "Bolintineanu"
                     }
@@ -548,6 +548,53 @@
             }
         }
     },
+    "DHU437H1-F-20229": {
+        "courseId": "61925",
+        "org": "WDW",
+        "orgName": "Woodsworth College (WDW) (ABP) (DHU)",
+        "courseTitle": "Research Projects in Digital Humanities",
+        "code": "DHU437H1",
+        "courseDescription": "<p>This course is for students who wish to pursue a significant research project, usually participation in a faculty-led DH research project, though it may take other forms. Students must be enrolled in the DH Minor program or obtain special permission of the program coordinator.</p>",
+        "prerequisite": "DHU235H1 and DHU236H1, and 1.0 additional credit in the Digital Humanities Minor program.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20229",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "221001",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "September 27, 2022: Course added.",
+                "enrollmentControls": []
+            }
+        }
+    },
     "DHU437H1-S-20229": {
         "courseId": "61925",
         "org": "WDW",
@@ -587,7 +634,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "10",
+                "actualEnrolment": "9",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": "",

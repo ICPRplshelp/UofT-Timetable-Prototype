@@ -9,7 +9,7 @@ import requests
 import json
 
 SESSION = "20229"
-UT = f"https://timetable.iit.artsci.utoronto.ca/api/{SESSION}/courses?org=&code="
+UT = f"https://timetable.iit.artsci.utoronto.ca/api/<THISISSESSION>/courses?org=&code="
 
 
 def update_last_updated() -> None:
@@ -29,7 +29,7 @@ def deploy() -> None:
     os.system(VSC_COMMAND_FULL)
 
 
-if __name__ == '__main__':
+def main(fn: str) -> None:
     update_last_updated()
     # DO NOT CHANGE THIS
     all_des = ['ABP', 'ACT', 'AFR', 'AMS', 'ANA', 'ANT', 'APM', 'ARH', 'AST', 'BCB', 'BCH', 'BIO', 'BMS', 'BPM', 'CAR', 'CAS', 'CDN', 'CHC', 'CHM', 'CIN', 'CJH', 'CJS', 'CLA', 'CLT', 'COG', 'CRE', 'CRI', 'CSB', 'CSC', 'CSE', 'CTA', 'DHU', 'DRM', 'DTS', 'EAS', 'ECO', 'EDS', 'EEB', 'ENG', 'ENT', 'ENV', 'ESS', 'EST', 'ETH', 'EUR', 'FAH', 'FCS', 'FIN', 'FOR', 'FRE', 'FSL', 'GER', 'GGR', 'GRK', 'HIS', 'HMB', 'HPS', 'HST', 'HUN', 'IFP', 'IMM', 'INI', 'INS', 'IRE', 'IRW', 'ITA', 'JAL', 'JCA', 'JCI', 'JCR', 'JEG', 'JEH', 'JFG', 'JFP', 'JGA', 'JGE', 'JGJ', 'JGU', 'JHA', 'JHM', 'JIG', 'JLN', 'JLP', 'JLS', 'JNH', 'JNR', 'JNS', 'JPA', 'JPE', 'JPH', 'JPI', 'JPM', 'JPR', 'JPS', 'JQR', 'JRC', 'JRN', 'JSC', 'JSH', 'JSU', 'JWE', 'LAS', 'LAT', 'LCT', 'LIN', 'LMP', 'MAT', 'MCS', 'MGR', 'MGT', 'MGY', 'MHB', 'MIJ', 'MST', 'MUN', 'MUS', 'NEW', 'NFS', 'NMC', 'NML', 'PCJ', 'PCL', 'PDC', 'PHC', 'PHL', 'PHS', 'PHY', 'PLN', 'POL', 'PPG', 'PRT', 'PSL', 'PSY', 'REN', 'RLG', 'RSM', 'SAS', 'SDS', 'SLA', 'SMC', 'SOC', 'SPA', 'STA', 'TRN', 'UNI', 'URB', 'VIC', 'WDW', 'WGS', 'WRR']
@@ -37,11 +37,9 @@ if __name__ == '__main__':
 
     master_dictionary = {}
 
-    fn = "20229"
-
     # all_des = ['ABP']
     for des in all_des:
-        ut_link = UT + des
+        ut_link = UT.replace("<THISISSESSION>", fn) + des
         cl = requests.get(ut_link)
         cl_json = cl.json()
         print(f'obtained request for {des}')
@@ -53,4 +51,10 @@ if __name__ == '__main__':
     with open(f'{fn}/coursesMASTER.json', 'w', encoding='UTF-8') as f:
         json.dump(master_dictionary, f, ensure_ascii=False, indent=4)
 
-    deploy()
+
+if __name__ == '__main__':
+    # main("20229")
+    sl = ['20195', '20205', '20215', '20189']
+    for s in sl:
+        main(s)
+    # deploy()

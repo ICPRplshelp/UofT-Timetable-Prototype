@@ -1,0 +1,925 @@
+{
+    "CHM135H1-S-20195": {
+        "courseId": "24884",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JCC) (JSC) (NUS) (PHC)",
+        "courseTitle": "Chemistry: Physical Principles",
+        "code": "CHM135H1",
+        "courseDescription": "CHM135H1 and CHM136H1 may be taken in either order, but not in the same session. Structure of matter, gases, liquids and solids; phase equilibria and phase diagrams; colligative properties; chemical equilibria; electrolyte solutions and electrochemistry; reaction kinetics; introduction to thermodynamics. Recommended for students in life and health science programs that involve a small amount of chemistry. (Lab Materials Fee: $25).",
+        "prerequisite": "Chemistry SCH4U, Mathematics MHF4U + MCV4U",
+        "corequisite": "(MAT135H1, MAT136H1)/MAT137Y1/MAT157Y1 recommended, but may be required prerequisite in 2nd year Chemistry courses; PHY131H1, PHY132H1)/(PHY151H1, PHY152H1) recommended",
+        "exclusion": "CHM139H1, CHM151Y1, CHMA11H3, CHM140Y5, CHM110H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20195",
+        "webTimetableInstructions": "Starting July 2, lab sections (PRA0101 and PRA0201) will be closed on ACORN. Any changes or additions to your lab sections must be made at the Department of Chemistry. Notices and office hours will be posted next to Lash Miller Room 102. Tutorials start the week of July 2 and labs start the week of July 8. For more information, please contact Dr. Susha Chulliparambil (schullip@chem.utoronto.ca).",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-171810": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "171810",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    },
+                    "WE-171811": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "171811",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    },
+                    "TH-171812": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "171812",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    }
+                },
+                "instructors": {
+                    "4097506": {
+                        "instructorId": "4097506",
+                        "firstName": "M",
+                        "lastName": "Staikova"
+                    }
+                },
+                "meetingId": "92491",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "91",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Change: May 9, 2019",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-173055": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "173055",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 102"
+                    }
+                },
+                "instructors": {
+                    "4097507": {
+                        "instructorId": "4097507",
+                        "firstName": "M",
+                        "lastName": "Staikova"
+                    }
+                },
+                "meetingId": "92493",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 2, 2019: Enrollment closed on ACORN, please see Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TH-173056": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "173056",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 102"
+                    }
+                },
+                "instructors": {
+                    "4097508": {
+                        "instructorId": "4097508",
+                        "firstName": "M",
+                        "lastName": "Staikova"
+                    }
+                },
+                "meetingId": "92494",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 2, 2019: Enrollment closed on ACORN, please see Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-158411": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "158411",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Dept."
+                    },
+                    "TH-158412": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "158412",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Dept."
+                    }
+                },
+                "instructors": [],
+                "meetingId": "92492",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "88",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CHM136H1-F-20195": {
+        "courseId": "24885",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JCC) (JSC) (NUS) (PHC)",
+        "courseTitle": "Introductory Organic Chemistry I (Formerly CHM138H1)",
+        "code": "CHM136H1",
+        "courseDescription": "CHM135H1 and CHM136H1 may be taken in either order, but not in the same session. An introduction to principles of structure and their relation to reactivity of organic molecules: molecular structure, stereochemistry, functional groups, and reactions. Recommended for students in life and health science programs that involve a small amount of chemistry. (Lab Materials Fee: $25).",
+        "prerequisite": "Chemistry SCH4U, Mathematics MHF4U + MCV4U",
+        "corequisite": "MAT135H1/MAT137Y1/MAT157Y1 recommended, but may be required prerequisite in 2nd year Chemistry courses;(PHY131H1, PHY132H1)/(PHY151H1, PHY152H1) recommended",
+        "exclusion": "CHM138H1, CHM151Y1, CHM242H5, CHMB41H3",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20195",
+        "webTimetableInstructions": "Starting May 6, lab sections (PRA0101, PRA0201 and PRA0301) will be closed on ACORN. Any changes or additions to your lab sections must be made at the Department of Chemistry. Notices and office hours will be posted next to Lash Miller Room 217. Tutorials start the week of May 6 and labs start the week of May 13. For more information, please contact Dr. Susha Chulliparambil (schullip@chem.utoronto.ca).",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-144384": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "144384",
+                        "assignedRoom1": "PB B150",
+                        "assignedRoom2": null
+                    },
+                    "WE-144385": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "144385",
+                        "assignedRoom1": "PB B150",
+                        "assignedRoom2": null
+                    },
+                    "TH-144386": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "144386",
+                        "assignedRoom1": "PB B150",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097509": {
+                        "instructorId": "4097509",
+                        "firstName": "L",
+                        "lastName": "Perruchoud"
+                    }
+                },
+                "meetingId": "92495",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "256",
+                "actualEnrolment": "196",
+                "actualWaitlist": "4",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-171700": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "171700",
+                        "assignedRoom1": "LM 217",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097510": {
+                        "instructorId": "4097510",
+                        "firstName": "M",
+                        "lastName": "Morales"
+                    }
+                },
+                "meetingId": "92497",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "88",
+                "actualEnrolment": "56",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "May 6, 2019: Enrollment closed on ACORN. Please see Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "WE-171701": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "171701",
+                        "assignedRoom1": "LM 217",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097511": {
+                        "instructorId": "4097511",
+                        "firstName": "M",
+                        "lastName": "Morales"
+                    }
+                },
+                "meetingId": "92498",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "88",
+                "actualEnrolment": "74",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "May 6, 2019: Enrollment closed on ACORN. Please see Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "PRA-0301": {
+                "schedule": {
+                    "TH-171702": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "171702",
+                        "assignedRoom1": "LM 217",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "92499",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "62",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "May 6, 2019: Enrollment closed on ACORN. Please see Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-171698": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "171698",
+                        "assignedRoom1": "Contact Dept.",
+                        "assignedRoom2": null
+                    },
+                    "TH-171699": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "171699",
+                        "assignedRoom1": "Contact Dept.",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "92496",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "256",
+                "actualEnrolment": "192",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "May 6, 2019: Enrollment closed on ACORN. Please see Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CHM220H1-F-20195": {
+        "courseId": "24890",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JCC) (JSC) (NUS) (PHC)",
+        "courseTitle": "Physical Chemistry for Life Sciences",
+        "code": "CHM220H1",
+        "courseDescription": "Introduction to thermodynamics; kinetics; phase equilibrium, properties of mixtures, chemical equilibrium, electrochemistry; introduction to quantum mechanics and spectroscopy. This course is recommended for students in life and health science programs that involve a small amount of chemistry. Students enrolled in any chemistry specialist program (including Biological Chemistry and Environmental Chemistry) or who will be including a substantial amount of chemistry in their degree (such as those following a chemistry major program), are strongly encouraged to take CHM222H1 and CHM223H1.",
+        "prerequisite": "(CHM135H1/CHM139H1, CHM136H1/CHM138H1)/CHM151Y1; (MAT135H1, MAT136H1)/MAT137Y1/MAT157Y1",
+        "corequisite": "Recommended co-requisite: MAT235Y1/MAT237Y1",
+        "exclusion": "CHM225Y1/CHM222H1, CHMB20H3, JCP221H5/CHM221H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20195",
+        "webTimetableInstructions": "Tutorials start the week of May 13th.",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-142378": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "142378",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    },
+                    "TU-142379": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "142379",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    },
+                    "TH-142380": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "142380",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097512": {
+                        "instructorId": "4097512",
+                        "firstName": "A",
+                        "lastName": "Nagy"
+                    }
+                },
+                "meetingId": "92500",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-158415": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "158415",
+                        "assignedRoom1": "Contact Dept.",
+                        "assignedRoom2": null
+                    },
+                    "TH-158416": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "158416",
+                        "assignedRoom1": "Contact Dept.",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "92501",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CHM247H1-S-20195": {
+        "courseId": "24894",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JCC) (JSC) (NUS) (PHC)",
+        "courseTitle": "Introductory Organic Chemistry II",
+        "code": "CHM247H1",
+        "courseDescription": "Reactions of organic compounds. Principles of mechanism, synthesis, and spectroscopy, continuing from CHM138H1. This course is recommended for students in life and health science programs that involve a small amount of chemistry. Students enrolled in any chemistry specialist program (including Biological Chemistry and Environmental Chemistry) or who will be including a substantial amount of chemistry in their degree (such as those following a chemistry major program) are strongly encouraged to take CHM249H1. (Lab Materials Fee: $25).",
+        "prerequisite": "(CHM135H1/CHM139H1, CHM136H1/CHM138H1)/CHM151Y1",
+        "corequisite": "",
+        "exclusion": "CHM249H1, CHM243H5, CHMB42H3",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20195",
+        "webTimetableInstructions": "Labs and tutorials start the week of July 8th. ",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-142383": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "142383",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    },
+                    "WE-142384": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "142384",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    },
+                    "TH-142385": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "142385",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    }
+                },
+                "instructors": {
+                    "4097513": {
+                        "instructorId": "4097513",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "92502",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "50",
+                "actualWaitlist": "1",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "WE-142390": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "142390",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "4097514": {
+                        "instructorId": "4097514",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "92505",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TH-170233": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "170233",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "4097515": {
+                        "instructorId": "4097515",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "92506",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "64",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Enrolment Closed to Students: April 4, 2019",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-158417": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "158417",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Dept."
+                    },
+                    "TH-158418": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "158418",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Dept."
+                    }
+                },
+                "instructors": [],
+                "meetingId": "92503",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "64",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-158419": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "158419",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Dept."
+                    },
+                    "TH-158420": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "158420",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Dept."
+                    }
+                },
+                "instructors": [],
+                "meetingId": "92504",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "64",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CHM299Y1-Y-20195": {
+        "courseId": "24896",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JCC) (JSC) (NUS) (PHC)",
+        "courseTitle": "Research Opportunity Program",
+        "code": "CHM299Y1",
+        "courseDescription": "Credit course for supervised participation in faculty research project. Details at <a href=\"http://www.artsci.utoronto.ca/current/course/rop\">http://www.artsci.utoronto.ca/current/course/rop</a>. Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20195",
+        "webTimetableInstructions": "Enrolment for the Research Opportunity Program is done by Arts and Science. For more information, please see: <a href=\"http://www.artsci.utoronto.ca/current/focus/course/rop\">http://www.artsci.utoronto.ca/current/focus/course/rop</a>",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097516": {
+                        "instructorId": "4097516",
+                        "firstName": "E",
+                        "lastName": "Kumacheva"
+                    }
+                },
+                "meetingId": "92507",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097517": {
+                        "instructorId": "4097517",
+                        "firstName": "C",
+                        "lastName": "Browning"
+                    },
+                    "4097518": {
+                        "instructorId": "4097518",
+                        "firstName": "J",
+                        "lastName": "D'eon"
+                    },
+                    "4097519": {
+                        "instructorId": "4097519",
+                        "firstName": "K",
+                        "lastName": "Quinlan"
+                    }
+                },
+                "meetingId": "92508",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "92509",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "February 27, 2019",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CHM397H0-Y-20195": {
+        "courseId": "24910",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JCC) (JSC) (NUS) (PHC)",
+        "courseTitle": "Research Abroad in Chemistry",
+        "code": "CHM397H0",
+        "courseDescription": "Independent research project in Chemistry under the supervision by a faculty member in an approved partner institution.  This unique opportunity to conduct a lab-based research project is open to students in any Chemistry programs. Not eligible for CR/NCR option.",
+        "prerequisite": "Any CHM 300-level courses with lab; permission of the Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20195",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-3001": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "93332",
+                "teachingMethod": "LEC",
+                "sectionNumber": "3001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CHM399Y1-Y-20195": {
+        "courseId": "24913",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JCC) (JSC) (NUS) (PHC)",
+        "courseTitle": "Research Excursions",
+        "code": "CHM399Y1",
+        "courseDescription": "Credit course for supervised participation in faculty research project. Details at http://www.artsci.utoronto.ca/current/course/rop. Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20195",
+        "webTimetableInstructions": "Enrolment for the Research Opportunity Program is done by Arts and Science. For more information, please see: <a href=\"http://www.artsci.utoronto.ca/current/focus/course/rop\">http://www.artsci.utoronto.ca/current/focus/course/rop</a>",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097520": {
+                        "instructorId": "4097520",
+                        "firstName": "E",
+                        "lastName": "Kumacheva"
+                    }
+                },
+                "meetingId": "92510",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "92511",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "92512",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "February 27, 2019",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

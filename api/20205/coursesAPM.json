@@ -1,0 +1,275 @@
+{
+    "APM346H1-Y-20205": {
+        "courseId": "35137",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Partial Differential Equations",
+        "code": "APM346H1",
+        "courseDescription": "Sturm-Liouville problems, Green's functions, special functions (Bessel, Legendre), partial differential equations of second order, separation of variables, integral equations, Fourier transform, stationary phase method.",
+        "prerequisite": "MAT235Y1/MAT235Y5/(MATB41H3, MATB42H3)/MAT237Y1/(MATB41H3, MATB42H3, MATB43H3)/MAT237Y5/MAT257Y1, MAT244H1/MAT244H5/MAT267H1",
+        "corequisite": "",
+        "exclusion": "MAT351Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course. <br>Lectures and tutorials will be given as 2-3hr online live lectures each week. <br>Students must have a working microphone, access to a reliable internet connection, a webcam, and a camera or scanner that is able to upload clear images of student work. <br>Please refer to our departmental website for more information on online teaching platforms:\r\nhttps://www.math.toronto.edu/cms/undergraduate-program/",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-222455": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "222455",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-222456": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "222456",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "5643128": {
+                        "instructorId": "5643128",
+                        "firstName": "J",
+                        "lastName": "Ko"
+                    }
+                },
+                "meetingId": "127601",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br> Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-185120": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "185120",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "127602",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "TU-185121": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "185121",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "128544",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-185122": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "185122",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "127603",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM462H1-Y-20205": {
+        "courseId": "35147",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Nonlinear Optimization",
+        "code": "APM462H1",
+        "courseDescription": "An introduction to first and second order conditions for finite and infinite dimensional optimization problems with mention of available software. Topics include Lagrange multipliers, Kuhn-Tucker conditions, convexity and calculus variations. Basic numerical search methods and software packages which implement them will be discussed.",
+        "prerequisite": "MAT223H1, MAT224H1, MAT235Y1,",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT336H1/MAT337H1",
+        "section": "Y",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course. <br>Lectures and tutorials will be given as 2-3hr online live lectures each week. <br>Students must have a working microphone, access to a reliable internet connection, a webcam, and a camera or scanner that is able to upload clear images of student work. <br>Please refer to our departmental website for more information on online teaching platforms:\r\nhttps://www.math.toronto.edu/cms/undergraduate-program/",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-223285": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "223285",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-223286": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "223286",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "5643129": {
+                        "instructorId": "5643129",
+                        "firstName": "J",
+                        "lastName": "Korman"
+                    }
+                },
+                "meetingId": "127604",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "94",
+                "actualEnrolment": "78",
+                "actualWaitlist": "49",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br> Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TU-223287": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "223287",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-223288": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "223288",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "127605",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "47",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": {
+                    "TU-223289": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "223289",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-223290": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "223290",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "128622",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "47",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,806 @@
+{
+    "CSB201H1-F-20205": {
+        "courseId": "35541",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Molecular Biology, Biotechnology and You",
+        "code": "CSB201H1",
+        "courseDescription": "An online course intended to provide non-science students with an understanding of basic concepts in molecular biology and genetics, with particular emphasis on humans. Students will work online in groups on problem sets. The course will end with an introduction to biotechnology, including an opportunity for students to use their new knowledge to explore a real, multi-dimensional problem (e.g., cancer). Lectures will be delivered via the web and mandatory tutorials will require live webinar participation. The final exam will require attendance on the St. George campus. This course does not count towards CSB programs.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "BIO130H1, BIO230H1, BIO255H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20205",
+        "webTimetableInstructions": " This is an online, hybrid course. <br/>\r\nStudents must be able to access lecture videos on YouTube. <br/>\r\nStudents also need:<br/>\r\n- Personal Computer: You will need regular access to a computer preferably a personal computer with administrator privileges and you should be comfortable managing software and hardware. While much can be done with tablets, smartphones and other mobile devices they are not guaranteed to work in all areas of the course. For an optimal experience you must have a laptop or desktop computer (Windows 10 or higher or Mac OS X 10.14 or higher is recommended).<br/>\r\n- Internet connection: High speed broadband access (LAN, Cable or DSL) is highly recommended for an optimal learning experience.\r\nA Web Browser is required for access to Quercus. In some instances, it may be necessary for some users to upgrade their web browser programs. A list of supported browsers can be found at https://community.canvaslms.com/docs/DOC-10461-supported-web-browsers (Links to an external site.)<br/>\r\n- Speaker and Headphones: Many courses will have synchronous (live) online meetings using webinar software (Links to an external site.). It is preferable to use headphones with an attached microphone for synchronous (live) sessions.<br/>\r\n- Software: Word processing software will be required (If you do not already have this, Office 365 ProPlus can be found at https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus (Links to an external site).",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643181": {
+                        "instructorId": "5643181",
+                        "firstName": "M",
+                        "lastName": "Neumann"
+                    }
+                },
+                "meetingId": "180665",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            },
+            "TUT-9901": {
+                "schedule": {
+                    "TU-218445": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "218445",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "FR-218446": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "218446",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "180666",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9902": {
+                "schedule": {
+                    "TU-219803": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "219803",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "FR-219804": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "219804",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "180667",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9902",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "0",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB299Y1-Y-20205": {
+        "courseId": "35543",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Research Opportunity Program",
+        "code": "CSB299Y1",
+        "courseDescription": "Credit course for supervised participation in faculty research project. Details at <a href=\"http://www.artsci.utoronto.ca/current/course/rop\">http://www.artsci.utoronto.ca/current/course/rop</a>. Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20205",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "127689",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "April 22, 2020",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "133993",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "April 22, 2020",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "133994",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "April 22, 2020",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB329H1-F-20205": {
+        "courseId": "35547",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Stem Cell Biology: Developmental Models and Cell-based Therapeutics",
+        "code": "CSB329H1",
+        "courseDescription": "Stem cells provide the basis for cellular diversity in multicellular organisms and have enormous therapeutic potential in regenerative medicine. The course will introduce students to the differences and similarities between stem cells from different organisms, their roles throughout development and therapeutic potentials.",
+        "prerequisite": "BIO230H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, synchronous course.  No special hardware or software is required.  A laptop/PC/mobile with internet connection is sufficient.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-222171": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "222171",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "TH-222172": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "222172",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643182": {
+                        "instructorId": "5643182",
+                        "firstName": "S",
+                        "lastName": "Moorthy"
+                    }
+                },
+                "meetingId": "128572",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "52",
+                "actualWaitlist": "6",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Online Synchronous - See Timetable Instructions",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "22",
+                        "adminOrgCode": "CSB",
+                        "adminOrgName": "Department of Cell and Systems Biology"
+                    }
+                ]
+            }
+        }
+    },
+    "CSB331H1-F-20205": {
+        "courseId": "35549",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Advanced Cell Biology I: Cellular Dynamics During Development",
+        "code": "CSB331H1",
+        "courseDescription": "The development of multicellular organisms is dependent on complex cell-cell and cell-matrix dynamics. The course examines the molecules and mechanisms involved and how they act in concert to regulate distinct developmental and physiological events. Emphasis is placed on the experimental approaches and technology used to study the molecular interactions and dynamics that alter structure-function relationships in cells and organisms.",
+        "prerequisite": "BIO230H1/BIO255H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course.  Students need a computer with internet access; ability to watch videos/audio while simultaneously typing; ability to use Blackboard Collaborate (Ultra). <br/>\nStudents are expected to attend class online on Thursdays, 12pm-1pm (mandatory). <br/>\nIn addition, there will be approximately 5 hours of online video lectures per week, with accompanying assignments.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "TH-222173": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "222173",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643183": {
+                        "instructorId": "5643183",
+                        "firstName": "K",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "180670",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB346H1-F-20205": {
+        "courseId": "35553",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Neurobiology of Respiration",
+        "code": "CSB346H1",
+        "courseDescription": "Integrated control of cardio-respiratory physiology and metabolism in mammals. Topics include exercise, diving, sleep and hibernation.",
+        "prerequisite": "(BIO270H1, BIO271H1)/(PSL300H1, PSL301H1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, asynchronous course.<br/> \nLectures and tutorials will be given as 2-3hr online videos/week. Students will have the opportunity for online webinar class 1-2hrs/week (Monday and Wednesday 6-7pm) to ask questions and clarifications about lecture and tutorial content. Students need Power Point and the ability to use Blackboard Collaborate (Ultra)",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-222182": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "222182",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "WE-222183": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "222183",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643184": {
+                        "instructorId": "5643184",
+                        "firstName": "J",
+                        "lastName": "Fraigne"
+                    }
+                },
+                "meetingId": "127694",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Online Asynchronous – See Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB352H1-S-20205": {
+        "courseId": "35558",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Bioinformatic Methods",
+        "code": "CSB352H1",
+        "courseDescription": "Use of available programs for analyzing biological data. This is an introductory course with a strong emphasis on hands-on methods. Some theory is introduced, but the main focus is on using extant bioinformatics tools to analyze data and generate biological hypotheses.",
+        "prerequisite": "BIO230H1/BIO255H1, BIO260H1/HMB265H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course. Students need web access.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-222184": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "222184",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "TH-222185": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "222185",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "5643185": {
+                        "instructorId": "5643185",
+                        "firstName": "A",
+                        "lastName": "Yang"
+                    }
+                },
+                "meetingId": "127695",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "88",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB353H1-S-20205": {
+        "courseId": "35559",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Plant-Microorganism Interactions and Plant Immunity",
+        "code": "CSB353H1",
+        "courseDescription": "Plants have co-evolved with microbes ever since their first appearance on land, resulting in sophisticated strategies of pathogenicity, symbiosis, commensalisms and mutualism. This course presents an overview of these strategies with examples of bacteria, fungi, oomycetes and viruses that have evolved intimate associations with plants, and discusses plant immune systems.",
+        "prerequisite": "BIO230H1/BIO255H1",
+        "corequisite": "",
+        "exclusion": "CSB452H1",
+        "recommendedPreparation": "BIO251H1",
+        "section": "S",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, synchronous course.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "MO-222190": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "222190",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "WE-222191": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "222191",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "5643186": {
+                        "instructorId": "5643186",
+                        "firstName": "W",
+                        "lastName": "Moeder"
+                    }
+                },
+                "meetingId": "180668",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "<br/>Online Synchronous",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB397Y0-Y-20205": {
+        "courseId": "35560",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Research Abroad in Cell & Systems Biology",
+        "code": "CSB397Y0",
+        "courseDescription": "An independent research project conducted in a cell biology, developmental biology, plant biology, neurophysiology, or systems biology research lab in an approved partner university. The laboratory research is supervised by a faculty member at the partner institution. Not eligible for CR/NCR option.",
+        "prerequisite": "Minimum grade of 73% in BIO230H1/BIO255H1/BIO271H1 and permission of the CSB397Y0 coordinator",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20205",
+        "webTimetableInstructions": "To enrol in this course, please contact janet.mannone@utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-3001": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "127696",
+                "teachingMethod": "LEC",
+                "sectionNumber": "3001",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "March 24, 2020",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB399Y1-Y-20205": {
+        "courseId": "35562",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Research Opportunity Program",
+        "code": "CSB399Y1",
+        "courseDescription": "Credit course for supervised participation in faculty research project. Details at http://www.artsci.utoronto.ca/current/course/rop. Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20205",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "127697",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "April 22, 2020",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "133995",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "April 22, 2020",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "133996",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "April 22, 2020",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB497H1-F-20205": {
+        "courseId": "35590",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Independent Research in Cell and Systems Biology I",
+        "code": "CSB497H1",
+        "courseDescription": "An original research project (a literature review alone is not sufficient) requiring the prior consent of a member of the Department to supervise the project. The topic is to be mutually agreed upon by the student and supervisor. They must arrange the time, place, and provision of any materials and submit to the Undergraduate Office a signed form of agreement outlining details prior to being enrolled. In the Fall or Winter sessions, a commitment of 8-10 hours per week is expected for research and related course activities. If spread over both the Fall and Winter sessions, a commitment of 4-5 hours per week is expected. In the Summer Session, the number of hours doubles per week (e.g., 16-20 for F or S, or 8-10 for Y) as the length of the term is halved compared to the Fall or Winter term. Many students spend more than this amount of time as they become immersed in their project. This course is normally open only to fourth year students with adequate background in Cell and Systems Biology. Course requirements include a final report, and either an oral presentation (Summer and Fall sessions) or a poster presentation (Winter session). Two workshops on scientific research are scheduled and highly recommended. Details for enrollment are available at http://csb.utoronto.ca/undergraduate-studies/undergraduate-courses/undergraduate-course-level-400/. (Lab Materials Fee: $25). Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course.  Students will work primarily on their own, but are required to meet with their supervisors at mutually convenient times throughout the term.\nStudents must submit a completed CSB497/498/499 contract to the CSB Undergraduate Office (RW424) by Friday, 1 May 2020, before being enrolled. Contracts are available in the Undergraduate section of the departmental website, www.csb.utoronto.ca. For more information please contact janet.mannone@utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643188": {
+                        "instructorId": "5643188",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "127702",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "<br/>Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB497H1-S-20205": {
+        "courseId": "35590",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Independent Research in Cell and Systems Biology I",
+        "code": "CSB497H1",
+        "courseDescription": "An original research project (a literature review alone is not sufficient) requiring the prior consent of a member of the Department to supervise the project. The topic is to be mutually agreed upon by the student and supervisor. They must arrange the time, place, and provision of any materials and submit to the Undergraduate Office a signed form of agreement outlining details prior to being enrolled. In the Fall or Winter sessions, a commitment of 8-10 hours per week is expected for research and related course activities. If spread over both the Fall and Winter sessions, a commitment of 4-5 hours per week is expected. In the Summer Session, the number of hours doubles per week (e.g., 16-20 for F or S, or 8-10 for Y) as the length of the term is halved compared to the Fall or Winter term. Many students spend more than this amount of time as they become immersed in their project. This course is normally open only to fourth year students with adequate background in Cell and Systems Biology. Course requirements include a final report, and either an oral presentation (Summer and Fall sessions) or a poster presentation (Winter session). Two workshops on scientific research are scheduled and highly recommended. Details for enrollment are available at http://csb.utoronto.ca/undergraduate-studies/undergraduate-courses/undergraduate-course-level-400/. (Lab Materials Fee: $25). Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course.  Students will work primarily on their own, but are required to meet with their supervisors at mutually convenient times throughout the term.\nStudents must submit a completed CSB497/498/499 contract to the CSB Undergraduate Office (RW424) by Friday, 1 May 2020, before being enrolled. Contracts are available in the Undergraduate section of the departmental website, www.csb.utoronto.ca. For more information please contact janet.mannone@utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643189": {
+                        "instructorId": "5643189",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "127703",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "<br/>Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB498Y1-Y-20205": {
+        "courseId": "35591",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Independent Research in Cell and Systems Biology I",
+        "code": "CSB498Y1",
+        "courseDescription": "An original research project (a literature review alone is not sufficient) requiring the prior consent of a member of the Department to supervise the project. The topic is to be mutually agreed upon by the student and supervisor. They must arrange the time, place, and provision of any materials and submit to the Undergraduate Office a signed form of agreement outlining details prior to being enrolled. In the Fall/Winter session, a commitment of 8-10 hours per week is expected for research and related course activities. In the Summer session, the number of hours doubles (16-20 per week) as the length of the term is halved. This course is normally open only to fourth year students with adequate background in Cell and Systems Biology. Course requirements include a final report and either an oral presentation (Summer session) or a poster presentation (Fall/Winter session). Four workshops on scientific research are scheduled and highly recommended. Details for enrollment are available at http://csb.utoronto.ca/undergraduate-studies/undergraduate-courses/undergraduate-course-level-400/. (Lab Materials Fee: $50). Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course.  Students will work primarily on their own, but are required to meet with their supervisors at mutually convenient times throughout the term.\nStudents must submit a completed CSB497/498/499 contract to the CSB Undergraduate Office (RW424) by Friday, 1 May 2020, before being enrolled. Contracts are available in the Undergraduate section of the departmental website,  www.csb.utoronto.ca. For more information please contact janet.mannone@utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643190": {
+                        "instructorId": "5643190",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "127704",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "<br/>Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB499Y1-Y-20205": {
+        "courseId": "35592",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BCB) (BIO) (CJH)",
+        "courseTitle": "Independent Research in Cell and Systems Biology II",
+        "code": "CSB499Y1",
+        "courseDescription": "Allows students to do a second independent project. Operates in the same manner as CSB497H1/CSB498Y1. Students who have completed both CSB497H1 and CSB498Y1 are excluded from taking CSB499Y1. (Lab Materials Fee: $50). Not eligible for CR/NCR option.",
+        "prerequisite": "CSB497H1/CSB498Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20205",
+        "webTimetableInstructions": "This is an online, hybrid course.  Students will work primarily on their own, but are required to meet with their supervisors at mutually convenient times throughout the term.\nStudents must submit a completed CSB497/498/499 contract to the CSB Undergraduate Office (RW424) by Friday, 1 May 2020, before being enrolled. Contracts are available in the Undergraduate section of the departmental website,  www.csb.utoronto.ca. For more information please contact janet.mannone@utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "5643191": {
+                        "instructorId": "5643191",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "127705",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ONL",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "<br/>Online Hybrid - See Timetable Instructions",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

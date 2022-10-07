@@ -1,0 +1,132 @@
+{
+    "ANA300Y1-Y-20195": {
+        "courseId": "24619",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Human Anatomy and Histology",
+        "code": "ANA300Y1",
+        "courseDescription": "Structure of the human body and its relationship to function. Basic Human Histology, Gross Anatomy, and Neuroanatomy. Some content is delivered using online modules.",
+        "prerequisite": "BIO130H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20195",
+        "webTimetableInstructions": "The practical component of ANA300Y is designed to be done by students independently. Weekly tutorials are scheduled outside of lecture hours as an optional resource available to students, should they want help with the practical exercises.",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-176835": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "176835",
+                        "assignedRoom1": "MS 2172",
+                        "assignedRoom2": ""
+                    },
+                    "TU-176836": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "176836",
+                        "assignedRoom1": "MS 2172",
+                        "assignedRoom2": ""
+                    },
+                    "TH-176837": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "176837",
+                        "assignedRoom1": "MS 2172",
+                        "assignedRoom2": ""
+                    },
+                    "TH-176838": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "176838",
+                        "assignedRoom1": "MS 2172",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "4133808": {
+                        "instructorId": "4133808",
+                        "firstName": "K",
+                        "lastName": "Lisk"
+                    }
+                },
+                "meetingId": "96360",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "125",
+                "actualEnrolment": "80",
+                "actualWaitlist": "14",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANA498Y1-Y-20195": {
+        "courseId": "24623",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Project in Anatomy",
+        "code": "ANA498Y1",
+        "courseDescription": "A research project in Histology, Cellular or Molecular Biology, Developmental Biology, Neuroanatomy or Gross Anatomy. Not eligible for CR/NCR option.",
+        "prerequisite": "Permission of a professor to supervise the project",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20195",
+        "webTimetableInstructions": "To enrol in this course, please contact Elizabeth Sutherland, the Division Administrator, at anatomy.teaching@utoronto.ca ",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "4097476": {
+                        "instructorId": "4097476",
+                        "firstName": "H",
+                        "lastName": "Sun"
+                    }
+                },
+                "meetingId": "92431",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}
