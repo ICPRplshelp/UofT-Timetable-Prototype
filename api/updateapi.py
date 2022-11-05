@@ -1,5 +1,4 @@
-"""It's time to overload UofT's servers. Wish me luck.
-
+"""
 YOU NEED THE REQUESTS LIBRARY FOR THIS TO WORK.
 """
 from math import floor
