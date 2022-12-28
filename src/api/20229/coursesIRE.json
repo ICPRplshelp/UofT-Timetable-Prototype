@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "8882033": {
-                        "instructorId": "8882033",
+                    "9480105": {
+                        "instructorId": "9480105",
                         "firstName": "P",
                         "lastName": "Scanlan"
                     }
@@ -44,8 +44,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "25",
-                "actualWaitlist": "1",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -100,18 +100,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-330885": {
+                    "WE-354462": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "330885",
+                        "meetingScheduleId": "354462",
                         "assignedRoom1": null,
-                        "assignedRoom2": "OI 4422"
+                        "assignedRoom2": "MY 420"
                     }
                 },
                 "instructors": {
-                    "8883776": {
-                        "instructorId": "8883776",
+                    "9482333": {
+                        "instructorId": "9482333",
                         "firstName": "R",
                         "lastName": "Gomez"
                     }
@@ -128,7 +128,7 @@
                 "actualEnrolment": "25",
                 "actualWaitlist": "3",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "December 9, 2022: Room changed.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -191,8 +191,8 @@
                     }
                 },
                 "instructors": {
-                    "8882034": {
-                        "instructorId": "8882034",
+                    "9480106": {
+                        "instructorId": "9480106",
                         "firstName": "J",
                         "lastName": "Myers"
                     }
@@ -206,8 +206,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "120",
-                "actualEnrolment": "120",
-                "actualWaitlist": "26",
+                "actualEnrolment": "115",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -380,8 +380,8 @@
                     }
                 },
                 "instructors": {
-                    "8882035": {
-                        "instructorId": "8882035",
+                    "9480107": {
+                        "instructorId": "9480107",
                         "firstName": "S",
                         "lastName": "Campero Molina"
                     }
@@ -394,9 +394,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "50",
-                "actualEnrolment": "50",
-                "actualWaitlist": "26",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -596,8 +596,8 @@
                     }
                 },
                 "instructors": {
-                    "8882036": {
-                        "instructorId": "8882036",
+                    "9480108": {
+                        "instructorId": "9480108",
                         "firstName": "R",
                         "lastName": "Gomez"
                     }
@@ -611,10 +611,206 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "65",
-                "actualEnrolment": "65",
-                "actualWaitlist": "49",
+                "actualEnrolment": "63",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "669",
+                        "postCode": "ASMAJ1533",
+                        "postName": "MA WORK & ORG: SOC SCI CON",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "116",
+                        "postCode": "ASMAJ1535",
+                        "postName": "MA EMPLOYMENT RELATIONS",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "450",
+                        "postCode": "ASMAJ1536",
+                        "postName": "MA IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "322",
+                        "postCode": "ASSPE1535",
+                        "postName": "SP EMPLOYMENT RELATIONS",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "464",
+                        "postCode": "ASSPE1536",
+                        "postName": "SP IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "399",
+                        "postCode": "WW   CHRM",
+                        "postName": "Cert Human Resource Management",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5102": {
+                "schedule": {
+                    "WE-346655": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "346655",
+                        "assignedRoom1": "BA 1190",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "9480109": {
+                        "instructorId": "9480109",
+                        "firstName": "A",
+                        "lastName": "Brat"
+                    }
+                },
+                "meetingId": "220923",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "66",
+                "actualEnrolment": "60",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "August 18, 2022: Section added.",
                 "enrollmentControls": [
                     {
                         "postId": "669",
@@ -802,18 +998,18 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "MO-332475": {
+                    "MO-347927": {
                         "meetingDay": "MO",
-                        "meetingStartTime": "18:00",
-                        "meetingEndTime": "21:00",
-                        "meetingScheduleId": "332475",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "347927",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8882037": {
-                        "instructorId": "8882037",
+                    "9480110": {
+                        "instructorId": "9480110",
                         "firstName": "H",
                         "lastName": "Wang"
                     }
@@ -826,11 +1022,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
-                "enrollmentCapacity": "50",
-                "actualEnrolment": "50",
-                "actualWaitlist": "67",
+                "enrollmentCapacity": "53",
+                "actualEnrolment": "51",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "September 13, 2022: Time changed.",
                 "enrollmentControls": [
                     {
                         "postId": "1",
@@ -1089,8 +1285,8 @@
                     }
                 },
                 "instructors": {
-                    "8882038": {
-                        "instructorId": "8882038",
+                    "9480111": {
+                        "instructorId": "9480111",
                         "firstName": "A",
                         "lastName": "Fong"
                     }
@@ -1103,9 +1299,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
-                "enrollmentCapacity": "50",
-                "actualEnrolment": "50",
-                "actualWaitlist": "19",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "67",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
@@ -1359,8 +1555,8 @@
                     }
                 },
                 "instructors": {
-                    "8883777": {
-                        "instructorId": "8883777",
+                    "9482334": {
+                        "instructorId": "9482334",
                         "firstName": "A",
                         "lastName": "Eads"
                     }
@@ -1374,9 +1570,9 @@
                 "deliveryMode": "ASYNC",
                 "online": "Online Asynchronous -- See Delivery Instructions.",
                 "contactHours": "3.0",
-                "enrollmentCapacity": "50",
-                "actualEnrolment": "50",
-                "actualWaitlist": "89",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "55",
+                "actualWaitlist": "84",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -1597,6 +1793,176 @@
                         "adminOrgName": null
                     }
                 ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "9482335": {
+                        "instructorId": "9482335",
+                        "firstName": "A",
+                        "lastName": "Eads"
+                    }
+                },
+                "meetingId": "220959",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ASYNC",
+                "online": "Online Asynchronous -- See Delivery Instructions.",
+                "contactHours": "3.0",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "40",
+                "actualWaitlist": "1",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "August 26, 2022: Section added.",
+                "enrollmentControls": [
+                    {
+                        "postId": "668",
+                        "postCode": "ASMAJ1532",
+                        "postName": "MA WORK & ORG: HUM CON",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "669",
+                        "postCode": "ASMAJ1533",
+                        "postName": "MA WORK & ORG: SOC SCI CON",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "670",
+                        "postCode": "ASMAJ1534",
+                        "postName": "MA WORK & ORG: SCI CON",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "450",
+                        "postCode": "ASMAJ1536",
+                        "postName": "MA IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "464",
+                        "postCode": "ASSPE1536",
+                        "postName": "SP IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
             }
         }
     },
@@ -1620,18 +1986,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-346481": {
+                    "WE-347292": {
                         "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "346481",
-                        "assignedRoom1": "SK 548",
+                        "meetingScheduleId": "347292",
+                        "assignedRoom1": "OI 5150",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8882039": {
-                        "instructorId": "8882039",
+                    "9480112": {
+                        "instructorId": "9480112",
                         "firstName": "F",
                         "lastName": "Reid"
                     }
@@ -1645,10 +2011,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "65",
-                "actualEnrolment": "58",
+                "actualEnrolment": "41",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "August 26, 2022: Room changed.",
                 "enrollmentControls": [
                     {
                         "postId": "116",
@@ -1819,8 +2185,8 @@
                     }
                 },
                 "instructors": {
-                    "8882040": {
-                        "instructorId": "8882040",
+                    "9480113": {
+                        "instructorId": "9480113",
                         "firstName": "R",
                         "lastName": "Khesroof"
                     }
@@ -1833,9 +2199,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "55",
-                "actualEnrolment": "55",
-                "actualWaitlist": "6",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "54",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2089,8 +2455,8 @@
                     }
                 },
                 "instructors": {
-                    "8883778": {
-                        "instructorId": "8883778",
+                    "9482336": {
+                        "instructorId": "9482336",
                         "firstName": "S",
                         "lastName": "Campero Molina"
                     }
@@ -2105,9 +2471,205 @@
                 "online": "In Person",
                 "enrollmentCapacity": "65",
                 "actualEnrolment": "65",
-                "actualWaitlist": "44",
+                "actualWaitlist": "10",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "669",
+                        "postCode": "ASMAJ1533",
+                        "postName": "MA WORK & ORG: SOC SCI CON",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "116",
+                        "postCode": "ASMAJ1535",
+                        "postName": "MA EMPLOYMENT RELATIONS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "450",
+                        "postCode": "ASMAJ1536",
+                        "postName": "MA IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "322",
+                        "postCode": "ASSPE1535",
+                        "postName": "SP EMPLOYMENT RELATIONS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "464",
+                        "postCode": "ASSPE1536",
+                        "postName": "SP IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "399",
+                        "postCode": "WW   CHRM",
+                        "postName": "Cert Human Resource Management",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TH-346649": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "346649",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1130"
+                    }
+                },
+                "instructors": {
+                    "9482337": {
+                        "instructorId": "9482337",
+                        "firstName": "A",
+                        "lastName": "Brat"
+                    }
+                },
+                "meetingId": "220924",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "65",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "August 18, 2022: Section added.",
                 "enrollmentControls": [
                     {
                         "postId": "669",
@@ -2305,8 +2867,8 @@
                     }
                 },
                 "instructors": {
-                    "8883779": {
-                        "instructorId": "8883779",
+                    "9482338": {
+                        "instructorId": "9482338",
                         "firstName": "A",
                         "lastName": "Fong"
                     }
@@ -2321,7 +2883,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "65",
                 "actualEnrolment": "65",
-                "actualWaitlist": "18",
+                "actualWaitlist": "19",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2494,8 +3056,8 @@
                     }
                 },
                 "instructors": {
-                    "8883780": {
-                        "instructorId": "8883780",
+                    "9482339": {
+                        "instructorId": "9482339",
                         "firstName": "B",
                         "lastName": "Seward"
                     }
@@ -2508,9 +3070,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "65",
-                "actualEnrolment": "65",
-                "actualWaitlist": "35",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "70",
+                "actualWaitlist": "19",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2683,8 +3245,8 @@
                     }
                 },
                 "instructors": {
-                    "8882041": {
-                        "instructorId": "8882041",
+                    "9480114": {
+                        "instructorId": "9480114",
                         "firstName": "B",
                         "lastName": "Seward"
                     }
@@ -2697,9 +3259,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "65",
-                "actualEnrolment": "65",
-                "actualWaitlist": "7",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "61",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -2872,8 +3434,8 @@
                     }
                 },
                 "instructors": {
-                    "8883781": {
-                        "instructorId": "8883781",
+                    "9482340": {
+                        "instructorId": "9482340",
                         "firstName": "E",
                         "lastName": "Tompa"
                     }
@@ -2886,9 +3448,9 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "60",
-                "actualWaitlist": "13",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "70",
+                "actualWaitlist": "15",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -3061,8 +3623,8 @@
                     }
                 },
                 "instructors": {
-                    "8883782": {
-                        "instructorId": "8883782",
+                    "9482341": {
+                        "instructorId": "9482341",
                         "firstName": "B",
                         "lastName": "Seward"
                     }
@@ -3075,8 +3637,8 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "45",
-                "actualEnrolment": "45",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "50",
                 "actualWaitlist": "2",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -3535,8 +4097,8 @@
                     }
                 },
                 "instructors": {
-                    "8882042": {
-                        "instructorId": "8882042",
+                    "9480115": {
+                        "instructorId": "9480115",
                         "firstName": "M",
                         "lastName": "Fitzgibbon"
                     }
@@ -3549,8 +4111,8 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "58",
-                "actualEnrolment": "58",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "63",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -3751,8 +4313,8 @@
                     }
                 },
                 "instructors": {
-                    "8883783": {
-                        "instructorId": "8883783",
+                    "9482342": {
+                        "instructorId": "9482342",
                         "firstName": "M",
                         "lastName": "Fitzgibbon"
                     }
@@ -3766,7 +4328,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "65",
-                "actualEnrolment": "62",
+                "actualEnrolment": "65",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -3940,8 +4502,8 @@
                     }
                 },
                 "instructors": {
-                    "8883784": {
-                        "instructorId": "8883784",
+                    "9482343": {
+                        "instructorId": "9482343",
                         "firstName": "R",
                         "lastName": "Gomez"
                     }
@@ -3954,8 +4516,8 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "enrollmentCapacity": "26",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -4102,8 +4664,8 @@
                     }
                 },
                 "instructors": {
-                    "8882043": {
-                        "instructorId": "8882043",
+                    "9480116": {
+                        "instructorId": "9480116",
                         "firstName": "B",
                         "lastName": "Thompson"
                     }
@@ -4118,9 +4680,198 @@
                 "online": "In Person",
                 "enrollmentCapacity": "35",
                 "actualEnrolment": "35",
-                "actualWaitlist": "10",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "116",
+                        "postCode": "ASMAJ1535",
+                        "postName": "MA EMPLOYMENT RELATIONS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "450",
+                        "postCode": "ASMAJ1536",
+                        "postName": "MA IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "322",
+                        "postCode": "ASSPE1535",
+                        "postName": "SP EMPLOYMENT RELATIONS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "464",
+                        "postCode": "ASSPE1536",
+                        "postName": "SP IND REL & HUM RES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "399",
+                        "postCode": "WW   CHRM",
+                        "postName": "Cert Human Resource Management",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    },
+    "IRE472H1-S-20229": {
+        "courseId": "63553",
+        "org": "IRE",
+        "orgName": "Industrial Relations and Human Resources, Centre for (IRE)",
+        "courseTitle": "Negotiations",
+        "code": "IRE472H1",
+        "courseDescription": "<p>Resolving conflicts constructively is a challenge faced by all organizations and most individuals. This course will cover fundamentals of the negotiation process and conflict resolution. This course will apply multiple cases and simulations providing students with several opportunities to build their skills.</p>",
+        "prerequisite": "IRE260H1 and 0.5 IRE/IRW credit at the 300+ level",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-354043": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "354043",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "9482344": {
+                        "instructorId": "9482344",
+                        "firstName": "B",
+                        "lastName": "Thompson"
+                    }
+                },
+                "meetingId": "224568",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "30",
+                "actualWaitlist": "8",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "December 1, 2022: Course added. ",
                 "enrollmentControls": [
                     {
                         "postId": "116",

@@ -37,8 +37,8 @@
                     }
                 },
                 "instructors": {
-                    "8881780": {
-                        "instructorId": "8881780",
+                    "9479620": {
+                        "instructorId": "9479620",
                         "firstName": "A",
                         "lastName": "Muhonen"
                     }
@@ -52,7 +52,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "9",
+                "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -98,8 +98,8 @@
                     }
                 },
                 "instructors": {
-                    "8883595": {
-                        "instructorId": "8883595",
+                    "9482099": {
+                        "instructorId": "9482099",
                         "firstName": "A",
                         "lastName": "Muhonen"
                     }
@@ -113,7 +113,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "4",
+                "actualEnrolment": "8",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -141,18 +141,26 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-331083": {
-                        "meetingDay": "MO",
-                        "meetingStartTime": "13:00",
-                        "meetingEndTime": "16:00",
-                        "meetingScheduleId": "331083",
-                        "assignedRoom1": "AH 402",
+                    "WE-347661": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "347661",
+                        "assignedRoom1": "MY 317",
+                        "assignedRoom2": null
+                    },
+                    "TH-347662": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "347662",
+                        "assignedRoom1": "SS 2104",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8881781": {
-                        "instructorId": "8881781",
+                    "9479621": {
+                        "instructorId": "9479621",
                         "firstName": "A",
                         "lastName": "Muhonen"
                     }
@@ -169,7 +177,7 @@
                 "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "September 8, 2022: Day/Time change.",
                 "enrollmentControls": []
             }
         }
@@ -194,18 +202,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-330640": {
+                    "WE-347924": {
                         "meetingDay": "WE",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "330640",
-                        "assignedRoom1": "CR 403",
+                        "meetingScheduleId": "347924",
+                        "assignedRoom1": "MY 440",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8881782": {
-                        "instructorId": "8881782",
+                    "9479622": {
+                        "instructorId": "9479622",
                         "firstName": "A",
                         "lastName": "Muhonen"
                     }
@@ -218,11 +226,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "50",
-                "actualEnrolment": "14",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "18",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "September 13, 2022: room change",
                 "enrollmentControls": []
             }
         }
@@ -257,8 +265,8 @@
                     }
                 },
                 "instructors": {
-                    "8883596": {
-                        "instructorId": "8883596",
+                    "9482100": {
+                        "instructorId": "9482100",
                         "firstName": "A",
                         "lastName": "Muhonen"
                     }
@@ -272,7 +280,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "20",
-                "actualEnrolment": "4",
+                "actualEnrolment": "10",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "June 15, 2022: Course added.",
@@ -310,8 +318,8 @@
                     }
                 },
                 "instructors": {
-                    "8883597": {
-                        "instructorId": "8883597",
+                    "9482101": {
+                        "instructorId": "9482101",
                         "firstName": "A",
                         "lastName": "Muhonen"
                     }
@@ -325,7 +333,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "15",
-                "actualEnrolment": "3",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "August 11, 2022: room change.",

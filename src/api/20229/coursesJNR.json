@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9480161": {
+                        "instructorId": "9480161",
+                        "firstName": "M",
+                        "lastName": "Ium"
+                    }
+                },
                 "meetingId": "213950",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,7 +44,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "85",
-                "actualEnrolment": "30",
+                "actualEnrolment": "38",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",

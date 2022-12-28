@@ -64,8 +64,31 @@ export class CourseListComponent implements OnInit {
   private getScreenWidth: number = 800;
   private getScreenHeight: number = 800;
   roomsVisible: boolean = true;
+  private _spaceVisible: boolean = false;
+  public get spaceVisible(): boolean {
+    return this._spaceVisible;
+  }
+  public set spaceVisible(value: boolean) {
+    this._spaceVisible = value;
+    if(value){
+      // this.displayedColumns.push("space");
+      let s1 = this.displayedColumns.slice(0, 4);
+      let s2 = this.displayedColumns.splice(4, this.displayedColumns.length);
+      s1.push('space')
+      s1.push(...s2);
+      this.displayedColumns = s1;
+    } else {
+      let tmp = this.displayedColumns.indexOf("space");
+      if(tmp !== undefined && tmp !== null){
+        this.displayedColumns.splice(tmp, 1);
+      }
+    }
+  }
   toggleRooms(){
     this.roomsVisible = !this.roomsVisible;
+  }
+  toggleSpace(){
+    this.spaceVisible = !this.spaceVisible;
   }
 
   constructor(
@@ -371,7 +394,7 @@ export class CourseListComponent implements OnInit {
       this.roomsVisible = false;
       console.log("The screen is small");
     } else if (this.smallScreen && this.getScreenWidth >= 768) {
-      this.displayedColumns = ['chosen', 'lectureCode', 'instructor', 'time', 'space', 'deliveryMode'];
+      this.displayedColumns = ['chosen', 'lectureCode', 'instructor', 'time', 'deliveryMode'];
       this.smallScreen = false;
       this.delivHead = "DELIVERY";
       console.log("Screen small no more");

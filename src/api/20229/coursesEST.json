@@ -36,7 +36,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9479592": {
+                        "instructorId": "9479592",
+                        "firstName": "M",
+                        "lastName": "Toomsalu"
+                    }
+                },
                 "meetingId": "212580",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -91,7 +97,13 @@
                         "assignedRoom2": "TF 103"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9482069": {
+                        "instructorId": "9482069",
+                        "firstName": "M",
+                        "lastName": "Toomsalu"
+                    }
+                },
                 "meetingId": "212581",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -101,7 +113,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "2",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -128,38 +140,15 @@
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-5101": {
-                "schedule": {
-                    "MO-342552": {
-                        "meetingDay": "MO",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "19:00",
-                        "meetingScheduleId": "342552",
-                        "assignedRoom1": "AH 306",
-                        "assignedRoom2": null
-                    },
-                    "TH-342553": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "19:00",
-                        "meetingScheduleId": "342553",
-                        "assignedRoom1": "AH 306",
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "219670",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "25",
-                "actualEnrolment": "3",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "September 8, 2022",
                 "enrollmentControls": []
             }
         }
@@ -183,38 +172,15 @@
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-5101": {
-                "schedule": {
-                    "MO-342554": {
-                        "meetingDay": "MO",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "19:00",
-                        "meetingScheduleId": "342554",
-                        "assignedRoom1": null,
-                        "assignedRoom2": "AH 306"
-                    },
-                    "TH-342555": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "19:00",
-                        "meetingScheduleId": "342555",
-                        "assignedRoom1": null,
-                        "assignedRoom2": "AH 306"
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "219673",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "25",
-                "actualEnrolment": "3",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "September 8, 2022",
                 "enrollmentControls": []
             }
         }

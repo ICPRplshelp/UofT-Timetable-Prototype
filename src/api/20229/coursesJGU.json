@@ -29,8 +29,8 @@
                     }
                 },
                 "instructors": {
-                    "8883802": {
-                        "instructorId": "8883802",
+                    "9482364": {
+                        "instructorId": "9482364",
                         "firstName": "S",
                         "lastName": "Amrov"
                     }
@@ -44,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "200",
-                "actualEnrolment": "71",
+                "actualEnrolment": "114",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -208,16 +208,22 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TH-324721": {
+                    "TH-348096": {
                         "meetingDay": "TH",
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "14:00",
-                        "meetingScheduleId": "324721",
+                        "meetingScheduleId": "348096",
                         "assignedRoom1": "SS 2108",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9480153": {
+                        "instructorId": "9480153",
+                        "firstName": "Y",
+                        "lastName": "Geva"
+                    }
+                },
                 "meetingId": "213928",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -226,11 +232,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "70",
-                "actualEnrolment": "70",
-                "actualWaitlist": "7",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "63",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,

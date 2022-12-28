@@ -75,6 +75,12 @@
                                 {{ errMessage }}
                             </div>
                             <div>
+                                <p>
+                                    This app contains data from UofT's old Arts and Science timetable as well
+                                    as a visual timetable. Access the updated version of this app <a href="https://icprplshelp.github.io/UofT-Timetable-Prototype-V2/">HERE</a>, which contains more faculities and information on each course.
+
+                                </p>
+
                                 <p>Search for a course designator (first 3 letters of a course code), or multiple
                                     seperated by commas,
                                     up to a maximum of four. There is no option to search an individual course or search
@@ -83,6 +89,9 @@
                                     <code>ENG, CHM, BIO</code>.</p>
                                 <p>Here are some notes:</p>
                                 <ul style="padding: 20px">
+                                    <li>
+                                        <a href="https://timetable.iit.artsci.utoronto.ca/">Source of course information</a>
+                                    </li>
                                     <li>If you don&#39;t know what an icon does, hover over it to see what it means.
                                     </li>
                                     <li>Click on the <strong>top part (colored)</strong> of a course card to show its
@@ -258,7 +267,7 @@
                                                 <div *ngIf="course.exclusion.length != 0">
                                                     <div class="prq" matTooltipPosition="left"
                                                          [matTooltipShowDelay]="200"
-                                                         matTooltip="If you've passed or are concurrently taking any of these courses you can't recieve credit for this one, but you can take any of these courses after taking this one IF the course you wish to take does not list this one as an exclusion">
+                                                         matTooltip="If you've passed any of these courses, taking this course will cause it to be designated EXTRA. If you're concurrently taking any of them together, the course with the lower mark will be designated EXTRA. EXTRA does not count towards you GPA or the 20 credits needed to graduate.">
                                                         Exclusion
                                                     </div>
                                                     <div [innerHTML]="course.exclusion"></div>

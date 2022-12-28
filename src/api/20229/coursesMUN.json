@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9480382": {
+                        "instructorId": "9480382",
+                        "firstName": "J",
+                        "lastName": "Wong"
+                    }
+                },
                 "meetingId": "214980",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "20",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": "August 2, 2022: room change. ",
@@ -130,7 +136,13 @@
                         "assignedRoom2": "MY 430"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9482547": {
+                        "instructorId": "9482547",
+                        "firstName": "D",
+                        "lastName": "Kingsbury"
+                    }
+                },
                 "meetingId": "214981",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -140,7 +152,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "20",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -177,7 +189,13 @@
                         "assignedRoom2": "OI 5230"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9480383": {
+                        "instructorId": "9480383",
+                        "firstName": "D",
+                        "lastName": "Kingsbury"
+                    }
+                },
                 "meetingId": "214982",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -187,7 +205,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "20",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -270,18 +288,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "WE-345654": {
+                    "WE-348595": {
                         "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "345654",
+                        "meetingScheduleId": "348595",
                         "assignedRoom1": null,
                         "assignedRoom2": "WB 130"
                     }
                 },
                 "instructors": {
-                    "8883958": {
-                        "instructorId": "8883958",
+                    "9482548": {
+                        "instructorId": "9482548",
                         "firstName": "D",
                         "lastName": "Ornston"
                     }
@@ -295,7 +313,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "65",
+                "actualEnrolment": "57",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "July 15, 2022: Course added.",
@@ -472,33 +490,6 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "2",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "94",
-                        "postCode": "ASMAJ1228",
-                        "postName": "MA PEACE, CONFLICT & JUSTICE",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
                         "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -544,6 +535,60 @@
                         "adminOrgName": null
                     },
                     {
+                        "postId": "94",
+                        "postCode": "ASMAJ1228",
+                        "postName": "MA PEACE, CONFLICT & JUSTICE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "666",
+                        "postCode": "ASMAJ1626",
+                        "postName": "MA EUROPEAN AFFAIRS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
                         "postId": "666",
                         "postCode": "ASMAJ1626",
                         "postName": "MA EUROPEAN AFFAIRS",
@@ -581,33 +626,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "4",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "666",
-                        "postCode": "ASMAJ1626",
-                        "postName": "MA EUROPEAN AFFAIRS",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -877,33 +895,6 @@
                         "designationId": null,
                         "designationCode": null,
                         "designationName": null,
-                        "yearOfStudy": "2",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "200",
-                        "postCode": "ASMIN1333",
-                        "postName": "MI SOUTH ASIAN STUDIES",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
                         "yearOfStudy": "3",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
@@ -949,6 +940,60 @@
                         "adminOrgName": null
                     },
                     {
+                        "postId": "200",
+                        "postCode": "ASMIN1333",
+                        "postName": "MI SOUTH ASIAN STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "667",
+                        "postCode": "ASMIN1626",
+                        "postName": "MI EUROPEAN AFFAIRS",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
                         "postId": "667",
                         "postCode": "ASMIN1626",
                         "postName": "MI EUROPEAN AFFAIRS",
@@ -986,33 +1031,6 @@
                         "designationCode": null,
                         "designationName": null,
                         "yearOfStudy": "3",
-                        "typeOfProgramId": null,
-                        "typeOfProgramCode": null,
-                        "typeOfProgramName": null,
-                        "primaryOrgId": null,
-                        "primaryOrgCode": null,
-                        "primaryOrgName": null,
-                        "secondaryOrgId": null,
-                        "secondaryOrgCode": null,
-                        "secondaryOrgName": null,
-                        "assocOrgId": null,
-                        "assocOrgCode": null,
-                        "assocOrgName": null,
-                        "adminOrgId": null,
-                        "adminOrgCode": null,
-                        "adminOrgName": null
-                    },
-                    {
-                        "postId": "667",
-                        "postCode": "ASMIN1626",
-                        "postName": "MI EUROPEAN AFFAIRS",
-                        "subjectId": null,
-                        "subjectCode": null,
-                        "subjectName": null,
-                        "designationId": null,
-                        "designationCode": null,
-                        "designationName": null,
-                        "yearOfStudy": "2",
                         "typeOfProgramId": null,
                         "typeOfProgramCode": null,
                         "typeOfProgramName": null,
@@ -1114,11 +1132,11 @@
             },
             "TUT-0101": {
                 "schedule": {
-                    "WE-345973": {
+                    "WE-348602": {
                         "meetingDay": "WE",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "345973",
+                        "meetingScheduleId": "348602",
                         "assignedRoom1": null,
                         "assignedRoom2": "BA 2165"
                     }
@@ -1132,8 +1150,8 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "40",
-                "actualEnrolment": "32",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -1141,11 +1159,11 @@
             },
             "TUT-0102": {
                 "schedule": {
-                    "WE-345974": {
+                    "WE-348593": {
                         "meetingDay": "WE",
                         "meetingStartTime": "16:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "345974",
+                        "meetingScheduleId": "348593",
                         "assignedRoom1": null,
                         "assignedRoom2": "BA B024"
                     }
@@ -1159,11 +1177,38 @@
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "40",
-                "actualEnrolment": "14",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "12",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "WE-348591": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "348591",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "221022",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "October 28, 2022: Section added",
                 "enrollmentControls": []
             }
         }

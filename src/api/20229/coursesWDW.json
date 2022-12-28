@@ -36,7 +36,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9481391": {
+                        "instructorId": "9481391",
+                        "firstName": "B",
+                        "lastName": "Fischer"
+                    }
+                },
                 "meetingId": "217691",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -47,7 +53,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "9",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -180,7 +186,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9481392": {
+                        "instructorId": "9481392",
+                        "firstName": "B",
+                        "lastName": "Fischer"
+                    }
+                },
                 "meetingId": "217692",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0201",
@@ -190,8 +202,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "25",
-                "actualWaitlist": "5",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -243,7 +255,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9481393": {
+                        "instructorId": "9481393",
+                        "firstName": "B",
+                        "lastName": "Fischer"
+                    }
+                },
                 "meetingId": "217693",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0301",
@@ -253,8 +271,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "25",
-                "actualWaitlist": "5",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -298,7 +316,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9481394": {
+                        "instructorId": "9481394",
+                        "firstName": "J",
+                        "lastName": "Johnson"
+                    }
+                },
                 "meetingId": "217694",
                 "teachingMethod": "LEC",
                 "sectionNumber": "2000",
@@ -308,7 +332,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -381,7 +405,13 @@
                         "assignedRoom2": "WW 126"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9483310": {
+                        "instructorId": "9483310",
+                        "firstName": "R",
+                        "lastName": "Callebert"
+                    }
+                },
                 "meetingId": "217695",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -392,7 +422,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "0",
+                "actualWaitlist": "3",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -525,7 +555,13 @@
                         "assignedRoom2": "WW 120"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9483311": {
+                        "instructorId": "9483311",
+                        "firstName": "R",
+                        "lastName": "Callebert"
+                    }
+                },
                 "meetingId": "217696",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0201",
@@ -536,7 +572,7 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "0",
+                "actualWaitlist": "1",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -588,7 +624,13 @@
                         "assignedRoom2": "WW 120"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9483312": {
+                        "instructorId": "9483312",
+                        "firstName": "R",
+                        "lastName": "Callebert"
+                    }
+                },
                 "meetingId": "217697",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0301",
@@ -643,7 +685,13 @@
                         "assignedRoom2": "WW 119"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9483313": {
+                        "instructorId": "9483313",
+                        "firstName": "J",
+                        "lastName": "Johnson"
+                    }
+                },
                 "meetingId": "217698",
                 "teachingMethod": "LEC",
                 "sectionNumber": "2000",
@@ -653,7 +701,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -709,16 +757,22 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-335115": {
+                    "TU-347740": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "335115",
-                        "assignedRoom1": "SS 561",
+                        "meetingScheduleId": "347740",
+                        "assignedRoom1": "RW 109",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9481395": {
+                        "instructorId": "9481395",
+                        "firstName": "P",
+                        "lastName": "Bohorquez"
+                    }
+                },
                 "meetingId": "220064",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -731,7 +785,7 @@
                 "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "September 9, 2022: Room Changed.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -820,7 +874,13 @@
                         "assignedRoom2": "WW 119"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9483314": {
+                        "instructorId": "9483314",
+                        "firstName": "B",
+                        "lastName": "MacDonald"
+                    }
+                },
                 "meetingId": "217701",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

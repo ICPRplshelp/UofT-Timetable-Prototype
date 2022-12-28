@@ -119,8 +119,7 @@
                                                     </div>
                                                     <div class="meeting-time">
                                                         <div class="vert-center">
-                                                            {{trimTimes(meeting.meetingStartTime)}}
-                                                            -{{trimTimes(meeting.meetingEndTime)}}
+                                                            {{trimTimes(meeting.meetingStartTime)}}-{{trimTimes(meeting.meetingEndTime)}}
                                                         </div>
                                                     </div>
                                                     <div
@@ -196,12 +195,12 @@
 
 <mat-dialog-actions align="end">
 
-    <button id="fth" type="button" mat-button (click)="toggleRooms()">
-
+    <button id="fth" type="button" mat-button (click)="toggleSpace()">
+        Toggle Space
     </button>
 
     <button id="third" type="button" mat-button (click)="toggleRooms()">
-        Toggle rooms
+        Toggle Rooms
     </button>
 
     <button id="closer" mat-button mat-dialog-close="">Close</button>

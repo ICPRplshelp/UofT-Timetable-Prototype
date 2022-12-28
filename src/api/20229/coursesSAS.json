@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9481120": {
+                        "instructorId": "9481120",
+                        "firstName": "L",
+                        "lastName": "Naeem"
+                    }
+                },
                 "meetingId": "216955",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,8 +44,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "40",
-                "actualWaitlist": "1",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -76,8 +82,8 @@
                     }
                 },
                 "instructors": {
-                    "8882873": {
-                        "instructorId": "8882873",
+                    "9481121": {
+                        "instructorId": "9481121",
                         "firstName": "B",
                         "lastName": "Punjabi"
                     }
@@ -91,7 +97,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "17",
+                "actualEnrolment": "14",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "June 24, 2022: Term/Day changed.",

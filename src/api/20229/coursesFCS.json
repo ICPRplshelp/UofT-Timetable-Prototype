@@ -28,7 +28,13 @@
                         "assignedRoom2": "CR 405"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "9482097": {
+                        "instructorId": "9482097",
+                        "firstName": "C",
+                        "lastName": "Taban"
+                    }
+                },
                 "meetingId": "212665",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,8 +44,8 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "58",
-                "actualWaitlist": "0",
+                "actualEnrolment": "60",
+                "actualWaitlist": "3",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -76,8 +82,8 @@
                     }
                 },
                 "instructors": {
-                    "8881777": {
-                        "instructorId": "8881777",
+                    "9479617": {
+                        "instructorId": "9479617",
                         "firstName": "M",
                         "lastName": "Visoi"
                     }
@@ -91,7 +97,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "20",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,
@@ -147,18 +153,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-317093": {
+                    "TU-348161": {
                         "meetingDay": "TU",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "317093",
-                        "assignedRoom1": "CR 107",
+                        "meetingScheduleId": "348161",
+                        "assignedRoom1": "TF 201",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "8881778": {
-                        "instructorId": "8881778",
+                    "9479618": {
+                        "instructorId": "9479618",
                         "firstName": "R",
                         "lastName": "Saverino"
                     }
@@ -175,7 +181,7 @@
                 "actualEnrolment": "22",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "September 19, 2022: room changed",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -228,18 +234,18 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "MO-317097": {
+                    "MO-348763": {
                         "meetingDay": "MO",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "19:00",
-                        "meetingScheduleId": "317097",
+                        "meetingScheduleId": "348763",
                         "assignedRoom1": null,
-                        "assignedRoom2": "CR 107"
+                        "assignedRoom2": "CR 406"
                     }
                 },
                 "instructors": {
-                    "8883594": {
-                        "instructorId": "8883594",
+                    "9482098": {
+                        "instructorId": "9482098",
                         "firstName": "M",
                         "lastName": "Friesner"
                     }
@@ -254,9 +260,9 @@
                 "online": "In Person",
                 "enrollmentCapacity": "25",
                 "actualEnrolment": "25",
-                "actualWaitlist": "2",
+                "actualWaitlist": "4",
                 "enrollmentIndicator": "R1",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "November 17, 2022: Room changed.",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -319,8 +325,8 @@
                     }
                 },
                 "instructors": {
-                    "8881779": {
-                        "instructorId": "8881779",
+                    "9479619": {
+                        "instructorId": "9479619",
                         "firstName": "M",
                         "lastName": "Visoi"
                     }
@@ -335,8 +341,8 @@
                 "online": "Online Asynchronous",
                 "contactHours": "2.0",
                 "enrollmentCapacity": "70",
-                "actualEnrolment": "70",
-                "actualWaitlist": "16",
+                "actualEnrolment": "54",
+                "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []

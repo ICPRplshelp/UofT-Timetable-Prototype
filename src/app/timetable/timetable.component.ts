@@ -46,8 +46,16 @@ export class TimetableComponent implements OnInit {
   // Prevents the option to search up every course in existence
   disallowMaster: boolean = true;
   storedSessions = {
+    "Fall 2016 - Winter 2017": "20169",
+    "Summer 2017": "20175",
+    "Fall 2017 - Winter 2018": "20179",
+    "Summer 2018": "20185",
+    "Fall 2018 - Winter 2019": "20189",
+    "Summer 2019": "20195",
     "Fall 2019 - Winter 2020": "20199",
+    "Summer 2020": "20205",
      "Fall 2020 - Winter 2021": "20209",
+     "Summer 2021": "20215",
      "Fall 2021 - Winter 2022":"20219",
      "Summer 2022":"20225",
      "Fall 2022 - Winter 2023":"20229",

@@ -25,12 +25,13 @@ export class ScheduleComponent implements OnInit {
   tNames: string[] = [];
   sessions: number[] = [0, 1];
   bgColors: string[] = [
-          '#3CABB5',
+          
           '#6E4DBC',
           '#1C996F',
           '#D1543B',
           '#C94973',
           '#D48A35',
+          '#3CABB5',
           '#48ce00',
           '#a622d3',
           '#2d89d3',
@@ -82,7 +83,7 @@ export class ScheduleComponent implements OnInit {
 
     this.tNames = te2;
     console.log(te1);
-    this.table = te1.slice(8, 22);
+    this.table = te1.slice(9, 22);
 
     this.totalTArray = [this.tableFall, this.table];
     this.totalNArray = [this.tNamesFall, this.tNames];
