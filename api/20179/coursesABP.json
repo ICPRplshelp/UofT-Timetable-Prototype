@@ -1,0 +1,83 @@
+{
+    "ABP100Y1-Y-20179": {
+        "courseId": "9401",
+        "org": "WDW",
+        "orgName": "Woodsworth College (WDW) (ABP) (DHU)",
+        "courseTitle": "Intro to Academic Studies",
+        "code": "ABP100Y1",
+        "courseDescription": "",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20179",
+        "webTimetableInstructions": "This course is available only to students in the Academic Bridging Program. For more information, please contact: Woodsworth College 119 St. George Street, Room 220. For office hours please check the program website. Phone: 416-978-4444 | academic.bridging@utoronto.ca | www.wdw.utoronto.ca",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-73974": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "73974",
+                        "assignedRoom1": "WW 121",
+                        "assignedRoom2": "WW 121"
+                    }
+                },
+                "instructors": {
+                    "2413849": {
+                        "instructorId": "2413849",
+                        "firstName": "C",
+                        "lastName": "Shook"
+                    }
+                },
+                "meetingId": "15342",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "28",
+                        "postCode": "AS   NDEGB",
+                        "postName": "Academic Bridging Program",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

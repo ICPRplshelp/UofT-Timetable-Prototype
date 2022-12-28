@@ -1,0 +1,1362 @@
+{
+    "APM236H1-F-20169": {
+        "courseId": "106",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Applications of Linear Programming",
+        "code": "APM236H1",
+        "courseDescription": "<p>Introduction to linear programming including a rapid review of linear algebra (row reduction, matrix inversion, linear independence), the simplex method with applications, the duality theorem, complementary slackness, the dual simplex method and the revised simplex method.&nbsp; Note: this course does not involve computer programming (despite the course's name).</p>",
+        "prerequisite": "MAT221H1/MAT223H1/MAT240H1 (Note: no waivers of prerequisites will be granted)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39024": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39024",
+                        "assignedRoom1": "MB 128",
+                        "assignedRoom2": null
+                    },
+                    "WE-39025": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39025",
+                        "assignedRoom1": "MB 128",
+                        "assignedRoom2": null
+                    },
+                    "FR-39023": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39023",
+                        "assignedRoom1": "MB 128",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1219965": {
+                        "instructorId": "1219965",
+                        "firstName": "M",
+                        "lastName": "Sourisseau"
+                    }
+                },
+                "meetingId": "187",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "196",
+                "actualEnrolment": "93",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-38588": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38588",
+                        "assignedRoom1": "HA 401",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14927",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-38589": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "38589",
+                        "assignedRoom1": "HA 401",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14928",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "FR-38590": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38590",
+                        "assignedRoom1": "HA 401",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14929",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "FR-38592": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "38592",
+                        "assignedRoom1": "HA 401",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14930",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "46",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM236H1-S-20169": {
+        "courseId": "106",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Applications of Linear Programming",
+        "code": "APM236H1",
+        "courseDescription": "<p>Introduction to linear programming including a rapid review of linear algebra (row reduction, matrix inversion, linear independence), the simplex method with applications, the duality theorem, complementary slackness, the dual simplex method and the revised simplex method.&nbsp; Note: this course does not involve computer programming (despite the course's name).</p>",
+        "prerequisite": "MAT221H1/MAT223H1/MAT240H1 (Note: no waivers of prerequisites will be granted)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-47378": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "47378",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NL 6"
+                    }
+                },
+                "instructors": {
+                    "1219966": {
+                        "instructorId": "1219966",
+                        "firstName": "M",
+                        "lastName": "Sourisseau"
+                    }
+                },
+                "meetingId": "188",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "64",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Dec. 8, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-44174": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "44174",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 163"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14925",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-38587": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38587",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "UC 163"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14926",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "45",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM306Y1-Y-20169": {
+        "courseId": "107",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Mathematics and Law",
+        "code": "APM306Y1",
+        "courseDescription": "<p>This course examines the relationship between legal reasoning and mathematical logic; provides a mathematical perspective on the legal treatment of interest and actuarial present value; critiques ethical issues; analyzes how search engine techniques on massive databases transform legal research and considers the impact of statistical analysis and game theory on litigation strategies.</p>",
+        "prerequisite": "(MAT135H1/MAT136H1)/MAT137Y1/MAT157Y1, MAT221H1/MAT223H1/MAT240H1",
+        "corequisite": "",
+        "exclusion": "JUM206Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5), Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39029": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39029",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "AB 114"
+                    }
+                },
+                "instructors": {
+                    "1219967": {
+                        "instructorId": "1219967",
+                        "firstName": "N",
+                        "lastName": "Derzko"
+                    }
+                },
+                "meetingId": "189",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM346H1-F-20169": {
+        "courseId": "108",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Partial Differential Equations",
+        "code": "APM346H1",
+        "courseDescription": "<p>Sturm-Liouville problems, Green's functions, special functions (Bessel, Legendre), partial differential equations of second order, separation of variables, integral equations, Fourier transform, stationary phase method.</p>",
+        "prerequisite": "MAT235Y1/MAT237Y1/MAT257Y1, MAT244H1/MAT267H1",
+        "corequisite": "",
+        "exclusion": "MAT351Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45930": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45930",
+                        "assignedRoom1": "KP 108",
+                        "assignedRoom2": null
+                    },
+                    "TH-45931": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45931",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1219968": {
+                        "instructorId": "1219968",
+                        "firstName": "J",
+                        "lastName": "Korman"
+                    }
+                },
+                "meetingId": "190",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "94",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Students in LEC0101 must select either TUT0101 or TUT0301",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "WE-45933": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "45933",
+                        "assignedRoom1": "MC 252",
+                        "assignedRoom2": null
+                    },
+                    "TH-45932": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "45932",
+                        "assignedRoom1": "MC 252",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1219969": {
+                        "instructorId": "1219969",
+                        "firstName": "V",
+                        "lastName": "Ivrii"
+                    }
+                },
+                "meetingId": "191",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "54",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Students in LEC5101 must select either TUT0201 or TUT5101",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-45938": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45938",
+                        "assignedRoom1": "BA 1200",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14918",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "57",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-45935": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45935",
+                        "assignedRoom1": "BA 1240",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14919",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in L5101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-45939": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45939",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14920",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-45937": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45937",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14921",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC5101 only",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM346H1-S-20169": {
+        "courseId": "108",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Partial Differential Equations",
+        "code": "APM346H1",
+        "courseDescription": "<p>Sturm-Liouville problems, Green's functions, special functions (Bessel, Legendre), partial differential equations of second order, separation of variables, integral equations, Fourier transform, stationary phase method.</p>",
+        "prerequisite": "MAT235Y1/MAT237Y1/MAT257Y1, MAT244H1/MAT267H1",
+        "corequisite": "",
+        "exclusion": "MAT351Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-39032": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39032",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    },
+                    "TH-39033": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39033",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    }
+                },
+                "instructors": {
+                    "1219970": {
+                        "instructorId": "1219970",
+                        "firstName": "M",
+                        "lastName": "Niksirat"
+                    }
+                },
+                "meetingId": "192",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-38583": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "38583",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 1072"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14922",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-38584": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38584",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 1072"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14923",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-38585": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38585",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 118"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14924",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM421H1-F-20169": {
+        "courseId": "110",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Mathematical Foundations of Quantum Mechanics",
+        "code": "APM421H1",
+        "courseDescription": "<p>Key concepts and mathematical structure of Quantum Mechanics, with applications to topics of current interest such as quantum information theory. The core part of the course covers the following topics: Schroedinger equation, quantum observables, spectrum and evolution, motion in electro-magnetic field, angular momentum and O(3) and SU(2) groups, spin and statistics, semi-classical asymptotics, perturbation theory. More advanced topics may include: adiabatic theory and geometrical phases, Hartree-Fock theory, Bose-Einstein condensation, the second quantization, density matrix and quantum statistics, open systems and Lindblad evolution, quantum entropy, quantum channels, quantum Shannon theorems.</p>",
+        "prerequisite": "(MAT224H1, MAT337H1)/MAT357H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45028": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45028",
+                        "assignedRoom1": "BA 2135",
+                        "assignedRoom2": null
+                    },
+                    "TH-45029": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45029",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1219971": {
+                        "instructorId": "1219971",
+                        "firstName": "I",
+                        "lastName": "Sigal"
+                    }
+                },
+                "meetingId": "194",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 22, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM426H1-S-20169": {
+        "courseId": "2731",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "General Relativity",
+        "code": "APM426H1",
+        "courseDescription": "<p>Einstein's theory of gravity. Special relativity and the geometry of Lorentz manifolds. Gravity as a manifestation of spacetime curvature. Einstein's equations. Cosmological implications: big bang and inflationary universe. Schwarzschild stars: bending of light and perihelion precession of Mercury. Topics from black hole dynamics and gravitational waves. The Penrose singularity theorem.</p>",
+        "prerequisite": "MAT363H1/MAT367H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41730": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41730",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA B024"
+                    },
+                    "WE-41731": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41731",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA B024"
+                    }
+                },
+                "instructors": {
+                    "1219972": {
+                        "instructorId": "1219972",
+                        "firstName": "S",
+                        "lastName": "Aretakis"
+                    }
+                },
+                "meetingId": "14975",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM441H1-F-20169": {
+        "courseId": "111",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Asymptotic and Perturbation Methods",
+        "code": "APM441H1",
+        "courseDescription": "<p>Asymptotic series. Asymptotic methods for integrals: stationary phase and steepest descent. Regular perturbations for algebraic and differential equations. Singular perturbation methods for ordinary differential equations: W.K.B., strained co-ordinates, matched asymptotics, multiple scales. (Emphasizes techniques; problems drawn from physics and engineering)</p>",
+        "prerequisite": "APM346H1/MAT351Y1, MAT334H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46086": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46086",
+                        "assignedRoom1": "HU 1018",
+                        "assignedRoom2": null
+                    },
+                    "TH-46087": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46087",
+                        "assignedRoom1": "HU 1018",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1219973": {
+                        "instructorId": "1219973",
+                        "firstName": "C",
+                        "lastName": "Sulem"
+                    }
+                },
+                "meetingId": "14449",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM446H1-S-20169": {
+        "courseId": "112",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Applied Nonlinear Equations",
+        "code": "APM446H1",
+        "courseDescription": "<p>Partial differential equations appearing in physics, material sciences, biology, geometry, and engineering. Nonlinear evolution equations. Existence and long-time behaviour of solutions. Existence of static, traveling wave, self-similar, topological and localized solutions. Stability. Formation of singularities and pattern formation. Fixed point theorems, spectral analysis, bifurcation theory. Equations considered in this course may include: Allen-Cahn equation (material science), Ginzburg-Landau equation (condensed matter physics), Cahn-Hilliard (material science, biology), nonlinear Schroedinger equation (quantum and plasma physics, water waves, etc). mean curvature flow (geometry, material sciences), Fisher-Kolmogorov-Petrovskii-Piskunov (combustion theory, biology), Keller-Segel equations (biology), and Chern-Simmons equations (particle and condensed matter physics).</p>",
+        "prerequisite": "APM346H1/MAT351Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-36055": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36055",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2135"
+                    },
+                    "FR-36056": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "36056",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2135"
+                    }
+                },
+                "instructors": {
+                    "1219974": {
+                        "instructorId": "1219974",
+                        "firstName": "I",
+                        "lastName": "Sigal"
+                    }
+                },
+                "meetingId": "196",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TH-38290": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38290",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "BA 2135"
+                    },
+                    "FR-38291": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38291",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "BA 2135"
+                    }
+                },
+                "instructors": {
+                    "1219975": {
+                        "instructorId": "1219975",
+                        "firstName": "I",
+                        "lastName": "Sigal"
+                    }
+                },
+                "meetingId": "14888",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "APM461H1-S-20169": {
+        "courseId": "113",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Combinatorial Methods",
+        "code": "APM461H1",
+        "courseDescription": "<p>A selection of topics from such areas as graph theory, combinatorial algorithms, enumeration, construction of combinatorial identities.</p>",
+        "prerequisite": "MAT224H1/MAT247H1, MAT137Y1/MAT157Y1, MAT301H1/MAT347Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT344H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-36733": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "36733",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    },
+                    "TH-36734": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36734",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    },
+                    "TH-36735": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36735",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    }
+                },
+                "instructors": {
+                    "1219976": {
+                        "instructorId": "1219976",
+                        "firstName": "A",
+                        "lastName": "Nabutovsky"
+                    }
+                },
+                "meetingId": "197",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM462H1-F-20169": {
+        "courseId": "114",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Nonlinear Optimization",
+        "code": "APM462H1",
+        "courseDescription": "<p>An introduction to first and second order conditions for finite and infinite dimensional optimization problems with mention of available software. Topics include Lagrange multipliers, Kuhn-Tucker conditions, convexity and calculus variations. Basic numerical search methods and software packages which implement them will be discussed.</p>",
+        "prerequisite": "MAT223H1, MAT224H1, MAT235Y1,",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT336H1/MAT337H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-36057": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36057",
+                        "assignedRoom1": "SS 2102",
+                        "assignedRoom2": null
+                    },
+                    "TU-36058": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36058",
+                        "assignedRoom1": "FG 103",
+                        "assignedRoom2": null
+                    },
+                    "FR-36059": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36059",
+                        "assignedRoom1": "FG 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1219977": {
+                        "instructorId": "1219977",
+                        "firstName": "S",
+                        "lastName": "Alexakis"
+                    }
+                },
+                "meetingId": "14291",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM462H1-S-20169": {
+        "courseId": "114",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Nonlinear Optimization",
+        "code": "APM462H1",
+        "courseDescription": "<p>An introduction to first and second order conditions for finite and infinite dimensional optimization problems with mention of available software. Topics include Lagrange multipliers, Kuhn-Tucker conditions, convexity and calculus variations. Basic numerical search methods and software packages which implement them will be discussed.</p>",
+        "prerequisite": "MAT223H1, MAT224H1, MAT235Y1,",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT336H1/MAT337H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-39051": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "39051",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    }
+                },
+                "instructors": {
+                    "1219978": {
+                        "instructorId": "1219978",
+                        "firstName": "A",
+                        "lastName": "Nachman"
+                    }
+                },
+                "meetingId": "198",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "154",
+                "actualEnrolment": "128",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM466H1-S-20169": {
+        "courseId": "115",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Mathematical Theory of Finance",
+        "code": "APM466H1",
+        "courseDescription": "<p>Introduction to the basic mathematical techniques in pricing theory and risk management: Stochastic calculus, single-period finance, financial derivatives (tree-approximation and Black-Scholes model for equity derivatives, American derivatives, numerical methods, lattice models for interest-rate derivatives), value at risk, credit risk, portfolio theory.</p>",
+        "prerequisite": "APM346H1, STA347H1",
+        "corequisite": "STA457H1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39054": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39054",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2118"
+                    }
+                },
+                "instructors": {
+                    "1219979": {
+                        "instructorId": "1219979",
+                        "firstName": "L",
+                        "lastName": "Seco"
+                    }
+                },
+                "meetingId": "199",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "72",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-38292": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38292",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 2118"
+                    }
+                },
+                "instructors": {
+                    "1219980": {
+                        "instructorId": "1219980",
+                        "firstName": "L",
+                        "lastName": "Seco"
+                    }
+                },
+                "meetingId": "14889",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "8",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "APM496H1-F-20169": {
+        "courseId": "116",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Independent Readings in Applied Matematics",
+        "code": "APM496H1",
+        "courseDescription": "<p>Independent study under the direction of a faculty member. Topic must be outside current undergraduate offerings. Similar workload to a course that has 36 lecture hours. &nbsp;Not eligible for CR/NCR option.</p>",
+        "prerequisite": "minimum GPA 3.5 for APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: Contact Donna Birch, Rm 6290 at the Bahen Centre, 40 St. George Street | Phone: 416-978-5082 | Email: dbirch@math.utoronto.ca",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1219981": {
+                        "instructorId": "1219981",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "200",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

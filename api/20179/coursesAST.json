@@ -1,0 +1,2735 @@
+{
+    "AST101H1-F-20179": {
+        "courseId": "9618",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "The Sun and Its Neighbours",
+        "code": "AST101H1",
+        "courseDescription": "Our place in the Universe. Phenomena we see in the sky. What we know about the Sun, the planets and comets, and the formation of the solar system and how we know it. What makes planets suitable for life. Finding out about the nearest stars and their planets. This course is intended for students with no science or engineering background.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "AST121H1, AST221H1. Also excluded are CIV100H1, CIV102H1, any 100- or higher-series CHM/PHY courses taken previously or concurrently (with the exception of PHY100H1, PHY202H1, PHY205H1, CHM101H1)",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20179",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-91878": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "91878",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "TH-91877": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "91877",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "2413973": {
+                        "instructorId": "2413973",
+                        "firstName": "B",
+                        "lastName": "Gaensler"
+                    },
+                    "2413974": {
+                        "instructorId": "2413974",
+                        "firstName": "I",
+                        "lastName": "MacDonald"
+                    },
+                    "2413975": {
+                        "instructorId": "2413975",
+                        "firstName": "C",
+                        "lastName": "Netterfield"
+                    }
+                },
+                "meetingId": "15592",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "1500",
+                "actualEnrolment": "1135",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P*",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-85380": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85380",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15593",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "MO-85472": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85472",
+                        "assignedRoom1": "BA 1200",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15594",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-85353": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85353",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15595",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "45",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "MO-85354": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85354",
+                        "assignedRoom1": "BA 1200",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15596",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "MO-85355": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85355",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15598",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0302": {
+                "schedule": {
+                    "MO-95826": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "95826",
+                        "assignedRoom1": "SS 1083",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "27218",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Section Added: August 28, 2017",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "MO-85356": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85356",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15599",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0402": {
+                "schedule": {
+                    "MO-89776": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "89776",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15600",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0403": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15597",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0403",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "August 28, 2017",
+                "enrollmentControls": []
+            },
+            "TUT-0501": {
+                "schedule": {
+                    "MO-85360": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "85360",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15601",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0502": {
+                "schedule": {
+                    "MO-85361": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "85361",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15602",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0601": {
+                "schedule": {
+                    "MO-91879": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "91879",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15603",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0602": {
+                "schedule": {
+                    "MO-85363": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "85363",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15604",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0602",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0701": {
+                "schedule": {
+                    "TU-85364": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85364",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15605",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0701",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0702": {
+                "schedule": {
+                    "TU-85365": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85365",
+                        "assignedRoom1": "BA 2165",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15606",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0702",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0801": {
+                "schedule": {
+                    "TU-85473": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85473",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15607",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0801",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0802": {
+                "schedule": {
+                    "TU-85474": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85474",
+                        "assignedRoom1": "BA 2165",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15608",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0802",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "45",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0901": {
+                "schedule": {
+                    "TU-85366": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85366",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15609",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0902": {
+                "schedule": {
+                    "TU-85367": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85367",
+                        "assignedRoom1": "BA 2165",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15610",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0902",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1001": {
+                "schedule": {
+                    "TU-85368": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85368",
+                        "assignedRoom1": "AP 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15611",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1002": {
+                "schedule": {
+                    "TU-85369": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85369",
+                        "assignedRoom1": "BA 2165",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15612",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1002",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1101": {
+                "schedule": {
+                    "WE-85370": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85370",
+                        "assignedRoom1": "GB 221",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15613",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1102": {
+                "schedule": {
+                    "WE-85371": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85371",
+                        "assignedRoom1": "BA 2185",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15614",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1201": {
+                "schedule": {
+                    "WE-85372": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85372",
+                        "assignedRoom1": "GB 221",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15615",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1202": {
+                "schedule": {
+                    "WE-85373": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85373",
+                        "assignedRoom1": "BA 2185",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15616",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1301": {
+                "schedule": {
+                    "WE-85374": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85374",
+                        "assignedRoom1": "GB 221",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15617",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1302": {
+                "schedule": {
+                    "WE-85375": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85375",
+                        "assignedRoom1": "BA 2185",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15618",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1401": {
+                "schedule": {
+                    "WE-85376": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85376",
+                        "assignedRoom1": "GB 221",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15619",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1402": {
+                "schedule": {
+                    "WE-85377": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85377",
+                        "assignedRoom1": "BA 2185",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15620",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1501": {
+                "schedule": {
+                    "WE-85378": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "85378",
+                        "assignedRoom1": "GB 221",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15621",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1502": {
+                "schedule": {
+                    "WE-85379": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "85379",
+                        "assignedRoom1": "BA 2185",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15622",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST121H1-S-20179": {
+        "courseId": "9619",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Origin and Evolution of the Universe",
+        "code": "AST121H1",
+        "courseDescription": "The origin of the Universe and all that it contains, from the chemical elements, stars and galaxies, and life. The course is intended for students who are enrolling in science and engineering courses.",
+        "prerequisite": "SPH4U Physics; MCB4U Calculus",
+        "corequisite": "",
+        "exclusion": "AST101H1, AST201H1, AST210H1. Also excluded are AST221H1, AST222H1 if taken previously or concurrently",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20179",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-75868": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "75868",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    },
+                    "FR-75866": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "75866",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    },
+                    "FR-75867": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "75867",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    }
+                },
+                "instructors": {
+                    "2413976": {
+                        "instructorId": "2413976",
+                        "firstName": "Y",
+                        "lastName": "Wu"
+                    }
+                },
+                "meetingId": "15623",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "79",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST201H1-S-20179": {
+        "courseId": "9620",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Stars and Galaxies",
+        "code": "AST201H1",
+        "courseDescription": "What we know about the properties and life cycles of stars, of galaxies, and of the Universe itself and how we know it. How astronomers develop methods for understanding phenomena that span such vast ranges in distance and time. This course is intended for students with no science or engineering background.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "AST121H1, AST210H1, AST221H1, AST222H1. Also excluded are CIV100H1, CIV101H1, CIV102H1 and any 100- or higher-series CHM or PHY courses taken previously or concurrently (with the exception of PHY100H1, PHY202H1, PHY205H1, CHM101H1)",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20179",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-91881": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "91881",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    },
+                    "TH-91880": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "91880",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    }
+                },
+                "instructors": {
+                    "2413977": {
+                        "instructorId": "2413977",
+                        "firstName": "B",
+                        "lastName": "Gaensler"
+                    },
+                    "2413978": {
+                        "instructorId": "2413978",
+                        "firstName": "I",
+                        "lastName": "MacDonald"
+                    },
+                    "2413979": {
+                        "instructorId": "2413979",
+                        "firstName": "C",
+                        "lastName": "Netterfield"
+                    }
+                },
+                "meetingId": "15624",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "1500",
+                "actualEnrolment": "1256",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P*",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "2",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-85382": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85382",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2165"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15625",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "MO-95585": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "95585",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15626",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-85384": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85384",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2165"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15627",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "MO-95586": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "95586",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15628",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "MO-85386": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85386",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2165"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15629",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0302": {
+                "schedule": {
+                    "MO-95587": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "95587",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15630",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "MO-85388": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85388",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2165"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15631",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0402": {
+                "schedule": {
+                    "MO-95588": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "95588",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15632",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0501": {
+                "schedule": {
+                    "MO-85390": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "85390",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2165"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15633",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0502": {
+                "schedule": {
+                    "MO-95589": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "95589",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15634",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0601": {
+                "schedule": {
+                    "MO-85392": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "85392",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2165"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15635",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0602": {
+                "schedule": {
+                    "MO-95590": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "95590",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15636",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0602",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0701": {
+                "schedule": {
+                    "TU-85394": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85394",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 119"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15637",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0701",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0702": {
+                "schedule": {
+                    "TU-85395": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85395",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2175"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15638",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0702",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0801": {
+                "schedule": {
+                    "TU-85397": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85397",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 119"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15639",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0801",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0802": {
+                "schedule": {
+                    "TU-85398": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85398",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2175"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15640",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0802",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0901": {
+                "schedule": {
+                    "TU-85399": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85399",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 119"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15641",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "45",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0902": {
+                "schedule": {
+                    "TU-85400": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85400",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2175"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15642",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0902",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1001": {
+                "schedule": {
+                    "TU-85401": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85401",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 119"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15643",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1002": {
+                "schedule": {
+                    "TU-85402": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85402",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2175"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15644",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1002",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1101": {
+                "schedule": {
+                    "WE-98912": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "98912",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2159"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15645",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Change: December 20, 2017",
+                "enrollmentControls": []
+            },
+            "TUT-1102": {
+                "schedule": {
+                    "WE-85404": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "85404",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2195"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15646",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1201": {
+                "schedule": {
+                    "WE-98913": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "98913",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2159"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15647",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Change: December 20, 2017",
+                "enrollmentControls": []
+            },
+            "TUT-1202": {
+                "schedule": {
+                    "WE-85406": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "85406",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2195"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15648",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "45",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1301": {
+                "schedule": {
+                    "WE-85407": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85407",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2145"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15649",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1302": {
+                "schedule": {
+                    "WE-85408": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "85408",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2195"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15650",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1401": {
+                "schedule": {
+                    "WE-85409": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85409",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2145"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15651",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1402": {
+                "schedule": {
+                    "WE-85410": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "85410",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2195"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15652",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1501": {
+                "schedule": {
+                    "WE-85411": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "85411",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2145"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15653",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "45",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-1502": {
+                "schedule": {
+                    "WE-85412": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "85412",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2195"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15654",
+                "teachingMethod": "TUT",
+                "sectionNumber": "1502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST210H1-F-20179": {
+        "courseId": "9621",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Great Moments in Astronomy",
+        "code": "AST210H1",
+        "courseDescription": "From the Copernican Revolution to twentieth century astrophysics. Emphasis is placed on the process of discovery which has led to major advances in knowledge about the Universe. The course includes an outline of some of the most significant puzzles of our day and an examination of the potential for new revolutions in our knowledge. This course is best suited to science students.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "AST101H1, AST121H1, AST201H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20179",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-76404": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "76404",
+                        "assignedRoom1": "BA 1160",
+                        "assignedRoom2": null
+                    },
+                    "WE-76405": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "76405",
+                        "assignedRoom1": "WB 116",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "2413980": {
+                        "instructorId": "2413980",
+                        "firstName": "H",
+                        "lastName": "Neilson"
+                    }
+                },
+                "meetingId": "15655",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "240",
+                "actualEnrolment": "101",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST221H1-F-20179": {
+        "courseId": "9622",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Stars and Planets",
+        "code": "AST221H1",
+        "courseDescription": "The (astro)physics of stars and planets, their observed variety, their structure, formation and evolution. Introduction to telescopes and instrumentation.",
+        "prerequisite": "PHY132H1/PHY152H1/PHY180H1",
+        "corequisite": "",
+        "exclusion": "AST101H1/AST201H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20179",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-84209": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "84209",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    },
+                    "WE-84210": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "84210",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    },
+                    "FR-84211": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "84211",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "2413981": {
+                        "instructorId": "2413981",
+                        "firstName": "M",
+                        "lastName": "van Kerkwijk"
+                    }
+                },
+                "meetingId": "15656",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST222H1-S-20179": {
+        "courseId": "9623",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Galaxies and Cosmology",
+        "code": "AST222H1",
+        "courseDescription": "The (astro)physics of stellar systems, galaxies, and the Universe, their structure, formation, and evolution.",
+        "prerequisite": "AST221H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20179",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-84205": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "84205",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2106"
+                    },
+                    "WE-84206": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "84206",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2106"
+                    },
+                    "FR-84207": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "84207",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2106"
+                    }
+                },
+                "instructors": {
+                    "2413982": {
+                        "instructorId": "2413982",
+                        "firstName": "J",
+                        "lastName": "Bovy"
+                    }
+                },
+                "meetingId": "15657",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST251H1-S-20179": {
+        "courseId": "9624",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Life on Other Worlds",
+        "code": "AST251H1",
+        "courseDescription": "Scholarly discussion of the probability that there are planets with life elsewhere in the universe, from the perspective of current ideas concerning the origin and evolution of the universe, the solar system and life. Search techniques and possibilities for interstellar travel and space colonies are discussed. Intended for life sciences students.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "AST221H1/AST222H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20179",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-76463": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "76463",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2158"
+                    }
+                },
+                "instructors": {
+                    "2413983": {
+                        "instructorId": "2413983",
+                        "firstName": "I",
+                        "lastName": "MacDonald"
+                    },
+                    "2413984": {
+                        "instructorId": "2413984",
+                        "firstName": "M",
+                        "lastName": "Reid"
+                    }
+                },
+                "meetingId": "15658",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "417",
+                "actualEnrolment": "335",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST320H1-S-20179": {
+        "courseId": "9626",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Introduction to Astrophysics",
+        "code": "AST320H1",
+        "courseDescription": "The formation, equilibrium and evolution of structure on all astronomical scales from the largest to the smallest: universe, clusters of galaxies, galaxies, clusters of stars, gas clouds and stars.",
+        "prerequisite": "PHY252H1/PHY294H1; AST221H1,AST222H1 (or equivalent AST readings; consult the instructor)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20179",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-88832": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "88832",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    },
+                    "FR-88831": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "88831",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    }
+                },
+                "instructors": {
+                    "2413985": {
+                        "instructorId": "2413985",
+                        "firstName": "R",
+                        "lastName": "Hlozek"
+                    }
+                },
+                "meetingId": "15659",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "38",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-88829": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "88829",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    },
+                    "FR-88828": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "88828",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    }
+                },
+                "instructors": {
+                    "2413986": {
+                        "instructorId": "2413986",
+                        "firstName": "R",
+                        "lastName": "Hlozek"
+                    }
+                },
+                "meetingId": "26554",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "AST325H1-F-20179": {
+        "courseId": "9627",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Introduction to Practical Astronomy",
+        "code": "AST325H1",
+        "courseDescription": "Through experiment and observation, develop the core skills to collect, reduce, and interpret astronomical data. Develop understanding and usage of telescopes, instruments, and detectors; reduction and analysis methods; simulations and model fitting; data and error analysis.",
+        "prerequisite": "AST221H1,AST222H1 (or equivalent readings, consult the instructor)",
+        "corequisite": "",
+        "exclusion": "AST326Y1",
+        "recommendedPreparation": "basic programming/scripting, numerical techniques (e.g., through CSC108H1/CSC148H1, CSC260H1).",
+        "section": "F",
+        "session": "20179",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-93136": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "93136",
+                        "assignedRoom1": "ES B142",
+                        "assignedRoom2": null
+                    },
+                    "MO-93137": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "93137",
+                        "assignedRoom1": "ES B142",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "2413987": {
+                        "instructorId": "2413987",
+                        "firstName": "S",
+                        "lastName": "Sivanandam"
+                    },
+                    "2413988": {
+                        "instructorId": "2413988",
+                        "firstName": "K",
+                        "lastName": "Vanderlinde"
+                    }
+                },
+                "meetingId": "15661",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "38",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST326Y1-Y-20179": {
+        "courseId": "9628",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Practical Astronomy",
+        "code": "AST326Y1",
+        "courseDescription": "Through experiment and observation, develop the core skills to collect, reduce, and interpret astronomical data. Develop understanding and usage of telescopes, instruments, and detectors; reduction and analysis methods; simulations and model fitting; data and error analysis. This course is an expanded version of AST325H1 that gives a wider exposure to practical astronomy.",
+        "prerequisite": "AST221H1,AST222H1 (or equivalent readings; consult the instructor)",
+        "corequisite": "",
+        "exclusion": "AST325H1",
+        "recommendedPreparation": "basic programming/scripting, numerical techniques (e.g., through CSC108H1/CSC148H1, CSC260H1)",
+        "section": "Y",
+        "session": "20179",
+        "webTimetableInstructions": null,
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-93138": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "93138",
+                        "assignedRoom1": "ES B142",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "MO-93139": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "93139",
+                        "assignedRoom1": "ES B142",
+                        "assignedRoom2": "SS 2111"
+                    }
+                },
+                "instructors": {
+                    "2413989": {
+                        "instructorId": "2413989",
+                        "firstName": "S",
+                        "lastName": "Sivanandam"
+                    },
+                    "2413990": {
+                        "instructorId": "2413990",
+                        "firstName": "K",
+                        "lastName": "Vanderlinde"
+                    }
+                },
+                "meetingId": "15663",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST424H1-Y-20179": {
+        "courseId": "9631",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Introduction to Astrophysical Research",
+        "code": "AST424H1",
+        "courseDescription": "A literature study that develops methods and skills applicable to research in the physical sciences, with an emphasis on communication, including writing proposals and reports, and delivering presentations. This course is intended for students in the final year of the Astronomy & Astrophysics Major. Students are required to attend the weekly departmental colloquia and G2000 talks. Not eligible for CR/NCR option.",
+        "prerequisite": "AST320H1",
+        "corequisite": "",
+        "exclusion": "AST425Y1",
+        "recommendedPreparation": "AST325H1/AST326Y1",
+        "section": "Y",
+        "session": "20179",
+        "webTimetableInstructions": "To enrol in this course, please contact Lillian Lanca at lanca@astro.utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-93140": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "93140",
+                        "assignedRoom1": "ES B149",
+                        "assignedRoom2": "ES B149"
+                    }
+                },
+                "instructors": {
+                    "2413991": {
+                        "instructorId": "2413991",
+                        "firstName": "M",
+                        "lastName": "van Kerkwijk"
+                    }
+                },
+                "meetingId": "15664",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST425Y1-Y-20179": {
+        "courseId": "9632",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Research Topic in Astronomy",
+        "code": "AST425Y1",
+        "courseDescription": "A research project done in consultation with an individual staff member in the Department leading to a detailed written report and oral presentation. This course is intended for students in the final year of the Astronomy and Physics specialist program. Students must enrol with the Undergraduate Secretary of the Department. Not eligible for CR/NCR option.",
+        "prerequisite": "AST320H1 and two of AST325H1/AST326Y1, PHY324H1, PHY350H1, PHY354H1, PHY356H1, PHY357H1, PHY358H1, PHY407H1/PHY408H1, PHY450H1, JPE395H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20179",
+        "webTimetableInstructions": "To enrol in this course, please contact Lillian Lanca at lanca@astro.utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-93141": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "93141",
+                        "assignedRoom1": "ES B149",
+                        "assignedRoom2": "ES B149"
+                    }
+                },
+                "instructors": {
+                    "2413992": {
+                        "instructorId": "2413992",
+                        "firstName": "M",
+                        "lastName": "van Kerkwijk"
+                    }
+                },
+                "meetingId": "15665",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "AST430H1-Y-20179": {
+        "courseId": "9633",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (JCA) (PLN)",
+        "courseTitle": "Supervised Study in Astronomy & Astrophysics",
+        "code": "AST430H1",
+        "courseDescription": "An individual study program chosen by the student with the advice of, and under the direction of, a staff member. Not eligible for CR/NCR option.",
+        "prerequisite": "Minimum GPA of 3.5 in Astronomy program courses Permission of the Undergraduate Chair and the prospective adviser",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20179",
+        "webTimetableInstructions": "To enrol in this course, please contact Lillian Lanca at lanca@astro.utoronto.ca.",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15666",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

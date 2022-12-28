@@ -1,0 +1,262 @@
+{
+    "JPE395H1-S-20169": {
+        "courseId": "1366",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Physics of the Earth",
+        "code": "JPE395H1",
+        "courseDescription": "<p>Designed for students interested in the physics of the Earth and the planets. Study of the Earth as a unified dynamic system; determination of major internal divisions in the planet; development and evolution of the Earth's large scale surface features through plate tectonics; the age and thermal history of the planet; Earth's gravitational field and the concept of isostasy; mantle rheology and convection; Earth tides; geodetic measurement techniques, in particular modern space-based techniques.</p>",
+        "prerequisite": "PHY132H1/PHY152H1/PHY180H1/MIE100H1, MAT235Y1/MAT237Y1/MAT291H1/AER210H1, PHY254H1/PHY293H1/MAT244H1/MAT290H1/MAT292H1",
+        "corequisite": "",
+        "exclusion": "PHY359H1, PHY395H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39726": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39726",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    },
+                    "TH-39727": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39727",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1222108": {
+                        "instructorId": "1222108",
+                        "firstName": "Q",
+                        "lastName": "Liu"
+                    }
+                },
+                "meetingId": "2715",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "83",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-38454": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38454",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 137"
+                    },
+                    "TH-38455": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38455",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1222109": {
+                        "instructorId": "1222109",
+                        "firstName": "Q",
+                        "lastName": "Liu"
+                    }
+                },
+                "meetingId": "14782",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "JPE493H1-S-20169": {
+        "courseId": "1367",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Seismology",
+        "code": "JPE493H1",
+        "courseDescription": "<p>Why do earthquakes occur and how are they related to tectonic motion of the Earth's surface? What is the physics behind the propagation of seismic waves through the Earth, and how can it be used to determine the internal structures of the Earth? This introductory course is aimed at understanding the physics behind seismic wave propagation, as well as asymptotic and numerical solutions to the elastodynamic equation. Travel time and amplitude of seismic waves are discussed based on seismic ray theory, while numerical methods are introduced to obtain accurate solutions to more complex velocity structures. Seismic tomographic methods, including their applications to hydrocarbon reservoir imaging, are also covered.</p>",
+        "prerequisite": "JPE395H1, APM346H1/APM351Y1",
+        "corequisite": "",
+        "exclusion": "PHY493H1",
+        "recommendedPreparation": "ESS345H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40913": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "40913",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 408"
+                    },
+                    "WE-40914": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "40914",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 408"
+                    }
+                },
+                "instructors": {
+                    "1222110": {
+                        "instructorId": "1222110",
+                        "firstName": "Q",
+                        "lastName": "Liu"
+                    }
+                },
+                "meetingId": "14969",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-45158": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45158",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 408"
+                    },
+                    "WE-45159": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45159",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 408"
+                    }
+                },
+                "instructors": {
+                    "1222111": {
+                        "instructorId": "1222111",
+                        "firstName": "Q",
+                        "lastName": "Liu"
+                    }
+                },
+                "meetingId": "15216",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

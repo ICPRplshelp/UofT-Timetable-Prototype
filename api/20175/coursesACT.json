@@ -1,0 +1,403 @@
+{
+    "ACT230H1-F-20175": {
+        "courseId": "4755",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Mathematics of Finance for Non-Actuaries",
+        "code": "ACT230H1",
+        "courseDescription": "Introduction to financial mathematics, interest measurement, present value calculation, annuity valuation, loan amortization, consumer financing arrangements, bond valuation. The course is aimed at a general audience who will not be continuing in the actuarial science program.",
+        "prerequisite": "First-year Calculus",
+        "corequisite": "",
+        "exclusion": "ACT240H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20175",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-64210": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64210",
+                        "assignedRoom1": "SS 1088",
+                        "assignedRoom2": null
+                    },
+                    "TU-64211": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "64211",
+                        "assignedRoom1": "SS 1088",
+                        "assignedRoom2": null
+                    },
+                    "TH-64208": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64208",
+                        "assignedRoom1": "SS 1088",
+                        "assignedRoom2": null
+                    },
+                    "TH-64209": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "64209",
+                        "assignedRoom1": "SS 1088",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "2418354": {
+                        "instructorId": "2418354",
+                        "firstName": "S",
+                        "lastName": "Yang"
+                    }
+                },
+                "meetingId": "22391",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT240H1-F-20175": {
+        "courseId": "4756",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Mathematics of Investment & Credit",
+        "code": "ACT240H1",
+        "courseDescription": "Interest, discount and present values, as applied to determine prices and values of annuities, mortgages, bonds, equities; loan repayment schedules and consumer finance payments in general; yield rates on investments given the costs on investments.",
+        "prerequisite": "MAT137Y1 (minimum grade 65%)/MAT157Y1",
+        "corequisite": "",
+        "exclusion": "ACT230H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20175",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-92234": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "92234",
+                        "assignedRoom1": "SS 2110",
+                        "assignedRoom2": null
+                    },
+                    "MO-92235": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "92235",
+                        "assignedRoom1": "SS 2110",
+                        "assignedRoom2": null
+                    },
+                    "WE-92236": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "92236",
+                        "assignedRoom1": "SS 2110",
+                        "assignedRoom2": null
+                    },
+                    "WE-92237": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "92237",
+                        "assignedRoom1": "SS 2110",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "2418355": {
+                        "instructorId": "2418355",
+                        "firstName": "S",
+                        "lastName": "Smart"
+                    }
+                },
+                "meetingId": "22392",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: May 16, 2017",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT245H1-S-20175": {
+        "courseId": "4757",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Financial Principles for Actuarial Science I",
+        "code": "ACT245H1",
+        "courseDescription": "Term structure of interest rates, cashflow duration, convexity and immunization, forward and futures contracts, interest rate swaps, introduction to investment derivatives and hedging strategies.",
+        "prerequisite": "ACT240H1, MAT137Y1 (minimum grade 65%)/MAT157Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20175",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-64213": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64213",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    },
+                    "MO-64214": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "64214",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    },
+                    "WE-64215": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64215",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    },
+                    "WE-64216": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "64216",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    }
+                },
+                "instructors": {
+                    "2418356": {
+                        "instructorId": "2418356",
+                        "firstName": "Y",
+                        "lastName": "Wang"
+                    }
+                },
+                "meetingId": "22393",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT247H1-S-20175": {
+        "courseId": "4758",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Introductory Life Contingencies",
+        "code": "ACT247H1",
+        "courseDescription": "Probability theory applied to survival and to costs and risks of life assurances, life annuities, and pensions; analysis of survival distributions; international actuarial notation.",
+        "prerequisite": "ACT240H1; MAT137Y1 (minimum grade 65%)/MAT157Y1; STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20175",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-64219": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64219",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    },
+                    "TU-64220": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "64220",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    },
+                    "TH-64217": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64217",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    },
+                    "TH-64218": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "64218",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    }
+                },
+                "instructors": {
+                    "2418357": {
+                        "instructorId": "2418357",
+                        "firstName": "S",
+                        "lastName": "Zaman"
+                    }
+                },
+                "meetingId": "22394",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT348H1-F-20175": {
+        "courseId": "4759",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Advanced Life Contingencies",
+        "code": "ACT348H1",
+        "courseDescription": "Determination of benefit premium and benefit reserves for life insurance and annuities; analysis of insurance loss random variables; theory of life contingencies for multiple lives.",
+        "prerequisite": "ACT240H1 (minimum grade C); ACT245H1 (minimum grade C); ACT247H1 (minimum grade C); (STA257H1,STA261H1); MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20175",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-64823": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64823",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": null
+                    },
+                    "WE-64824": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "64824",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "2418358": {
+                        "instructorId": "2418358",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "23243",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ACT370H1-S-20175": {
+        "courseId": "4761",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT) (JSC)",
+        "courseTitle": "Financial Principles for Actuarial Science II",
+        "code": "ACT370H1",
+        "courseDescription": "Mathematical theory of financial derivatives, discrete and continuous option pricing models, hedging strategies and exotic option valuation.",
+        "prerequisite": "ACT240H1 (minimum grade C); ACT245H1 (minimum grade C); ACT247H1 (minimum grade C); (STA257H1,STA261H1); MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "RSM435H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20175",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "23244",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "April 25, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

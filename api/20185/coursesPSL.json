@@ -1,0 +1,984 @@
+{
+    "PSL299Y1-Y-20185": {
+        "courseId": "18154",
+        "org": "PSL",
+        "orgName": "Physiology (PSL) (JPM)",
+        "courseTitle": "Research Opportunity Program",
+        "code": "PSL299Y1",
+        "courseDescription": "Credit course for supervised participation in faculty research project. Details at <a href=\"http://www.artsci.utoronto.ca/current/course/rop\">http://www.artsci.utoronto.ca/current/course/rop</a>. Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20185",
+        "webTimetableInstructions": "Enrolment for the Research Opportunity Program is done by Arts and Science. For more information, please see: <a href=\"http://www.artsci.utoronto.ca/current/focus/course/rop\">http://www.artsci.utoronto.ca/current/focus/course/rop</a>",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792459": {
+                        "instructorId": "3792459",
+                        "firstName": "D",
+                        "lastName": "Belsham"
+                    },
+                    "3792460": {
+                        "instructorId": "3792460",
+                        "firstName": "P",
+                        "lastName": "Brubaker"
+                    }
+                },
+                "meetingId": "85112",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792461": {
+                        "instructorId": "3792461",
+                        "firstName": "J",
+                        "lastName": "Min"
+                    }
+                },
+                "meetingId": "85113",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSL300H1-F-20185": {
+        "courseId": "18155",
+        "org": "PSL",
+        "orgName": "Physiology (PSL) (JPM)",
+        "courseTitle": "Human Physiology I",
+        "code": "PSL300H1",
+        "courseDescription": "Principles of neurophysiology, endocrinology and reproductive physiology for students enroled in Life Science programs.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PSL201Y1, PSL302Y1",
+        "recommendedPreparation": "BIO130H1/BIO150Y1; CHM138H1/CHM151Y1; and 1 FCE from any of the following: MAT135H1, MAT136H1, MAT135Y1, MAT137Y1, MAT157Y1, PHY131H1, PHY132H, PHY151H1, PHY152H1",
+        "section": "F",
+        "session": "20185",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-102493": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "102493",
+                        "assignedRoom1": "MS 3153",
+                        "assignedRoom2": null
+                    },
+                    "TH-102494": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "102494",
+                        "assignedRoom1": "MS 3153",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792462": {
+                        "instructorId": "3792462",
+                        "firstName": "K",
+                        "lastName": "Austin"
+                    },
+                    "3792463": {
+                        "instructorId": "3792463",
+                        "firstName": "N",
+                        "lastName": "Kee"
+                    },
+                    "3792464": {
+                        "instructorId": "3792464",
+                        "firstName": "H",
+                        "lastName": "Miliotis"
+                    },
+                    "3792465": {
+                        "instructorId": "3792465",
+                        "firstName": "C",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "27964",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "274",
+                "actualEnrolment": "204",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-102952": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102952",
+                        "assignedRoom1": "BF 215",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72208",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "33",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "TU-102953": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102953",
+                        "assignedRoom1": "BF 323",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72209",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "TU-102954": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102954",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72210",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-102955": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102955",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72211",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "TH-102956": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102956",
+                        "assignedRoom1": "MP 118",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72212",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0203": {
+                "schedule": {
+                    "TH-102957": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102957",
+                        "assignedRoom1": "BF 215",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72213",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0203",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "27",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TU-128109": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "128109",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72214",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: April 24, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "72215",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "April 24, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-5103": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "72216",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5103",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "April 24, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "TH-102961": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "102961",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72217",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5202": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "72218",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5202",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "April 24, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-5203": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "72219",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5203",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "April 24, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-5301": {
+                "schedule": {
+                    "MO-128090": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "128090",
+                        "assignedRoom1": "ES 4000",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "91669",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: April 24, 2018",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSL301H1-S-20185": {
+        "courseId": "18156",
+        "org": "PSL",
+        "orgName": "Physiology (PSL) (JPM)",
+        "courseTitle": "Human Physiology II",
+        "code": "PSL301H1",
+        "courseDescription": "Principles of respiratory, cardiovascular, gastrointestinal, and renal physiology for students enroled in Life Science programs.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PSL201Y1, PSL302Y1",
+        "recommendedPreparation": "BIO130H1/BIO150Y1; CHM138H1/CHM151Y1; and 1 FCE from any of the following: MAT135H1, MAT136H1, MAT135Y1, MAT137Y1, MAT157Y1, PHY131H1, PHY132H, PHY151H1, PHY152H1",
+        "section": "S",
+        "session": "20185",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-102501": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "102501",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    },
+                    "TH-102502": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "102502",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "3792466": {
+                        "instructorId": "3792466",
+                        "firstName": "J",
+                        "lastName": "Kroetsch"
+                    },
+                    "3792467": {
+                        "instructorId": "3792467",
+                        "firstName": "G",
+                        "lastName": "Montandon"
+                    },
+                    "3792468": {
+                        "instructorId": "3792468",
+                        "firstName": "C",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "27965",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "300",
+                "actualEnrolment": "139",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-102964": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102964",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72220",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "TU-102965": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "102965",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HS 108"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72221",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-131021": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "131021",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 143"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72222",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Change: May 4, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "72223",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "May 4, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TU-102971": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "102971",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72224",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "72225",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "April 24, 2018",
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "TH-102969": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "102969",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "72226",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5202": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "72227",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5202",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "April 24, 2018",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSL378H1-F-20185": {
+        "courseId": "18163",
+        "org": "PSL",
+        "orgName": "Physiology (PSL) (JPM)",
+        "courseTitle": "Field Physiology: Marine Mammal Autopsy",
+        "code": "PSL378H1",
+        "courseDescription": "An opportunity to go outside of the traditional university classroom and actively participate in a marine mammal autopsy. Learn the diversity and adaptive nature of marine mammalian physiology/anatomy as it compares to human. The course is 2 weeks (in May), one week of hands-on tissue dissection, and one week of group discussions of the findings and draft report preparation. Not eligible for CR/NCR option.",
+        "prerequisite": "BIO270H1, BIO271H1/PSL201Y1/PSL280H1/PSL300H1, PSL301H1 or permission of the course coordinator",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20185",
+        "webTimetableInstructions": "For PSL378H1, 'E' indicator: this is a two weeks summer field course from May 14 to May 25, 2018. Additional information and application may be obtained in MS 3209 or http://www.physiology.utoronto.ca/psl378h1f. Space is limited and requires course director approval no later than April 27. Please note that there is a course fee in addition to the university registration. ",
+        "deliveryInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-3001": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792469": {
+                        "instructorId": "3792469",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
+                "meetingId": "27966",
+                "teachingMethod": "LEC",
+                "sectionNumber": "3001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSL379H1-F-20185": {
+        "courseId": "18165",
+        "org": "PSL",
+        "orgName": "Physiology (PSL) (JPM)",
+        "courseTitle": "Field Marine Physiol",
+        "code": "PSL379H1",
+        "courseDescription": "",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20185",
+        "webTimetableInstructions": "For PSL379H0/1, 'E' indicator: this is a two weeks summer field course from April 29 to May 11, 2018, first week spent in Mexico.  Space is limited and requires course director approval no later than April 2. Please note that there is a course fee in addition to the university registration. For additional course costs, application and details please visit http://www.physiology.utoronto.ca/psl379h. Please note that spaces are limited and is allocated on a first come first served basis. ",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-3002": {
+                "schedule": {
+                    "MO-113482": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "113482",
+                        "assignedRoom1": "FG 139",
+                        "assignedRoom2": null
+                    },
+                    "TU-113483": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "113483",
+                        "assignedRoom1": "FG 139",
+                        "assignedRoom2": null
+                    },
+                    "WE-113484": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "113484",
+                        "assignedRoom1": "FG 139",
+                        "assignedRoom2": null
+                    },
+                    "TH-113485": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "113485",
+                        "assignedRoom1": "FG 139",
+                        "assignedRoom2": null
+                    },
+                    "FR-113486": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "113486",
+                        "assignedRoom1": "FG 139",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792470": {
+                        "instructorId": "3792470",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
+                "meetingId": "27967",
+                "teachingMethod": "LEC",
+                "sectionNumber": "3002",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSL398H0-F-20185": {
+        "courseId": "18166",
+        "org": "PSL",
+        "orgName": "Physiology (PSL) (JPM)",
+        "courseTitle": "Research Excursions",
+        "code": "PSL398H0",
+        "courseDescription": "An instructor-supervised group project in an off-campus setting. Details at <a href=\"http://www.artsci.utoronto.ca/current/course/399\">http://www.artsci.utoronto.ca/current/course/399</a>. Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20185",
+        "webTimetableInstructions": "Research course in Comeauville, Nova Scotia. More information on the Research Excursion Program can be found at: http://www.artsci.utoronto.ca/current/course/399/summer-2018-projects/index ",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792471": {
+                        "instructorId": "3792471",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
+                "meetingId": "27968",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSL399Y1-Y-20185": {
+        "courseId": "18167",
+        "org": "PSL",
+        "orgName": "Physiology (PSL) (JPM)",
+        "courseTitle": "Research Opportunity Program",
+        "code": "PSL399Y1",
+        "courseDescription": "Credit course for supervised participation in faculty research project. Details at http://www.artsci.utoronto.ca/current/course/rop. Not eligible for CR/NCR option.",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20185",
+        "webTimetableInstructions": "Enrolment for the Research Opportunity Program is done by Arts and Science. For more information, please see: <a href=\"http://www.artsci.utoronto.ca/current/focus/course/rop\">http://www.artsci.utoronto.ca/current/focus/course/rop</a>",
+        "deliveryInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792472": {
+                        "instructorId": "3792472",
+                        "firstName": "D",
+                        "lastName": "Belsham"
+                    },
+                    "3792473": {
+                        "instructorId": "3792473",
+                        "firstName": "P",
+                        "lastName": "Brubaker"
+                    }
+                },
+                "meetingId": "84553",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "3792474": {
+                        "instructorId": "3792474",
+                        "firstName": "J",
+                        "lastName": "Min"
+                    }
+                },
+                "meetingId": "84554",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "CLASS",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

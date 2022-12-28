@@ -12,25 +12,25 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20229",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Thought, Belief and Behaviour (2)",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-339234": {
+                    "TU-348722": {
                         "meetingDay": "TU",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "339234",
-                        "assignedRoom1": "LA 248",
+                        "meetingScheduleId": "348722",
+                        "assignedRoom1": "OI 2212",
                         "assignedRoom2": null
                     }
                 },
                 "instructors": {
-                    "9077064": {
-                        "instructorId": "9077064",
+                    "9479593": {
+                        "instructorId": "9479593",
                         "firstName": "S",
                         "lastName": "Warren"
                     }
@@ -44,10 +44,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "55",
-                "actualEnrolment": "53",
+                "actualEnrolment": "50",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "November 11, 2022: Room change. ",
                 "enrollmentControls": [
                     {
                         "postId": "121",
@@ -110,8 +110,8 @@
                     }
                 },
                 "instructors": {
-                    "9079394": {
-                        "instructorId": "9079394",
+                    "9482070": {
+                        "instructorId": "9482070",
                         "firstName": "S",
                         "lastName": "Warren"
                     }
@@ -126,9 +126,90 @@
                 "online": "In Person",
                 "enrollmentCapacity": "55",
                 "actualEnrolment": "55",
-                "actualWaitlist": "15",
+                "actualWaitlist": "11",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "121",
+                        "postCode": "ASMAJ1618",
+                        "postName": "MA ETHICS, SOCIETY & LAW",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    },
+    "ETH350H1-S-20229": {
+        "courseId": "62590",
+        "org": "ETHIC",
+        "orgName": "Ethics, Centre for (ETH)",
+        "courseTitle": "Topics in Value Theory",
+        "code": "ETH350H1",
+        "courseDescription": "<p>Selected topics in value theory, broadly construed (ethics, political theory, law). Consult the Centre for Ethics website for offering information.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20229",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-348779": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "348779",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LA 200"
+                    }
+                },
+                "instructors": {
+                    "9482071": {
+                        "instructorId": "9482071",
+                        "firstName": "F",
+                        "lastName": "Berdini"
+                    }
+                },
+                "meetingId": "221036",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Ethics of AI",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "November 21, 2022: Course added. ",
                 "enrollmentControls": [
                     {
                         "postId": "121",
@@ -223,8 +304,8 @@
                     }
                 },
                 "instructors": {
-                    "9077065": {
-                        "instructorId": "9077065",
+                    "9479594": {
+                        "instructorId": "9479594",
                         "firstName": "F",
                         "lastName": "Berdini"
                     }

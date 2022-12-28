@@ -19,18 +19,18 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "FR-317601": {
+                    "FR-348786": {
                         "meetingDay": "FR",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "317601",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "348786",
+                        "assignedRoom1": null,
                         "assignedRoom2": "AH 107"
                     }
                 },
                 "instructors": {
-                    "9079642": {
-                        "instructorId": "9079642",
+                    "9482360": {
+                        "instructorId": "9482360",
                         "firstName": "S",
                         "lastName": "Bello"
                     }
@@ -43,11 +43,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "INPER",
                 "online": "In Person",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "24",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "44",
@@ -153,37 +153,22 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "18",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
             },
             "TUT-0201": {
-                "schedule": {
-                    "TU-317605": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "16:00",
-                        "meetingEndTime": "17:00",
-                        "meetingScheduleId": "317605",
-                        "assignedRoom1": "",
-                        "assignedRoom2": "TF 200"
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "213921",
                 "teachingMethod": "TUT",
                 "sectionNumber": "0201",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "30",
-                "actualEnrolment": "6",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "November 21, 2022",
                 "enrollmentControls": []
             }
         }

@@ -12,7 +12,7 @@ UT = f"https://timetable.iit.artsci.utoronto.ca/api/<THISISSESSION>/courses?org=
 
 
 def update_last_updated() -> None:
-    with open("20229\\last_update.json", "w", encoding="UTF-8") as f:
+    with open(f"20229\\last_update.json", "w", encoding="UTF-8") as f:
         cur_sec = floor(time())
         cur_dict = {"time": cur_sec}
         json_str = json.dumps(cur_dict)
@@ -52,8 +52,8 @@ def main(fn: str) -> None:
 
 
 if __name__ == '__main__':
-    # main("20229")
-    sl = ['20195', '20205', '20215', '20189']
-    for s in sl:
-        main(s)
+    main("20229")
+    # sl = ['20185', '20179', '20175', '20169']
+    # for s in sl:
+    #     main(s)
     # deploy()
