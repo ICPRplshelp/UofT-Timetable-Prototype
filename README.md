@@ -1,7 +1,7 @@
 # Timetable
 **ACCESS IT HERE**
 
-https://icprplshelp.github.io/Uoft-Timetable-Prototype/
+https://icprplshelp.github.io/UofT-Timetable-Prototype/
 
 
 ---
