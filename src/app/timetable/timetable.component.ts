@@ -70,18 +70,18 @@ export class TimetableComponent implements OnInit {
   updateLastUpdated(): void {
     let updateInfo: any;
     console.log("Attempting to update");
-    this.timetableService.getLastUpdatedTime().subscribe(
-      (data) => {
+    this.timetableService.getLastUpdatedTime().subscribe({
+      next: (data) => {
         updateInfo = data;
       },
-      () => {
+      error: () => {
         
       },
-      () => {
+      complete: () => {
         this.lastUpdated = updateInfo.time;
         this.lastUpdateString = new Date(this.lastUpdated * 1000).toLocaleDateString();
       
-      }
+      }}
     )
   }
 
@@ -139,8 +139,8 @@ export class TimetableComponent implements OnInit {
 
     let masterList: any[] = [];
     for (let des of designatorsList) {
-      this.timetableService.getAllCoursesInDes(des, this.globalSession).subscribe(
-        data => {
+      this.timetableService.getAllCoursesInDes(des, this.globalSession).subscribe({
+        next: (data) => {
           // console.log('timetable', data);
           // console.log('timetable1', this.coursesData.length);
 
@@ -156,15 +156,15 @@ export class TimetableComponent implements OnInit {
           // split the entire course list
           // console.log(this.splitCourseList);
         },
-        () => {
+        error: () => {
           this.errMessage = "You searched a course designator that didn't exist, or a session that doesn't exist or isn't supported.";
         },
-        () => {
+        complete: () => {
           this.errMessage = "";
           // console.log('master list is', masterList)
           this.splitCourseList = splitListToLevels(masterList);
           // console.log("now, the split course list is", this.splitCourseList);
-        })
+        }})
     }
   }
 
