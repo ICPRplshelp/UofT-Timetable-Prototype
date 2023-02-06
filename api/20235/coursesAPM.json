@@ -1,0 +1,220 @@
+{
+    "APM346H1-Y-20235": {
+        "courseId": "66331",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Partial Differential Equations",
+        "code": "APM346H1",
+        "courseDescription": "<p>Sturm-Liouville problems, Green's functions, special functions (Bessel, Legendre), partial differential equations of second order, separation of variables, integral equations, Fourier transform, stationary phase method.</p>",
+        "prerequisite": "MAT235Y1/ MAT235Y5/ (MAT232H5, MAT236H5)/ (MATB41H3, MATB42H3)/ MAT237Y1/ MAT237Y5/ MAT257Y1, (MAT244H1/ MATB44H3/ MAT244H5/ MAT267H1)",
+        "corequisite": "",
+        "exclusion": "MAT351Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20235",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-357504": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "357504",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-357505": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "357505",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223359",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "SYNIF",
+                "online": "Online Synchronous (with in-person assessments)",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-358118": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "358118",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223361",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TU-357515": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "357515",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223360",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM462H1-Y-20235": {
+        "courseId": "66339",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Nonlinear Optimization",
+        "code": "APM462H1",
+        "courseDescription": "<p>An introduction to first and second order conditions for finite and infinite dimensional optimization problems with mention of available software. Topics include Lagrange multipliers, Kuhn-Tucker conditions, convexity and calculus of variations. Basic numerical search methods and software packages which implement them will be discussed.</p>",
+        "prerequisite": "(MAT223H1,MAT224H1) /MAT247H1, MAT235Y1/MAT237Y1/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT336H1/MAT337H1",
+        "section": "Y",
+        "session": "20235",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-357516": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "357516",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    },
+                    "TH-357517": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "357517",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223362",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "SYNIF",
+                "online": "Online Synchronous (with in-person assessments)",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-358119": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "358119",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223363",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TH-358120": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "358120",
+                        "assignedRoom1": "",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223364",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

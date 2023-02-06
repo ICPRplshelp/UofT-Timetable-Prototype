@@ -1,0 +1,152 @@
+{
+    "IMM340H1-F-20235": {
+        "courseId": "68653",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "Fundamental Immunology",
+        "code": "IMM340H1",
+        "courseDescription": "<p>This course introduces the basic principles and key players of the immune system: differences and interplay between innate and adaptive immunity, how immune cells develop and function, how immune cells recognize threats and danger and mount an appropriate and measured response. This course is offered in the Fall term with in-class lectures and tutorials, as well as in the Summer term with hybrid delivery (online lectures and in-class tutorials).</p>",
+        "prerequisite": "BIO230H1",
+        "corequisite": "",
+        "exclusion": "<p>IMM341H1</p>",
+        "recommendedPreparation": "IMM250H1",
+        "section": "F",
+        "session": "20235",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>This is an online hybrid course. Lectures are pre-recorded and posted every Tuesday at 9am. Tutorials are synchronous and are scheduled on Mondays at 3-4pm.</p><p>&nbsp;</p>",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223822",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ASYNC",
+                "online": "Online Asynchronous -- See Delivery Instructions.",
+                "contactHours": "4.0",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-357123": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "357123",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223823",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "IMM350H1-S-20235": {
+        "courseId": "68655",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "The Immune System in Action",
+        "code": "IMM350H1",
+        "courseDescription": "<p>This course illustrates how different elements of the immune system come together to mount efficient and measured responses. Topics include response to infectious microorganisms, allergy and autoimmunity, immune responses against cancer, and transplantation immunology.</p>",
+        "prerequisite": "IMM340H1/IMM341H1",
+        "corequisite": "",
+        "exclusion": "<p>IMM351H1</p>",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20235",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "<p>This is an online hybrid course. Lectures are pre-recorded and posted every Tuesday at 9am. Tutorials are synchronous and are scheduled on Mondays at 3-4pm.</p><p>&nbsp;</p>",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223824",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "ASYNC",
+                "online": "Online Asynchronous -- See Delivery Instructions.",
+                "contactHours": "4.0",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-357124": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "357124",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": [],
+                "meetingId": "223825",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous -- See Delivery Instructions.",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}
