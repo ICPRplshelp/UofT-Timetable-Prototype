@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158999": {
+                        "instructorId": "10158999",
+                        "firstName": "S",
+                        "lastName": "Batiuk"
+                    }
+                },
                 "meetingId": "224842",
                 "teachingMethod": "LEC",
                 "sectionNumber": "3001",
@@ -38,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "9",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": "",
@@ -64,6 +70,47 @@
         "breadthCategories": "",
         "distributionCategories": "Humanities",
         "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-400752": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "400752",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    },
+                    "TH-400753": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "400753",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "10159000": {
+                        "instructorId": "10159000",
+                        "firstName": "A",
+                        "lastName": "Ali"
+                    }
+                },
+                "meetingId": "241465",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Slavery in Islamic History 600 CE – 1600 CE",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "February 21, 2023: Section added.",
+                "enrollmentControls": []
+            },
             "LEC-0201": {
                 "schedule": {
                     "MO-354448": {
@@ -83,7 +130,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159001": {
+                        "instructorId": "10159001",
+                        "firstName": "L",
+                        "lastName": "Hare"
+                    }
+                },
                 "meetingId": "224067",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0201",
@@ -93,7 +146,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -114,44 +167,21 @@
         "recommendedPreparation": "",
         "section": "S",
         "session": "20235",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-358595": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "11:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "358595",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    },
-                    "TH-358596": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "11:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "358596",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "224564",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "Slavery in Islamic History 600 CE – 1600 CE",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "SYNC",
-                "online": "Online Synchronous",
-                "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "February 21, 2023",
                 "enrollmentControls": []
             }
         }
@@ -193,7 +223,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159002": {
+                        "instructorId": "10159002",
+                        "firstName": "S",
+                        "lastName": "Abdelgalil"
+                    }
+                },
                 "meetingId": "224068",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -203,7 +239,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -224,44 +260,50 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20235",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-357245": {
+                    "TU-358982": {
                         "meetingDay": "TU",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "357245",
+                        "meetingScheduleId": "358982",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "TH-357246": {
+                    "TH-358983": {
                         "meetingDay": "TH",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "357246",
+                        "meetingScheduleId": "358983",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159003": {
+                        "instructorId": "10159003",
+                        "firstName": "J",
+                        "lastName": "Sheyholislami"
+                    }
+                },
                 "meetingId": "224069",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "",
+                "subtitle": "Kurdish Studies: A Critical Introduction",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "8",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }

@@ -36,7 +36,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158835": {
+                        "instructorId": "10158835",
+                        "firstName": "J",
+                        "lastName": "Vantellingen"
+                    }
+                },
                 "meetingId": "223696",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -46,8 +52,8 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "80",
+                "actualWaitlist": "11",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []

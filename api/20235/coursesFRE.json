@@ -19,24 +19,30 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-357396": {
+                    "MO-379621": {
                         "meetingDay": "MO",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357396",
+                        "meetingScheduleId": "379621",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "UC 85"
                     },
-                    "WE-357397": {
+                    "WE-379622": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357397",
+                        "meetingScheduleId": "379622",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "UC 85"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158836": {
+                        "instructorId": "10158836",
+                        "firstName": "S",
+                        "lastName": "Proulx"
+                    }
+                },
                 "meetingId": "223697",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -46,10 +52,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "March 10, 2023: room changed",
                 "enrollmentControls": [
                     {
                         "postId": "59",
@@ -210,24 +216,30 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "TU-357670": {
+                    "TU-379625": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357670",
+                        "meetingScheduleId": "379625",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "UC 261"
                     },
-                    "TH-357671": {
+                    "TH-379626": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357671",
+                        "meetingScheduleId": "379626",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "UC 261"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158837": {
+                        "instructorId": "10158837",
+                        "firstName": "O",
+                        "lastName": "Gamboa Gonzalez"
+                    }
+                },
                 "meetingId": "223698",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -237,10 +249,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "March 10, 2023: room changed",
                 "enrollmentControls": [
                     {
                         "postId": "44",

@@ -25,7 +25,7 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355963",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "KP 108"
                     },
                     "WE-355964": {
                         "meetingDay": "WE",
@@ -33,7 +33,7 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355964",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "KP 108"
                     },
                     "TH-355965": {
                         "meetingDay": "TH",
@@ -41,10 +41,16 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355965",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "KP 108"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158661": {
+                        "instructorId": "10158661",
+                        "firstName": "M",
+                        "lastName": "Staikova"
+                    }
+                },
                 "meetingId": "223410",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -54,7 +60,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "164",
-                "actualEnrolment": "0",
+                "actualEnrolment": "110",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -62,16 +68,22 @@
             },
             "PRA-0101": {
                 "schedule": {
-                    "TU-355972": {
+                    "TU-376816": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "355972",
+                        "meetingScheduleId": "376816",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "Contact DEPT"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158662": {
+                        "instructorId": "10158662",
+                        "firstName": "G",
+                        "lastName": "Harewood"
+                    }
+                },
                 "meetingId": "223411",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0101",
@@ -81,24 +93,30 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "94",
-                "actualEnrolment": "0",
+                "actualEnrolment": "64",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "PRA-0201": {
                 "schedule": {
-                    "TH-355974": {
+                    "TH-376817": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "355974",
+                        "meetingScheduleId": "376817",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "Contact DEPT"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158663": {
+                        "instructorId": "10158663",
+                        "firstName": "G",
+                        "lastName": "Harewood"
+                    }
+                },
                 "meetingId": "223412",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0201",
@@ -108,10 +126,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "70",
-                "actualEnrolment": "0",
+                "actualEnrolment": "42",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0101": {
@@ -143,7 +161,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "164",
-                "actualEnrolment": "0",
+                "actualEnrolment": "107",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -176,7 +194,7 @@
                         "meetingStartTime": "09:30",
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355978",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MC 102",
                         "assignedRoom2": null
                     },
                     "WE-355979": {
@@ -184,7 +202,7 @@
                         "meetingStartTime": "09:30",
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355979",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MC 102",
                         "assignedRoom2": null
                     },
                     "TH-355980": {
@@ -192,11 +210,17 @@
                         "meetingStartTime": "09:30",
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355980",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MC 102",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158664": {
+                        "instructorId": "10158664",
+                        "firstName": "A",
+                        "lastName": "Bensari"
+                    }
+                },
                 "meetingId": "223414",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -206,7 +230,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "256",
-                "actualEnrolment": "0",
+                "actualEnrolment": "221",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -214,16 +238,22 @@
             },
             "PRA-0101": {
                 "schedule": {
-                    "TU-355987": {
+                    "TU-376820": {
                         "meetingDay": "TU",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "355987",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "376820",
+                        "assignedRoom1": "Contact DEPT",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158665": {
+                        "instructorId": "10158665",
+                        "firstName": "M",
+                        "lastName": "Morales"
+                    }
+                },
                 "meetingId": "223415",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0101",
@@ -233,24 +263,30 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "88",
-                "actualEnrolment": "0",
+                "actualEnrolment": "71",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "PRA-0201": {
                 "schedule": {
-                    "WE-355989": {
+                    "WE-376821": {
                         "meetingDay": "WE",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "355989",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "376821",
+                        "assignedRoom1": "Contact DEPT",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158666": {
+                        "instructorId": "10158666",
+                        "firstName": "M",
+                        "lastName": "Morales"
+                    }
+                },
                 "meetingId": "223416",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0201",
@@ -260,24 +296,30 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "88",
-                "actualEnrolment": "0",
+                "actualEnrolment": "88",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "PRA-0301": {
                 "schedule": {
-                    "TH-355993": {
+                    "TH-376822": {
                         "meetingDay": "TH",
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "355993",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "376822",
+                        "assignedRoom1": "Contact DEPT",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158667": {
+                        "instructorId": "10158667",
+                        "firstName": "M",
+                        "lastName": "Morales"
+                    }
+                },
                 "meetingId": "223417",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0301",
@@ -287,10 +329,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
+                "actualEnrolment": "61",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             },
             "TUT-0101": {
@@ -322,7 +364,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "256",
-                "actualEnrolment": "0",
+                "actualEnrolment": "221",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -375,7 +417,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158668": {
+                        "instructorId": "10158668",
+                        "firstName": "M",
+                        "lastName": "Staikova"
+                    }
+                },
                 "meetingId": "223419",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -385,7 +433,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "150",
-                "actualEnrolment": "0",
+                "actualEnrolment": "51",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -420,7 +468,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "150",
-                "actualEnrolment": "0",
+                "actualEnrolment": "50",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -454,7 +502,7 @@
                         "meetingEndTime": "16:30",
                         "meetingScheduleId": "355823",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2118"
                     },
                     "WE-355824": {
                         "meetingDay": "WE",
@@ -462,7 +510,7 @@
                         "meetingEndTime": "16:30",
                         "meetingScheduleId": "355824",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2118"
                     },
                     "TH-355825": {
                         "meetingDay": "TH",
@@ -470,10 +518,16 @@
                         "meetingEndTime": "16:30",
                         "meetingScheduleId": "355825",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2118"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158669": {
+                        "instructorId": "10158669",
+                        "firstName": "A",
+                        "lastName": "Bensari"
+                    }
+                },
                 "meetingId": "223421",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -483,7 +537,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "128",
-                "actualEnrolment": "0",
+                "actualEnrolment": "106",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -497,10 +551,16 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355826",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "Contact DEPT"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158670": {
+                        "instructorId": "10158670",
+                        "firstName": "M",
+                        "lastName": "Morales"
+                    }
+                },
                 "meetingId": "223422",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0101",
@@ -510,7 +570,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "64",
-                "actualEnrolment": "0",
+                "actualEnrolment": "61",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -524,10 +584,16 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "355827",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "Contact DEPT"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158671": {
+                        "instructorId": "10158671",
+                        "firstName": "M",
+                        "lastName": "Morales"
+                    }
+                },
                 "meetingId": "223423",
                 "teachingMethod": "PRA",
                 "sectionNumber": "0201",
@@ -537,7 +603,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "64",
-                "actualEnrolment": "0",
+                "actualEnrolment": "43",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -551,7 +617,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "355831",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "BL 313"
                     },
                     "TH-355832": {
                         "meetingDay": "TH",
@@ -572,7 +638,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "64",
-                "actualEnrolment": "0",
+                "actualEnrolment": "57",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -594,7 +660,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "355837",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "BL 313"
                     }
                 },
                 "instructors": [],
@@ -607,7 +673,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "64",
-                "actualEnrolment": "0",
+                "actualEnrolment": "48",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -644,7 +710,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158672": {
+                        "instructorId": "10158672",
+                        "firstName": "A",
+                        "lastName": "Dhirani"
+                    }
+                },
                 "meetingId": "223426",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -654,7 +726,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "2",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -701,7 +773,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "10",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,

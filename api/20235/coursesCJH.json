@@ -36,7 +36,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158679": {
+                        "instructorId": "10158679",
+                        "firstName": "J",
+                        "lastName": "Fraigne"
+                    }
+                },
                 "meetingId": "223440",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -46,7 +52,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "0",
+                "actualEnrolment": "86",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P*",
                 "meetingStatusNotes": null,

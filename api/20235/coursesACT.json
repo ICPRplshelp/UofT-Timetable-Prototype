@@ -19,24 +19,30 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-358873": {
+                    "MO-358898": {
                         "meetingDay": "MO",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "358873",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "358898",
+                        "assignedRoom1": "SS 2106",
                         "assignedRoom2": null
                     },
-                    "WE-358874": {
+                    "WE-358899": {
                         "meetingDay": "WE",
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "15:00",
-                        "meetingScheduleId": "358874",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "358899",
+                        "assignedRoom1": "SS 2106",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158614": {
+                        "instructorId": "10158614",
+                        "firstName": "H",
+                        "lastName": "Abdelrahman"
+                    }
+                },
                 "meetingId": "223311",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -46,7 +52,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "20",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -54,20 +60,20 @@
             },
             "TUT-0101": {
                 "schedule": {
-                    "MO-358875": {
+                    "MO-358900": {
                         "meetingDay": "MO",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "358875",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "358900",
+                        "assignedRoom1": "SS 2106",
                         "assignedRoom2": null
                     },
-                    "WE-358876": {
+                    "WE-358901": {
                         "meetingDay": "WE",
                         "meetingStartTime": "15:00",
                         "meetingEndTime": "16:00",
-                        "meetingScheduleId": "358876",
-                        "assignedRoom1": "",
+                        "meetingScheduleId": "358901",
+                        "assignedRoom1": "SS 2106",
                         "assignedRoom2": null
                     }
                 },
@@ -81,7 +87,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "18",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -114,7 +120,7 @@
                         "meetingStartTime": "19:00",
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "358519",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     },
                     "WE-358520": {
@@ -122,11 +128,17 @@
                         "meetingStartTime": "19:00",
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "358520",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158615": {
+                        "instructorId": "10158615",
+                        "firstName": "E",
+                        "lastName": "Kroell"
+                    }
+                },
                 "meetingId": "223313",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -136,7 +148,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -149,7 +161,7 @@
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358521",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     },
                     "WE-358522": {
@@ -157,7 +169,7 @@
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358522",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     }
                 },
@@ -171,7 +183,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -205,7 +217,7 @@
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "358523",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 106"
                     },
                     "WE-358524": {
                         "meetingDay": "WE",
@@ -213,10 +225,16 @@
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "358524",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 106"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158616": {
+                        "instructorId": "10158616",
+                        "firstName": "Y",
+                        "lastName": "Wang"
+                    }
+                },
                 "meetingId": "223315",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -226,7 +244,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
+                "actualEnrolment": "15",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -240,7 +258,7 @@
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358525",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 106"
                     },
                     "WE-358526": {
                         "meetingDay": "WE",
@@ -248,7 +266,7 @@
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358526",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 106"
                     }
                 },
                 "instructors": [],
@@ -261,7 +279,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
+                "actualEnrolment": "13",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -289,24 +307,30 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-358527": {
+                    "MO-358906": {
                         "meetingDay": "MO",
-                        "meetingStartTime": "09:00",
-                        "meetingEndTime": "11:00",
-                        "meetingScheduleId": "358527",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "358906",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 108"
                     },
-                    "WE-358528": {
+                    "WE-358907": {
                         "meetingDay": "WE",
-                        "meetingStartTime": "09:00",
-                        "meetingEndTime": "11:00",
-                        "meetingScheduleId": "358528",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "358907",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 108"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158617": {
+                        "instructorId": "10158617",
+                        "firstName": "S",
+                        "lastName": "Chan"
+                    }
+                },
                 "meetingId": "223317",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -316,10 +340,10 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "5",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "February 9, 2023: time changed",
                 "enrollmentControls": []
             },
             "TUT-5101": {
@@ -330,7 +354,7 @@
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "358529",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 108"
                     }
                 },
                 "instructors": [],
@@ -343,7 +367,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -376,7 +400,7 @@
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "358530",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     },
                     "WE-358531": {
@@ -384,11 +408,17 @@
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "358531",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158618": {
+                        "instructorId": "10158618",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
                 "meetingId": "223319",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -398,7 +428,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -432,7 +462,7 @@
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "358532",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "PB 255"
                     },
                     "TH-358533": {
                         "meetingDay": "TH",
@@ -440,10 +470,16 @@
                         "meetingEndTime": "21:00",
                         "meetingScheduleId": "358533",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "PB 255"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158619": {
+                        "instructorId": "10158619",
+                        "firstName": "O",
+                        "lastName": "Yung"
+                    }
+                },
                 "meetingId": "223320",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -453,7 +489,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "35",
-                "actualEnrolment": "0",
+                "actualEnrolment": "13",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",

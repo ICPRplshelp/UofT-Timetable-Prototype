@@ -24,7 +24,7 @@
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "355472",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "AP 130",
                         "assignedRoom2": null
                     },
                     "TU-355473": {
@@ -32,7 +32,7 @@
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "355473",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "AP 130",
                         "assignedRoom2": null
                     },
                     "WE-355474": {
@@ -40,7 +40,7 @@
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "355474",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "AP 130",
                         "assignedRoom2": null
                     },
                     "TH-355475": {
@@ -48,7 +48,7 @@
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "355475",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "AP 130",
                         "assignedRoom2": null
                     },
                     "FR-355476": {
@@ -56,11 +56,22 @@
                         "meetingStartTime": "09:00",
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "355476",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "AP 130",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158636": {
+                        "instructorId": "10158636",
+                        "firstName": "A",
+                        "lastName": "Fox"
+                    },
+                    "10158637": {
+                        "instructorId": "10158637",
+                        "firstName": "A",
+                        "lastName": "McLellan"
+                    }
+                },
                 "meetingId": "223365",
                 "teachingMethod": "LEC",
                 "sectionNumber": "3001",
@@ -70,7 +81,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,

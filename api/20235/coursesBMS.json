@@ -19,19 +19,19 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-354272": {
+                    "MO-400602": {
                         "meetingDay": "MO",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "354272",
+                        "meetingScheduleId": "400602",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "WE-354273": {
+                    "WE-400603": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "354273",
+                        "meetingScheduleId": "400603",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
@@ -45,11 +45,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
-                "enrollmentCapacity": "70",
-                "actualEnrolment": "0",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "119",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -91,7 +91,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158647": {
+                        "instructorId": "10158647",
+                        "firstName": "P",
+                        "lastName": "Saeedi"
+                    }
+                },
                 "meetingId": "223392",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -101,7 +107,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "70",
-                "actualEnrolment": "0",
+                "actualEnrolment": "69",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -201,7 +207,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158648": {
+                        "instructorId": "10158648",
+                        "firstName": "E",
+                        "lastName": "Tersigni"
+                    }
+                },
                 "meetingId": "223393",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -211,8 +223,8 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "60",
+                "actualWaitlist": "19",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
                 "enrollmentControls": [
@@ -303,21 +315,27 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158649": {
+                        "instructorId": "10158649",
+                        "firstName": "I",
+                        "lastName": "Gildea"
+                    }
+                },
                 "meetingId": "223394",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
-                "subtitle": "",
+                "subtitle": "Trauma & Media",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "ASYNC",
                 "online": "Online Asynchronous -- See Delivery Instructions.",
                 "contactHours": "4.0",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "37",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "101",
@@ -414,7 +432,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158650": {
+                        "instructorId": "10158650",
+                        "firstName": "X",
+                        "lastName": "Wu"
+                    }
+                },
                 "meetingId": "223395",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -424,10 +448,126 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "30",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "101",
+                        "postCode": "ASMAJ1300",
+                        "postName": "MA BOOK & MEDIA STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "199",
+                        "postCode": "ASMIN1300",
+                        "postName": "MI BOOK & MEDIA STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    },
+    "BMS316H1-S-20235": {
+        "courseId": "66432",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC) (BMS) (CHC) (CLT) (JCA) (MST)",
+        "courseTitle": "Social Media & Digital Platforms",
+        "code": "BMS316H1",
+        "courseDescription": "<p>Social media, digital platforms, and networked technologies are deeply embedded in our contemporary lives, both shaping and shaped by users. But what are their social, cultural, political, and economic impacts? What consequences do they have for how we think, feel, socialize, work, play, and understand ourselves? Students in this course will explore, examine, and debate these questions with reference to their everyday experiences and current examples.</p>",
+        "prerequisite": "(BMS100H1, BMS200Y1, BMS201H1) or SMC219Y1",
+        "corequisite": "",
+        "exclusion": "SMC316H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20235",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-358896": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "358896",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "WE-358897": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "358897",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "10158651": {
+                        "instructorId": "10158651",
+                        "firstName": "P",
+                        "lastName": "Saeedi"
+                    }
+                },
+                "meetingId": "224980",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "SYNC",
+                "online": "Online Synchronous",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": "101",
@@ -618,7 +758,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158652": {
+                        "instructorId": "10158652",
+                        "firstName": "C",
+                        "lastName": "Taban"
+                    }
+                },
                 "meetingId": "223398",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -628,7 +774,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "46",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -720,7 +866,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158653": {
+                        "instructorId": "10158653",
+                        "firstName": "I",
+                        "lastName": "Gildea"
+                    }
+                },
                 "meetingId": "223399",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -731,7 +883,7 @@
                 "online": "Online Asynchronous -- See Delivery Instructions.",
                 "contactHours": "4.0",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "44",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -794,7 +946,123 @@
             }
         }
     },
-    "BMS403H1-F-20235": {
+    "BMS401H1-S-20235": {
+        "courseId": "66444",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC) (BMS) (CHC) (CLT) (JCA) (MST)",
+        "courseTitle": "Advanced Topics in Book & Media Cultures",
+        "code": "BMS401H1",
+        "courseDescription": "<p>This course is an advanced seminar on the cultural aspects of book and media studies. Students can expect to take an active role in leading course discussions and developing their own research projects. The exact topic will change depending on the instructor. In some terms this course may require an application. This will be clearly noted in the Timetable.</p>",
+        "prerequisite": "Any BMS 0.5 credit at the 300-level and SMC219Y1/(BMS100H1, BMS200Y1, BMS201H1). Further prerequisites may vary from year to year, consult the current Timetable for more information.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20235",
+        "webTimetableInstructions": "<p>This course is an advanced seminar on the cultural aspects of book and media studies. Students can expect to take an active role in leading course discussions and developing their own research projects. The exact topic will change depending on the instructor.&nbsp;</p><p>This term the course will explore Literary Counter-Environments: Probing Media Ecology Through Literature.</p>",
+        "deliveryInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-383702": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "383702",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WW 119"
+                    },
+                    "TH-383703": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "383703",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WW 119"
+                    }
+                },
+                "instructors": {
+                    "10158654": {
+                        "instructorId": "10158654",
+                        "firstName": "E",
+                        "lastName": "Lamberti"
+                    }
+                },
+                "meetingId": "242468",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Literary Counter-Environments: Probing Media Ecology Through Literature",
+                "cancel": "",
+                "waitlist": "Y",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "101",
+                        "postCode": "ASMAJ1300",
+                        "postName": "MA BOOK & MEDIA STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "101",
+                        "postCode": "ASMAJ1300",
+                        "postName": "MA BOOK & MEDIA STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    },
+    "BMS403H1-S-20235": {
         "courseId": "66446",
         "org": "SMC",
         "orgName": "St. Michael's College (SMC) (BMS) (CHC) (CLT) (JCA) (MST)",
@@ -805,7 +1073,7 @@
         "corequisite": "",
         "exclusion": "",
         "recommendedPreparation": "",
-        "section": "F",
+        "section": "S",
         "session": "20235",
         "webTimetableInstructions": "<p>Cultural production is being re-shaped by the rise of digital platforms. The production, distribution, monetization, and reception of media content increasingly takes place on and through powerful platforms like Netflix, Spotify, YouTube, Instagram, TikTok, Twitch, and more. Legacy media industries are still adapting to digital distribution and on-demand video streaming, while millions of small-scale content creators seek to attract an audience on social media and user-generated content platforms. For the platforms this is an extremely profitable arrangement, and major media conglomerates along with a tiny percentage of celebrity creators and influencers share in this success. But the majority of aspiring cultural producers are dreamers, struggling to reach an audience and make ends meet. This advanced seminar will explore the ongoing “platformization” of cultural production through cutting-edge research and case studies, investigating its implications for different media industries and cultural forms from perspectives including political economy, labour, creativity, celebrity, and governance.&nbsp;</p><p>&nbsp;</p><p><strong>Recommended Prep: </strong>SMC316:Social Technology &amp; Networks / BMS316:Social Media &amp; Digital Platforms</p>",
         "deliveryInstructions": "",
@@ -813,38 +1081,15 @@
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-358492": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "14:00",
-                        "meetingEndTime": "16:00",
-                        "meetingScheduleId": "358492",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    },
-                    "TH-358493": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "14:00",
-                        "meetingEndTime": "16:00",
-                        "meetingScheduleId": "358493",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "223400",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "March 21, 2023",
                 "enrollmentControls": [
                     {
                         "postId": "101",

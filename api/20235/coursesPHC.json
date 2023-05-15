@@ -28,7 +28,18 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159014": {
+                        "instructorId": "10159014",
+                        "firstName": "D",
+                        "lastName": "Dubins"
+                    },
+                    "10159015": {
+                        "instructorId": "10159015",
+                        "firstName": "T",
+                        "lastName": "Ganesh"
+                    }
+                },
                 "meetingId": "224078",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,7 +49,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "0",
+                "actualEnrolment": "8",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": null,

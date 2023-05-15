@@ -18,108 +18,39 @@
         "distributionCategories": "Humanities, Social Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "TU-357193": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "13:00",
-                        "meetingEndTime": "15:00",
-                        "meetingScheduleId": "357193",
-                        "assignedRoom1": "",
-                        "assignedRoom2": ""
-                    },
-                    "TH-357194": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "13:00",
-                        "meetingEndTime": "15:00",
-                        "meetingScheduleId": "357194",
-                        "assignedRoom1": "",
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "224561",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "April 10, 2023",
                 "enrollmentControls": []
             },
             "TUT-0101": {
-                "schedule": {
-                    "TU-357195": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "12:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357195",
-                        "assignedRoom1": "",
-                        "assignedRoom2": ""
-                    },
-                    "TH-357196": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "12:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357196",
-                        "assignedRoom1": "",
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "224857",
                 "teachingMethod": "TUT",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "April 10, 2023",
                 "enrollmentControls": []
             },
             "TUT-0201": {
-                "schedule": {
-                    "TU-357197": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "15:00",
-                        "meetingEndTime": "16:00",
-                        "meetingScheduleId": "357197",
-                        "assignedRoom1": "",
-                        "assignedRoom2": ""
-                    },
-                    "TH-357198": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "15:00",
-                        "meetingEndTime": "16:00",
-                        "meetingScheduleId": "357198",
-                        "assignedRoom1": "",
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "224858",
                 "teachingMethod": "TUT",
                 "sectionNumber": "0201",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "N",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "April 10, 2023",
                 "enrollmentControls": []
             }
         }
@@ -153,7 +84,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158707": {
+                        "instructorId": "10158707",
+                        "firstName": "C",
+                        "lastName": "Desai"
+                    }
+                },
                 "meetingId": "224562",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -163,11 +100,11 @@
                 "deliveryMode": "ASYNC",
                 "online": "Online Asynchronous -- See Delivery Instructions.",
                 "contactHours": "4.0",
-                "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "24",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -307,7 +244,7 @@
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "357738",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 1078"
                     },
                     "WE-357739": {
                         "meetingDay": "WE",
@@ -315,7 +252,7 @@
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "357739",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 1078"
                     }
                 },
                 "instructors": [],
@@ -328,7 +265,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,

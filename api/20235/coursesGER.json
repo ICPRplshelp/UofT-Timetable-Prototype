@@ -12,47 +12,53 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20235",
-        "webTimetableInstructions": "",
+        "webTimetableInstructions": "<p>This course is for students with no previous background in German. If you have some background, you are required to take a placement test. Please contact gayle.grisdale@utoronto.ca to arrange to take a placement test, or if you have any questions. You are not allowed to self-place.&nbsp;</p><p>Since this is a full-year course, students MUST remain in the sections that they have enrolled in for the full duration of the course and are NOT permitted to change sections during the terms.</p>",
         "deliveryInstructions": "",
         "breadthCategories": "Creative and Cultural Representations (1)",
         "distributionCategories": "Humanities",
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-358843": {
+                    "MO-377021": {
                         "meetingDay": "MO",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "358843",
+                        "meetingScheduleId": "377021",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "TU-358844": {
+                    "TU-377022": {
                         "meetingDay": "TU",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "358844",
+                        "meetingScheduleId": "377022",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "WE-358845": {
+                    "WE-377023": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "358845",
+                        "meetingScheduleId": "377023",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "TH-358846": {
+                    "TH-377024": {
                         "meetingDay": "TH",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "12:00",
-                        "meetingScheduleId": "358846",
+                        "meetingScheduleId": "377024",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158845": {
+                        "instructorId": "10158845",
+                        "firstName": "S",
+                        "lastName": "Gargova"
+                    }
+                },
                 "meetingId": "224515",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -62,9 +68,9 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "20",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": "P",
+                "enrollmentIndicator": "P*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
@@ -152,40 +158,46 @@
             },
             "LEC-5101": {
                 "schedule": {
-                    "MO-358847": {
+                    "MO-377017": {
                         "meetingDay": "MO",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358847",
+                        "meetingScheduleId": "377017",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "TU-358848": {
+                    "TU-377018": {
                         "meetingDay": "TU",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358848",
+                        "meetingScheduleId": "377018",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "WE-358849": {
+                    "WE-377019": {
                         "meetingDay": "WE",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358849",
+                        "meetingScheduleId": "377019",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "TH-358850": {
+                    "TH-377020": {
                         "meetingDay": "TH",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358850",
+                        "meetingScheduleId": "377020",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158846": {
+                        "instructorId": "10158846",
+                        "firstName": "S",
+                        "lastName": "Gargova"
+                    }
+                },
                 "meetingId": "223702",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -195,9 +207,9 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": "P",
+                "enrollmentIndicator": "P*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
@@ -298,8 +310,8 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20235",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "<p>Since this is a full-year course, students MUST remain in the sections that they have enrolled in for the full duration of the course and are NOT permitted to change sections during the terms.</p>",
+        "deliveryInstructions": "",
         "breadthCategories": "Creative and Cultural Representations (1)",
         "distributionCategories": "Humanities",
         "meetings": {
@@ -338,7 +350,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158847": {
+                        "instructorId": "10158847",
+                        "firstName": "S",
+                        "lastName": "Gargova"
+                    }
+                },
                 "meetingId": "224516",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -348,7 +366,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "10",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -395,7 +413,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": "",

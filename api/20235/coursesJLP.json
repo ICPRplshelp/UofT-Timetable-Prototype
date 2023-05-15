@@ -12,44 +12,21 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20235",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "Thought, Belief and Behaviour (2)",
         "distributionCategories": "Science",
         "meetings": {
             "LEC-0101": {
-                "schedule": {
-                    "MO-357252": {
-                        "meetingDay": "MO",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357252",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    },
-                    "WE-357253": {
-                        "meetingDay": "WE",
-                        "meetingStartTime": "10:00",
-                        "meetingEndTime": "13:00",
-                        "meetingScheduleId": "357253",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "223848",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
                 "subtitle": "",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "INPER",
-                "online": "In Person",
-                "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "April 25, 2023",
                 "enrollmentControls": [
                     {
                         "postId": null,
@@ -189,7 +166,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357258",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2125"
                     },
                     "WE-357259": {
                         "meetingDay": "WE",
@@ -197,10 +174,16 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357259",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2125"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158947": {
+                        "instructorId": "10158947",
+                        "firstName": "G",
+                        "lastName": "Antono"
+                    }
+                },
                 "meetingId": "223849",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -210,7 +193,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "36",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,

@@ -12,8 +12,8 @@
         "recommendedPreparation": "",
         "section": "Y",
         "session": "20235",
-        "webTimetableInstructions": null,
-        "deliveryInstructions": null,
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
         "breadthCategories": "",
         "distributionCategories": "Science",
         "meetings": {
@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159086": {
+                        "instructorId": "10159086",
+                        "firstName": "A",
+                        "lastName": "Giacca"
+                    }
+                },
                 "meetingId": "224227",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "2",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -55,7 +61,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159087": {
+                        "instructorId": "10159087",
+                        "firstName": "A",
+                        "lastName": "Jurisicova"
+                    }
+                },
                 "meetingId": "224228",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0201",
@@ -65,7 +77,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -82,7 +94,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159088": {
+                        "instructorId": "10159088",
+                        "firstName": "B",
+                        "lastName": "Cox"
+                    }
+                },
                 "meetingId": "224229",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0301",
@@ -92,10 +110,130 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "2",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "10159089": {
+                        "instructorId": "10159089",
+                        "firstName": "D",
+                        "lastName": "Belsham"
+                    }
+                },
+                "meetingId": "241509",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "February 28, 2023: section added",
+                "enrollmentControls": []
+            },
+            "LEC-0501": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "10159090": {
+                        "instructorId": "10159090",
+                        "firstName": "S",
+                        "lastName": "Sugita"
+                    }
+                },
+                "meetingId": "241510",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "February 28, 2023: section added",
+                "enrollmentControls": []
+            },
+            "LEC-0601": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "241511",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "February 28, 2023: section added",
+                "enrollmentControls": []
+            },
+            "LEC-0701": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "241752",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0701",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "INPER",
+                "online": "In Person",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "March 3, 2023: section added. ",
                 "enrollmentControls": []
             }
         }
@@ -120,37 +258,46 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "TU-354698": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "20:00",
-                        "meetingScheduleId": "354698",
-                        "assignedRoom1": "",
-                        "assignedRoom2": null
-                    },
-                    "TH-354699": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "20:00",
-                        "meetingScheduleId": "354699",
-                        "assignedRoom1": "",
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159091": {
+                        "instructorId": "10159091",
+                        "firstName": "N",
+                        "lastName": "Kee"
+                    },
+                    "10159092": {
+                        "instructorId": "10159092",
+                        "firstName": "J",
+                        "lastName": "Kroetsch"
+                    },
+                    "10159093": {
+                        "instructorId": "10159093",
+                        "firstName": "D",
+                        "lastName": "Tweed"
+                    }
+                },
                 "meetingId": "224230",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
                 "subtitle": "",
                 "cancel": "",
                 "waitlist": "Y",
-                "deliveryMode": "SYNIF",
-                "online": "Online Synchronous (with in-person assessments) -- See Delivery Instructions.",
+                "deliveryMode": "ASYIF",
+                "online": "Online Asynchronous (with in-person assessments) -- See Delivery Instructions.",
+                "contactHours": "6.0",
                 "enrollmentCapacity": "350",
-                "actualEnrolment": "0",
+                "actualEnrolment": "228",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "February 28, 2023: Delivery Method changed",
                 "enrollmentControls": []
             },
             "TUT-5101": {
@@ -160,7 +307,7 @@
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358407",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MC 252",
                         "assignedRoom2": null
                     }
                 },
@@ -174,7 +321,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "59",
-                "actualEnrolment": "0",
+                "actualEnrolment": "53",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -187,7 +334,7 @@
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358408",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MC 252",
                         "assignedRoom2": null
                     }
                 },
@@ -201,7 +348,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "59",
-                "actualEnrolment": "0",
+                "actualEnrolment": "28",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -214,7 +361,7 @@
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358412",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MC 252",
                         "assignedRoom2": null
                     }
                 },
@@ -228,7 +375,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "59",
-                "actualEnrolment": "0",
+                "actualEnrolment": "56",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -241,7 +388,7 @@
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358414",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "MC 252",
                         "assignedRoom2": null
                     }
                 },
@@ -255,7 +402,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "59",
-                "actualEnrolment": "0",
+                "actualEnrolment": "15",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -268,7 +415,7 @@
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358415",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     }
                 },
@@ -282,7 +429,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "57",
-                "actualEnrolment": "0",
+                "actualEnrolment": "46",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -295,7 +442,7 @@
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358416",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "HS 106",
                         "assignedRoom2": null
                     }
                 },
@@ -309,7 +456,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "57",
-                "actualEnrolment": "0",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -337,37 +484,36 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "TU-354716": {
-                        "meetingDay": "TU",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "20:00",
-                        "meetingScheduleId": "354716",
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    },
-                    "TH-354717": {
-                        "meetingDay": "TH",
-                        "meetingStartTime": "17:00",
-                        "meetingEndTime": "20:00",
-                        "meetingScheduleId": "354717",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159094": {
+                        "instructorId": "10159094",
+                        "firstName": "J",
+                        "lastName": "Kroetsch"
+                    }
+                },
                 "meetingId": "224231",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
                 "subtitle": "",
                 "cancel": "",
                 "waitlist": "Y",
-                "deliveryMode": "SYNIF",
-                "online": "Online Synchronous (with in-person assessments) -- See Delivery Instructions.",
+                "deliveryMode": "ASYIF",
+                "online": "Online Asynchronous (with in-person assessments) -- See Delivery Instructions.",
+                "contactHours": "6.0",
                 "enrollmentCapacity": "300",
-                "actualEnrolment": "0",
+                "actualEnrolment": "184",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "February 28, 2023: Delivery Method changed",
                 "enrollmentControls": []
             },
             "TUT-5101": {
@@ -378,7 +524,7 @@
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358417",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 108"
                     }
                 },
                 "instructors": [],
@@ -391,7 +537,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "50",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -405,7 +551,7 @@
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358418",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 108"
                     }
                 },
                 "instructors": [],
@@ -418,7 +564,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "30",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -432,7 +578,7 @@
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358419",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HA 410"
                     }
                 },
                 "instructors": [],
@@ -445,7 +591,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "47",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -459,7 +605,7 @@
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358420",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HA 410"
                     }
                 },
                 "instructors": [],
@@ -472,7 +618,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "7",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -486,7 +632,7 @@
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358421",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 108"
                     }
                 },
                 "instructors": [],
@@ -499,7 +645,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "42",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -513,7 +659,7 @@
                         "meetingEndTime": "19:00",
                         "meetingScheduleId": "358070",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "HS 108"
                     }
                 },
                 "instructors": [],
@@ -526,7 +672,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "5",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -547,68 +693,79 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20235",
-        "webTimetableInstructions": "<p>This is a two weeks intensive summer field course from May 15-26, 2023. Week one will be in-person at the University of Toronto, week two will be done virtually. &nbsp;&nbsp;<br>Additional information and application may be obtained at <a href=\"http://www.physiology.utoronto.ca/psl378h1f\">http://www.physiology.utoronto.ca/psl378h1f</a>.&nbsp;<br>Space is limited and requires course director approval no later than April 1, 2023&nbsp;. Please note: an ancillary fee is required to help cover the cost of the delivery of this course addition to the university registration. &nbsp;See http://www.physiology.utoronto.ca/psl378h1f for details.</p><p>&nbsp;</p>",
+        "webTimetableInstructions": "<p>This is a two weeks intensive summer field course from May 15-26, 2023. Week one will be in-person at the University of Toronto, week two will be done virtually. &nbsp;&nbsp;<br>Additional information and application may be obtained at <a href=\"https://physiology.utoronto.ca/psl378h1f\">https://physiology.utoronto.ca/psl378h1f&nbsp;</a><br>Space is limited and requires course director approval no later than April 1, 2023&nbsp;. Please note: an ancillary fee is required to help cover the cost of the delivery of this course addition to the university registration. &nbsp;See http://www.physiology.utoronto.ca/psl378h1f for details.</p><p>&nbsp;</p>",
         "deliveryInstructions": "<p>Week one will be in-person at the University of Toronto, week two will be delivered online synchronously. &nbsp;&nbsp;</p>",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science",
         "meetings": {
             "LEC-3001": {
                 "schedule": {
-                    "MO-353661": {
+                    "MO-400428": {
                         "meetingDay": "MO",
                         "meetingStartTime": "08:30",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "353661",
-                        "assignedRoom1": null,
+                        "meetingScheduleId": "400428",
+                        "assignedRoom1": "MS 2383",
                         "assignedRoom2": null
                     },
-                    "TU-353663": {
+                    "TU-400429": {
                         "meetingDay": "TU",
                         "meetingStartTime": "08:30",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "353663",
-                        "assignedRoom1": null,
+                        "meetingScheduleId": "400429",
+                        "assignedRoom1": "MS 2383",
                         "assignedRoom2": null
                     },
-                    "WE-353664": {
+                    "WE-400430": {
                         "meetingDay": "WE",
                         "meetingStartTime": "08:30",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "353664",
-                        "assignedRoom1": null,
+                        "meetingScheduleId": "400430",
+                        "assignedRoom1": "MS 2383",
                         "assignedRoom2": null
                     },
-                    "TH-353662": {
+                    "TH-400431": {
                         "meetingDay": "TH",
                         "meetingStartTime": "08:30",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "353662",
-                        "assignedRoom1": null,
+                        "meetingScheduleId": "400431",
+                        "assignedRoom1": "MS 2383",
                         "assignedRoom2": null
                     },
-                    "FR-353660": {
+                    "FR-400432": {
                         "meetingDay": "FR",
                         "meetingStartTime": "08:30",
                         "meetingEndTime": "17:00",
-                        "meetingScheduleId": "353660",
-                        "assignedRoom1": null,
+                        "meetingScheduleId": "400432",
+                        "assignedRoom1": "MS 2383",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159095": {
+                        "instructorId": "10159095",
+                        "firstName": "M",
+                        "lastName": "Belanger"
+                    },
+                    "10159096": {
+                        "instructorId": "10159096",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
                 "meetingId": "224232",
                 "teachingMethod": "LEC",
                 "sectionNumber": "3001",
-                "subtitle": null,
+                "subtitle": "",
                 "cancel": "",
                 "waitlist": "N",
                 "deliveryMode": "INPER",
                 "online": "In Person -- See Delivery Instructions.",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "0",
+                "actualEnrolment": "8",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "April 28, 2023: Room changed.",
                 "enrollmentControls": []
             }
         }
@@ -626,7 +783,7 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20235",
-        "webTimetableInstructions": "<p>This is a two weeks intensive virtual summer field course from May 1 - 12, 2023. &nbsp;&nbsp;<br>Additional information and application may be obtained in&nbsp;<a href=\"https://physiology.utoronto.ca/psl379h-virtual\">https://physiology.utoronto.ca/psl379h-virtual</a></p><p>Space is limited and requires course director approval no later than April 1, 2023&nbsp;. Please note: an ancillary fee is required to help cover the cost of the delivery of this course in addition to the university course fees. Fees for PSL379H online virtual course covers the personnel and the marine mammal facilities (trainers, staff and to record the in-water sessions). &nbsp;Please see https://physiology.utoronto.ca/psl379h-virtual for details.</p><p>&nbsp;</p>",
+        "webTimetableInstructions": "<p>This is a two weeks intensive virtual summer field course from May 1 - 12, 2023. &nbsp;&nbsp;<br>Additional information and application may be obtained in&nbsp;<a href=\"https://physiology.utoronto.ca/psl379h\">https://physiology.utoronto.ca/psl379h</a></p><p>Space is limited and requires course director approval no later than April 1, 2023&nbsp;. Please note: an ancillary fee is required to help cover the cost of the delivery of this course in addition to the university course fees. Fees for PSL379H online virtual course covers the personnel and the marine mammal facilities (trainers, staff and to record the in-water sessions). &nbsp;Please see https://physiology.utoronto.ca/psl379h for details.</p><p>&nbsp;</p>",
         "deliveryInstructions": "<p>The Department of Physiology will be offering a two weeks ‘up close and personal virtual experience’&nbsp;with various species of dolphins &amp; seals.&nbsp; The first week is spend on Zoom visiting our marine mammals and the second week will be daily Zoom class meetings to discuss individual projects, group discussion of the information learned and applied.</p>",
         "breadthCategories": "Living Things and Their Environment (4)",
         "distributionCategories": "Science",
@@ -642,7 +799,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159097": {
+                        "instructorId": "10159097",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
                 "meetingId": "224233",
                 "teachingMethod": "LEC",
                 "sectionNumber": "3001",
@@ -652,7 +815,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "24",
-                "actualEnrolment": "0",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -673,7 +836,7 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20235",
-        "webTimetableInstructions": "<p>This is a two weeks intensive virtual summer field course from May 1 - 12, 2023. &nbsp;&nbsp;<br>Additional information and application may be obtained in&nbsp;<a href=\"https://physiology.utoronto.ca/psl379h-virtual\">https://physiology.utoronto.ca/psl379h-virtual</a></p><p>Space is limited and requires course director approval no later than April 1, 2023. Please note: an ancillary fee is required to help cover the cost of the delivery of this course in addition to the university course fees. Fees for PSL379H online virtual course covers the personnel and the marine mammal facilities (trainers, staff and to record the in-water sessions). &nbsp;Please see https://physiology.utoronto.ca/psl379h-virtual for details.</p><p>&nbsp;</p>",
+        "webTimetableInstructions": "<p>This is a two weeks intensive virtual summer field course from May 1 - 12, 2023. &nbsp;&nbsp;<br>Additional information and application may be obtained in&nbsp;<a href=\"https://physiology.utoronto.ca/psl379h\">https://physiology.utoronto.ca/psl379h</a></p><p>Space is limited and requires course director approval no later than April 1, 2023. Please note: an ancillary fee is required to help cover the cost of the delivery of this course in addition to the university course fees. Fees for PSL379H online virtual course covers the personnel and the marine mammal facilities (trainers, staff and to record the in-water sessions). &nbsp;Please see https://physiology.utoronto.ca/psl379h for details.</p><p>&nbsp;</p>",
         "deliveryInstructions": "<p>The Department of Physiology will be offering a two weeks ‘up close and personal virtual experience’&nbsp;with various species of dolphins &amp; seals.&nbsp; The first week is spend on Zoom visiting our marine mammals and the second week will be daily Zoom class meetings to discuss individual projects, group discussion of the information learned and applied.</p><p>&nbsp;</p>",
         "breadthCategories": "",
         "distributionCategories": "",
@@ -689,7 +852,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159098": {
+                        "instructorId": "10159098",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
                 "meetingId": "224234",
                 "teachingMethod": "LEC",
                 "sectionNumber": "3001",
@@ -736,7 +905,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159099": {
+                        "instructorId": "10159099",
+                        "firstName": "E",
+                        "lastName": "Lambe"
+                    }
+                },
                 "meetingId": "224235",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",

@@ -24,7 +24,7 @@
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "14:00",
                         "meetingScheduleId": "358232",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "WO 25",
                         "assignedRoom2": ""
                     },
                     "TH-358233": {
@@ -32,11 +32,17 @@
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "14:00",
                         "meetingScheduleId": "358233",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "WO 25",
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158913": {
+                        "instructorId": "10158913",
+                        "firstName": "V",
+                        "lastName": "Ross"
+                    }
+                },
                 "meetingId": "223827",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -46,7 +52,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "50",
-                "actualEnrolment": "0",
+                "actualEnrolment": "21",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -59,7 +65,7 @@
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
                         "meetingScheduleId": "357845",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "WO 25",
                         "assignedRoom2": ""
                     }
                 },
@@ -73,7 +79,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "16",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -86,7 +92,7 @@
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "15:00",
                         "meetingScheduleId": "357848",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "WO 25",
                         "assignedRoom2": ""
                     }
                 },
@@ -100,7 +106,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "5",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -134,7 +140,7 @@
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "357851",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "NB 229"
                     },
                     "TH-357852": {
                         "meetingDay": "TH",
@@ -142,10 +148,16 @@
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "357852",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "NB 229"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158914": {
+                        "instructorId": "10158914",
+                        "firstName": "T",
+                        "lastName": "Pennock"
+                    }
+                },
                 "meetingId": "223830",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -155,7 +167,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -202,7 +214,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,

@@ -24,7 +24,7 @@
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "358666",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "WO 20",
                         "assignedRoom2": null
                     },
                     "WE-358667": {
@@ -32,11 +32,17 @@
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "358667",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "WO 20",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159204": {
+                        "instructorId": "10159204",
+                        "firstName": "N",
+                        "lastName": "Allison"
+                    }
+                },
                 "meetingId": "224417",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -46,7 +52,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "0",
+                "actualEnrolment": "10",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -162,7 +168,7 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "356399",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "OI 5240"
                     },
                     "TH-356400": {
                         "meetingDay": "TH",
@@ -170,10 +176,16 @@
                         "meetingEndTime": "12:00",
                         "meetingScheduleId": "356400",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "OI 5240"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159205": {
+                        "instructorId": "10159205",
+                        "firstName": "A",
+                        "lastName": "Webb"
+                    }
+                },
                 "meetingId": "224533",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -183,7 +195,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
+                "actualEnrolment": "8",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,

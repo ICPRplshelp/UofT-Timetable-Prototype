@@ -25,7 +25,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357147",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "BL 112"
                     },
                     "WE-357148": {
                         "meetingDay": "WE",
@@ -33,7 +33,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357148",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "BL 112"
                     }
                 },
                 "instructors": [],
@@ -142,7 +142,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357154",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "MP 118"
                     },
                     "FR-357155": {
                         "meetingDay": "FR",
@@ -150,7 +150,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357155",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "MP 118"
                     }
                 },
                 "instructors": [],
@@ -279,7 +279,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357171",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2114"
                     },
                     "TU-357172": {
                         "meetingDay": "TU",
@@ -287,7 +287,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357172",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2114"
                     }
                 },
                 "instructors": [],
@@ -396,7 +396,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357178",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2114"
                     },
                     "TH-357179": {
                         "meetingDay": "TH",
@@ -404,7 +404,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357179",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2114"
                     }
                 },
                 "instructors": [],
@@ -533,7 +533,7 @@
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "357131",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2111"
                     },
                     "TH-357132": {
                         "meetingDay": "TH",
@@ -541,7 +541,7 @@
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "357132",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2111"
                     },
                     "FR-357133": {
                         "meetingDay": "FR",
@@ -549,10 +549,16 @@
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "357133",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2111"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158910": {
+                        "instructorId": "10158910",
+                        "firstName": "J",
+                        "lastName": "Riviere"
+                    }
+                },
                 "meetingId": "223821",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -562,7 +568,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "40",
-                "actualEnrolment": "0",
+                "actualEnrolment": "15",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,

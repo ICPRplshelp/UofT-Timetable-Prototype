@@ -19,24 +19,30 @@
         "meetings": {
             "LEC-0101": {
                 "schedule": {
-                    "MO-358851": {
+                    "MO-377025": {
                         "meetingDay": "MO",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "358851",
+                        "meetingScheduleId": "377025",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "WE-358852": {
+                    "WE-377026": {
                         "meetingDay": "WE",
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
-                        "meetingScheduleId": "358852",
+                        "meetingScheduleId": "377026",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158942": {
+                        "instructorId": "10158942",
+                        "firstName": "M",
+                        "lastName": "Mosco"
+                    }
+                },
                 "meetingId": "223841",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -46,9 +52,9 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "35",
-                "actualEnrolment": "0",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": "P",
+                "enrollmentIndicator": "P*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
@@ -136,24 +142,30 @@
             },
             "LEC-5101": {
                 "schedule": {
-                    "TU-358853": {
+                    "TU-377027": {
                         "meetingDay": "TU",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358853",
+                        "meetingScheduleId": "377027",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     },
-                    "TH-358854": {
+                    "TH-377028": {
                         "meetingDay": "TH",
                         "meetingStartTime": "17:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358854",
+                        "meetingScheduleId": "377028",
                         "assignedRoom1": "",
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158943": {
+                        "instructorId": "10158943",
+                        "firstName": "C",
+                        "lastName": "Vani"
+                    }
+                },
                 "meetingId": "224544",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -163,9 +175,9 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "35",
-                "actualEnrolment": "0",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
-                "enrollmentIndicator": "P",
+                "enrollmentIndicator": "P*",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [
                     {
@@ -290,7 +302,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158944": {
+                        "instructorId": "10158944",
+                        "firstName": "L",
+                        "lastName": "Somigli"
+                    }
+                },
                 "meetingId": "223842",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -300,7 +318,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "45",
-                "actualEnrolment": "0",
+                "actualEnrolment": "29",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -337,7 +355,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158945": {
+                        "instructorId": "10158945",
+                        "firstName": "M",
+                        "lastName": "Lettieri"
+                    }
+                },
                 "meetingId": "223843",
                 "teachingMethod": "LEC",
                 "sectionNumber": "3001",
@@ -347,7 +371,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "18",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -384,7 +408,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158946": {
+                        "instructorId": "10158946",
+                        "firstName": "M",
+                        "lastName": "Lettieri"
+                    }
+                },
                 "meetingId": "223844",
                 "teachingMethod": "LEC",
                 "sectionNumber": "3001",

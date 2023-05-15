@@ -12,31 +12,37 @@
         "recommendedPreparation": "",
         "section": "F",
         "session": "20235",
-        "webTimetableInstructions": "<p>Review the course description/restrictions before enrolling in this course.</p><ul><li>ACORN does not check for prerequisites/exclusions in real time. Students enrolled in courses for which they do not have the published requirements may have their registration cancelled at any time.</li><li>Do not enrol in course conflicts as accommodations will not be granted. &nbsp;</li><li>Contact the Program office (IRHR@utoronto.ca) if you have any questions.</li></ul>",
+        "webTimetableInstructions": "<p>Review the course description/restrictions before enrolling in this course.</p><ul><li>ACORN does not check for prerequisites/exclusions in real time. Students enrolled in courses for which they do not have the published requirements may have their registration cancelled at any time.</li><li>Do not enrol in course conflicts as accommodations will not be granted.</li><li>Contact the Program office (IRHR@utoronto.ca) if you have any questions.</li></ul>",
         "deliveryInstructions": "",
         "breadthCategories": "Society and its Institutions (3)",
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "TU-358501": {
+                    "TU-378321": {
                         "meetingDay": "TU",
                         "meetingStartTime": "17:00",
-                        "meetingEndTime": "19:00",
-                        "meetingScheduleId": "358501",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "378321",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "TH-358502": {
+                    "TH-378322": {
                         "meetingDay": "TH",
                         "meetingStartTime": "17:00",
-                        "meetingEndTime": "19:00",
-                        "meetingScheduleId": "358502",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "378322",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158933": {
+                        "instructorId": "10158933",
+                        "firstName": "A",
+                        "lastName": "Fong"
+                    }
+                },
                 "meetingId": "224540",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -46,10 +52,10 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "80",
-                "actualEnrolment": "0",
+                "actualEnrolment": "47",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "March 7, 2023: time changed",
                 "enrollmentControls": [
                     {
                         "postId": "668",
@@ -219,7 +225,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158934": {
+                        "instructorId": "10158934",
+                        "firstName": "R",
+                        "lastName": "Gomez"
+                    }
+                },
                 "meetingId": "223836",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -230,8 +242,8 @@
                 "online": "Online Asynchronous",
                 "contactHours": "3.0",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "60",
+                "actualWaitlist": "9",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -275,7 +287,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158935": {
+                        "instructorId": "10158935",
+                        "firstName": "H",
+                        "lastName": "Wang"
+                    }
+                },
                 "meetingId": "223837",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -285,7 +303,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "59",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -330,7 +348,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158936": {
+                        "instructorId": "10158936",
+                        "firstName": "H",
+                        "lastName": "Wang"
+                    }
+                },
                 "meetingId": "224541",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -340,8 +364,8 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "60",
+                "actualWaitlist": "2",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
                 "enrollmentControls": []
@@ -385,7 +409,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158937": {
+                        "instructorId": "10158937",
+                        "firstName": "M",
+                        "lastName": "Fitzgibbon"
+                    }
+                },
                 "meetingId": "224542",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -395,7 +425,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "26",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -477,38 +507,15 @@
         "distributionCategories": "Social Science",
         "meetings": {
             "LEC-5101": {
-                "schedule": {
-                    "MO-358047": {
-                        "meetingDay": "MO",
-                        "meetingStartTime": "18:00",
-                        "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358047",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    },
-                    "WE-358048": {
-                        "meetingDay": "WE",
-                        "meetingStartTime": "18:00",
-                        "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358048",
-                        "assignedRoom1": null,
-                        "assignedRoom2": ""
-                    }
-                },
+                "schedule": [],
                 "instructors": [],
                 "meetingId": "224817",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
                 "subtitle": "Labour Arbitration in the Unionized Workplace",
-                "cancel": "",
-                "waitlist": "Y",
-                "deliveryMode": "SYNC",
-                "online": "Online Synchronous -- See Delivery Instructions.",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "cancel": "Cancelled",
                 "enrollmentIndicator": "P",
-                "meetingStatusNotes": "",
+                "meetingStatusNotes": "March 14, 2023",
                 "enrollmentControls": [
                     {
                         "postId": "450",
@@ -605,7 +612,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158938": {
+                        "instructorId": "10158938",
+                        "firstName": "A",
+                        "lastName": "Fong"
+                    }
+                },
                 "meetingId": "223838",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -615,7 +628,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "31",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -734,7 +747,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158939": {
+                        "instructorId": "10158939",
+                        "firstName": "B",
+                        "lastName": "Thompson"
+                    }
+                },
                 "meetingId": "223839",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -745,7 +764,7 @@
                 "online": "Online Asynchronous -- See Delivery Instructions.",
                 "contactHours": "3.0",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "60",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,
@@ -891,7 +910,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158940": {
+                        "instructorId": "10158940",
+                        "firstName": "B",
+                        "lastName": "Thompson"
+                    }
+                },
                 "meetingId": "223840",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -902,7 +927,7 @@
                 "online": "Online Asynchronous -- See Delivery Instructions.",
                 "contactHours": "3.0",
                 "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "actualEnrolment": "50",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,

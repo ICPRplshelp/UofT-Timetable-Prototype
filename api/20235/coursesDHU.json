@@ -24,7 +24,7 @@
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "358351",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "SS 561",
                         "assignedRoom2": null
                     },
                     "TH-358352": {
@@ -32,11 +32,17 @@
                         "meetingStartTime": "14:00",
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "358352",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "SS 561",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158708": {
+                        "instructorId": "10158708",
+                        "firstName": "D",
+                        "lastName": "Meurer"
+                    }
+                },
                 "meetingId": "223504",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -46,7 +52,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "45",
-                "actualEnrolment": "0",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
@@ -108,7 +114,7 @@
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "358349",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 561"
                     },
                     "TH-358350": {
                         "meetingDay": "TH",
@@ -116,10 +122,16 @@
                         "meetingEndTime": "17:00",
                         "meetingScheduleId": "358350",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 561"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158709": {
+                        "instructorId": "10158709",
+                        "firstName": "A",
+                        "lastName": "Hadidi"
+                    }
+                },
                 "meetingId": "223505",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -129,7 +141,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "45",
-                "actualEnrolment": "0",
+                "actualEnrolment": "11",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",

@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158620": {
+                        "instructorId": "10158620",
+                        "firstName": "O",
+                        "lastName": "Almasi"
+                    }
+                },
                 "meetingId": "223322",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,11 +44,11 @@
                 "deliveryMode": "ASYNC",
                 "online": "Online Asynchronous -- See Delivery Instructions.",
                 "contactHours": "6.0",
-                "enrollmentCapacity": "40",
-                "actualEnrolment": "0",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "46",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }

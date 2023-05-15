@@ -28,7 +28,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158697": {
+                        "instructorId": "10158697",
+                        "firstName": "S",
+                        "lastName": "Lumba"
+                    }
+                },
                 "meetingId": "223461",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -38,7 +44,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "2",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -93,24 +99,30 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "TU-354399": {
+                    "TU-400718": {
                         "meetingDay": "TU",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "354399",
+                        "meetingScheduleId": "400718",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     },
-                    "TH-354400": {
+                    "TH-400719": {
                         "meetingDay": "TH",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "354400",
+                        "meetingScheduleId": "400719",
                         "assignedRoom1": "",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158698": {
+                        "instructorId": "10158698",
+                        "firstName": "N",
+                        "lastName": "Li"
+                    }
+                },
                 "meetingId": "223463",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -119,11 +131,11 @@
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
-                "enrollmentCapacity": "60",
-                "actualEnrolment": "0",
+                "enrollmentCapacity": "73",
+                "actualEnrolment": "71",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
-                "meetingStatusNotes": null,
+                "meetingStatusNotes": "",
                 "enrollmentControls": []
             }
         }
@@ -165,7 +177,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158699": {
+                        "instructorId": "10158699",
+                        "firstName": "J",
+                        "lastName": "Fraigne"
+                    }
+                },
                 "meetingId": "223464",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -175,7 +193,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "100",
-                "actualEnrolment": "0",
+                "actualEnrolment": "74",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -220,7 +238,13 @@
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158700": {
+                        "instructorId": "10158700",
+                        "firstName": "A",
+                        "lastName": "Yang"
+                    }
+                },
                 "meetingId": "223465",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -230,8 +254,8 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous -- See Delivery Instructions.",
                 "enrollmentCapacity": "88",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "88",
+                "actualWaitlist": "14",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
                 "enrollmentControls": []
@@ -277,7 +301,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "6",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": "",
@@ -465,7 +489,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "5",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
@@ -512,7 +536,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "9999",
-                "actualEnrolment": "0",
+                "actualEnrolment": "1",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,

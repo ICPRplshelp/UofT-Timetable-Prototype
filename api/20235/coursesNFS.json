@@ -24,7 +24,7 @@
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357312",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "PB B250",
                         "assignedRoom2": null
                     },
                     "TU-357313": {
@@ -32,7 +32,7 @@
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "357313",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "PB B250",
                         "assignedRoom2": null
                     },
                     "TH-357314": {
@@ -40,7 +40,7 @@
                         "meetingStartTime": "12:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "357314",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "PB B250",
                         "assignedRoom2": null
                     },
                     "TH-357315": {
@@ -48,11 +48,17 @@
                         "meetingStartTime": "13:00",
                         "meetingEndTime": "16:00",
                         "meetingScheduleId": "357315",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "PB B250",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158998": {
+                        "instructorId": "10158998",
+                        "firstName": "K",
+                        "lastName": "Ealey"
+                    }
+                },
                 "meetingId": "224065",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -62,7 +68,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "210",
-                "actualEnrolment": "0",
+                "actualEnrolment": "58",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": null,

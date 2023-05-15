@@ -24,7 +24,7 @@
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "358777",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "LI 220",
                         "assignedRoom2": null
                     },
                     "WE-358778": {
@@ -32,7 +32,7 @@
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "358778",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "LI 220",
                         "assignedRoom2": null
                     },
                     "FR-358779": {
@@ -40,11 +40,17 @@
                         "meetingStartTime": "10:00",
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "358779",
-                        "assignedRoom1": "",
+                        "assignedRoom1": "LI 220",
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158949": {
+                        "instructorId": "10158949",
+                        "firstName": "S",
+                        "lastName": "Stewart"
+                    }
+                },
                 "meetingId": "223856",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -54,7 +60,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "17",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",
@@ -88,7 +94,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "358780",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "LI 220"
                     },
                     "WE-358781": {
                         "meetingDay": "WE",
@@ -96,7 +102,7 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "358781",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "LI 220"
                     },
                     "FR-358782": {
                         "meetingDay": "FR",
@@ -104,10 +110,16 @@
                         "meetingEndTime": "13:00",
                         "meetingScheduleId": "358782",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "LI 220"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158950": {
+                        "instructorId": "10158950",
+                        "firstName": "G",
+                        "lastName": "Leghissa"
+                    }
+                },
                 "meetingId": "223857",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -117,7 +129,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "19",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": "",

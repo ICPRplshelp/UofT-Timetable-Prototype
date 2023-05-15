@@ -36,7 +36,13 @@
                         "assignedRoom2": null
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158710": {
+                        "instructorId": "10158710",
+                        "firstName": "C",
+                        "lastName": "Block"
+                    }
+                },
                 "meetingId": "223506",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
@@ -46,7 +52,7 @@
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "25",
-                "actualEnrolment": "0",
+                "actualEnrolment": "25",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": null,
                 "meetingStatusNotes": null,
@@ -74,35 +80,41 @@
         "meetings": {
             "LEC-5101": {
                 "schedule": {
-                    "TU-358347": {
+                    "TU-376681": {
                         "meetingDay": "TU",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358347",
+                        "meetingScheduleId": "376681",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     },
-                    "TH-358348": {
+                    "TH-376682": {
                         "meetingDay": "TH",
                         "meetingStartTime": "18:00",
                         "meetingEndTime": "20:00",
-                        "meetingScheduleId": "358348",
+                        "meetingScheduleId": "376682",
                         "assignedRoom1": null,
                         "assignedRoom2": ""
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10158711": {
+                        "instructorId": "10158711",
+                        "firstName": "J",
+                        "lastName": "Ashby"
+                    }
+                },
                 "meetingId": "223507",
                 "teachingMethod": "LEC",
                 "sectionNumber": "5101",
-                "subtitle": "",
+                "subtitle": "Devised Puppetry",
                 "cancel": "",
                 "waitlist": "Y",
                 "deliveryMode": "SYNC",
                 "online": "Online Synchronous",
                 "enrollmentCapacity": "30",
-                "actualEnrolment": "0",
-                "actualWaitlist": "0",
+                "actualEnrolment": "30",
+                "actualWaitlist": "6",
                 "enrollmentIndicator": "P",
                 "meetingStatusNotes": "",
                 "enrollmentControls": [

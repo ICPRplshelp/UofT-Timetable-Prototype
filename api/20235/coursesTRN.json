@@ -72,7 +72,7 @@
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358356",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2111"
                     },
                     "WE-358357": {
                         "meetingDay": "WE",
@@ -80,7 +80,7 @@
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358357",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2111"
                     },
                     "TH-358358": {
                         "meetingDay": "TH",
@@ -88,10 +88,16 @@
                         "meetingEndTime": "18:00",
                         "meetingScheduleId": "358358",
                         "assignedRoom1": null,
-                        "assignedRoom2": ""
+                        "assignedRoom2": "SS 2111"
                     }
                 },
-                "instructors": [],
+                "instructors": {
+                    "10159203": {
+                        "instructorId": "10159203",
+                        "firstName": "D",
+                        "lastName": "Hughes"
+                    }
+                },
                 "meetingId": "224410",
                 "teachingMethod": "LEC",
                 "sectionNumber": "0101",
@@ -101,7 +107,7 @@
                 "deliveryMode": "INPER",
                 "online": "In Person",
                 "enrollmentCapacity": "35",
-                "actualEnrolment": "0",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "R1",
                 "meetingStatusNotes": "",
@@ -258,7 +264,7 @@
                 "online": "Online Asynchronous",
                 "contactHours": "4.0",
                 "enrollmentCapacity": "5",
-                "actualEnrolment": "0",
+                "actualEnrolment": "4",
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": "",
@@ -309,6 +315,102 @@
                 "actualWaitlist": "0",
                 "enrollmentIndicator": "E",
                 "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "TRN400H1-F-20235": {
+        "courseId": "70936",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Trinity Independent Studies",
+        "code": "TRN400H1",
+        "courseDescription": "<p>Trinity Independent Studies. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20235",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "225086",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "The Experiences of University of Toronto Students in World War I: Writing the Play Script",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ASYNC",
+                "online": "Online Asynchronous",
+                "contactHours": "2.0",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "February 14, 2023: Course added",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "TRN404Y1-Y-20235": {
+        "courseId": "70937",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Trinity Independent Studies",
+        "code": "TRN404Y1",
+        "courseDescription": "<p>Trinity Independent Studies. Not eligible for CR/NCR option.</p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20235",
+        "webTimetableInstructions": "",
+        "deliveryInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "225083",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "deliveryMode": "ASYNC",
+                "online": "Online Asynchronous",
+                "contactHours": "2.0",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "February 13, 2023: Course added",
                 "enrollmentControls": []
             }
         }
