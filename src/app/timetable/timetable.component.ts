@@ -59,6 +59,7 @@ export class TimetableComponent implements OnInit {
      "Fall 2021 - Winter 2022":"20219",
      "Summer 2022":"20225",
      "Fall 2022 - Winter 2023":"20229",
+     "Summer 2023": "20235",
   };
   storedSessionsKeys = Object.keys(this.storedSessions);
   globalSessionKey: string = "Fall 2022 - Winter 2023";
