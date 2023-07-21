@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS OUTDATED; CHECK https://github.com/ICPRplshelp/UofT-Timetable-Prototype-V2 FOR AN UPDATED VERSION
+
+
 # Timetable
 **ACCESS IT HERE**
 
